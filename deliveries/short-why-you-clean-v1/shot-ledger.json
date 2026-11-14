@@ -1,0 +1,152 @@
+[
+  {
+    "start": 0,
+    "end": 1.36,
+    "id": "s01",
+    "kind": "hover",
+    "meaning": "One hand approaches the empty email, then pauses; the face turns uncertain.",
+    "spoken_text": "Ever cleaned your entire room",
+    "view": "hover",
+    "review": "authored; encoded review pending"
+  },
+  {
+    "start": 1.36,
+    "end": 2.9,
+    "id": "s02",
+    "kind": "escape",
+    "meaning": "Instead of replying, the character grabs the yellow cleaning cloth and turns away.",
+    "spoken_text": "to avoid one email?",
+    "view": "escape",
+    "review": "authored; encoded review pending"
+  },
+  {
+    "start": 2.9,
+    "end": 4.72,
+    "id": "s03",
+    "kind": "email",
+    "meaning": "A closeup reveals one small, still-empty email draft and a five-minute estimate.",
+    "spoken_text": "The email takes five minutes.",
+    "view": "email",
+    "review": "authored; encoded review pending"
+  },
+  {
+    "start": 4.72,
+    "end": 7.1,
+    "id": "s04",
+    "kind": "wipe",
+    "meaning": "A supported cloth wipes a visibly dirty counter clean, matching the kitchen diversion.",
+    "spoken_text": "Suddenly, your kitchen needs forty.",
+    "view": "wipe",
+    "review": "authored; encoded review pending"
+  },
+  {
+    "start": 7.1,
+    "end": 8.69,
+    "id": "s05",
+    "kind": "plate",
+    "meaning": "Hands carry the last plate into the rack; a concrete task visibly completes.",
+    "spoken_text": "Sometimes, the easier task",
+    "view": "plate",
+    "review": "authored; encoded review pending"
+  },
+  {
+    "start": 8.69,
+    "end": 10.45,
+    "id": "s06",
+    "kind": "crumb",
+    "meaning": "A large closeup follows the final crumb into the cloth; the counter is clean.",
+    "spoken_text": "offers a clear finish.",
+    "view": "crumb",
+    "review": "authored; encoded review pending"
+  },
+  {
+    "start": 10.45,
+    "end": 12.94,
+    "id": "s07",
+    "kind": "contrast",
+    "meaning": "The cloth lowers and the proud smile falls; the important email remains empty.",
+    "spoken_text": "The important one brings uncertainty.",
+    "view": "contrast",
+    "review": "authored; encoded review pending"
+  },
+  {
+    "start": 12.94,
+    "end": 14.28,
+    "id": "s08",
+    "kind": "worry",
+    "meaning": "The face tightens and a hand hesitates; no actual rejection is invented.",
+    "spoken_text": "What if they say no?",
+    "view": "worry",
+    "review": "authored; encoded review pending"
+  },
+  {
+    "start": 14.28,
+    "end": 15.55,
+    "id": "s09",
+    "kind": "setdown",
+    "meaning": "The character sets the cloth down, freeing both hands to return to the draft.",
+    "spoken_text": "So try this:",
+    "view": "setdown",
+    "review": "authored; encoded review pending"
+  },
+  {
+    "start": 15.55,
+    "end": 17.06,
+    "id": "s10",
+    "kind": "open",
+    "meaning": "A deliberate hand movement opens the email draft and reaches the keyboard.",
+    "spoken_text": "open the draft.",
+    "view": "open",
+    "review": "authored; encoded review pending"
+  },
+  {
+    "start": 17.06,
+    "end": 18.48,
+    "id": "s11",
+    "kind": "type",
+    "meaning": "Fingers contact the keyboard and the first imperfect sentence appears progressively.",
+    "spoken_text": "Write one messy sentence.",
+    "view": "type",
+    "review": "authored; encoded review pending"
+  },
+  {
+    "start": 18.48,
+    "end": 19.96,
+    "id": "s12",
+    "kind": "withdraw",
+    "meaning": "A finger approaches Send then withdraws; the email stays visibly marked Draft.",
+    "spoken_text": "You don't have to send it yet.",
+    "view": "withdraw",
+    "review": "authored; encoded review pending"
+  },
+  {
+    "start": 19.96,
+    "end": 21.73,
+    "id": "s13",
+    "kind": "sentence",
+    "meaning": "The actual typed sentence remains, with a new keystroke instead of endless correction.",
+    "spoken_text": "The goal isn't a perfect email.",
+    "view": "sentence",
+    "review": "authored; encoded review pending"
+  },
+  {
+    "start": 21.73,
+    "end": 24.16,
+    "id": "s14",
+    "kind": "relax",
+    "meaning": "The shoulders release as the character continues typing; real progress replaces cleaning.",
+    "spoken_text": "It's a first move you can actually make.",
+    "view": "relax",
+    "review": "authored; encoded review pending"
+  },
+  {
+    "start": 24.16,
+    "end": 26.575,
+    "id": "s15",
+    "kind": "ending",
+    "meaning": "Close on ongoing deliberate typing and the unsent draft, leaving the spoken question to the viewer.",
+    "spoken_text": "What's the five-minute task you've been avoiding?",
+    "view": "ending",
+    "review": "authored; encoded review pending"
+  }
+]

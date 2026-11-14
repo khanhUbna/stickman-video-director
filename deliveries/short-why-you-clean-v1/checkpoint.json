@@ -1,7 +1,7 @@
 {
   "project": "Why You Clean Instead of Starting",
-  "stage": "voice_preserved_alignment_pending",
-  "status": "incomplete",
+  "stage": "voice_aligned_animation_rendering",
+  "status": "in_progress",
   "date_utc": "2026-11-14",
   "mode": "B Autopilot",
   "style": "B1 with existing channel color treatment",
@@ -30,19 +30,16 @@
     "channel scarf and color reference inspected",
     "local Skill doctor passed after dependency installation",
     "official tts-1 price and speech request format verified",
-    "guarded project-local TTS adapter prepared and dry-run checked"
+    "guarded project-local TTS adapter prepared and dry-run checked",
+    "single authorized alloy recording saved, native duration 26.575 seconds",
+    "75 words acoustically aligned offline with PocketSphinx 5.0.4",
+    "15 native portrait shots authored; local rendering in progress"
   ],
   "pending": [
-    "secure OPENAI_API_KEY configuration",
-    "one authorized TTS request",
-    "persist original voice immediately",
-    "actual audio alignment",
-    "voice-led shot timing",
-    "animation",
-    "soundtrack",
-    "caption sync",
-    "encoded-video review",
-    "final MP4 and source delivery"
+    "final encode",
+    "encoded review",
+    "audio measurements",
+    "MP4 and source delivery"
   ],
   "next_step": "After credentials become available, run the guarded one-shot adapter once; do not retry an error or uncertain response. Persist returned audio before further production.",
   "publication": "No YouTube upload authorized",

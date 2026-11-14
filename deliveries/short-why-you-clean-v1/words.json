@@ -1,0 +1,387 @@
+{
+  "method": "PocketSphinx 5.0.4 offline acoustic forced alignment",
+  "source_sha256": "6490deaf933ddd504454f346d3ede31a5aff7605ef6a845e4c0d7d08669d62fd",
+  "words": [
+    {
+      "word": "Ever",
+      "start": 0.0,
+      "end": 0.21
+    },
+    {
+      "word": "cleaned",
+      "start": 0.21,
+      "end": 0.51
+    },
+    {
+      "word": "your",
+      "start": 0.51,
+      "end": 0.64
+    },
+    {
+      "word": "entire",
+      "start": 0.64,
+      "end": 1.07
+    },
+    {
+      "word": "room",
+      "start": 1.07,
+      "end": 1.36
+    },
+    {
+      "word": "to",
+      "start": 1.36,
+      "end": 1.54
+    },
+    {
+      "word": "avoid",
+      "start": 1.54,
+      "end": 1.89
+    },
+    {
+      "word": "one",
+      "start": 1.89,
+      "end": 2.19
+    },
+    {
+      "word": "email",
+      "start": 2.19,
+      "end": 2.77
+    },
+    {
+      "word": "The",
+      "start": 2.9,
+      "end": 3.03
+    },
+    {
+      "word": "email",
+      "start": 3.03,
+      "end": 3.35
+    },
+    {
+      "word": "takes",
+      "start": 3.35,
+      "end": 3.64
+    },
+    {
+      "word": "five",
+      "start": 3.64,
+      "end": 3.95
+    },
+    {
+      "word": "minutes",
+      "start": 3.95,
+      "end": 4.47
+    },
+    {
+      "word": "Suddenly",
+      "start": 4.72,
+      "end": 5.36
+    },
+    {
+      "word": "your",
+      "start": 5.36,
+      "end": 5.46
+    },
+    {
+      "word": "kitchen",
+      "start": 5.46,
+      "end": 5.84
+    },
+    {
+      "word": "needs",
+      "start": 5.84,
+      "end": 6.11
+    },
+    {
+      "word": "forty",
+      "start": 6.11,
+      "end": 6.59
+    },
+    {
+      "word": "Sometimes",
+      "start": 7.1,
+      "end": 7.73
+    },
+    {
+      "word": "the",
+      "start": 7.73,
+      "end": 7.85
+    },
+    {
+      "word": "easier",
+      "start": 7.85,
+      "end": 8.23
+    },
+    {
+      "word": "task",
+      "start": 8.23,
+      "end": 8.69
+    },
+    {
+      "word": "offers",
+      "start": 8.69,
+      "end": 9.11
+    },
+    {
+      "word": "a",
+      "start": 9.11,
+      "end": 9.16
+    },
+    {
+      "word": "clear",
+      "start": 9.16,
+      "end": 9.46
+    },
+    {
+      "word": "finish",
+      "start": 9.46,
+      "end": 10.1
+    },
+    {
+      "word": "The",
+      "start": 10.45,
+      "end": 10.57
+    },
+    {
+      "word": "important",
+      "start": 10.57,
+      "end": 11.03
+    },
+    {
+      "word": "one",
+      "start": 11.03,
+      "end": 11.28
+    },
+    {
+      "word": "brings",
+      "start": 11.28,
+      "end": 11.58
+    },
+    {
+      "word": "uncertainty",
+      "start": 11.58,
+      "end": 12.34
+    },
+    {
+      "word": "What",
+      "start": 12.94,
+      "end": 13.07
+    },
+    {
+      "word": "if",
+      "start": 13.07,
+      "end": 13.18
+    },
+    {
+      "word": "they",
+      "start": 13.18,
+      "end": 13.31
+    },
+    {
+      "word": "say",
+      "start": 13.31,
+      "end": 13.54
+    },
+    {
+      "word": "no",
+      "start": 13.54,
+      "end": 13.98
+    },
+    {
+      "word": "So",
+      "start": 14.28,
+      "end": 14.4
+    },
+    {
+      "word": "try",
+      "start": 14.4,
+      "end": 14.67
+    },
+    {
+      "word": "this",
+      "start": 14.67,
+      "end": 15.11
+    },
+    {
+      "word": "open",
+      "start": 15.55,
+      "end": 15.85
+    },
+    {
+      "word": "the",
+      "start": 15.85,
+      "end": 15.93
+    },
+    {
+      "word": "draft",
+      "start": 15.93,
+      "end": 16.5
+    },
+    {
+      "word": "Write",
+      "start": 17.06,
+      "end": 17.27
+    },
+    {
+      "word": "one",
+      "start": 17.27,
+      "end": 17.55
+    },
+    {
+      "word": "messy",
+      "start": 17.55,
+      "end": 17.84
+    },
+    {
+      "word": "sentence",
+      "start": 17.84,
+      "end": 18.48
+    },
+    {
+      "word": "You",
+      "start": 18.48,
+      "end": 18.59
+    },
+    {
+      "word": "don't",
+      "start": 18.59,
+      "end": 18.73
+    },
+    {
+      "word": "have",
+      "start": 18.73,
+      "end": 18.87
+    },
+    {
+      "word": "to",
+      "start": 18.87,
+      "end": 18.96
+    },
+    {
+      "word": "send",
+      "start": 18.96,
+      "end": 19.2
+    },
+    {
+      "word": "it",
+      "start": 19.2,
+      "end": 19.29
+    },
+    {
+      "word": "yet",
+      "start": 19.29,
+      "end": 19.61
+    },
+    {
+      "word": "The",
+      "start": 19.96,
+      "end": 20.05
+    },
+    {
+      "word": "goal",
+      "start": 20.05,
+      "end": 20.35
+    },
+    {
+      "word": "isn't",
+      "start": 20.35,
+      "end": 20.54
+    },
+    {
+      "word": "a",
+      "start": 20.54,
+      "end": 20.59
+    },
+    {
+      "word": "perfect",
+      "start": 20.59,
+      "end": 21.03
+    },
+    {
+      "word": "email",
+      "start": 21.03,
+      "end": 21.52
+    },
+    {
+      "word": "It's",
+      "start": 21.73,
+      "end": 21.88
+    },
+    {
+      "word": "a",
+      "start": 21.88,
+      "end": 21.92
+    },
+    {
+      "word": "first",
+      "start": 21.92,
+      "end": 22.31
+    },
+    {
+      "word": "move",
+      "start": 22.31,
+      "end": 22.55
+    },
+    {
+      "word": "you",
+      "start": 22.55,
+      "end": 22.66
+    },
+    {
+      "word": "can",
+      "start": 22.66,
+      "end": 22.8
+    },
+    {
+      "word": "actually",
+      "start": 22.8,
+      "end": 23.24
+    },
+    {
+      "word": "make",
+      "start": 23.24,
+      "end": 23.69
+    },
+    {
+      "word": "What's",
+      "start": 24.16,
+      "end": 24.41
+    },
+    {
+      "word": "the",
+      "start": 24.41,
+      "end": 24.49
+    },
+    {
+      "word": "five",
+      "start": 24.49,
+      "end": 24.78
+    },
+    {
+      "word": "minute",
+      "start": 24.78,
+      "end": 25.03
+    },
+    {
+      "word": "task",
+      "start": 25.03,
+      "end": 25.42
+    },
+    {
+      "word": "you've",
+      "start": 25.42,
+      "end": 25.54
+    },
+    {
+      "word": "been",
+      "start": 25.54,
+      "end": 25.68
+    },
+    {
+      "word": "avoiding",
+      "start": 25.68,
+      "end": 26.24
+    }
+  ],
+  "review": "automatic alignment; caption boundaries require playback review"
+}

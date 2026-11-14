@@ -1,0 +1,285 @@
+{
+  "max_length_error": 1.4210854715202004e-13,
+  "limbs": [
+    {
+      "shot": "s01",
+      "limb": "upperL",
+      "max_length_error": 2.842170943040401e-14
+    },
+    {
+      "shot": "s01",
+      "limb": "foreL",
+      "max_length_error": 8.526512829121202e-14
+    },
+    {
+      "shot": "s01",
+      "limb": "upperR",
+      "max_length_error": 1.1368683772161603e-13
+    },
+    {
+      "shot": "s01",
+      "limb": "foreR",
+      "max_length_error": 5.684341886080802e-14
+    },
+    {
+      "shot": "s01",
+      "limb": "thighL",
+      "max_length_error": 2.842170943040401e-14
+    },
+    {
+      "shot": "s01",
+      "limb": "shinL",
+      "max_length_error": 1.1368683772161603e-13
+    },
+    {
+      "shot": "s01",
+      "limb": "thighR",
+      "max_length_error": 1.1368683772161603e-13
+    },
+    {
+      "shot": "s01",
+      "limb": "shinR",
+      "max_length_error": 5.684341886080802e-14
+    },
+    {
+      "shot": "s02",
+      "limb": "upperL",
+      "max_length_error": 8.526512829121202e-14
+    },
+    {
+      "shot": "s02",
+      "limb": "foreL",
+      "max_length_error": 1.1368683772161603e-13
+    },
+    {
+      "shot": "s02",
+      "limb": "upperR",
+      "max_length_error": 8.526512829121202e-14
+    },
+    {
+      "shot": "s02",
+      "limb": "foreR",
+      "max_length_error": 1.1368683772161603e-13
+    },
+    {
+      "shot": "s02",
+      "limb": "thighL",
+      "max_length_error": 8.526512829121202e-14
+    },
+    {
+      "shot": "s02",
+      "limb": "shinL",
+      "max_length_error": 1.1368683772161603e-13
+    },
+    {
+      "shot": "s02",
+      "limb": "thighR",
+      "max_length_error": 2.842170943040401e-14
+    },
+    {
+      "shot": "s02",
+      "limb": "shinR",
+      "max_length_error": 2.842170943040401e-14
+    },
+    {
+      "shot": "s04",
+      "limb": "upperL",
+      "max_length_error": 8.526512829121202e-14
+    },
+    {
+      "shot": "s04",
+      "limb": "foreL",
+      "max_length_error": 8.526512829121202e-14
+    },
+    {
+      "shot": "s04",
+      "limb": "upperR",
+      "max_length_error": 5.684341886080802e-14
+    },
+    {
+      "shot": "s04",
+      "limb": "foreR",
+      "max_length_error": 8.526512829121202e-14
+    },
+    {
+      "shot": "s04",
+      "limb": "thighL",
+      "max_length_error": 8.526512829121202e-14
+    },
+    {
+      "shot": "s04",
+      "limb": "shinL",
+      "max_length_error": 8.526512829121202e-14
+    },
+    {
+      "shot": "s04",
+      "limb": "thighR",
+      "max_length_error": 2.842170943040401e-14
+    },
+    {
+      "shot": "s04",
+      "limb": "shinR",
+      "max_length_error": 2.842170943040401e-14
+    },
+    {
+      "shot": "s07",
+      "limb": "upperL",
+      "max_length_error": 8.526512829121202e-14
+    },
+    {
+      "shot": "s07",
+      "limb": "foreL",
+      "max_length_error": 1.1368683772161603e-13
+    },
+    {
+      "shot": "s07",
+      "limb": "upperR",
+      "max_length_error": 8.526512829121202e-14
+    },
+    {
+      "shot": "s07",
+      "limb": "foreR",
+      "max_length_error": 1.1368683772161603e-13
+    },
+    {
+      "shot": "s07",
+      "limb": "thighL",
+      "max_length_error": 8.526512829121202e-14
+    },
+    {
+      "shot": "s07",
+      "limb": "shinL",
+      "max_length_error": 8.526512829121202e-14
+    },
+    {
+      "shot": "s07",
+      "limb": "thighR",
+      "max_length_error": 2.842170943040401e-14
+    },
+    {
+      "shot": "s07",
+      "limb": "shinR",
+      "max_length_error": 2.842170943040401e-14
+    },
+    {
+      "shot": "s09",
+      "limb": "upperL",
+      "max_length_error": 5.684341886080802e-14
+    },
+    {
+      "shot": "s09",
+      "limb": "foreL",
+      "max_length_error": 5.684341886080802e-14
+    },
+    {
+      "shot": "s09",
+      "limb": "upperR",
+      "max_length_error": 5.684341886080802e-14
+    },
+    {
+      "shot": "s09",
+      "limb": "foreR",
+      "max_length_error": 8.526512829121202e-14
+    },
+    {
+      "shot": "s09",
+      "limb": "thighL",
+      "max_length_error": 8.526512829121202e-14
+    },
+    {
+      "shot": "s09",
+      "limb": "shinL",
+      "max_length_error": 8.526512829121202e-14
+    },
+    {
+      "shot": "s09",
+      "limb": "thighR",
+      "max_length_error": 2.842170943040401e-14
+    },
+    {
+      "shot": "s09",
+      "limb": "shinR",
+      "max_length_error": 2.842170943040401e-14
+    },
+    {
+      "shot": "s10",
+      "limb": "upperL",
+      "max_length_error": 5.684341886080802e-14
+    },
+    {
+      "shot": "s10",
+      "limb": "foreL",
+      "max_length_error": 1.1368683772161603e-13
+    },
+    {
+      "shot": "s10",
+      "limb": "upperR",
+      "max_length_error": 1.1368683772161603e-13
+    },
+    {
+      "shot": "s10",
+      "limb": "foreR",
+      "max_length_error": 1.1368683772161603e-13
+    },
+    {
+      "shot": "s10",
+      "limb": "thighL",
+      "max_length_error": 2.842170943040401e-14
+    },
+    {
+      "shot": "s10",
+      "limb": "shinL",
+      "max_length_error": 1.1368683772161603e-13
+    },
+    {
+      "shot": "s10",
+      "limb": "thighR",
+      "max_length_error": 1.1368683772161603e-13
+    },
+    {
+      "shot": "s10",
+      "limb": "shinR",
+      "max_length_error": 5.684341886080802e-14
+    },
+    {
+      "shot": "s14",
+      "limb": "upperL",
+      "max_length_error": 5.684341886080802e-14
+    },
+    {
+      "shot": "s14",
+      "limb": "foreL",
+      "max_length_error": 1.4210854715202004e-13
+    },
+    {
+      "shot": "s14",
+      "limb": "upperR",
+      "max_length_error": 1.1368683772161603e-13
+    },
+    {
+      "shot": "s14",
+      "limb": "foreR",
+      "max_length_error": 1.4210854715202004e-13
+    },
+    {
+      "shot": "s14",
+      "limb": "thighL",
+      "max_length_error": 2.842170943040401e-14
+    },
+    {
+      "shot": "s14",
+      "limb": "shinL",
+      "max_length_error": 1.1368683772161603e-13
+    },
+    {
+      "shot": "s14",
+      "limb": "thighR",
+      "max_length_error": 1.1368683772161603e-13
+    },
+    {
+      "shot": "s14",
+      "limb": "shinR",
+      "max_length_error": 5.684341886080802e-14
+    }
+  ]
+}
