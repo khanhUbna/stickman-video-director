@@ -3,25 +3,25 @@
   "kind": "preview",
   "technical_fixture": false,
   "ratio": "9:16",
-  "fingerprint": "929203376b70f5e279f2f11ba46ec81071403e94339cbbb76ba4475c80233811",
-  "checked_frames": 213,
-  "arm_poses_checked": 316,
-  "straight_legs_checked": 316,
+  "fingerprint": "46724940bf8968e46bd81b090a038c53545953557c2381ea865a9d9cf218e291",
+  "checked_frames": 801,
+  "arm_poses_checked": 976,
+  "straight_legs_checked": 976,
   "max_prop_contact_error_px": 1.2710574864626038e-13,
   "external_media_reads": [],
   "voice_speed": 1,
   "new_story_acceptance": "not implied by reusing a tested performance",
   "time_range": {
     "start": 0.0,
-    "end": 7.1
+    "end": 26.7
   },
   "technical_status": "pass",
   "creative_status": "pending_actual_playback_and_source_review",
   "user_acceptance": "not_inferred",
   "review_required": "review-pack then check-review; numeric QC never certifies motion quality",
   "caption_sidecars": [
-    "outputs/preview-07/captions.srt",
-    "outputs/preview-07/captions.vtt"
+    "outputs/full-review-01/captions.srt",
+    "outputs/full-review-01/captions.vtt"
   ],
   "caption_contract": {
     "profile": {
@@ -49,7 +49,7 @@
     },
     "renderer_sha256": "5fc03a3f38dce9f55609f2059077125ecc30b7f5fa1d31580f9e007fcf23200b",
     "font_sha256": "dd9a89a019b4849f66ab75455fe7bdf931311042cbb0f0f97acc061539703180",
-    "cues_sha256": "cda37cbc84b86d8f9ead86e1ecda7c3440a32a7ccb44cd0c9affaaae0c8ef6dc",
+    "cues_sha256": "0f12ae0cbdeb239290149b4b8339ec3cd8de473fcf06b82036d58cdf930c1b10",
     "observed_cues": [
       {
         "start": 0.0,
@@ -127,10 +127,219 @@
           515,
           930
         ]
+      },
+      {
+        "start": 7.1,
+        "end": 7.720000000000001,
+        "text": "Sometimes,",
+        "raster_bounds": [
+          204,
+          873,
+          516,
+          929
+        ]
+      },
+      {
+        "start": 7.73,
+        "end": 8.68,
+        "text": "the easier task",
+        "raster_bounds": [
+          161,
+          873,
+          560,
+          921
+        ]
+      },
+      {
+        "start": 8.69,
+        "end": 10.18,
+        "text": "offers a clear finish.",
+        "raster_bounds": [
+          99,
+          873,
+          620,
+          921
+        ]
+      },
+      {
+        "start": 10.45,
+        "end": 11.27,
+        "text": "The important one",
+        "raster_bounds": [
+          116,
+          873,
+          603,
+          930
+        ]
+      },
+      {
+        "start": 11.28,
+        "end": 12.42,
+        "text": "brings uncertainty.",
+        "raster_bounds": [
+          115,
+          873,
+          606,
+          931
+        ]
+      },
+      {
+        "start": 12.94,
+        "end": 14.06,
+        "text": "What if they say no?",
+        "raster_bounds": [
+          92,
+          873,
+          626,
+          930
+        ]
+      },
+      {
+        "start": 14.28,
+        "end": 15.19,
+        "text": "So try this:",
+        "raster_bounds": [
+          214,
+          873,
+          505,
+          930
+        ]
+      },
+      {
+        "start": 15.55,
+        "end": 16.58,
+        "text": "open the draft.",
+        "raster_bounds": [
+          165,
+          873,
+          554,
+          930
+        ]
+      },
+      {
+        "start": 17.06,
+        "end": 17.54,
+        "text": "Write one",
+        "raster_bounds": [
+          231,
+          873,
+          488,
+          921
+        ]
+      },
+      {
+        "start": 17.55,
+        "end": 18.47,
+        "text": "messy sentence.",
+        "raster_bounds": [
+          139,
+          875,
+          581,
+          930
+        ]
+      },
+      {
+        "start": 18.48,
+        "end": 18.95,
+        "text": "You don't have to",
+        "raster_bounds": [
+          132,
+          873,
+          586,
+          921
+        ]
+      },
+      {
+        "start": 18.96,
+        "end": 19.689999999999998,
+        "text": "send it yet.",
+        "raster_bounds": [
+          212,
+          873,
+          507,
+          930
+        ]
+      },
+      {
+        "start": 19.96,
+        "end": 20.529999999999998,
+        "text": "The goal isn't",
+        "raster_bounds": [
+          180,
+          873,
+          539,
+          931
+        ]
+      },
+      {
+        "start": 20.54,
+        "end": 21.599999999999998,
+        "text": "a perfect email.",
+        "raster_bounds": [
+          153,
+          873,
+          566,
+          930
+        ]
+      },
+      {
+        "start": 21.73,
+        "end": 22.54,
+        "text": "It's a first move",
+        "raster_bounds": [
+          158,
+          873,
+          564,
+          921
+        ]
+      },
+      {
+        "start": 22.55,
+        "end": 23.77,
+        "text": "you can actually make.",
+        "raster_bounds": [
+          56,
+          873,
+          661,
+          930
+        ]
+      },
+      {
+        "start": 24.16,
+        "end": 24.4,
+        "text": "What's",
+        "raster_bounds": [
+          267,
+          873,
+          451,
+          921
+        ]
+      },
+      {
+        "start": 24.41,
+        "end": 25.41,
+        "text": "the five-minute task",
+        "raster_bounds": [
+          99,
+          873,
+          622,
+          921
+        ]
+      },
+      {
+        "start": 25.42,
+        "end": 26.32,
+        "text": "you've been avoiding?",
+        "raster_bounds": [
+          72,
+          873,
+          646,
+          931
+        ]
       }
     ],
     "limitation": "Configuration, font identity and measured caption raster only; decoded pixels, semantic speech timing and AV readability still require review."
   },
-  "video": "outputs/preview-07/preview.mp4",
-  "video_sha256": "8e242f2de101bbc796901c2bc381d5a348ee4eb9ab370588bf9f256151321299"
+  "video": "outputs/full-review-01/preview.mp4",
+  "video_sha256": "896301760486215fa7af813e170edb88bd3de152c0da9884bca49ac0c3e8f575"
 }

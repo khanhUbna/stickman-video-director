@@ -1,0 +1,55 @@
+{
+  "status": "full_length_review_render_technical_pass",
+  "duration": 26.7,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "frames": 801,
+  "full_decode": "pass",
+  "original_alloy_sha256": "6490deaf933ddd504454f346d3ede31a5aff7605ef6a845e4c0d7d08669d62fd",
+  "original_voice_reused_exactly": true,
+  "caption_word_coverage": "pass",
+  "aligned_words": 76,
+  "semantic_cues": 26,
+  "arm_poses_checked": 976,
+  "straight_legs_checked": 976,
+  "max_prop_contact_error_px": 1.2710574864626038e-13,
+  "external_media_reads": [],
+  "encoded_loudness": {
+    "input_i": "-16.29",
+    "input_tp": "-1.36",
+    "input_lra": "3.30",
+    "input_thresh": "-26.98",
+    "output_i": "-16.35",
+    "output_tp": "-1.50",
+    "output_lra": "2.80",
+    "output_thresh": "-26.97",
+    "normalization_type": "dynamic",
+    "target_offset": "0.35"
+  },
+  "arm_visibility_revision": {
+    "ink": "#17202b",
+    "stroke_local_units": 5.6,
+    "idle_left_arm": "Moved off cupboard seam and lifted above the caption band",
+    "source": "User reported one arm blended into the kitchen; earlier style was accepted subject to this correction"
+  },
+  "video_sha256": "896301760486215fa7af813e170edb88bd3de152c0da9884bca49ac0c3e8f575",
+  "review_limits": [
+    "Independent creative/source comparison and continuous human playback/listening not performed; user review is pending.",
+    "Existing user feedback approved the earlier visual direction, not this unseen full-length render.",
+    "Technical geometry and alpha tests do not certify natural acting or equivalence to the B6 primary sample."
+  ],
+  "new_TTS_calls": 0,
+  "YouTube_upload": false,
+  "author_still_review": {
+    "inspected": "Actual encoded middle frame of all 11 shots plus native kitchen frame at 6s",
+    "arm_result": "Both arms form clear dark silhouettes; idle left hand is above the caption band and separate from the cupboard seam",
+    "limits": "Still inspection only; independent continuous playback/listening and creative/reference comparison remain pending"
+  },
+  "review_pack": {
+    "status": "pending_actual_playback_and_source_review",
+    "path": "outputs/full-review-pack-02/motion-review.json",
+    "extraction_note": "FFmpeg select expression was balanced without changing any selected frame numbers, resolving its linear-expression parser limit."
+  }
+}

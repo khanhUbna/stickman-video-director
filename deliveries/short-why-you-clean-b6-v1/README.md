@@ -1,11 +1,23 @@
-# Why You Clean Instead of Starting — B6 preview
+# Why You Clean Instead of Starting — B6 full-length review version
 
-**Representative 7.1-second preview, not the completed 26.7-second Short.**
+Download **`why-you-clean-b6-v1.mp4`**: 26.7 seconds, native 720×1280, 30fps, English alloy narration, original music/SFX and burned-in Archivo Black captions. This completes the story through the first imperfect sentence; the email remains unsent.
 
-Download `b6-preview-7s.mp4`. Native 720×1280 / 30fps, clothed painted protagonist, worried/pleased expressions, an empty-draft detail and a calibrated cloth-wipe action. Archivo Black follows the installed B6 portrait caption profile. Existing alloy speech and the previous original score are reused; no new TTS/transcription was called. Nothing was uploaded to YouTube.
+## Requested arm correction
 
-The installed B6 painted-puppet compositor checked all 213 frames, with 316 arm and 316 straight-leg observations, actual cuff/neck/visibility checks, no external media reads and maximum independent prop-contact error 1.28e-13 pixels. Full MP4 decode passed. These are technical results; no independent creative acceptance, continuous human listening/playback or user approval is claimed. The first representative images were inspected by the production author and grounding/contact issues were restaged.
+The user accepted the visual direction and reported that one arm blended into the kitchen. The revision uses dark navy ink, a slightly heavier stroke, and an idle-arm pose separated from the cabinet seam and raised above captions. See `kitchen-arms-clear.png` for a native frame from the actual full MP4. `b6-preview-7s-v2.mp4` is the corrected short preview. The older `b6-preview-7s.mp4` is retained for comparison, not the current version.
 
-`source-overlay.zip` preserves editable native scene, actual fitted character package, newly painted environment/worried expression, original speech and reused mixed audio, captions, story, word times, repair notes and pending review data. Its README explains how to restore the unchanged locked engine/reference using the installed Skill. No API key or credential file is included.
+## Checks and review limits
 
-The B6 production contract requires actual review of the exact representative preview before full rendering. The remaining timeline is planning code, not delivered or accepted animation. Next: review the look and intended-speed motion/sound, repair any findings, and approve the actual preview before extending this version.
+- Full MP4 decode: passed, 801 video frames.
+- All 75 spoken words preserved in the subtitle sequence; original alloy WAV unchanged.
+- 976 arm poses and 976 straight-leg observations passed; maximum independent cloth-contact error about 1.28e-13 pixels; no external media reads.
+- Encoded mix: -16.29 LUFS and -1.36 dBTP. No new TTS calls.
+- Production author inspected actual encoded middle frames from all 11 shots and the kitchen arm detail.
+
+`QA.json` and `technical-report.json` contain the actual results. These technical/still checks do not establish independent creative/reference acceptance or continuous listening/playback. The earlier user feedback approved the previous visual direction subject to clearer arms; this full-length version still awaits user viewing. It is a review render, not a claim of exact Sample 1 equivalence or a forged Skill approval. No YouTube upload was made.
+
+## Editable files
+
+`source-overlay.zip` contains the current scene, fitted character package, art, original/mixed audio, captions, word timing, native plan, repair notes, verification helpers and full pending review template. Its README explains how to initialize the unchanged installed engine/reference and restore the overlay. Do not regenerate speech.
+
+`captions-en.srt` / `captions-en.vtt` are editable sidecars. `full-contact-sheet.jpg` samples the actual full MP4. No credential files or API keys are included.

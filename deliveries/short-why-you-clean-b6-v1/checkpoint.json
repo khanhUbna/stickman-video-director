@@ -1,6 +1,6 @@
 {
   "project": "Why You Clean Instead of Starting \u2014 B6 adaptation",
-  "stage": "representative_preview_delivered_pending_review",
+  "stage": "full_length_review_render_delivered",
   "planned_duration": 26.7,
   "preview_seconds": 7.1,
   "voice": "existing alloy, original speed, no new TTS",
@@ -14,13 +14,23 @@
     "316 arm poses and 316 straight-leg observations checked",
     "Full MP4 decode passed",
     "Actual author still inspection of study and kitchen stance/contact frames",
-    "Bound pending motion review pack generated"
+    "Bound pending motion review pack generated",
+    "Requested arm contrast and pose correction implemented",
+    "Full 26.7s native portrait review render encoded: 801 frames",
+    "976 arm poses and 976 straight-leg observations passed",
+    "Full MP4 decode and all 75 spoken-word caption coverage passed",
+    "All 11 encoded shot middle frames and a native kitchen-arm frame inspected by author",
+    "Full pending creative review pack generated"
   ],
   "pending": [
-    "actual preview playback/listening and detailed creative/reference review",
-    "user decision on the exact preview before full production",
-    "remaining 19.6s, full encoded review and final delivery"
+    "User playback/listening and full-length creative feedback; no independent creative acceptance claimed"
   ],
   "new_tts_requests": 0,
-  "publication": "No YouTube upload"
+  "publication": "No YouTube upload",
+  "user_feedback": {
+    "style": "User accepted the B6 look and motion, subject to clearer arms against the kitchen",
+    "requested_fix": "One arm blends into the kitchen and appears missing",
+    "revision": "Near-black navy ink, slightly heavier stroke and an idle-arm pose clear of the cabinet seam and caption band",
+    "new_TTS_calls": 0
+  }
 }
