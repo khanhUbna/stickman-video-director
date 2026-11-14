@@ -77,5 +77,26 @@
   },
   "duration_seconds": 26.7,
   "delivery_mp4": "why-you-clean-instead-of-starting.mp4",
-  "YouTube_upload": false
+  "YouTube_upload": false,
+  "publishing_kit": {
+    "offer_status": "accepted",
+    "language": "English",
+    "style": "B1 channel color/scarf identity",
+    "references": [
+      "head-worry.png",
+      "scarf.png"
+    ],
+    "image_tool": "image_gen.imagegen",
+    "image_job_artifact": "exec-01f438d9-ef98-405b-99e0-ec91f8762c2c.png",
+    "artifacts": [
+      "publishing/thumbnail-short.png",
+      "publishing/metadata.md",
+      "description.txt"
+    ],
+    "pending": [
+      "actual Shorts cover-selection/crop preview",
+      "user video playback/listening review"
+    ],
+    "YouTube_upload": false
+  }
 }
