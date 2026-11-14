@@ -1,0 +1,36 @@
+{
+  "music-original.wav": {
+    "creator": "Original procedural composition authored for this Short",
+    "source": "make_audio.py, seeded synthesis; no third-party melody or recording",
+    "use": "May synchronize, edit and redistribute in this video and its source package; no external library restrictions",
+    "sha256": "c1d324c47f606280b67e1566b94c7fe2c0872b3c659f4492cc1519b3a86a96b3"
+  },
+  "room.wav": {
+    "source": "Original seeded noise synthesis, make_audio.py",
+    "sha256": "d1d4e3c3796b5e2dddcce7b149f8cc90494578f193e72c33ac01d85a20f3d59b"
+  },
+  "wipe.wav": {
+    "source": "Original filtered-noise cloth illustration, make_audio.py",
+    "sha256": "5b70274716e9ce94d17834213f57886ef878b8358d4c55c19086e700ab666050"
+  },
+  "plate.wav": {
+    "source": "Original additive synthesis of a light ceramic contact, make_audio.py",
+    "sha256": "e403bd861eda6e5ca99b92bf947f620462979535559bec364c0e29e1de80d21e"
+  },
+  "voice.wav": {
+    "source": "OpenAI tts-1 alloy, authorized single speech request, native speed 1.0",
+    "AI_generated": true,
+    "sha256": "6490deaf933ddd504454f346d3ede31a5aff7605ef6a845e4c0d7d08669d62fd"
+  },
+  "art": {
+    "source": "Original canvas drawings in build-short.mjs, continuing the channel scarf asset from the existing source-one-minute-v4.zip",
+    "external_image_calls": 0
+  },
+  "fonts": {
+    "source": "Caveat, SIL Open Font License; notice included in source package"
+  },
+  "runtime_sfx": {
+    "source": "Procedural tap/paper synthesis in repository MIT runtime"
+  },
+  "YouTube_upload": false
+}

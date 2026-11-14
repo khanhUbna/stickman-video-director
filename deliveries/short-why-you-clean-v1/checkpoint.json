@@ -1,7 +1,7 @@
 {
   "project": "Why You Clean Instead of Starting",
-  "stage": "voice_aligned_animation_rendering",
-  "status": "in_progress",
+  "stage": "encoded_mp4_delivered_for_user_review",
+  "status": "rendered_technical_checks_passed_user_review_pending",
   "date_utc": "2026-11-14",
   "mode": "B Autopilot",
   "style": "B1 with existing channel color treatment",
@@ -33,13 +33,16 @@
     "guarded project-local TTS adapter prepared and dry-run checked",
     "single authorized alloy recording saved, native duration 26.575 seconds",
     "75 words acoustically aligned offline with PocketSphinx 5.0.4",
-    "15 native portrait shots authored; local rendering in progress"
+    "15 native portrait shots authored; local rendering in progress",
+    "15 shots rendered at 1080x1920 / 30fps, 798 video frames",
+    "original score and action SFX synthesized locally",
+    "18 semantic captions cover the approved 75-word script",
+    "full MP4 decode, source phone-safe paint, connected-rig geometry and encoded motion checks passed",
+    "original WAV retained; mixed loudness -16.29 LUFS and true peak -1.44 dBTP",
+    "all 15 encoded middle frames inspected by production author; limits recorded in QA.json"
   ],
   "pending": [
-    "final encode",
-    "encoded review",
-    "audio measurements",
-    "MP4 and source delivery"
+    "user picture/sound review; independent continuous creative review not performed"
   ],
   "next_step": "After credentials become available, run the guarded one-shot adapter once; do not retry an error or uncertain response. Persist returned audio before further production.",
   "publication": "No YouTube upload authorized",
@@ -71,5 +74,8 @@
     "channels": 1,
     "audio_sha256": "6490deaf933ddd504454f346d3ede31a5aff7605ef6a845e4c0d7d08669d62fd",
     "billing": "character-rate estimate; account invoice not independently verified"
-  }
+  },
+  "duration_seconds": 26.7,
+  "delivery_mp4": "why-you-clean-instead-of-starting.mp4",
+  "YouTube_upload": false
 }

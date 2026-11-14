@@ -1,0 +1,22 @@
+{
+  "rejected_candidate": "first local MP4, before delivery",
+  "findings": [
+    {
+      "time": "12.94\u201314.28",
+      "finding": "Closeup arm bend passed over the face; flipped the IK elbow direction."
+    },
+    {
+      "time": "24.16\u201326.575",
+      "finding": "Floating closeup head below the computer had no body context; removed it in favor of the actual typing view."
+    },
+    {
+      "time": "7.10\u20138.69",
+      "finding": "Final plate sat below the rack support; raised the plate and both supporting hands."
+    },
+    {
+      "time": "19.96\u201326.575",
+      "finding": "Second line reset across scene cuts; limited new second-line text to the final closeup."
+    }
+  ],
+  "status": "corrections authored; final encoded review pending"
+}

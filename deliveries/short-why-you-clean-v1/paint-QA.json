@@ -1,0 +1,5305 @@
+{
+  "motion": {
+    "intervals": [
+      {
+        "id": "s01-foreL",
+        "start": 0.08,
+        "end": 0.16,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 138
+      },
+      {
+        "id": "s01-foreL",
+        "start": 0.24,
+        "end": 0.32,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 155
+      },
+      {
+        "id": "s01-foreR",
+        "start": 0.48000000000000004,
+        "end": 0.56,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 90
+      },
+      {
+        "id": "s02-foreL",
+        "start": 1.4400000000000002,
+        "end": 1.52,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 184
+      },
+      {
+        "id": "s02-foreL",
+        "start": 1.6800000000000002,
+        "end": 1.7600000000000002,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 81
+      },
+      {
+        "id": "s02-foreL",
+        "start": 2,
+        "end": 2.08,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 160
+      },
+      {
+        "id": "s02-foreL",
+        "start": 2.24,
+        "end": 2.32,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 99
+      },
+      {
+        "id": "s02-foreL",
+        "start": 2.48,
+        "end": 2.56,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 96
+      },
+      {
+        "id": "s02-foreL",
+        "start": 2.72,
+        "end": 2.8000000000000003,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 68
+      },
+      {
+        "id": "s03-hover",
+        "start": 2.9,
+        "end": 3.901,
+        "reason": "The visible finger approaches the actual control then deliberately leaves it without sending",
+        "changed_pixels": 401
+      },
+      {
+        "id": "s03-hover",
+        "start": 3.901,
+        "end": 4.72,
+        "reason": "The visible finger approaches the actual control then deliberately leaves it without sending",
+        "changed_pixels": 341
+      },
+      {
+        "id": "s04-foreL",
+        "start": 4.72,
+        "end": 4.8,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 130
+      },
+      {
+        "id": "s04-foreL",
+        "start": 4.96,
+        "end": 5.04,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 109
+      },
+      {
+        "id": "s04-foreL",
+        "start": 5.2,
+        "end": 5.279999999999999,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 101
+      },
+      {
+        "id": "s04-foreL",
+        "start": 5.4399999999999995,
+        "end": 5.52,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 66
+      },
+      {
+        "id": "s04-foreL",
+        "start": 5.68,
+        "end": 5.76,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 2
+      },
+      {
+        "id": "s04-foreL",
+        "start": 5.76,
+        "end": 5.84,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 47
+      },
+      {
+        "id": "s04-foreL",
+        "start": 6,
+        "end": 6.08,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 69
+      },
+      {
+        "id": "s04-foreL",
+        "start": 6.24,
+        "end": 6.32,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 150
+      },
+      {
+        "id": "s04-foreL",
+        "start": 6.48,
+        "end": 6.5600000000000005,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 123
+      },
+      {
+        "id": "s04-foreL",
+        "start": 6.720000000000001,
+        "end": 6.800000000000001,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 145
+      },
+      {
+        "id": "s04-foreL",
+        "start": 6.960000000000001,
+        "end": 7.040000000000001,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 88
+      },
+      {
+        "id": "s05-plate",
+        "start": 7.1,
+        "end": 8.1812,
+        "reason": "The last real plate is lifted and placed between drying-rack supports",
+        "changed_pixels": 3984
+      },
+      {
+        "id": "s05-plate",
+        "start": 8.1812,
+        "end": 8.69,
+        "reason": "The last real plate is lifted and placed between drying-rack supports",
+        "changed_pixels": 2803
+      },
+      {
+        "id": "s06-cloth",
+        "start": 8.69,
+        "end": 9.834,
+        "reason": "The final visible crumbs are physically swept away, leaving a clean surface",
+        "changed_pixels": 3121
+      },
+      {
+        "id": "s06-cloth",
+        "start": 9.834,
+        "end": 10.45,
+        "reason": "The final visible crumbs are physically swept away, leaving a clean surface",
+        "changed_pixels": 1585
+      },
+      {
+        "id": "s07-foreR",
+        "start": 11.409999999999998,
+        "end": 11.489999999999998,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 52
+      },
+      {
+        "id": "s07-foreR",
+        "start": 11.489999999999998,
+        "end": 11.569999999999999,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 57
+      },
+      {
+        "id": "s07-foreR",
+        "start": 11.729999999999999,
+        "end": 11.809999999999999,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 60
+      },
+      {
+        "id": "s07-foreR",
+        "start": 11.969999999999999,
+        "end": 12.049999999999999,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 62
+      },
+      {
+        "id": "s07-foreR",
+        "start": 12.209999999999999,
+        "end": 12.29,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 63
+      },
+      {
+        "id": "s07-foreR",
+        "start": 12.45,
+        "end": 12.53,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 57
+      },
+      {
+        "id": "s08-face-hand",
+        "start": 12.94,
+        "end": 14.28,
+        "reason": "The hand rises toward the pinched face as the character anticipates uncertainty",
+        "changed_pixels": 373
+      },
+      {
+        "id": "s09-foreL",
+        "start": 14.44,
+        "end": 14.52,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 120
+      },
+      {
+        "id": "s09-foreL",
+        "start": 14.68,
+        "end": 14.76,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 66
+      },
+      {
+        "id": "s09-foreR",
+        "start": 15,
+        "end": 15.08,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 117
+      },
+      {
+        "id": "s09-foreR",
+        "start": 15.239999999999998,
+        "end": 15.319999999999999,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 94
+      },
+      {
+        "id": "s10-foreL",
+        "start": 15.55,
+        "end": 15.63,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 105
+      },
+      {
+        "id": "s10-foreL",
+        "start": 15.71,
+        "end": 15.790000000000001,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 135
+      },
+      {
+        "id": "s10-foreL",
+        "start": 15.950000000000001,
+        "end": 16.03,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 113
+      },
+      {
+        "id": "s10-foreR",
+        "start": 16.19,
+        "end": 16.27,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 35
+      },
+      {
+        "id": "s11-caret",
+        "start": 17.06,
+        "end": 18.48,
+        "reason": "The insertion caret accompanies the genuinely growing email draft",
+        "changed_pixels": 24
+      },
+      {
+        "id": "s11-typing-0",
+        "start": 18.259999999999998,
+        "end": 18.34,
+        "reason": "Fingers contact the keyboard in deliberate keystrokes as actual words appear or work continues",
+        "changed_pixels": 280
+      },
+      {
+        "id": "s12-caret",
+        "start": 18.48,
+        "end": 19.96,
+        "reason": "The insertion caret accompanies the genuinely growing email draft",
+        "changed_pixels": 23
+      },
+      {
+        "id": "s12-send-hand",
+        "start": 18.998,
+        "end": 19.96,
+        "reason": "The visible finger approaches the actual control then deliberately leaves it without sending",
+        "changed_pixels": 413
+      },
+      {
+        "id": "s13-caret",
+        "start": 19.96,
+        "end": 21.73,
+        "reason": "The insertion caret accompanies the genuinely growing email draft",
+        "changed_pixels": 23
+      },
+      {
+        "id": "s13-typing-0",
+        "start": 21.240000000000002,
+        "end": 21.32,
+        "reason": "Fingers contact the keyboard in deliberate keystrokes as actual words appear or work continues",
+        "changed_pixels": 246
+      },
+      {
+        "id": "s13-typing-0",
+        "start": 21.560000000000002,
+        "end": 21.64,
+        "reason": "Fingers contact the keyboard in deliberate keystrokes as actual words appear or work continues",
+        "changed_pixels": 185
+      },
+      {
+        "id": "s14-foreL",
+        "start": 21.73,
+        "end": 21.81,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 141
+      },
+      {
+        "id": "s14-foreL",
+        "start": 22.05,
+        "end": 22.13,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 154
+      },
+      {
+        "id": "s14-foreL",
+        "start": 22.21,
+        "end": 22.29,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 111
+      },
+      {
+        "id": "s14-foreL",
+        "start": 22.45,
+        "end": 22.53,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 89
+      },
+      {
+        "id": "s14-foreL",
+        "start": 22.85,
+        "end": 22.93,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 138
+      },
+      {
+        "id": "s14-foreL",
+        "start": 22.93,
+        "end": 23.01,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 34
+      },
+      {
+        "id": "s14-foreL",
+        "start": 23.25,
+        "end": 23.330000000000002,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 74
+      },
+      {
+        "id": "s14-foreL",
+        "start": 23.57,
+        "end": 23.650000000000002,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 154
+      },
+      {
+        "id": "s14-foreL",
+        "start": 23.73,
+        "end": 23.810000000000002,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 144
+      },
+      {
+        "id": "s14-foreL",
+        "start": 23.970000000000002,
+        "end": 24.05,
+        "reason": "Connected arms perform the current reach, wipe, withdrawal or deliberate typing action",
+        "changed_pixels": 104
+      },
+      {
+        "id": "s15-caret",
+        "start": 24.16,
+        "end": 26.575,
+        "reason": "The insertion caret accompanies the genuinely growing email draft",
+        "changed_pixels": 23
+      }
+    ],
+    "windows": [
+      {
+        "start": 0,
+        "end": 2.25,
+        "id": "s01-foreL",
+        "changed_pixels": 138
+      },
+      {
+        "start": 0.25,
+        "end": 2.5,
+        "id": "s01-foreL",
+        "changed_pixels": 155
+      },
+      {
+        "start": 0.5,
+        "end": 2.75,
+        "id": "s01-foreR",
+        "changed_pixels": 90
+      },
+      {
+        "start": 0.75,
+        "end": 3,
+        "id": "s02-foreL",
+        "changed_pixels": 184
+      },
+      {
+        "start": 1,
+        "end": 3.25,
+        "id": "s02-foreL",
+        "changed_pixels": 184
+      },
+      {
+        "start": 1.25,
+        "end": 3.5,
+        "id": "s02-foreL",
+        "changed_pixels": 184
+      },
+      {
+        "start": 1.5,
+        "end": 3.75,
+        "id": "s02-foreL",
+        "changed_pixels": 112
+      },
+      {
+        "start": 1.75,
+        "end": 4,
+        "id": "s02-foreL",
+        "changed_pixels": 81
+      },
+      {
+        "start": 2,
+        "end": 4.25,
+        "id": "s02-foreL",
+        "changed_pixels": 160
+      },
+      {
+        "start": 2.25,
+        "end": 4.5,
+        "id": "s02-foreL",
+        "changed_pixels": 99
+      },
+      {
+        "start": 2.5,
+        "end": 4.75,
+        "id": "s02-foreL",
+        "changed_pixels": 96
+      },
+      {
+        "start": 2.75,
+        "end": 5,
+        "id": "s02-foreL",
+        "changed_pixels": 68
+      },
+      {
+        "start": 3,
+        "end": 5.25,
+        "id": "s03-hover",
+        "changed_pixels": 401
+      },
+      {
+        "start": 3.25,
+        "end": 5.5,
+        "id": "s03-hover",
+        "changed_pixels": 396
+      },
+      {
+        "start": 3.5,
+        "end": 5.75,
+        "id": "s03-hover",
+        "changed_pixels": 364
+      },
+      {
+        "start": 3.75,
+        "end": 6,
+        "id": "s03-hover",
+        "changed_pixels": 238
+      },
+      {
+        "start": 4,
+        "end": 6.25,
+        "id": "s03-hover",
+        "changed_pixels": 341
+      },
+      {
+        "start": 4.25,
+        "end": 6.5,
+        "id": "s03-hover",
+        "changed_pixels": 312
+      },
+      {
+        "start": 4.5,
+        "end": 6.75,
+        "id": "s03-hover",
+        "changed_pixels": 187
+      },
+      {
+        "start": 4.75,
+        "end": 7,
+        "id": "s04-foreL",
+        "changed_pixels": 130
+      },
+      {
+        "start": 5,
+        "end": 7.25,
+        "id": "s04-foreL",
+        "changed_pixels": 109
+      },
+      {
+        "start": 5.25,
+        "end": 7.5,
+        "id": "s04-foreL",
+        "changed_pixels": 101
+      },
+      {
+        "start": 5.5,
+        "end": 7.75,
+        "id": "s04-foreL",
+        "changed_pixels": 66
+      },
+      {
+        "start": 5.75,
+        "end": 8,
+        "id": "s04-foreL",
+        "changed_pixels": 47
+      },
+      {
+        "start": 6,
+        "end": 8.25,
+        "id": "s04-foreL",
+        "changed_pixels": 69
+      },
+      {
+        "start": 6.25,
+        "end": 8.5,
+        "id": "s04-foreL",
+        "changed_pixels": 150
+      },
+      {
+        "start": 6.5,
+        "end": 8.75,
+        "id": "s04-foreL",
+        "changed_pixels": 123
+      },
+      {
+        "start": 6.75,
+        "end": 9,
+        "id": "s04-foreL",
+        "changed_pixels": 145
+      },
+      {
+        "start": 7,
+        "end": 9.25,
+        "id": "s04-foreL",
+        "changed_pixels": 88
+      },
+      {
+        "start": 7.25,
+        "end": 9.5,
+        "id": "s05-plate",
+        "changed_pixels": 3984
+      },
+      {
+        "start": 7.5,
+        "end": 9.75,
+        "id": "s05-plate",
+        "changed_pixels": 3967
+      },
+      {
+        "start": 7.75,
+        "end": 10,
+        "id": "s05-plate",
+        "changed_pixels": 3659
+      },
+      {
+        "start": 8,
+        "end": 10.25,
+        "id": "s05-plate",
+        "changed_pixels": 2922
+      },
+      {
+        "start": 8.25,
+        "end": 10.5,
+        "id": "s05-plate",
+        "changed_pixels": 2803
+      },
+      {
+        "start": 8.5,
+        "end": 10.75,
+        "id": "s05-plate",
+        "changed_pixels": 1460
+      },
+      {
+        "start": 8.75,
+        "end": 11,
+        "id": "s06-cloth",
+        "changed_pixels": 3121
+      },
+      {
+        "start": 9,
+        "end": 11.25,
+        "id": "s06-cloth",
+        "changed_pixels": 3104
+      },
+      {
+        "start": 9.25,
+        "end": 11.5,
+        "id": "s06-cloth",
+        "changed_pixels": 3105
+      },
+      {
+        "start": 9.5,
+        "end": 11.75,
+        "id": "s06-cloth",
+        "changed_pixels": 1519
+      },
+      {
+        "start": 9.75,
+        "end": 12,
+        "id": "s06-cloth",
+        "changed_pixels": 274
+      },
+      {
+        "start": 10,
+        "end": 12.25,
+        "id": "s06-cloth",
+        "changed_pixels": 1585
+      },
+      {
+        "start": 10.25,
+        "end": 12.5,
+        "id": "s06-cloth",
+        "changed_pixels": 835
+      },
+      {
+        "start": 10.5,
+        "end": 12.75,
+        "id": "s07-foreR",
+        "changed_pixels": 52
+      },
+      {
+        "start": 10.75,
+        "end": 13,
+        "id": "s07-foreR",
+        "changed_pixels": 52
+      },
+      {
+        "start": 11,
+        "end": 13.25,
+        "id": "s07-foreR",
+        "changed_pixels": 52
+      },
+      {
+        "start": 11.25,
+        "end": 13.5,
+        "id": "s07-foreR",
+        "changed_pixels": 52
+      },
+      {
+        "start": 11.5,
+        "end": 13.75,
+        "id": "s07-foreR",
+        "changed_pixels": 57
+      },
+      {
+        "start": 11.75,
+        "end": 14,
+        "id": "s07-foreR",
+        "changed_pixels": 60
+      },
+      {
+        "start": 12,
+        "end": 14.25,
+        "id": "s07-foreR",
+        "changed_pixels": 62
+      },
+      {
+        "start": 12.25,
+        "end": 14.5,
+        "id": "s07-foreR",
+        "changed_pixels": 63
+      },
+      {
+        "start": 12.5,
+        "end": 14.75,
+        "id": "s07-foreR",
+        "changed_pixels": 57
+      },
+      {
+        "start": 12.75,
+        "end": 15,
+        "id": "s08-face-hand",
+        "changed_pixels": 371
+      },
+      {
+        "start": 13,
+        "end": 15.25,
+        "id": "s08-face-hand",
+        "changed_pixels": 365
+      },
+      {
+        "start": 13.25,
+        "end": 15.5,
+        "id": "s08-face-hand",
+        "changed_pixels": 373
+      },
+      {
+        "start": 13.5,
+        "end": 15.75,
+        "id": "s08-face-hand",
+        "changed_pixels": 373
+      },
+      {
+        "start": 13.75,
+        "end": 16,
+        "id": "s08-face-hand",
+        "changed_pixels": 329
+      },
+      {
+        "start": 14,
+        "end": 16.25,
+        "id": "s08-face-hand",
+        "changed_pixels": 331
+      },
+      {
+        "start": 14.25,
+        "end": 16.5,
+        "id": "s08-face-hand",
+        "changed_pixels": 23
+      },
+      {
+        "start": 14.5,
+        "end": 16.75,
+        "id": "s09-foreL",
+        "changed_pixels": 120
+      },
+      {
+        "start": 14.75,
+        "end": 17,
+        "id": "s09-foreL",
+        "changed_pixels": 66
+      },
+      {
+        "start": 15,
+        "end": 17.25,
+        "id": "s09-foreR",
+        "changed_pixels": 117
+      },
+      {
+        "start": 15.25,
+        "end": 17.5,
+        "id": "s09-foreR",
+        "changed_pixels": 94
+      },
+      {
+        "start": 15.5,
+        "end": 17.75,
+        "id": "s10-foreL",
+        "changed_pixels": 105
+      },
+      {
+        "start": 15.75,
+        "end": 18,
+        "id": "s10-foreL",
+        "changed_pixels": 135
+      },
+      {
+        "start": 16,
+        "end": 18.25,
+        "id": "s10-foreL",
+        "changed_pixels": 113
+      },
+      {
+        "start": 16.25,
+        "end": 18.5,
+        "id": "s10-foreR",
+        "changed_pixels": 35
+      },
+      {
+        "start": 16.5,
+        "end": 18.75,
+        "id": "s11-caret",
+        "changed_pixels": 24
+      },
+      {
+        "start": 16.75,
+        "end": 19,
+        "id": "s11-caret",
+        "changed_pixels": 24
+      },
+      {
+        "start": 17,
+        "end": 19.25,
+        "id": "s11-caret",
+        "changed_pixels": 24
+      },
+      {
+        "start": 17.25,
+        "end": 19.5,
+        "id": "s11-caret",
+        "changed_pixels": 23
+      },
+      {
+        "start": 17.5,
+        "end": 19.75,
+        "id": "s11-caret",
+        "changed_pixels": 19
+      },
+      {
+        "start": 17.75,
+        "end": 20,
+        "id": "s11-caret",
+        "changed_pixels": 14
+      },
+      {
+        "start": 18,
+        "end": 20.25,
+        "id": "s11-caret",
+        "changed_pixels": 8
+      },
+      {
+        "start": 18.25,
+        "end": 20.5,
+        "id": "s11-typing-0",
+        "changed_pixels": 280
+      },
+      {
+        "start": 18.5,
+        "end": 20.75,
+        "id": "s12-caret",
+        "changed_pixels": 23
+      },
+      {
+        "start": 18.75,
+        "end": 21,
+        "id": "s12-caret",
+        "changed_pixels": 21
+      },
+      {
+        "start": 19,
+        "end": 21.25,
+        "id": "s12-caret",
+        "changed_pixels": 17
+      },
+      {
+        "start": 19.25,
+        "end": 21.5,
+        "id": "s12-caret",
+        "changed_pixels": 11
+      },
+      {
+        "start": 19.5,
+        "end": 21.75,
+        "id": "s12-send-hand",
+        "changed_pixels": 413
+      },
+      {
+        "start": 19.75,
+        "end": 22,
+        "id": "s12-send-hand",
+        "changed_pixels": 372
+      },
+      {
+        "start": 20,
+        "end": 22.25,
+        "id": "s13-caret",
+        "changed_pixels": 23
+      },
+      {
+        "start": 20.25,
+        "end": 22.5,
+        "id": "s13-caret",
+        "changed_pixels": 21
+      },
+      {
+        "start": 20.5,
+        "end": 22.75,
+        "id": "s13-caret",
+        "changed_pixels": 18
+      },
+      {
+        "start": 20.75,
+        "end": 23,
+        "id": "s13-caret",
+        "changed_pixels": 14
+      },
+      {
+        "start": 21,
+        "end": 23.25,
+        "id": "s13-caret",
+        "changed_pixels": 9
+      },
+      {
+        "start": 21.25,
+        "end": 23.5,
+        "id": "s13-typing-0",
+        "changed_pixels": 246
+      },
+      {
+        "start": 21.5,
+        "end": 23.75,
+        "id": "s13-typing-0",
+        "changed_pixels": 185
+      },
+      {
+        "start": 21.75,
+        "end": 24,
+        "id": "s14-foreL",
+        "changed_pixels": 141
+      },
+      {
+        "start": 22,
+        "end": 24.25,
+        "id": "s14-foreL",
+        "changed_pixels": 154
+      },
+      {
+        "start": 22.25,
+        "end": 24.5,
+        "id": "s14-foreL",
+        "changed_pixels": 111
+      },
+      {
+        "start": 22.5,
+        "end": 24.75,
+        "id": "s14-foreL",
+        "changed_pixels": 89
+      },
+      {
+        "start": 22.75,
+        "end": 25,
+        "id": "s14-foreL",
+        "changed_pixels": 138
+      },
+      {
+        "start": 23,
+        "end": 25.25,
+        "id": "s14-foreL",
+        "changed_pixels": 34
+      },
+      {
+        "start": 23.25,
+        "end": 25.5,
+        "id": "s14-foreL",
+        "changed_pixels": 74
+      },
+      {
+        "start": 23.5,
+        "end": 25.75,
+        "id": "s14-foreL",
+        "changed_pixels": 154
+      },
+      {
+        "start": 23.75,
+        "end": 26,
+        "id": "s14-foreL",
+        "changed_pixels": 144
+      },
+      {
+        "start": 24,
+        "end": 26.25,
+        "id": "s14-foreL",
+        "changed_pixels": 104
+      },
+      {
+        "start": 24.25,
+        "end": 26.5,
+        "id": "s15-caret",
+        "changed_pixels": 23
+      },
+      {
+        "start": 24.325,
+        "end": 26.575,
+        "id": "s15-caret",
+        "changed_pixels": 23
+      }
+    ],
+    "sample_step": 0.25,
+    "max_window": 2.25,
+    "limits": "Bounded isolated-layer pixel change, with text/shadows excluded and ancestors frozen; geometry is conservative. Causal action, final visibility/occlusion, semantic captions and sound still require playback review"
+  },
+  "portrait": {
+    "status": "bounded_diagnostic_pass",
+    "preset": "b123-native-portrait-v1",
+    "sample_step": 0.25,
+    "pixel_difference_threshold": 3,
+    "raster_boundary_tolerance_px": 1,
+    "transparent_alpha_threshold": 0.02,
+    "shots": [
+      {
+        "id": "s01",
+        "sample_count": 58,
+        "samples": [
+          0,
+          0.008333333333333333,
+          0.03333333333333333,
+          0.04666666666666667,
+          0.08,
+          0.11333333333333334,
+          0.12666666666666668,
+          0.16,
+          0.19333333333333333,
+          0.20666666666666667,
+          0.24,
+          0.25,
+          0.2733333333333333,
+          0.2866666666666667,
+          0.32,
+          0.35333333333333333,
+          0.3666666666666667,
+          0.4,
+          0.43333333333333335,
+          0.4466666666666667,
+          0.48000000000000004,
+          0.5,
+          0.5133333333333334,
+          0.5266666666666667,
+          0.56,
+          0.5933333333333334,
+          0.6066666666666667,
+          0.64,
+          0.6733333333333333,
+          0.6866666666666666,
+          0.72,
+          0.75,
+          0.7533333333333333,
+          0.7666666666666666,
+          0.7999999999999999,
+          0.8333333333333333,
+          0.8466666666666666,
+          0.8799999999999999,
+          0.9133333333333332,
+          0.9266666666666665,
+          0.9599999999999999,
+          0.9933333333333332,
+          1,
+          1.0066666666666664,
+          1.0399999999999998,
+          1.0733333333333333,
+          1.0866666666666664,
+          1.1199999999999999,
+          1.1533333333333333,
+          1.1666666666666665,
+          1.2,
+          1.2333333333333334,
+          1.2466666666666666,
+          1.25,
+          1.28,
+          1.3133333333333335,
+          1.3266666666666667,
+          1.3516666666666668
+        ],
+        "members": [
+          {
+            "id": "s01-chair",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 3287,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-table",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 1609,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-laptop",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 4329,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-draft",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 1920,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-neck",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 5,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-body",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 106,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-upperL",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 83,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-foreL",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 77,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-upperR",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 69,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-foreR",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 77,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-thighL",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 74,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-shinL",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 84,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-thighR",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 82,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-shinR",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 80,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-hand-left",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 43,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-hand-right",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 45,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-foot-left",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 104,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-foot-right",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 107,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-head",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 441,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-scarf",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 137,
+            "regions": [
+              "s01-action"
+            ]
+          },
+          {
+            "id": "s01-headline",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 0,
+            "last_visible": 1.3516666666666668,
+            "minimum_composition_pixels": 975,
+            "regions": [
+              "s01-action"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "s02",
+        "sample_count": 67,
+        "samples": [
+          1.36,
+          1.3683333333333334,
+          1.3933333333333335,
+          1.4066666666666667,
+          1.4400000000000002,
+          1.4733333333333336,
+          1.4866666666666666,
+          1.52,
+          1.5533333333333335,
+          1.5666666666666667,
+          1.6,
+          1.61,
+          1.6333333333333335,
+          1.6466666666666667,
+          1.6800000000000002,
+          1.7133333333333336,
+          1.7266666666666668,
+          1.7600000000000002,
+          1.7933333333333337,
+          1.8066666666666666,
+          1.84,
+          1.86,
+          1.8733333333333335,
+          1.8866666666666667,
+          1.9200000000000002,
+          1.9533333333333336,
+          1.9666666666666666,
+          2,
+          2.033333333333333,
+          2.046666666666667,
+          2.08,
+          2.1100000000000003,
+          2.1133333333333333,
+          2.126666666666667,
+          2.16,
+          2.1933333333333334,
+          2.206666666666667,
+          2.24,
+          2.2733333333333334,
+          2.2866666666666666,
+          2.32,
+          2.353333333333333,
+          2.3600000000000003,
+          2.3666666666666667,
+          2.4,
+          2.433333333333333,
+          2.4466666666666668,
+          2.48,
+          2.513333333333333,
+          2.526666666666667,
+          2.56,
+          2.5933333333333333,
+          2.606666666666667,
+          2.6100000000000003,
+          2.64,
+          2.6733333333333333,
+          2.686666666666667,
+          2.72,
+          2.7533333333333334,
+          2.766666666666667,
+          2.8000000000000003,
+          2.8333333333333335,
+          2.846666666666667,
+          2.8600000000000003,
+          2.8666666666666667,
+          2.8800000000000003,
+          2.8916666666666666
+        ],
+        "members": [
+          {
+            "id": "s02-door",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 2408,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-shelf",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 2508,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-neck",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 3,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-body",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 131,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-upperL",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 72,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-foreL",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 78,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-upperR",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 67,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-foreR",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 56,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-thighL",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 52,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-shinL",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 72,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-thighR",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 46,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-shinR",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 72,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-hand-left",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 19,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-hand-right",
+            "eligible_samples": 67,
+            "observed_samples": 50,
+            "occluded_samples": 17,
+            "occlusion_intervals": [
+              {
+                "start": 2.56,
+                "end": 2.8916666666666666,
+                "sample_count": 17
+              }
+            ],
+            "first_visible": 1.36,
+            "last_visible": 2.526666666666667,
+            "minimum_composition_pixels": 0,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-foot-left",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 104,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-foot-right",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 104,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-head",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 282,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-scarf",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 130,
+            "regions": [
+              "s02-action"
+            ]
+          },
+          {
+            "id": "s02-cloth",
+            "eligible_samples": 67,
+            "observed_samples": 67,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 1.36,
+            "last_visible": 2.8916666666666666,
+            "minimum_composition_pixels": 384,
+            "regions": [
+              "s02-action"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "s03",
+        "sample_count": 15,
+        "samples": [
+          2.9,
+          2.908333333333333,
+          2.933333333333333,
+          3.15,
+          3.4,
+          3.65,
+          3.8676666666666666,
+          3.9,
+          3.901,
+          3.934333333333333,
+          4.15,
+          4.4,
+          4.65,
+          4.6866666666666665,
+          4.711666666666666
+        ],
+        "members": [
+          {
+            "id": "s03-five",
+            "eligible_samples": 15,
+            "observed_samples": 15,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 2.9,
+            "last_visible": 4.711666666666666,
+            "minimum_composition_pixels": 1094,
+            "regions": [
+              "s03-action"
+            ]
+          },
+          {
+            "id": "s03-laptop",
+            "eligible_samples": 15,
+            "observed_samples": 15,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 2.9,
+            "last_visible": 4.711666666666666,
+            "minimum_composition_pixels": 14343,
+            "regions": [
+              "s03-action"
+            ]
+          },
+          {
+            "id": "s03-draft",
+            "eligible_samples": 15,
+            "observed_samples": 15,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 2.9,
+            "last_visible": 4.711666666666666,
+            "minimum_composition_pixels": 5789,
+            "regions": [
+              "s03-action"
+            ]
+          },
+          {
+            "id": "s03-hover",
+            "eligible_samples": 15,
+            "observed_samples": 15,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 2.9,
+            "last_visible": 4.711666666666666,
+            "minimum_composition_pixels": 311,
+            "regions": [
+              "s03-action"
+            ]
+          },
+          {
+            "id": "s03-cursor",
+            "eligible_samples": 15,
+            "observed_samples": 15,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 2.9,
+            "last_visible": 4.711666666666666,
+            "minimum_composition_pixels": 8,
+            "regions": [
+              "s03-action"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "s04",
+        "sample_count": 116,
+        "samples": [
+          4.72,
+          4.7283333333333335,
+          4.753333333333333,
+          4.766666666666667,
+          4.8,
+          4.833333333333333,
+          4.846666666666667,
+          4.88,
+          4.913333333333333,
+          4.926666666666667,
+          4.96,
+          4.97,
+          4.993333333333333,
+          5.006666666666667,
+          5.04,
+          5.073333333333333,
+          5.086666666666667,
+          5.12,
+          5.153333333333333,
+          5.166666666666667,
+          5.2,
+          5.210266666666667,
+          5.22,
+          5.233333333333333,
+          5.2436,
+          5.246666666666666,
+          5.276933333333333,
+          5.279999999999999,
+          5.313333333333333,
+          5.326666666666666,
+          5.359999999999999,
+          5.393333333333333,
+          5.406666666666666,
+          5.4399999999999995,
+          5.47,
+          5.473333333333333,
+          5.486666666666666,
+          5.52,
+          5.553333333333333,
+          5.566666666666666,
+          5.567266666666667,
+          5.6,
+          5.6006,
+          5.633333333333333,
+          5.633933333333333,
+          5.6466666666666665,
+          5.68,
+          5.713333333333333,
+          5.72,
+          5.726666666666667,
+          5.76,
+          5.793333333333333,
+          5.806666666666667,
+          5.84,
+          5.873333333333333,
+          5.886666666666667,
+          5.92,
+          5.924266666666666,
+          5.953333333333333,
+          5.957599999999999,
+          5.966666666666667,
+          5.97,
+          5.9909333333333326,
+          6,
+          6.033333333333333,
+          6.046666666666667,
+          6.08,
+          6.113333333333333,
+          6.126666666666667,
+          6.16,
+          6.193333333333333,
+          6.206666666666667,
+          6.22,
+          6.24,
+          6.273333333333333,
+          6.281266666666666,
+          6.286666666666667,
+          6.3145999999999995,
+          6.32,
+          6.347933333333333,
+          6.3533333333333335,
+          6.366666666666667,
+          6.4,
+          6.433333333333334,
+          6.446666666666667,
+          6.47,
+          6.48,
+          6.513333333333334,
+          6.526666666666667,
+          6.5600000000000005,
+          6.593333333333334,
+          6.606666666666667,
+          6.6382666666666665,
+          6.640000000000001,
+          6.6716,
+          6.673333333333334,
+          6.686666666666667,
+          6.704933333333333,
+          6.72,
+          6.720000000000001,
+          6.753333333333334,
+          6.7666666666666675,
+          6.800000000000001,
+          6.833333333333334,
+          6.846666666666668,
+          6.880000000000001,
+          6.913333333333334,
+          6.926666666666668,
+          6.960000000000001,
+          6.97,
+          6.993333333333334,
+          7.006666666666668,
+          7.040000000000001,
+          7.066666666666666,
+          7.073333333333334,
+          7.091666666666666
+        ],
+        "members": [
+          {
+            "id": "s04-tiles",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 11341,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-counter",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 12635,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-forty",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 1221,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-dirt-0",
+            "eligible_samples": 24,
+            "observed_samples": 24,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 5.233333333333333,
+            "minimum_composition_pixels": 3,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-dirt-1",
+            "eligible_samples": 42,
+            "observed_samples": 42,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 5.6,
+            "minimum_composition_pixels": 3,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-dirt-2",
+            "eligible_samples": 60,
+            "observed_samples": 60,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 5.957599999999999,
+            "minimum_composition_pixels": 5,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-dirt-3",
+            "eligible_samples": 77,
+            "observed_samples": 77,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 6.286666666666667,
+            "minimum_composition_pixels": 3,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-dirt-4",
+            "eligible_samples": 94,
+            "observed_samples": 94,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 6.640000000000001,
+            "minimum_composition_pixels": 4,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-neck",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 6,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-body",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 110,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-upperL",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 38,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-foreL",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 67,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-upperR",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 86,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-foreR",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 49,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-thighL",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 77,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-shinL",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 85,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-thighR",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 84,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-shinR",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 82,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-hand-left",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 5,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-hand-right",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 29,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-foot-left",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 109,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-foot-right",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 109,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-head",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 287,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-scarf",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 130,
+            "regions": [
+              "s04-action"
+            ]
+          },
+          {
+            "id": "s04-cloth",
+            "eligible_samples": 116,
+            "observed_samples": 116,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 4.72,
+            "last_visible": 7.091666666666666,
+            "minimum_composition_pixels": 401,
+            "regions": [
+              "s04-action"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "s05",
+        "sample_count": 14,
+        "samples": [
+          7.1,
+          7.108333333333333,
+          7.133333333333333,
+          7.35,
+          7.6,
+          7.85,
+          8.1,
+          8.147866666666667,
+          8.1812,
+          8.214533333333334,
+          8.35,
+          8.6,
+          8.656666666666666,
+          8.681666666666667
+        ],
+        "members": [
+          {
+            "id": "s05-tiles",
+            "eligible_samples": 14,
+            "observed_samples": 14,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 7.1,
+            "last_visible": 8.681666666666667,
+            "minimum_composition_pixels": 39723,
+            "regions": [
+              "s05-action"
+            ]
+          },
+          {
+            "id": "s05-ledge",
+            "eligible_samples": 14,
+            "observed_samples": 14,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 7.1,
+            "last_visible": 8.681666666666667,
+            "minimum_composition_pixels": 2913,
+            "regions": [
+              "s05-action"
+            ]
+          },
+          {
+            "id": "s05-rack",
+            "eligible_samples": 14,
+            "observed_samples": 14,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 7.1,
+            "last_visible": 8.681666666666667,
+            "minimum_composition_pixels": 819,
+            "regions": [
+              "s05-action"
+            ]
+          },
+          {
+            "id": "s05-plate",
+            "eligible_samples": 14,
+            "observed_samples": 14,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 7.1,
+            "last_visible": 8.681666666666667,
+            "minimum_composition_pixels": 3419,
+            "regions": [
+              "s05-action"
+            ]
+          },
+          {
+            "id": "s05-plate-hand-0",
+            "eligible_samples": 14,
+            "observed_samples": 14,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 7.1,
+            "last_visible": 8.681666666666667,
+            "minimum_composition_pixels": 156,
+            "regions": [
+              "s05-action"
+            ]
+          },
+          {
+            "id": "s05-plate-hand-1",
+            "eligible_samples": 14,
+            "observed_samples": 14,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 7.1,
+            "last_visible": 8.681666666666667,
+            "minimum_composition_pixels": 167,
+            "regions": [
+              "s05-action"
+            ]
+          },
+          {
+            "id": "s05-plate-arm-0",
+            "eligible_samples": 14,
+            "observed_samples": 14,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 7.1,
+            "last_visible": 8.681666666666667,
+            "minimum_composition_pixels": 255,
+            "regions": [
+              "s05-action"
+            ]
+          },
+          {
+            "id": "s05-plate-arm-1",
+            "eligible_samples": 14,
+            "observed_samples": 14,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 7.1,
+            "last_visible": 8.681666666666667,
+            "minimum_composition_pixels": 253,
+            "regions": [
+              "s05-action"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "s06",
+        "sample_count": 18,
+        "samples": [
+          8.69,
+          8.698333333333332,
+          8.723333333333333,
+          8.94,
+          9.19,
+          9.44,
+          9.659866666666666,
+          9.69,
+          9.6932,
+          9.726533333333332,
+          9.800666666666666,
+          9.834,
+          9.867333333333333,
+          9.94,
+          10.19,
+          10.416666666666666,
+          10.44,
+          10.441666666666666
+        ],
+        "members": [
+          {
+            "id": "s06-tiles",
+            "eligible_samples": 18,
+            "observed_samples": 18,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 8.69,
+            "last_visible": 10.441666666666666,
+            "minimum_composition_pixels": 40201,
+            "regions": [
+              "s06-action"
+            ]
+          },
+          {
+            "id": "s06-ledge",
+            "eligible_samples": 18,
+            "observed_samples": 18,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 8.69,
+            "last_visible": 10.441666666666666,
+            "minimum_composition_pixels": 2958,
+            "regions": [
+              "s06-action"
+            ]
+          },
+          {
+            "id": "s06-crumb",
+            "eligible_samples": 9,
+            "observed_samples": 8,
+            "occluded_samples": 1,
+            "occlusion_intervals": [
+              {
+                "start": 9.44,
+                "end": 9.44,
+                "sample_count": 1
+              }
+            ],
+            "first_visible": 8.69,
+            "last_visible": 9.6932,
+            "minimum_composition_pixels": 0,
+            "regions": [
+              "s06-action"
+            ]
+          },
+          {
+            "id": "s06-cloth",
+            "eligible_samples": 18,
+            "observed_samples": 18,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 8.69,
+            "last_visible": 10.441666666666666,
+            "minimum_composition_pixels": 1408,
+            "regions": [
+              "s06-action"
+            ]
+          },
+          {
+            "id": "s06-hand",
+            "eligible_samples": 18,
+            "observed_samples": 18,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 8.69,
+            "last_visible": 10.441666666666666,
+            "minimum_composition_pixels": 652,
+            "regions": [
+              "s06-action"
+            ]
+          },
+          {
+            "id": "s06-forearm",
+            "eligible_samples": 18,
+            "observed_samples": 18,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 8.69,
+            "last_visible": 10.441666666666666,
+            "minimum_composition_pixels": 488,
+            "regions": [
+              "s06-action"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "s07",
+        "sample_count": 105,
+        "samples": [
+          10.45,
+          10.458333333333332,
+          10.483333333333333,
+          10.496666666666666,
+          10.53,
+          10.563333333333333,
+          10.576666666666666,
+          10.61,
+          10.643333333333333,
+          10.656666666666666,
+          10.69,
+          10.7,
+          10.723333333333333,
+          10.736666666666666,
+          10.77,
+          10.803333333333333,
+          10.816666666666666,
+          10.85,
+          10.883333333333333,
+          10.896666666666667,
+          10.93,
+          10.95,
+          10.963333333333333,
+          10.976666666666667,
+          11.01,
+          11.043333333333333,
+          11.056666666666667,
+          11.09,
+          11.123333333333333,
+          11.136666666666667,
+          11.17,
+          11.2,
+          11.203333333333333,
+          11.216666666666667,
+          11.25,
+          11.283333333333333,
+          11.296666666666665,
+          11.329999999999998,
+          11.363333333333332,
+          11.376666666666665,
+          11.409999999999998,
+          11.443333333333332,
+          11.45,
+          11.456666666666665,
+          11.489999999999998,
+          11.523333333333332,
+          11.536666666666665,
+          11.569999999999999,
+          11.603333333333332,
+          11.616666666666665,
+          11.649999999999999,
+          11.683333333333332,
+          11.696666666666665,
+          11.7,
+          11.729999999999999,
+          11.763333333333332,
+          11.776666666666666,
+          11.809999999999999,
+          11.843333333333332,
+          11.856666666666666,
+          11.889999999999999,
+          11.923333333333332,
+          11.936666666666666,
+          11.95,
+          11.969999999999999,
+          12.003333333333332,
+          12.016666666666666,
+          12.049999999999999,
+          12.083333333333332,
+          12.096666666666666,
+          12.129999999999999,
+          12.163333333333332,
+          12.176666666666666,
+          12.2,
+          12.209999999999999,
+          12.243333333333332,
+          12.256666666666666,
+          12.29,
+          12.323333333333332,
+          12.336666666666666,
+          12.37,
+          12.403333333333332,
+          12.416666666666666,
+          12.45,
+          12.483333333333333,
+          12.496666666666666,
+          12.53,
+          12.563333333333333,
+          12.576666666666666,
+          12.61,
+          12.643333333333333,
+          12.656666666666666,
+          12.69,
+          12.7,
+          12.723333333333333,
+          12.736666666666666,
+          12.77,
+          12.803333333333333,
+          12.816666666666666,
+          12.85,
+          12.883333333333333,
+          12.896666666666667,
+          12.906666666666666,
+          12.93,
+          12.931666666666667
+        ],
+        "members": [
+          {
+            "id": "s07-tiles",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 6529,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-counter",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 13003,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-neck",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 1,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-body",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 104,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-upperL",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 36,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-foreL",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 84,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-upperR",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 77,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-foreR",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 74,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-thighL",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 77,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-shinL",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 85,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-thighR",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 84,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-shinR",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 82,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-hand-left",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 8,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-hand-right",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 31,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-foot-left",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 109,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-foot-right",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 109,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-head",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 268,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-scarf",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 123,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-cloth",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 392,
+            "regions": [
+              "s07-action"
+            ]
+          },
+          {
+            "id": "s07-still-empty",
+            "eligible_samples": 105,
+            "observed_samples": 105,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 10.45,
+            "last_visible": 12.931666666666667,
+            "minimum_composition_pixels": 4876,
+            "regions": [
+              "s07-action"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "s08",
+        "sample_count": 13,
+        "samples": [
+          12.94,
+          12.948333333333332,
+          12.973333333333333,
+          13.19,
+          13.44,
+          13.576666666666666,
+          13.61,
+          13.643333333333333,
+          13.69,
+          13.94,
+          14.19,
+          14.246666666666666,
+          14.271666666666667
+        ],
+        "members": [
+          {
+            "id": "s08-face",
+            "eligible_samples": 13,
+            "observed_samples": 13,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 12.94,
+            "last_visible": 14.271666666666667,
+            "minimum_composition_pixels": 2150,
+            "regions": [
+              "s08-action"
+            ]
+          },
+          {
+            "id": "s08-scarf",
+            "eligible_samples": 13,
+            "observed_samples": 13,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 12.94,
+            "last_visible": 14.271666666666667,
+            "minimum_composition_pixels": 774,
+            "regions": [
+              "s08-action"
+            ]
+          },
+          {
+            "id": "s08-body",
+            "eligible_samples": 13,
+            "observed_samples": 13,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 12.94,
+            "last_visible": 14.271666666666667,
+            "minimum_composition_pixels": 572,
+            "regions": [
+              "s08-action"
+            ]
+          },
+          {
+            "id": "s08-face-hand",
+            "eligible_samples": 13,
+            "observed_samples": 13,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 12.94,
+            "last_visible": 14.271666666666667,
+            "minimum_composition_pixels": 188,
+            "regions": [
+              "s08-action"
+            ]
+          },
+          {
+            "id": "s08-worry-upper",
+            "eligible_samples": 13,
+            "observed_samples": 13,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 12.94,
+            "last_visible": 14.271666666666667,
+            "minimum_composition_pixels": 91,
+            "regions": [
+              "s08-action"
+            ]
+          },
+          {
+            "id": "s08-worry-fore",
+            "eligible_samples": 13,
+            "observed_samples": 13,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 12.94,
+            "last_visible": 14.271666666666667,
+            "minimum_composition_pixels": 85,
+            "regions": [
+              "s08-action"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "s09",
+        "sample_count": 58,
+        "samples": [
+          14.28,
+          14.288333333333332,
+          14.313333333333333,
+          14.326666666666666,
+          14.36,
+          14.393333333333333,
+          14.406666666666666,
+          14.44,
+          14.473333333333333,
+          14.486666666666666,
+          14.52,
+          14.53,
+          14.553333333333333,
+          14.566666666666666,
+          14.6,
+          14.633333333333333,
+          14.646666666666667,
+          14.68,
+          14.713333333333333,
+          14.726666666666667,
+          14.76,
+          14.78,
+          14.793333333333333,
+          14.806666666666667,
+          14.84,
+          14.873333333333333,
+          14.886666666666667,
+          14.92,
+          14.945166666666667,
+          14.953333333333333,
+          14.966666666666667,
+          14.9785,
+          15,
+          15.011833333333334,
+          15.03,
+          15.033333333333333,
+          15.046666666666667,
+          15.08,
+          15.113333333333333,
+          15.126666666666667,
+          15.16,
+          15.193333333333333,
+          15.206666666666665,
+          15.239999999999998,
+          15.273333333333332,
+          15.28,
+          15.286666666666665,
+          15.319999999999999,
+          15.353333333333332,
+          15.366666666666665,
+          15.399999999999999,
+          15.433333333333332,
+          15.446666666666665,
+          15.479999999999999,
+          15.513333333333332,
+          15.516666666666667,
+          15.53,
+          15.541666666666668
+        ],
+        "members": [
+          {
+            "id": "s09-tiles",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 11392,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-counter",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 12582,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-neck",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 3,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-body",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 110,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-upperL",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 35,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-foreL",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 67,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-upperR",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 74,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-foreR",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 62,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-thighL",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 77,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-shinL",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 80,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-thighR",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 82,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-shinR",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 80,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-hand-left",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 3,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-hand-right",
+            "eligible_samples": 58,
+            "observed_samples": 51,
+            "occluded_samples": 7,
+            "occlusion_intervals": [
+              {
+                "start": 14.28,
+                "end": 14.406666666666666,
+                "sample_count": 7
+              }
+            ],
+            "first_visible": 14.44,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 0,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-foot-left",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 107,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-foot-right",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 106,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-head",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 276,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-scarf",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 130,
+            "regions": [
+              "s09-action"
+            ]
+          },
+          {
+            "id": "s09-cloth",
+            "eligible_samples": 58,
+            "observed_samples": 58,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 14.28,
+            "last_visible": 15.541666666666668,
+            "minimum_composition_pixels": 384,
+            "regions": [
+              "s09-action"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "s10",
+        "sample_count": 65,
+        "samples": [
+          15.55,
+          15.558333333333334,
+          15.583333333333334,
+          15.596666666666668,
+          15.63,
+          15.663333333333334,
+          15.676666666666668,
+          15.71,
+          15.743333333333334,
+          15.756666666666668,
+          15.790000000000001,
+          15.8,
+          15.823333333333334,
+          15.836666666666668,
+          15.870000000000001,
+          15.903333333333334,
+          15.916666666666668,
+          15.950000000000001,
+          15.983333333333334,
+          15.996666666666668,
+          16.03,
+          16.05,
+          16.063333333333336,
+          16.076666666666664,
+          16.11,
+          16.143333333333334,
+          16.156666666666666,
+          16.19,
+          16.223333333333336,
+          16.236666666666665,
+          16.27,
+          16.3,
+          16.303333333333335,
+          16.316666666666666,
+          16.35,
+          16.383333333333336,
+          16.396666666666665,
+          16.43,
+          16.463333333333335,
+          16.476666666666667,
+          16.51,
+          16.543333333333337,
+          16.55,
+          16.556666666666665,
+          16.59,
+          16.623333333333335,
+          16.636666666666667,
+          16.67,
+          16.703333333333337,
+          16.716666666666665,
+          16.75,
+          16.783333333333335,
+          16.796666666666667,
+          16.8,
+          16.830000000000002,
+          16.863333333333337,
+          16.876666666666665,
+          16.91,
+          16.943333333333335,
+          16.956666666666667,
+          16.990000000000002,
+          17.023333333333337,
+          17.026666666666664,
+          17.05,
+          17.051666666666666
+        ],
+        "members": [
+          {
+            "id": "s10-chair",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 3287,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-table",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 1612,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-laptop",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 4327,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-draft",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 1919,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-neck",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 5,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-body",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 80,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-upperL",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 76,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-foreL",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 81,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-upperR",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 38,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-foreR",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 76,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-thighL",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 74,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-shinL",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 84,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-thighR",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 82,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-shinR",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 80,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-hand-left",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 43,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-hand-right",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 44,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-foot-left",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 104,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-foot-right",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 107,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-head",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 424,
+            "regions": [
+              "s10-action"
+            ]
+          },
+          {
+            "id": "s10-scarf",
+            "eligible_samples": 65,
+            "observed_samples": 65,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 15.55,
+            "last_visible": 17.051666666666666,
+            "minimum_composition_pixels": 138,
+            "regions": [
+              "s10-action"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "s11",
+        "sample_count": 145,
+        "samples": [
+          17.06,
+          17.06833333333333,
+          17.069756321839076,
+          17.093333333333334,
+          17.10308965517241,
+          17.106666666666662,
+          17.112845977011492,
+          17.136422988505746,
+          17.139999999999997,
+          17.146179310344827,
+          17.155935632183905,
+          17.173333333333332,
+          17.179512643678162,
+          17.186666666666664,
+          17.18926896551724,
+          17.19902528735632,
+          17.22,
+          17.222602298850575,
+          17.232358620689656,
+          17.242114942528733,
+          17.253333333333334,
+          17.26569195402299,
+          17.266666666666662,
+          17.275448275862068,
+          17.285204597701146,
+          17.299999999999997,
+          17.308781609195403,
+          17.31,
+          17.31853793103448,
+          17.32829425287356,
+          17.333333333333332,
+          17.346666666666664,
+          17.351871264367816,
+          17.361627586206897,
+          17.371383908045974,
+          17.38,
+          17.39496091954023,
+          17.40471724137931,
+          17.413333333333334,
+          17.414473563218387,
+          17.426666666666662,
+          17.438050574712644,
+          17.44780689655172,
+          17.457563218390803,
+          17.459999999999997,
+          17.481140229885057,
+          17.490896551724138,
+          17.493333333333332,
+          17.500652873563215,
+          17.506666666666664,
+          17.524229885057473,
+          17.53398620689655,
+          17.54,
+          17.54374252873563,
+          17.56,
+          17.567319540229885,
+          17.573333333333334,
+          17.577075862068966,
+          17.586666666666662,
+          17.586832183908044,
+          17.6104091954023,
+          17.619999999999997,
+          17.62016551724138,
+          17.629921839080456,
+          17.653333333333332,
+          17.653498850574714,
+          17.66325517241379,
+          17.666666666666664,
+          17.673011494252872,
+          17.696588505747126,
+          17.7,
+          17.706344827586207,
+          17.716101149425285,
+          17.733333333333334,
+          17.739678160919542,
+          17.746666666666663,
+          17.74943448275862,
+          17.7591908045977,
+          17.779999999999998,
+          17.782767816091955,
+          17.792524137931036,
+          17.802280459770113,
+          17.81,
+          17.813333333333333,
+          17.82585747126437,
+          17.826666666666664,
+          17.835613793103448,
+          17.845370114942526,
+          17.86,
+          17.868947126436783,
+          17.87870344827586,
+          17.88845977011494,
+          17.893333333333334,
+          17.906666666666663,
+          17.912036781609196,
+          17.921793103448277,
+          17.931549425287354,
+          17.939999999999998,
+          17.95512643678161,
+          17.96488275862069,
+          17.973333333333333,
+          17.974639080459767,
+          17.986666666666665,
+          17.998216091954024,
+          18.0079724137931,
+          18.017728735632183,
+          18.02,
+          18.041305747126437,
+          18.051062068965518,
+          18.053333333333335,
+          18.06,
+          18.060818390804595,
+          18.066666666666663,
+          18.084395402298853,
+          18.09415172413793,
+          18.099999999999998,
+          18.10390804597701,
+          18.127485057471265,
+          18.133333333333333,
+          18.137241379310346,
+          18.146666666666665,
+          18.146997701149424,
+          18.17057471264368,
+          18.18,
+          18.18033103448276,
+          18.190087356321836,
+          18.213333333333335,
+          18.213664367816094,
+          18.22342068965517,
+          18.226666666666663,
+          18.233177011494252,
+          18.256754022988506,
+          18.259999999999998,
+          18.266510344827587,
+          18.293333333333333,
+          18.299843678160922,
+          18.306666666666665,
+          18.31,
+          18.34,
+          18.373333333333335,
+          18.386666666666663,
+          18.419999999999998,
+          18.446666666666665,
+          18.453333333333333,
+          18.471666666666668
+        ],
+        "members": [
+          {
+            "id": "s11-laptop",
+            "eligible_samples": 145,
+            "observed_samples": 145,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.06,
+            "last_visible": 18.471666666666668,
+            "minimum_composition_pixels": 14588,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-draft",
+            "eligible_samples": 145,
+            "observed_samples": 145,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.06,
+            "last_visible": 18.471666666666668,
+            "minimum_composition_pixels": 6244,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-0",
+            "eligible_samples": 5,
+            "observed_samples": 5,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.06,
+            "last_visible": 17.10308965517241,
+            "minimum_composition_pixels": 39,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-1",
+            "eligible_samples": 4,
+            "observed_samples": 4,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.106666666666662,
+            "last_visible": 17.139999999999997,
+            "minimum_composition_pixels": 51,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-2",
+            "eligible_samples": 6,
+            "observed_samples": 6,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.146179310344827,
+            "last_visible": 17.18926896551724,
+            "minimum_composition_pixels": 56,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-3",
+            "eligible_samples": 3,
+            "observed_samples": 3,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.19902528735632,
+            "last_visible": 17.222602298850575,
+            "minimum_composition_pixels": 56,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-4",
+            "eligible_samples": 5,
+            "observed_samples": 5,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.232358620689656,
+            "last_visible": 17.266666666666662,
+            "minimum_composition_pixels": 76,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-5",
+            "eligible_samples": 6,
+            "observed_samples": 6,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.275448275862068,
+            "last_visible": 17.31853793103448,
+            "minimum_composition_pixels": 95,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-6",
+            "eligible_samples": 4,
+            "observed_samples": 4,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.32829425287356,
+            "last_visible": 17.351871264367816,
+            "minimum_composition_pixels": 112,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-7",
+            "eligible_samples": 5,
+            "observed_samples": 5,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.361627586206897,
+            "last_visible": 17.40471724137931,
+            "minimum_composition_pixels": 128,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-8",
+            "eligible_samples": 5,
+            "observed_samples": 5,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.413333333333334,
+            "last_visible": 17.44780689655172,
+            "minimum_composition_pixels": 152,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-9",
+            "eligible_samples": 3,
+            "observed_samples": 3,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.457563218390803,
+            "last_visible": 17.481140229885057,
+            "minimum_composition_pixels": 152,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-10",
+            "eligible_samples": 6,
+            "observed_samples": 6,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.490896551724138,
+            "last_visible": 17.53398620689655,
+            "minimum_composition_pixels": 176,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-11",
+            "eligible_samples": 5,
+            "observed_samples": 5,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.54,
+            "last_visible": 17.573333333333334,
+            "minimum_composition_pixels": 192,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-12",
+            "eligible_samples": 6,
+            "observed_samples": 6,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.577075862068966,
+            "last_visible": 17.62016551724138,
+            "minimum_composition_pixels": 192,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-13",
+            "eligible_samples": 4,
+            "observed_samples": 4,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.629921839080456,
+            "last_visible": 17.66325517241379,
+            "minimum_composition_pixels": 209,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-14",
+            "eligible_samples": 4,
+            "observed_samples": 4,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.666666666666664,
+            "last_visible": 17.7,
+            "minimum_composition_pixels": 231,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-15",
+            "eligible_samples": 6,
+            "observed_samples": 6,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.706344827586207,
+            "last_visible": 17.74943448275862,
+            "minimum_composition_pixels": 247,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-16",
+            "eligible_samples": 3,
+            "observed_samples": 3,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.7591908045977,
+            "last_visible": 17.782767816091955,
+            "minimum_composition_pixels": 273,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-17",
+            "eligible_samples": 6,
+            "observed_samples": 6,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.792524137931036,
+            "last_visible": 17.826666666666664,
+            "minimum_composition_pixels": 273,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-18",
+            "eligible_samples": 5,
+            "observed_samples": 5,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.835613793103448,
+            "last_visible": 17.87870344827586,
+            "minimum_composition_pixels": 293,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-19",
+            "eligible_samples": 4,
+            "observed_samples": 4,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.88845977011494,
+            "last_visible": 17.912036781609196,
+            "minimum_composition_pixels": 320,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-20",
+            "eligible_samples": 5,
+            "observed_samples": 5,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.921793103448277,
+            "last_visible": 17.96488275862069,
+            "minimum_composition_pixels": 337,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-21",
+            "eligible_samples": 5,
+            "observed_samples": 5,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.973333333333333,
+            "last_visible": 18.0079724137931,
+            "minimum_composition_pixels": 356,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-22",
+            "eligible_samples": 3,
+            "observed_samples": 3,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 18.017728735632183,
+            "last_visible": 18.041305747126437,
+            "minimum_composition_pixels": 377,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-23",
+            "eligible_samples": 7,
+            "observed_samples": 7,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 18.051062068965518,
+            "last_visible": 18.09415172413793,
+            "minimum_composition_pixels": 377,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-24",
+            "eligible_samples": 4,
+            "observed_samples": 4,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 18.099999999999998,
+            "last_visible": 18.133333333333333,
+            "minimum_composition_pixels": 400,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-25",
+            "eligible_samples": 6,
+            "observed_samples": 6,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 18.137241379310346,
+            "last_visible": 18.18033103448276,
+            "minimum_composition_pixels": 426,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-26",
+            "eligible_samples": 4,
+            "observed_samples": 4,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 18.190087356321836,
+            "last_visible": 18.22342068965517,
+            "minimum_composition_pixels": 437,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-27",
+            "eligible_samples": 4,
+            "observed_samples": 4,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 18.226666666666663,
+            "last_visible": 18.259999999999998,
+            "minimum_composition_pixels": 453,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-letters-28",
+            "eligible_samples": 12,
+            "observed_samples": 12,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 18.266510344827587,
+            "last_visible": 18.471666666666668,
+            "minimum_composition_pixels": 480,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-caret",
+            "eligible_samples": 145,
+            "observed_samples": 145,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.06,
+            "last_visible": 18.471666666666668,
+            "minimum_composition_pixels": 8,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-typing-0",
+            "eligible_samples": 145,
+            "observed_samples": 145,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.06,
+            "last_visible": 18.471666666666668,
+            "minimum_composition_pixels": 382,
+            "regions": [
+              "s11-action"
+            ]
+          },
+          {
+            "id": "s11-typing-1",
+            "eligible_samples": 145,
+            "observed_samples": 145,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 17.06,
+            "last_visible": 18.471666666666668,
+            "minimum_composition_pixels": 378,
+            "regions": [
+              "s11-action"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "s12",
+        "sample_count": 13,
+        "samples": [
+          18.48,
+          18.488333333333333,
+          18.513333333333335,
+          18.73,
+          18.964666666666666,
+          18.98,
+          18.998,
+          19.031333333333336,
+          19.23,
+          19.48,
+          19.73,
+          19.926666666666666,
+          19.951666666666668
+        ],
+        "members": [
+          {
+            "id": "s12-laptop",
+            "eligible_samples": 13,
+            "observed_samples": 13,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 18.48,
+            "last_visible": 19.951666666666668,
+            "minimum_composition_pixels": 14972,
+            "regions": [
+              "s12-action"
+            ]
+          },
+          {
+            "id": "s12-draft",
+            "eligible_samples": 13,
+            "observed_samples": 13,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 18.48,
+            "last_visible": 19.951666666666668,
+            "minimum_composition_pixels": 6069,
+            "regions": [
+              "s12-action"
+            ]
+          },
+          {
+            "id": "s12-written",
+            "eligible_samples": 13,
+            "observed_samples": 13,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 18.48,
+            "last_visible": 19.951666666666668,
+            "minimum_composition_pixels": 480,
+            "regions": [
+              "s12-action"
+            ]
+          },
+          {
+            "id": "s12-caret",
+            "eligible_samples": 13,
+            "observed_samples": 13,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 18.48,
+            "last_visible": 19.951666666666668,
+            "minimum_composition_pixels": 8,
+            "regions": [
+              "s12-action"
+            ]
+          },
+          {
+            "id": "s12-send-hand",
+            "eligible_samples": 13,
+            "observed_samples": 13,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 18.48,
+            "last_visible": 19.951666666666668,
+            "minimum_composition_pixels": 212,
+            "regions": [
+              "s12-action"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "s13",
+        "sample_count": 77,
+        "samples": [
+          19.96,
+          19.968333333333334,
+          19.993333333333336,
+          20.006666666666664,
+          20.04,
+          20.073333333333334,
+          20.086666666666666,
+          20.12,
+          20.153333333333336,
+          20.166666666666664,
+          20.2,
+          20.21,
+          20.233333333333334,
+          20.246666666666666,
+          20.28,
+          20.313333333333336,
+          20.326666666666664,
+          20.36,
+          20.393333333333334,
+          20.406666666666666,
+          20.44,
+          20.46,
+          20.473333333333336,
+          20.486666666666665,
+          20.52,
+          20.553333333333335,
+          20.566666666666666,
+          20.6,
+          20.633333333333336,
+          20.646666666666665,
+          20.68,
+          20.71,
+          20.713333333333335,
+          20.726666666666667,
+          20.76,
+          20.793333333333337,
+          20.806666666666665,
+          20.84,
+          20.873333333333335,
+          20.886666666666667,
+          20.92,
+          20.953333333333337,
+          20.96,
+          20.966666666666665,
+          21,
+          21.033333333333335,
+          21.046666666666667,
+          21.080000000000002,
+          21.113333333333337,
+          21.126666666666665,
+          21.16,
+          21.193333333333335,
+          21.206666666666667,
+          21.21,
+          21.240000000000002,
+          21.273333333333337,
+          21.286666666666665,
+          21.32,
+          21.353333333333335,
+          21.366666666666667,
+          21.400000000000002,
+          21.433333333333337,
+          21.446666666666665,
+          21.46,
+          21.48,
+          21.513333333333335,
+          21.526666666666667,
+          21.560000000000002,
+          21.593333333333337,
+          21.606666666666666,
+          21.64,
+          21.673333333333336,
+          21.686666666666667,
+          21.696666666666665,
+          21.71,
+          21.720000000000002,
+          21.721666666666668
+        ],
+        "members": [
+          {
+            "id": "s13-laptop",
+            "eligible_samples": 77,
+            "observed_samples": 77,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 19.96,
+            "last_visible": 21.721666666666668,
+            "minimum_composition_pixels": 14589,
+            "regions": [
+              "s13-action"
+            ]
+          },
+          {
+            "id": "s13-draft",
+            "eligible_samples": 77,
+            "observed_samples": 77,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 19.96,
+            "last_visible": 21.721666666666668,
+            "minimum_composition_pixels": 6244,
+            "regions": [
+              "s13-action"
+            ]
+          },
+          {
+            "id": "s13-written",
+            "eligible_samples": 77,
+            "observed_samples": 77,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 19.96,
+            "last_visible": 21.721666666666668,
+            "minimum_composition_pixels": 480,
+            "regions": [
+              "s13-action"
+            ]
+          },
+          {
+            "id": "s13-caret",
+            "eligible_samples": 77,
+            "observed_samples": 77,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 19.96,
+            "last_visible": 21.721666666666668,
+            "minimum_composition_pixels": 8,
+            "regions": [
+              "s13-action"
+            ]
+          },
+          {
+            "id": "s13-typing-0",
+            "eligible_samples": 77,
+            "observed_samples": 77,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 19.96,
+            "last_visible": 21.721666666666668,
+            "minimum_composition_pixels": 382,
+            "regions": [
+              "s13-action"
+            ]
+          },
+          {
+            "id": "s13-typing-1",
+            "eligible_samples": 77,
+            "observed_samples": 77,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 19.96,
+            "last_visible": 21.721666666666668,
+            "minimum_composition_pixels": 381,
+            "regions": [
+              "s13-action"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "s14",
+        "sample_count": 102,
+        "samples": [
+          21.73,
+          21.738333333333333,
+          21.763333333333335,
+          21.776666666666664,
+          21.81,
+          21.843333333333334,
+          21.856666666666666,
+          21.89,
+          21.923333333333336,
+          21.936666666666664,
+          21.97,
+          21.98,
+          22.003333333333334,
+          22.016666666666666,
+          22.05,
+          22.083333333333336,
+          22.096666666666664,
+          22.13,
+          22.163333333333334,
+          22.176666666666666,
+          22.21,
+          22.23,
+          22.243333333333336,
+          22.256666666666664,
+          22.29,
+          22.323333333333334,
+          22.336666666666666,
+          22.37,
+          22.403333333333336,
+          22.416666666666664,
+          22.45,
+          22.48,
+          22.483333333333334,
+          22.496666666666666,
+          22.53,
+          22.563333333333336,
+          22.576666666666664,
+          22.61,
+          22.643333333333334,
+          22.656666666666666,
+          22.69,
+          22.723333333333336,
+          22.73,
+          22.736666666666665,
+          22.77,
+          22.803333333333335,
+          22.816666666666666,
+          22.85,
+          22.883333333333336,
+          22.896666666666665,
+          22.93,
+          22.963333333333335,
+          22.976666666666667,
+          22.98,
+          23.01,
+          23.043333333333337,
+          23.056666666666665,
+          23.09,
+          23.123333333333335,
+          23.136666666666667,
+          23.17,
+          23.203333333333337,
+          23.216666666666665,
+          23.23,
+          23.25,
+          23.283333333333335,
+          23.296666666666667,
+          23.330000000000002,
+          23.363333333333337,
+          23.376666666666665,
+          23.41,
+          23.443333333333335,
+          23.456666666666667,
+          23.48,
+          23.490000000000002,
+          23.523333333333337,
+          23.536666666666665,
+          23.57,
+          23.603333333333335,
+          23.616666666666667,
+          23.650000000000002,
+          23.683333333333337,
+          23.696666666666665,
+          23.73,
+          23.763333333333335,
+          23.776666666666667,
+          23.810000000000002,
+          23.843333333333337,
+          23.856666666666666,
+          23.89,
+          23.923333333333336,
+          23.936666666666667,
+          23.970000000000002,
+          23.98,
+          24.003333333333337,
+          24.016666666666666,
+          24.05,
+          24.083333333333336,
+          24.096666666666668,
+          24.126666666666665,
+          24.130000000000003,
+          24.151666666666667
+        ],
+        "members": [
+          {
+            "id": "s14-chair",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 3287,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-table",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 1612,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-laptop",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 4325,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-draft",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 1930,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-neck",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 4,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-body",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 80,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-upperL",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 76,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-foreL",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 81,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-upperR",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 34,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-foreR",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 76,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-thighL",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 74,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-shinL",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 84,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-thighR",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 82,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-shinR",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 80,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-hand-left",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 41,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-hand-right",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 46,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-foot-left",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 104,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-foot-right",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 107,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-head",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 356,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-scarf",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 122,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-written",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 232,
+            "regions": [
+              "s14-action"
+            ]
+          },
+          {
+            "id": "s14-caret",
+            "eligible_samples": 102,
+            "observed_samples": 102,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 21.73,
+            "last_visible": 24.151666666666667,
+            "minimum_composition_pixels": 6,
+            "regions": [
+              "s14-action"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "s15",
+        "sample_count": 151,
+        "samples": [
+          24.16,
+          24.168333333333333,
+          24.193333333333335,
+          24.206666666666663,
+          24.233999999999998,
+          24.24,
+          24.267333333333333,
+          24.273333333333333,
+          24.286666666666665,
+          24.300666666666668,
+          24.32,
+          24.34133333333333,
+          24.353333333333335,
+          24.366666666666664,
+          24.374666666666666,
+          24.4,
+          24.408,
+          24.41,
+          24.433333333333334,
+          24.446666666666665,
+          24.448666666666664,
+          24.48,
+          24.482,
+          24.513333333333335,
+          24.515333333333334,
+          24.526666666666664,
+          24.555999999999997,
+          24.56,
+          24.589333333333332,
+          24.593333333333334,
+          24.606666666666666,
+          24.622666666666667,
+          24.64,
+          24.66,
+          24.66333333333333,
+          24.673333333333336,
+          24.686666666666664,
+          24.696666666666665,
+          24.72,
+          24.73,
+          24.753333333333334,
+          24.766666666666666,
+          24.770666666666664,
+          24.8,
+          24.804,
+          24.833333333333336,
+          24.837333333333333,
+          24.846666666666664,
+          24.877999999999997,
+          24.88,
+          24.91,
+          24.91133333333333,
+          24.913333333333334,
+          24.926666666666666,
+          24.944666666666667,
+          24.96,
+          24.985333333333333,
+          24.993333333333336,
+          25.006666666666664,
+          25.018666666666668,
+          25.04,
+          25.052000000000003,
+          25.073333333333334,
+          25.086666666666666,
+          25.092666666666666,
+          25.12,
+          25.126,
+          25.153333333333336,
+          25.159333333333336,
+          25.16,
+          25.166666666666664,
+          25.2,
+          25.233333333333334,
+          25.246666666666666,
+          25.26666666666667,
+          25.28,
+          25.307333333333332,
+          25.313333333333336,
+          25.326666666666664,
+          25.340666666666667,
+          25.36,
+          25.374000000000002,
+          25.393333333333334,
+          25.406666666666666,
+          25.41,
+          25.414666666666665,
+          25.44,
+          25.448,
+          25.473333333333336,
+          25.481333333333335,
+          25.486666666666665,
+          25.52,
+          25.522,
+          25.553333333333335,
+          25.555333333333333,
+          25.566666666666666,
+          25.58866666666667,
+          25.6,
+          25.62933333333333,
+          25.633333333333336,
+          25.646666666666665,
+          25.66,
+          25.662666666666667,
+          25.68,
+          25.696,
+          25.713333333333335,
+          25.726666666666667,
+          25.736666666666665,
+          25.76,
+          25.77,
+          25.793333333333337,
+          25.803333333333335,
+          25.806666666666665,
+          25.84,
+          25.843999999999998,
+          25.873333333333335,
+          25.877333333333333,
+          25.886666666666667,
+          25.91,
+          25.910666666666668,
+          25.92,
+          25.95133333333333,
+          25.953333333333337,
+          25.966666666666665,
+          25.984666666666666,
+          26,
+          26.018,
+          26.033333333333335,
+          26.046666666666667,
+          26.080000000000002,
+          26.113333333333337,
+          26.126666666666665,
+          26.16,
+          26.193333333333335,
+          26.206666666666667,
+          26.240000000000002,
+          26.273333333333337,
+          26.286666666666665,
+          26.32,
+          26.353333333333335,
+          26.366666666666667,
+          26.400000000000002,
+          26.41,
+          26.433333333333337,
+          26.446666666666665,
+          26.48,
+          26.513333333333335,
+          26.526666666666667,
+          26.541666666666664,
+          26.560000000000002,
+          26.566666666666666
+        ],
+        "members": [
+          {
+            "id": "s15-laptop",
+            "eligible_samples": 151,
+            "observed_samples": 151,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 24.16,
+            "last_visible": 26.566666666666666,
+            "minimum_composition_pixels": 14589,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-draft",
+            "eligible_samples": 151,
+            "observed_samples": 151,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 24.16,
+            "last_visible": 26.566666666666666,
+            "minimum_composition_pixels": 6244,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-written",
+            "eligible_samples": 151,
+            "observed_samples": 151,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 24.16,
+            "last_visible": 26.566666666666666,
+            "minimum_composition_pixels": 480,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-caret",
+            "eligible_samples": 151,
+            "observed_samples": 151,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 24.16,
+            "last_visible": 26.566666666666666,
+            "minimum_composition_pixels": 8,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-0",
+            "eligible_samples": 7,
+            "observed_samples": 7,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 24.16,
+            "last_visible": 24.267333333333333,
+            "minimum_composition_pixels": 30,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-1",
+            "eligible_samples": 8,
+            "observed_samples": 8,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 24.273333333333333,
+            "last_visible": 24.374666666666666,
+            "minimum_composition_pixels": 30,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-2",
+            "eligible_samples": 8,
+            "observed_samples": 8,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 24.4,
+            "last_visible": 24.482,
+            "minimum_composition_pixels": 55,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-3",
+            "eligible_samples": 6,
+            "observed_samples": 6,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 24.513333333333335,
+            "last_visible": 24.589333333333332,
+            "minimum_composition_pixels": 75,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-4",
+            "eligible_samples": 9,
+            "observed_samples": 9,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 24.593333333333334,
+            "last_visible": 24.696666666666665,
+            "minimum_composition_pixels": 91,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-5",
+            "eligible_samples": 7,
+            "observed_samples": 7,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 24.72,
+            "last_visible": 24.804,
+            "minimum_composition_pixels": 110,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-6",
+            "eligible_samples": 7,
+            "observed_samples": 7,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 24.833333333333336,
+            "last_visible": 24.91133333333333,
+            "minimum_composition_pixels": 129,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-7",
+            "eligible_samples": 7,
+            "observed_samples": 7,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 24.913333333333334,
+            "last_visible": 25.006666666666664,
+            "minimum_composition_pixels": 160,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-8",
+            "eligible_samples": 7,
+            "observed_samples": 7,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 25.018666666666668,
+            "last_visible": 25.12,
+            "minimum_composition_pixels": 160,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-9",
+            "eligible_samples": 6,
+            "observed_samples": 6,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 25.126,
+            "last_visible": 25.2,
+            "minimum_composition_pixels": 178,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-10",
+            "eligible_samples": 7,
+            "observed_samples": 7,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 25.233333333333334,
+            "last_visible": 25.326666666666664,
+            "minimum_composition_pixels": 195,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-11",
+            "eligible_samples": 8,
+            "observed_samples": 8,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 25.340666666666667,
+            "last_visible": 25.44,
+            "minimum_composition_pixels": 195,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-12",
+            "eligible_samples": 7,
+            "observed_samples": 7,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 25.448,
+            "last_visible": 25.553333333333335,
+            "minimum_composition_pixels": 216,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-13",
+            "eligible_samples": 8,
+            "observed_samples": 8,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 25.555333333333333,
+            "last_visible": 25.66,
+            "minimum_composition_pixels": 231,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-14",
+            "eligible_samples": 7,
+            "observed_samples": 7,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 25.662666666666667,
+            "last_visible": 25.76,
+            "minimum_composition_pixels": 258,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-15",
+            "eligible_samples": 7,
+            "observed_samples": 7,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 25.77,
+            "last_visible": 25.873333333333335,
+            "minimum_composition_pixels": 261,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-16",
+            "eligible_samples": 9,
+            "observed_samples": 9,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 25.877333333333333,
+            "last_visible": 25.984666666666666,
+            "minimum_composition_pixels": 265,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-next-17",
+            "eligible_samples": 26,
+            "observed_samples": 26,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 26,
+            "last_visible": 26.566666666666666,
+            "minimum_composition_pixels": 268,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-typing-0",
+            "eligible_samples": 151,
+            "observed_samples": 151,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 24.16,
+            "last_visible": 26.566666666666666,
+            "minimum_composition_pixels": 382,
+            "regions": [
+              "s15-action"
+            ]
+          },
+          {
+            "id": "s15-typing-1",
+            "eligible_samples": 151,
+            "observed_samples": 151,
+            "occluded_samples": 0,
+            "occlusion_intervals": [],
+            "first_visible": 24.16,
+            "last_visible": 26.566666666666666,
+            "minimum_composition_pixels": 381,
+            "regions": [
+              "s15-action"
+            ]
+          }
+        ]
+      }
+    ],
+    "limits": "Bounded authored-key/visibility and 0.25s paint sampling, not every encoded frame. Occlusion intervals join consecutive occluded eligible samples; their start/end are sample times, not verified continuous or exact occlusion boundaries. Actual isolated ink fit and at least one nonzero full-composition contribution per eligible member do not prove readable partial occlusion, causal contact, natural acting or aesthetic/sample equivalence. Review the complete final video at its intended phone size and actual sound."
+  },
+  "scope": "360x640 phone-size bounded source paint; separate encoded review required"
+}

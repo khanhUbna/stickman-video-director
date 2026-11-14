@@ -1,0 +1,64 @@
+{
+  "status": "technical_checks_passed_user_review_pending",
+  "video_sha256": "d673a38947b7df7d7cebbadec3e4a690ccfa0f4f65bef96094be0b85416da94f",
+  "voice_sha256": "6490deaf933ddd504454f346d3ede31a5aff7605ef6a845e4c0d7d08669d62fd",
+  "duration_seconds": 26.7,
+  "native_voice_seconds": 26.575,
+  "voice_speed": "1x; original WAV retained; final mix gain/loudness normalization only",
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 798,
+  "full_decode": "pass",
+  "approved_script_caption_word_coverage": "pass",
+  "acoustic_aligned_words": 76,
+  "caption_cues": 18,
+  "shots": 15,
+  "pre_master_loudness": {
+    "input_i": "-24.51",
+    "input_tp": "-7.31",
+    "input_lra": "3.40",
+    "input_thresh": "-35.25",
+    "output_i": "-16.80",
+    "output_tp": "-1.50",
+    "output_lra": "3.00",
+    "output_thresh": "-27.42",
+    "normalization_type": "dynamic",
+    "target_offset": "0.80"
+  },
+  "final_loudness": {
+    "input_i": "-16.29",
+    "input_tp": "-1.44",
+    "input_lra": "3.30",
+    "input_thresh": "-26.97",
+    "output_i": "-16.35",
+    "output_tp": "-1.50",
+    "output_lra": "2.80",
+    "output_thresh": "-26.97",
+    "normalization_type": "dynamic",
+    "target_offset": "0.35"
+  },
+  "phone_size_source_paint": "See paint-QA.json; bounded native-safe-area/visibility and isolated local-motion checks",
+  "rig": "See rig-frame-QA.json; connected full-body limb/hand geometry checked at encoded frame times",
+  "encoded_contact_sheet": "15 actual decoded middle frames, one per shot",
+  "review_limits": [
+    "No independent creative review or end-to-end human listening/playback was performed; these remain user review.",
+    "Caveat is the licensed portable handwritten font, not pixel-identical to historical Apple Chalkboard.",
+    "Bounded pixel/geometry checks do not certify natural acting or artistic equivalence to the Skill references."
+  ],
+  "YouTube_upload": false,
+  "paid_calls": {
+    "tts": 1,
+    "alignment": 0,
+    "images": 0,
+    "estimated_tts_usd": 0.006495,
+    "automatic_paid_retries": 0
+  },
+  "encoded_motion": "pass: longest low-difference run 0.5s in sampled main picture, captions/headings excluded",
+  "encoded_frame_review": {
+    "method": "Production author inspected all 15 actual encoded middle frames at 360px width, alongside source proof and repair findings",
+    "findings": "Scarf/colors consistent; empty draft remains unsent; plate supported by rack; repaired worry arm no longer crosses face; final closeup has no floating head. This is still-frame author review, not independent continuous playback."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "method": "4 fps decoded-frame difference; action region only, no caption band or top headings",
+  "sampled_frames": 106,
+  "threshold_pixels": 4,
+  "pixel_delta": 12,
+  "longest_low_difference_seconds": 0.5,
+  "pass": true,
+  "limits": "Pixel changes do not prove causal animation, natural acting or independent playback review."
+}

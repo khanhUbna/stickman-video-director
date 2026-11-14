@@ -1,0 +1,8 @@
+{
+  "sampled_rig_frames": 393,
+  "max_joint_gap_design_units": 0.3375142671893666,
+  "max_hand_gap_design_units": 0.868998429880593,
+  "max_bone_length_error": 1.4210854715202004e-13,
+  "pass": true,
+  "scope": "Connected full-body rigs at every encoded frame time; closeup-only arms and creative acting require separate visual review"
+}
