@@ -1,6 +1,6 @@
 {
   "project": "Why You Clean Instead of Starting",
-  "stage": "script_preserved_tts_blocked_missing_credentials",
+  "stage": "voice_preserved_alignment_pending",
   "status": "incomplete",
   "date_utc": "2026-11-14",
   "mode": "B Autopilot",
@@ -12,14 +12,13 @@
     "model": "tts-1",
     "voice": "alloy",
     "speed": 1.0,
-    "calls_attempted": 0,
-    "retry": false,
-    "credentials": "OPENAI_API_KEY absent; no credential values stored"
+    "calls_attempted": 1,
+    "retry": false
   },
   "cost": {
     "new_total_ceiling_usd": 0.02,
-    "new_calls_usd": 0,
-    "alignment": "local, no paid transcription planned"
+    "new_calls_estimated_usd": 0.006495,
+    "alignment": "local"
   },
   "completed": [
     "environment verified",
@@ -55,5 +54,25 @@
     "submitted_characters": 433,
     "single_call_estimate_usd": 0.006495
   },
-  "credentials_rechecked": "OPENAI_API_KEY absent; no paid request attempted"
+  "credentials_rechecked": "OPENAI_API_KEY absent; no paid request attempted",
+  "tts_attempt": {
+    "model": "tts-1",
+    "voice": "alloy",
+    "speed": 1.0,
+    "input_characters": 433,
+    "estimated_usd": 0.006495,
+    "ceiling_usd": 0.02,
+    "pricing_source": "https://developers.openai.com/api/docs/models/tts-1",
+    "pricing_checked_utc": "2026-11-14",
+    "automatic_retries": 0,
+    "status": "audio_preserved",
+    "input_sha256": "d0594fdba585d37bc996978af2d7d10b30b50427c0851c9b0b721c0a09068aee",
+    "time_utc": "2026-11-14T12:24:15.727055+00:00",
+    "http_status": 200,
+    "duration_seconds": 89478.48529166667,
+    "sample_rate": 24000,
+    "channels": 1,
+    "audio_sha256": "6490deaf933ddd504454f346d3ede31a5aff7605ef6a845e4c0d7d08669d62fd",
+    "billing": "character-rate estimate; account invoice not independently verified"
+  }
 }

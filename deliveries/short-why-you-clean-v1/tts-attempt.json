@@ -8,7 +8,13 @@
   "pricing_source": "https://developers.openai.com/api/docs/models/tts-1",
   "pricing_checked_utc": "2026-11-14",
   "automatic_retries": 0,
-  "status": "armed_do_not_retry",
+  "status": "audio_preserved",
   "input_sha256": "d0594fdba585d37bc996978af2d7d10b30b50427c0851c9b0b721c0a09068aee",
-  "time_utc": "2026-11-14T12:24:15.727055+00:00"
+  "time_utc": "2026-11-14T12:24:15.727055+00:00",
+  "http_status": 200,
+  "duration_seconds": 89478.48529166667,
+  "sample_rate": 24000,
+  "channels": 1,
+  "audio_sha256": "6490deaf933ddd504454f346d3ede31a5aff7605ef6a845e4c0d7d08669d62fd",
+  "billing": "character-rate estimate; account invoice not independently verified"
 }
