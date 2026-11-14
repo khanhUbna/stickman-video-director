@@ -1,0 +1,13 @@
+{
+  "tts_model": "tts-1",
+  "voice": "alloy",
+  "characters": 513,
+  "speech_estimate_usd": 0.007695,
+  "version": "reconstructed sample v2; old audio unavailable after environment snapshot restore",
+  "authorization": "User approved sample cap USD 0.03 and full project cap USD 0.50; sample upload to selected GitHub repository authorized",
+  "previous_sample_estimate_usd": 0.010819,
+  "automatic_retries": false,
+  "transcription_estimate_usd": 0.00313125,
+  "this_run_estimate_usd": 0.010826,
+  "both_runs_estimate_usd": 0.021645
+}
