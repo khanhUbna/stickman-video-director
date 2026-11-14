@@ -7,10 +7,53 @@
   "style": "B1 with existing channel color treatment",
   "ratio": "9:16",
   "script": "script.txt",
-  "narration": {"provider": "OpenAI", "model": "tts-1", "voice": "alloy", "speed": 1.0, "calls_attempted": 0, "retry": false, "credentials": "OPENAI_API_KEY absent; no credential values stored"},
-  "cost": {"new_total_ceiling_usd": 0.02, "new_calls_usd": 0, "alignment": "local, no paid transcription planned"},
-  "completed": ["environment verified", "original files confirmed absent", "approved replacement script preserved", "repository branch verified", "skill and B1 portrait contracts read"],
-  "pending": ["secure OPENAI_API_KEY configuration", "one authorized TTS request", "persist original voice immediately", "actual audio alignment", "voice-led shot timing", "animation", "soundtrack", "caption sync", "encoded-video review", "final MP4 and source delivery"],
+  "narration": {
+    "provider": "OpenAI",
+    "model": "tts-1",
+    "voice": "alloy",
+    "speed": 1.0,
+    "calls_attempted": 0,
+    "retry": false,
+    "credentials": "OPENAI_API_KEY absent; no credential values stored"
+  },
+  "cost": {
+    "new_total_ceiling_usd": 0.02,
+    "new_calls_usd": 0,
+    "alignment": "local, no paid transcription planned"
+  },
+  "completed": [
+    "environment verified",
+    "original files confirmed absent",
+    "approved replacement script preserved",
+    "repository branch verified",
+    "skill and B1 portrait contracts read",
+    "replacement script and checkpoint pushed as commit 9818248",
+    "channel scarf and color reference inspected",
+    "local Skill doctor passed after dependency installation",
+    "official tts-1 price and speech request format verified",
+    "guarded project-local TTS adapter prepared and dry-run checked"
+  ],
+  "pending": [
+    "secure OPENAI_API_KEY configuration",
+    "one authorized TTS request",
+    "persist original voice immediately",
+    "actual audio alignment",
+    "voice-led shot timing",
+    "animation",
+    "soundtrack",
+    "caption sync",
+    "encoded-video review",
+    "final MP4 and source delivery"
+  ],
   "next_step": "After credentials become available, run the guarded one-shot adapter once; do not retry an error or uncertain response. Persist returned audio before further production.",
-  "publication": "No YouTube upload authorized"
+  "publication": "No YouTube upload authorized",
+  "input_sha256": "2d16e2a889490f175d42591ec4b7b3fd579fdf8f41f68938a31888a14affcc3d",
+  "tts_price": {
+    "source": "https://developers.openai.com/api/docs/models/tts-1",
+    "checked_utc": "2026-11-14",
+    "usd_per_million_characters": 15,
+    "submitted_characters": 433,
+    "single_call_estimate_usd": 0.006495
+  },
+  "credentials_rechecked": "OPENAI_API_KEY absent; no paid request attempted"
 }
