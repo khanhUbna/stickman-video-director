@@ -1,0 +1,136 @@
+{
+  "status": "automated_checks_passed_pending_visual_and_user_review",
+  "kind": "preview",
+  "technical_fixture": false,
+  "ratio": "9:16",
+  "fingerprint": "929203376b70f5e279f2f11ba46ec81071403e94339cbbb76ba4475c80233811",
+  "checked_frames": 213,
+  "arm_poses_checked": 316,
+  "straight_legs_checked": 316,
+  "max_prop_contact_error_px": 1.2710574864626038e-13,
+  "external_media_reads": [],
+  "voice_speed": 1,
+  "new_story_acceptance": "not implied by reusing a tested performance",
+  "time_range": {
+    "start": 0.0,
+    "end": 7.1
+  },
+  "technical_status": "pass",
+  "creative_status": "pending_actual_playback_and_source_review",
+  "user_acceptance": "not_inferred",
+  "review_required": "review-pack then check-review; numeric QC never certifies motion quality",
+  "caption_sidecars": [
+    "outputs/preview-07/captions.srt",
+    "outputs/preview-07/captions.vtt"
+  ],
+  "caption_contract": {
+    "profile": {
+      "profile": "eiffel-v44-portrait-archivo-black-v1",
+      "native_design": "9:16",
+      "font_family": "Archivo Black",
+      "font_file": "fonts/ArchivoBlack.ttf",
+      "font_sha256": "dd9a89a019b4849f66ab75455fe7bdf931311042cbb0f0f97acc061539703180",
+      "font_size": 47,
+      "stroke": 4,
+      "fill": "#ffffff",
+      "stroke_fill": "#171319",
+      "supersampling": 3,
+      "resample": "lanczos",
+      "anchor": "ms",
+      "side": 44,
+      "switch": "hard_cut",
+      "autoshrink": false,
+      "pop": false,
+      "baseline": 914,
+      "band": [
+        864,
+        951
+      ]
+    },
+    "renderer_sha256": "5fc03a3f38dce9f55609f2059077125ecc30b7f5fa1d31580f9e007fcf23200b",
+    "font_sha256": "dd9a89a019b4849f66ab75455fe7bdf931311042cbb0f0f97acc061539703180",
+    "cues_sha256": "cda37cbc84b86d8f9ead86e1ecda7c3440a32a7ccb44cd0c9affaaae0c8ef6dc",
+    "observed_cues": [
+      {
+        "start": 0.0,
+        "end": 0.5,
+        "text": "Ever cleaned",
+        "raster_bounds": [
+          191,
+          873,
+          529,
+          921
+        ]
+      },
+      {
+        "start": 0.51,
+        "end": 1.35,
+        "text": "your entire room",
+        "raster_bounds": [
+          140,
+          873,
+          577,
+          930
+        ]
+      },
+      {
+        "start": 1.36,
+        "end": 2.85,
+        "text": "to avoid one email?",
+        "raster_bounds": [
+          105,
+          873,
+          614,
+          921
+        ]
+      },
+      {
+        "start": 2.9,
+        "end": 3.6300000000000003,
+        "text": "The email takes",
+        "raster_bounds": [
+          148,
+          873,
+          571,
+          921
+        ]
+      },
+      {
+        "start": 3.64,
+        "end": 4.55,
+        "text": "five minutes.",
+        "raster_bounds": [
+          190,
+          873,
+          528,
+          921
+        ]
+      },
+      {
+        "start": 4.72,
+        "end": 5.83,
+        "text": "Suddenly, your kitchen",
+        "raster_bounds": [
+          64,
+          873,
+          656,
+          930
+        ]
+      },
+      {
+        "start": 5.84,
+        "end": 6.67,
+        "text": "needs forty.",
+        "raster_bounds": [
+          205,
+          873,
+          515,
+          930
+        ]
+      }
+    ],
+    "limitation": "Configuration, font identity and measured caption raster only; decoded pixels, semantic speech timing and AV readability still require review."
+  },
+  "video": "outputs/preview-07/preview.mp4",
+  "video_sha256": "8e242f2de101bbc796901c2bc381d5a348ee4eb9ab370588bf9f256151321299"
+}
