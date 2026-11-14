@@ -1,0 +1,9 @@
+{
+  "art": "Original locally drawn assets and keyed limb rig; selected style reference media are not redistributed",
+  "music": "Original locally synthesized chord/pluck bed, no copied external melody or recording",
+  "ambience": "Original seeded local noise",
+  "foley": "Original local cloth, keyboard and notification synthesis; runtime procedural paper/tap under MIT",
+  "voice": "AI-generated OpenAI tts-1/alloy; existing opening reused; no speed or pitch changes",
+  "fonts": "Caveat and Noto Sans under included OFL notices",
+  "research": "Cited, cautiously paraphrased institutional author manuscripts; copyrighted PDFs/figures excluded"
+}

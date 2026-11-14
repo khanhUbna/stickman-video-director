@@ -1,0 +1,52 @@
+{
+  "chunks": [
+    {
+      "chunk": 0,
+      "duration": 31.3125,
+      "estimated_usd": 0
+    },
+    {
+      "chunk": 1,
+      "duration": 58.375,
+      "estimated_usd": 0.0201775
+    },
+    {
+      "chunk": 2,
+      "duration": 60.0125,
+      "estimated_usd": 0.02086625
+    },
+    {
+      "chunk": 3,
+      "duration": 64.7375,
+      "estimated_usd": 0.02225375
+    },
+    {
+      "chunk": 4,
+      "duration": 96.4875,
+      "estimated_usd": 0.033348749999999996
+    },
+    {
+      "chunk": 5,
+      "duration": 65.9,
+      "estimated_usd": 0.022850000000000002
+    },
+    {
+      "chunk": 6,
+      "duration": 57.4,
+      "estimated_usd": 0.01972
+    },
+    {
+      "chunk": 7,
+      "duration": 73.3625,
+      "estimated_usd": 0.02539625
+    }
+  ],
+  "new_estimate_usd": 0.1646125,
+  "prior_previews_estimate_usd": 0.042296,
+  "cumulative_estimate_usd": 0.225221,
+  "project_budget_usd": 0.5,
+  "no_automatic_retries": true,
+  "duration_measurement": "ffprobe actual PCM payload, not unspecified streaming RIFF size",
+  "alignment_repair_estimate_usd": 0.018312500000000002,
+  "repair_reason": "Initial context-prompted ASR omitted or hallucinated phrases; rerun affected transcription once without prompt; original speech reused, no TTS repeated."
+}
