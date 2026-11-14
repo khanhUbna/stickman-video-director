@@ -1,0 +1,232 @@
+[
+  {
+    "shot": 0,
+    "start": 0,
+    "end": 2.5999999046325684,
+    "scene": "career",
+    "pose": "sit",
+    "spoken_text": "That presentation could change your career.",
+    "meaningful_action": "career",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 1,
+    "start": 2.5999999046325684,
+    "end": 5.300000190734863,
+    "scene": "kitchen",
+    "pose": "scrub",
+    "spoken_text": "So why are you cleaning the kitchen?",
+    "meaningful_action": "Bent posture and connected arms scrub a supported cloth",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 2,
+    "start": 5.300000190734863,
+    "end": 8.899999618530273,
+    "scene": "folder",
+    "pose": "choose",
+    "spoken_text": "Maya needs to send a portfolio. She opens the folder,",
+    "meaningful_action": "folder",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 3,
+    "start": 8.899999618530273,
+    "end": 12.0600004196167,
+    "scene": "worry",
+    "pose": "worry",
+    "spoken_text": "sees her work, and thinks: what if this isn’t good enough?",
+    "meaningful_action": "worry",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 4,
+    "start": 12.0600004196167,
+    "end": 13.119999885559082,
+    "scene": "message",
+    "pose": "phone",
+    "spoken_text": "One message later,",
+    "meaningful_action": "message",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 5,
+    "start": 13.119999885559082,
+    "end": 14.5600004196167,
+    "scene": "weather",
+    "pose": "phone",
+    "spoken_text": "she’s checking the weather.",
+    "meaningful_action": "weather",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 6,
+    "start": 14.5600004196167,
+    "end": 16.15999984741211,
+    "scene": "apps",
+    "pose": "phone",
+    "spoken_text": "Then she’s comparing apps.",
+    "meaningful_action": "apps",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 7,
+    "start": 16.15999984741211,
+    "end": 19.15999984741211,
+    "scene": "busy",
+    "pose": null,
+    "spoken_text": "She’s busy. The portfolio hasn’t moved.",
+    "meaningful_action": "busy",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 8,
+    "start": 19.15999984741211,
+    "end": 21.540000915527344,
+    "scene": "thought",
+    "pose": "worry",
+    "spoken_text": "Maybe the problem isn’t that she doesn’t care.",
+    "meaningful_action": "thought",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 9,
+    "start": 21.540000915527344,
+    "end": 24.139999389648438,
+    "scene": "task",
+    "pose": "worry",
+    "spoken_text": "Maybe this task matters enough to feel uncomfortable,",
+    "meaningful_action": "task",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 10,
+    "start": 24.139999389648438,
+    "end": 27.280000686645508,
+    "scene": "escape",
+    "pose": "phone",
+    "spoken_text": "and the smaller tasks offer an easy escape.",
+    "meaningful_action": "escape",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 11,
+    "start": 27.280000686645508,
+    "end": 30.920000076293945,
+    "scene": "change",
+    "pose": null,
+    "spoken_text": "Watch what she changes. “Finish my portfolio” becomes",
+    "meaningful_action": "change",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 12,
+    "start": 30.920000076293945,
+    "end": 34.720001220703125,
+    "scene": "draft",
+    "pose": "write",
+    "spoken_text": "“Choose one project and write three rough sentences.”",
+    "meaningful_action": "Hand strokes on paper while the other hand anchors work",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 13,
+    "start": 34.720001220703125,
+    "end": 37.41999816894531,
+    "scene": "rough",
+    "pose": null,
+    "spoken_text": "Not impressive sentences. Rough ones.",
+    "meaningful_action": "rough",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 14,
+    "start": 37.41999816894531,
+    "end": 39.599998474121094,
+    "scene": "carry",
+    "pose": "carry",
+    "spoken_text": "She leaves her phone in the other room,",
+    "meaningful_action": "Whole-body stepping takes the supported phone away",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 15,
+    "start": 39.599998474121094,
+    "end": 40.91999816894531,
+    "scene": "sitdown",
+    "pose": "sit-down",
+    "spoken_text": "sits down, and writes.",
+    "meaningful_action": "sitdown",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 16,
+    "start": 40.91999816894531,
+    "end": 44.15999984741211,
+    "scene": "awkward",
+    "pose": "awkward",
+    "spoken_text": "The first sentence is awkward. She keeps it anyway.",
+    "meaningful_action": "awkward",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 17,
+    "start": 44.15999984741211,
+    "end": 46.959999084472656,
+    "scene": "clock",
+    "pose": null,
+    "spoken_text": "Ten minutes later, the portfolio isn’t finished.",
+    "meaningful_action": "clock",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 18,
+    "start": 46.959999084472656,
+    "end": 49.959999084472656,
+    "scene": "note",
+    "pose": "write",
+    "spoken_text": "But there’s something on the page, and a next-step note.",
+    "meaningful_action": "Hand strokes on paper while the other hand anchors work",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 19,
+    "start": 49.959999084472656,
+    "end": 51.86000061035156,
+    "scene": "pick",
+    "pose": null,
+    "spoken_text": "Pick the task you’re avoiding.",
+    "meaningful_action": "pick",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 20,
+    "start": 51.86000061035156,
+    "end": 53.31999969482422,
+    "scene": "name",
+    "pose": "worry",
+    "spoken_text": "Name the uncomfortable part.",
+    "meaningful_action": "name",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 21,
+    "start": 53.31999969482422,
+    "end": 55.70000076293945,
+    "scene": "action",
+    "pose": "write",
+    "spoken_text": "Then choose one action you can do.",
+    "meaningful_action": "Hand strokes on paper while the other hand anchors work",
+    "review": "pending actual picture/audio inspection"
+  },
+  {
+    "shot": 22,
+    "start": 55.70000076293945,
+    "end": 60,
+    "scene": "finish",
+    "pose": "finish",
+    "spoken_text": "You don’t need a perfect start. You need a place to begin.",
+    "meaningful_action": "finish",
+    "review": "pending actual picture/audio inspection"
+  }
+]

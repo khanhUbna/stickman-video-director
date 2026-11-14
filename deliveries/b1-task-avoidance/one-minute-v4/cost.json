@@ -1,0 +1,13 @@
+{
+  "tts_model": "tts-1",
+  "voice": "alloy",
+  "characters": 982,
+  "speech_estimate_usd": 0.01473,
+  "version": "one-minute story preview v4 requested by user",
+  "authorization": "User requested new one-minute preview under approved USD 0.50 project budget; this preview estimated below USD 0.03; authorized GitHub delivery",
+  "previous_samples_estimate_usd": 0.021645,
+  "automatic_retries": false,
+  "transcription_estimate_usd": 0.005921249999999999,
+  "this_preview_estimate_usd": 0.020651,
+  "all_previews_estimate_usd": 0.042296
+}

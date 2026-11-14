@@ -1,0 +1,26 @@
+{
+  "duration_seconds": 60,
+  "video": "H.264 1920x1080, 30fps, 1800 frames",
+  "audio": "AAC, native-rate alloy, normalized mix",
+  "full_decode": "pass",
+  "shots": 23,
+  "captions": 36,
+  "caption_nonoverlap": "pass",
+  "speech_word_coverage": "checked by builder against real aligned words",
+  "voice_source_seconds": 59.2125,
+  "ending_hold_seconds": 0.7875000000000014,
+  "integrated_loudness_LUFS": -16.53,
+  "true_peak_dBTP": -1.49,
+  "rig": {
+    "samples": 1387,
+    "max_elbow_knee_gap_design_px": 0.4963359749660768,
+    "max_hand_gap_design_px": 0.8766473120638701,
+    "max_bone_length_error_design_px": 1.2789769243681803e-13,
+    "pass": true,
+    "limits": "Geometry only; does not establish natural gait, acting quality, final occlusion, sound or independent acceptance."
+  },
+  "final_sha256": "1be08c97ae73d3db697a662af77da30aec5d583b7d2cac7474a2de48585e0894",
+  "pre_master_sha256": "dd93adeda4a295496d7b88e7cda54888e6b7fd4609bd9f362764a63921ea026f",
+  "actual_playback_listening_and_independent_reference_acceptance": "pending; no pass fabricated",
+  "limitations": "Geometry, decoded stills and audio meters do not establish natural acting, contact after occlusion, intelligibility or sample-equivalent aesthetics."
+}
