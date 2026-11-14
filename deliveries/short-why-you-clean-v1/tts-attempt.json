@@ -1,0 +1,14 @@
+{
+  "model": "tts-1",
+  "voice": "alloy",
+  "speed": 1.0,
+  "input_characters": 433,
+  "estimated_usd": 0.006495,
+  "ceiling_usd": 0.02,
+  "pricing_source": "https://developers.openai.com/api/docs/models/tts-1",
+  "pricing_checked_utc": "2026-11-14",
+  "automatic_retries": 0,
+  "status": "armed_do_not_retry",
+  "input_sha256": "d0594fdba585d37bc996978af2d7d10b30b50427c0851c9b0b721c0a09068aee",
+  "time_utc": "2026-11-14T12:24:15.727055+00:00"
+}
