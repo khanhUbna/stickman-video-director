@@ -1,0 +1,8 @@
+{
+  "voice": "Existing authorized OpenAI tts-1 alloy recording; original WAV unchanged; no new speech API call.",
+  "music_and_Foley": "Original locally synthesized score, room bed, cloth texture and keyboard transients; no outside recording or library subscription.",
+  "art": "Existing project apartment/worried-expression images and locally adapted installed kiosk_keeper painted assets, reused; no new image generation in this revision.",
+  "fonts": "Archivo Black, bundled with its SIL Open Font License notice.",
+  "code": "Repository MIT runtime plus project-authored scene/acting/finishing helpers.",
+  "no_YouTube_upload": true
+}

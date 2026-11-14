@@ -1,0 +1,52 @@
+{
+  "finishing": "Audio-only remux of the native audited B6 picture; native report is preserved unmodified.",
+  "native_report": "outputs/full-review-v2-01/report.json",
+  "native_mp4_sha256": "6c64810b715119cd76588d8e039101437d348533858cf2e0ed75b194ef4b4b92",
+  "delivery_sha256": "6bd8e2a82a99a8e533ab1bc7462a40e73731099c11d47fc7b6a40a0b71a3031d",
+  "encoded_picture_stream_sha256": "SHA256=f08a7b2e0556d2713ca18e43ba5520dc7c73adddfbb0cd15d52f9893b12402e9",
+  "picture_stream_unchanged": true,
+  "speech_sha256": "6490deaf933ddd504454f346d3ede31a5aff7605ef6a845e4c0d7d08669d62fd",
+  "new_TTS_calls": 0,
+  "original_speech_speed": 1,
+  "wipe_cues": [
+    5.12,
+    5.75,
+    6.45,
+    7.15,
+    7.85,
+    8.55,
+    9.25
+  ],
+  "keyboard_cues": [
+    17.13142857142857,
+    17.70285714285714,
+    18.274285714285714,
+    19.988571428571426,
+    20.56,
+    21.13142857142857,
+    21.70285714285714,
+    22.274285714285714,
+    22.845714285714283,
+    23.417142857142856,
+    23.988571428571426,
+    24.56,
+    25.13142857142857,
+    25.70285714285714,
+    26.27428571428571
+  ],
+  "plate_or_send_sfx": false,
+  "loudness": {
+    "input_i": "-16.29",
+    "input_tp": "-1.28",
+    "input_lra": "3.30",
+    "input_thresh": "-26.99",
+    "output_i": "-16.35",
+    "output_tp": "-1.50",
+    "output_lra": "2.80",
+    "output_thresh": "-26.98",
+    "normalization_type": "dynamic",
+    "target_offset": "0.35"
+  },
+  "full_decode": "pass",
+  "independent_creative_review": "pending actual viewing/listening"
+}

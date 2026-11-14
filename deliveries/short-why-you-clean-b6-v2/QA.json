@@ -1,0 +1,70 @@
+{
+  "status": "technical_pass_full_length_review_pending",
+  "duration": 26.7,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "frames": 801,
+  "full_decode": "pass",
+  "native_report": "outputs/full-review-v2-01/report.json",
+  "native_rig_status": "pass",
+  "arm_poses_checked": 1168,
+  "straight_legs_checked": 1168,
+  "max_prop_contact_error_px": 2.3437142008433856e-13,
+  "new_vs_old_wipe_performance": {
+    "scope": "5.35\u20139.5s; world static; actual audited actor nodes, not whole-frame pixel changes",
+    "v1": {
+      "sampled_frames": 125,
+      "hip_horizontal_span_px": 0.0,
+      "shoulder_horizontal_span_px": 0.0,
+      "wrist_horizontal_span_px": 13.991806370804511,
+      "max_ankle_drift_px": 0.0
+    },
+    "v2": {
+      "sampled_frames": 125,
+      "hip_horizontal_span_px": 31.896811297212906,
+      "shoulder_horizontal_span_px": 42.82290372184434,
+      "wrist_horizontal_span_px": 36.00529141444878,
+      "max_ankle_drift_px": 0.0
+    }
+  },
+  "bounded_planted_leg_length_ratio": [
+    0.992495861999727,
+    1.0231915524425912
+  ],
+  "caption_word_coverage": "pass",
+  "spoken_words": 76,
+  "new_TTS_calls": 0,
+  "picture_stream_unchanged_after_audio_finish": true,
+  "video_sha256": "6bd8e2a82a99a8e533ab1bc7462a40e73731099c11d47fc7b6a40a0b71a3031d",
+  "loudness": {
+    "input_i": "-16.29",
+    "input_tp": "-1.28",
+    "input_lra": "3.30",
+    "input_thresh": "-26.99",
+    "output_i": "-16.35",
+    "output_tp": "-1.50",
+    "output_lra": "2.80",
+    "output_thresh": "-26.98",
+    "normalization_type": "dynamic",
+    "target_offset": "0.35"
+  },
+  "capability_limits": [
+    "Supported standing body/hip lean with independently planted feet; this is not a walking or seated-pose system.",
+    "Front and three-quarter views use an actual authored cut, not manufactured continuous turn art.",
+    "Motion/geometry metrics and stills do not certify natural acting or independent creative/source equivalence. Full human viewing/listening remains pending."
+  ],
+  "YouTube_upload": false,
+  "keyboard_contact": {
+    "audited_frames": 172,
+    "actual_key_rectangle": [
+      425,
+      821.5,
+      443,
+      827
+    ],
+    "maximum_wrist_outside_key_px": 0,
+    "limits": "Geometry anchor on a drawn key; not a subjective acting verdict."
+  }
+}

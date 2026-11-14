@@ -1,0 +1,42 @@
+{
+  "project": "Why You Clean Instead of Starting \u2014 B6 V2",
+  "stage": "full_length_acting_revision_delivered_for_review",
+  "duration": 26.7,
+  "user_request": "Redo the stiff animation using story-led whole-body acting; retain the same approach for future long-form videos.",
+  "completed": [
+    "Supported-stance anticipation, reach, recoil and hip/shoulder weight shift",
+    "Cloth pickup, lift, body-driven wiping, placement and release on one physical owner timeline",
+    "Actual wrist-to-key contact while text grows on the laptop",
+    "Front/three-quarter view cut using separately fitted painted artwork",
+    "All 801 native frames checked; 1168 arm and 1168 leg observations passed",
+    "Original alloy recording retained; local Foley retimed, no TTS or image API calls",
+    "Final delivery remux preserves the exact audited video packet stream; full decode passed",
+    "V1\u2013V2 motion comparison and reusable channel workflow saved"
+  ],
+  "measured_wipe": {
+    "scope": "5.35\u20139.5s; world static; actual audited actor nodes, not whole-frame pixel changes",
+    "v1": {
+      "sampled_frames": 125,
+      "hip_horizontal_span_px": 0.0,
+      "shoulder_horizontal_span_px": 0.0,
+      "wrist_horizontal_span_px": 13.991806370804511,
+      "max_ankle_drift_px": 0.0
+    },
+    "v2": {
+      "sampled_frames": 125,
+      "hip_horizontal_span_px": 31.896811297212906,
+      "shoulder_horizontal_span_px": 42.82290372184434,
+      "wrist_horizontal_span_px": 36.00529141444878,
+      "max_ankle_drift_px": 0.0
+    }
+  },
+  "pending": [
+    "Actual user viewing/listening and independent creative/reference acceptance"
+  ],
+  "capability_limits": [
+    "No walking/running/seated pose or continuous turn is claimed. These need their own authored systems and tests."
+  ],
+  "new_TTS_calls": 0,
+  "new_image_calls": 0,
+  "YouTube_upload": false
+}
