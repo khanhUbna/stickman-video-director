@@ -1,0 +1,18 @@
+{
+  "about-en.txt": {
+    "bytes": 593,
+    "sha256": "c740c5085efa7d9739c4e5c2b6290fd7a9b1329a92872f0b48edd3d3750de144"
+  },
+  "logo-original.png": {
+    "bytes": 2040997,
+    "sha256": "ea96371bcc098b4c68ba5841b2f14b8709bd42062006ff66ae9eef767a5fcf28"
+  },
+  "avatar-800.png": {
+    "bytes": 1023023,
+    "sha256": "8e77c9c100cd544e7cb4b82ff391fc2ff9cad438cae5156d77e03012bd5a55f5"
+  },
+  "README.md": {
+    "bytes": 2875,
+    "sha256": "d56f32ffe62e05c0d1f16056ceaf439116318fc9fb236af8f60bb61f46557e13"
+  }
+}
