@@ -3,16 +3,28 @@
     "bytes": 593,
     "sha256": "c740c5085efa7d9739c4e5c2b6290fd7a9b1329a92872f0b48edd3d3750de144"
   },
+  "keywords-en.txt": {
+    "bytes": 242,
+    "sha256": "140eacca17040562781eba68d812652324e5d3345d005e5c430559190d8f7667"
+  },
   "logo-original.png": {
     "bytes": 2040997,
     "sha256": "ea96371bcc098b4c68ba5841b2f14b8709bd42062006ff66ae9eef767a5fcf28"
+  },
+  "banner-original.png": {
+    "bytes": 2657683,
+    "sha256": "d5080e72b5d3dd52b19d4f993eecf9661a56259f64104d43262ebdadbced083a"
+  },
+  "banner-2560x1440.jpg": {
+    "bytes": 1061521,
+    "sha256": "1c6e5be2ec6a8cdd32c9498c6e1692375132b55a4d8953e47b0582c5ebd2f28b"
   },
   "avatar-800.png": {
     "bytes": 1023023,
     "sha256": "8e77c9c100cd544e7cb4b82ff391fc2ff9cad438cae5156d77e03012bd5a55f5"
   },
   "README.md": {
-    "bytes": 2875,
-    "sha256": "d56f32ffe62e05c0d1f16056ceaf439116318fc9fb236af8f60bb61f46557e13"
+    "bytes": 4246,
+    "sha256": "fe9158170941a69b98f9d3434386065b9bedf7d6a5d162349cd6e0877b27371e"
   }
 }
