@@ -1,0 +1,329 @@
+{
+  "title": "Cavemen Asked AI for More Food. It Gave Them Jobs.",
+  "duration_seconds": 433.7,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "fps": 30,
+  "frames": 13011,
+  "full_decode": "pass",
+  "audio_video_difference_seconds": 0.0,
+  "file_bytes": 61573192,
+  "sha256": "3f77f4bcd118b09efbd939676c592aacf152c4c74f4dd4524daf1f639aa3381f",
+  "source_sha256": "3699bbd7633b2a448ff73f399229fc24e8bd779c6cd0e3dee29d519643dd05a8",
+  "story": {
+    "new_shots": 56,
+    "new_action_families": 50,
+    "settings": [
+      "camp",
+      "forest",
+      "river",
+      "store",
+      "storm",
+      "yard"
+    ],
+    "approved_hook_reused_seconds": 18,
+    "hook_looped": false,
+    "approved_hook_decoded_frame_hashes_match": true
+  },
+  "motion": {
+    "actor_frames": 21148,
+    "four_drawn_chains_per_actor_frame": true,
+    "max_fixed_bone_error_px": 2.4158453015843406e-13,
+    "max_consecutive_planted_foot_drift_px": 4.547473508864641e-13,
+    "authored_grip_errors_px": {
+      "empty_basket": 0,
+      "fishing_pole": 0,
+      "picked_fruit": 0,
+      "fallen_branch": 0,
+      "work_left": 0,
+      "work_right": 0,
+      "stack_left": 0,
+      "stack_right": 0,
+      "axe_l": 0,
+      "axe_r": 0,
+      "left_basket": 0,
+      "right_basket": 0,
+      "bowl_giver": 0,
+      "bowl_receiver": 0,
+      "repair_rope": 0,
+      "bundle": 0,
+      "rope_l": 0,
+      "rope_r": 0,
+      "shared_rope_left": 0,
+      "shared_rope_right": 0,
+      "blank_stone": 0
+    },
+    "unreachable_target_guard": true,
+    "cast_coverage": {
+      "01-01": [
+        "koa"
+      ],
+      "01-02": [
+        "koa"
+      ],
+      "01-03": [
+        "nim"
+      ],
+      "01-04": [
+        "koa",
+        "nim",
+        "tuk"
+      ],
+      "01-05": [
+        "koa"
+      ],
+      "01-06": [
+        "koa"
+      ],
+      "01-07": [
+        "koa",
+        "nim"
+      ],
+      "01-08": [
+        "koa"
+      ],
+      "02-01": [
+        "nim"
+      ],
+      "02-02": [
+        "koa"
+      ],
+      "02-03": [
+        "nim"
+      ],
+      "02-04": [
+        "koa",
+        "nim",
+        "tuk"
+      ],
+      "02-05": [
+        "koa"
+      ],
+      "02-06": [
+        "koa"
+      ],
+      "02-07": [
+        "tuk"
+      ],
+      "02-08": [
+        "tuk"
+      ],
+      "03-01": [
+        "koa"
+      ],
+      "03-02": [
+        "koa",
+        "tuk"
+      ],
+      "03-03": [
+        "koa",
+        "tuk"
+      ],
+      "03-04": [
+        "koa"
+      ],
+      "03-05": [
+        "nim",
+        "tuk"
+      ],
+      "03-06": [
+        "koa",
+        "tuk"
+      ],
+      "03-07": [
+        "tuk"
+      ],
+      "03-08": [
+        "koa"
+      ],
+      "04-01": [
+        "nim"
+      ],
+      "04-02": [
+        "nim"
+      ],
+      "04-03": [
+        "nim"
+      ],
+      "04-04": [
+        "nim",
+        "tuk"
+      ],
+      "04-05": [
+        "koa",
+        "nim",
+        "tuk"
+      ],
+      "04-06": [
+        "koa",
+        "tuk"
+      ],
+      "04-07": [
+        "koa",
+        "nim"
+      ],
+      "04-08": [
+        "nim"
+      ],
+      "05-01": [
+        "nim"
+      ],
+      "05-02": [
+        "koa",
+        "tuk"
+      ],
+      "05-03": [
+        "tuk"
+      ],
+      "05-04": [
+        "koa",
+        "nim",
+        "tuk"
+      ],
+      "05-05": [
+        "koa",
+        "nim"
+      ],
+      "05-06": [
+        "koa",
+        "nim",
+        "tuk"
+      ],
+      "05-07": [
+        "koa"
+      ],
+      "05-08": [
+        "koa",
+        "tuk"
+      ],
+      "06-01": [
+        "koa",
+        "nim",
+        "tuk"
+      ],
+      "06-02": [
+        "nim",
+        "tuk"
+      ],
+      "06-03": [
+        "koa",
+        "nim",
+        "tuk"
+      ],
+      "06-04": [
+        "koa"
+      ],
+      "06-05": [
+        "koa",
+        "nim"
+      ],
+      "06-06": [
+        "koa",
+        "tuk"
+      ],
+      "06-07": [
+        "nim"
+      ],
+      "06-08": [
+        "koa"
+      ],
+      "07-01": [
+        "nim"
+      ],
+      "07-02": [
+        "koa"
+      ],
+      "07-03": [
+        "koa"
+      ],
+      "07-04": [
+        "koa",
+        "nim",
+        "tuk"
+      ],
+      "07-05": [
+        "koa",
+        "nim",
+        "tuk"
+      ],
+      "07-06": [
+        "koa",
+        "nim",
+        "tuk"
+      ],
+      "07-07": [
+        "koa",
+        "nim",
+        "tuk"
+      ],
+      "07-08": [
+        "koa",
+        "nim",
+        "tuk"
+      ]
+    }
+  },
+  "captions": {
+    "language": "English",
+    "cues": 194,
+    "coverage": "Exact normalized script tokens; approved intro cues retained",
+    "timing": "Offline acoustic forced alignment, actual chapter audio offsets",
+    "profile": {
+      "font_family": "Archivo Black",
+      "font_file": "fonts/ArchivoBlack.ttf",
+      "font_sha256": "dd9a89a019b4849f66ab75455fe7bdf931311042cbb0f0f97acc061539703180",
+      "fill": "#ffffff",
+      "stroke_fill": "#171319",
+      "supersampling": 3,
+      "resample": "lanczos",
+      "anchor": "ms",
+      "switch": "hard_cut",
+      "autoshrink": false,
+      "pop": false,
+      "profile": "b6-landscape-native-archivo-black-v1",
+      "native_design": "16:9",
+      "font_size": 39,
+      "stroke": 3,
+      "side": 64,
+      "baseline": 677,
+      "band": [
+        624,
+        708
+      ],
+      "native_layout_reason": "Separately authored 1280x720 landscape stage: floor at 590, hands/props above 480, fixed one-line captions below all principal body/prop actions; native landscape framing, not a crop of the Short."
+    }
+  },
+  "sound": {
+    "voice": "OpenAI tts-1 / alloy, speed 1",
+    "new_tts_calls": 7,
+    "tts_estimate_usd": 0.10086,
+    "account_billing_verified": false,
+    "new_image_generation_calls": 4,
+    "image_cost_not_exposed": true,
+    "paid_transcription_calls": 0,
+    "music_and_Foley": "Original local synthesis; no external music recording",
+    "loudness": {
+      "input_i": "-16.42",
+      "input_tp": "-3.58",
+      "input_lra": "4.30",
+      "input_thresh": "-27.33",
+      "output_i": "-15.72",
+      "output_tp": "-2.93",
+      "output_lra": "4.10",
+      "output_thresh": "-26.60",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.28"
+    }
+  },
+  "review": {
+    "renderer": "Project-local articulated extension; installed B6 runtime unchanged",
+    "author_visual_evidence": "See visual-review.md and decoded final-video boards",
+    "independent_creative_review": "Unavailable; not claimed",
+    "full_real_time_AV_listening_by_agent": "Not performed; automated audio measurements are not listening review",
+    "installed_B6_35_subcheck_reference_acceptance": "Not claimed",
+    "user_review": "Full-film viewing remains for user"
+  },
+  "YouTube_upload": false
+}

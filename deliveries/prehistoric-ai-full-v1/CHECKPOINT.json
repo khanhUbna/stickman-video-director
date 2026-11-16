@@ -1,0 +1,18 @@
+{
+  "state": "Full film exported, locally checked, branch-delivery package prepared",
+  "video": "deliveries/prehistoric-ai-full-v1/cavemen-ai-food-jobs.mp4",
+  "duration_seconds": 433.7,
+  "new_tts_calls": 7,
+  "tts_estimate_usd": 0.10086,
+  "new_image_calls": 4,
+  "YouTube_upload": false,
+  "existing_audio": "Reuse saved speech for any visual corrections",
+  "review_limits": {
+    "renderer": "Project-local articulated extension; installed B6 runtime unchanged",
+    "author_visual_evidence": "See visual-review.md and decoded final-video boards",
+    "independent_creative_review": "Unavailable; not claimed",
+    "full_real_time_AV_listening_by_agent": "Not performed; automated audio measurements are not listening review",
+    "installed_B6_35_subcheck_reference_acceptance": "Not claimed",
+    "user_review": "Full-film viewing remains for user"
+  }
+}

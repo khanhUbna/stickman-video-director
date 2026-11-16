@@ -1,0 +1,650 @@
+{
+  "duration": 433.7,
+  "fps": 30,
+  "width": 1280,
+  "height": 720,
+  "caption_profile": {
+    "font_family": "Archivo Black",
+    "font_file": "fonts/ArchivoBlack.ttf",
+    "font_sha256": "dd9a89a019b4849f66ab75455fe7bdf931311042cbb0f0f97acc061539703180",
+    "fill": "#ffffff",
+    "stroke_fill": "#171319",
+    "supersampling": 3,
+    "resample": "lanczos",
+    "anchor": "ms",
+    "switch": "hard_cut",
+    "autoshrink": false,
+    "pop": false,
+    "profile": "b6-landscape-native-archivo-black-v1",
+    "native_design": "16:9",
+    "font_size": 39,
+    "stroke": 3,
+    "side": 64,
+    "baseline": 677,
+    "band": [
+      624,
+      708
+    ],
+    "native_layout_reason": "Separately authored 1280x720 landscape stage: floor at 590, hands/props above 480, fixed one-line captions below all principal body/prop actions; native landscape framing, not a crop of the Short."
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Before the machine",
+      "start": 18.0,
+      "speech_duration": 58.5625,
+      "end": 77.2125,
+      "path": "audio/chapter-01.wav"
+    },
+    {
+      "id": 2,
+      "title": "Enough, for a while",
+      "start": 77.2125,
+      "speech_duration": 60.4875,
+      "end": 138.35,
+      "path": "audio/chapter-02.wav"
+    },
+    {
+      "id": 3,
+      "title": "The first performance review",
+      "start": 138.35,
+      "speech_duration": 57.7625,
+      "end": 196.76250000000002,
+      "path": "audio/chapter-03.wav"
+    },
+    {
+      "id": 4,
+      "title": "The work that did not count",
+      "start": 196.7625,
+      "speech_duration": 57.5375,
+      "end": 254.95,
+      "path": "audio/chapter-04.wav"
+    },
+    {
+      "id": 5,
+      "title": "When the numbers got wet",
+      "start": 254.95,
+      "speech_duration": 55.1125,
+      "end": 310.7125,
+      "path": "audio/chapter-05.wav"
+    },
+    {
+      "id": 6,
+      "title": "How much is enough?",
+      "start": 310.7125,
+      "speech_duration": 60.025,
+      "end": 371.38749999999993,
+      "path": "audio/chapter-06.wav"
+    },
+    {
+      "id": 7,
+      "title": "One unscheduled afternoon",
+      "start": 371.3875,
+      "speech_duration": 60.3,
+      "end": 433.7,
+      "path": "audio/chapter-07.wav"
+    }
+  ],
+  "shots": [
+    {
+      "id": "01-01",
+      "setting": "forest",
+      "action": "empty_basket",
+      "text": "Koa had never wanted to change the world. He wanted dinner. Lately, even that had become difficult.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 18,
+      "end": 24.68,
+      "chapter": 1
+    },
+    {
+      "id": "01-02",
+      "setting": "river",
+      "action": "fish_escape",
+      "text": "The river gave them fish on one day and nothing on the next. A successful morning could become an empty evening.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 24.68,
+      "end": 31.695,
+      "chapter": 1
+    },
+    {
+      "id": "01-03",
+      "setting": "forest",
+      "action": "fruit_pick",
+      "text": "Nim knew which trees ripened first. But knowing where food grew was different from getting everyone there before it spoiled.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 31.695,
+      "end": 38.9375,
+      "chapter": 1
+    },
+    {
+      "id": "01-04",
+      "setting": "camp",
+      "action": "last_portion",
+      "text": "One night, Tuk divided the last meal into smaller and smaller pieces. Koa watched his portion disappear before anyone touched it.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 38.9375,
+      "end": 46.765,
+      "chapter": 1
+    },
+    {
+      "id": "01-05",
+      "setting": "forest",
+      "action": "discover",
+      "text": "The next morning, he found something half buried beneath a fallen branch. It had one blue eye and absolutely no mouth.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 46.765,
+      "end": 54.9525,
+      "chapter": 1
+    },
+    {
+      "id": "01-06",
+      "setting": "forest",
+      "action": "ask_stone",
+      "text": "Koa asked whether it knew where the food was. The eye lit up. First, the machine wanted to know what they already knew.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 54.9525,
+      "end": 61.995,
+      "chapter": 1
+    },
+    {
+      "id": "01-07",
+      "setting": "river",
+      "action": "map_ground",
+      "text": "Nim marked the trees, the river and the muddy paths. Koa added where he had wasted most of yesterday walking.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 61.995,
+      "end": 69.1825,
+      "chapter": 1
+    },
+    {
+      "id": "01-08",
+      "setting": "forest",
+      "action": "sort_stones",
+      "text": "The machine compared their trips, the changing weather and the food they kept throwing away. Then it offered a different plan.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 69.1825,
+      "end": 77.2125,
+      "chapter": 1
+    },
+    {
+      "id": "02-01",
+      "setting": "river",
+      "action": "fishing",
+      "text": "Nim chose a safer stretch of river. The machine suggested the order of the trips. Neither could have done it alone.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 77.2125,
+      "end": 84.49000000000001,
+      "chapter": 2
+    },
+    {
+      "id": "02-02",
+      "setting": "yard",
+      "action": "weave",
+      "text": "Koa made stronger baskets. Suddenly, less of their dinner arrived on the ground behind him. That was an improvement everyone understood.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 84.49000000000001,
+      "end": 92.85249999999999,
+      "chapter": 2
+    },
+    {
+      "id": "02-03",
+      "setting": "store",
+      "action": "dry_food",
+      "text": "They dried some food, covered some food and finally stopped storing everything directly where the rain could reach it.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 92.85249999999999,
+      "end": 98.9925,
+      "chapter": 2
+    },
+    {
+      "id": "02-04",
+      "setting": "camp",
+      "action": "share_food",
+      "text": "A week later, the same serving stone held more than enough. Nobody needed to pretend they were not hungry anymore.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 98.9925,
+      "end": 106.595,
+      "chapter": 2
+    },
+    {
+      "id": "02-05",
+      "setting": "river",
+      "action": "sit_rest",
+      "text": "After eating, Koa sat beside the water. There was nothing urgent to do. He was beginning to like this machine.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 106.595,
+      "end": 113.265,
+      "chapter": 2
+    },
+    {
+      "id": "02-06",
+      "setting": "yard",
+      "action": "basket_stack",
+      "text": "But more food needed more baskets. More baskets needed more fiber. More storage needed more wood. Useful work had not disappeared.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 113.265,
+      "end": 122.16499999999999,
+      "chapter": 2
+    },
+    {
+      "id": "02-07",
+      "setting": "camp",
+      "action": "point_schedule",
+      "text": "Someone had to decide what came first. Tuk volunteered. He was organized, serious, and very pleased to have a stone to point at.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 122.16499999999999,
+      "end": 129.89999999999998,
+      "chapter": 2
+    },
+    {
+      "id": "02-08",
+      "setting": "yard",
+      "action": "tally",
+      "text": "The machine suggested recording completed tasks. Tuk loved the idea. At last, helping the tribe could be turned into a number.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 129.89999999999998,
+      "end": 138.35,
+      "chapter": 2
+    },
+    {
+      "id": "03-01",
+      "setting": "yard",
+      "action": "chop",
+      "text": "At first, the marks were harmless. Carry wood, earn a mark. Fill a basket, earn a mark. Everyone could see the progress.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 138.35,
+      "end": 146.25,
+      "chapter": 3
+    },
+    {
+      "id": "03-02",
+      "setting": "store",
+      "action": "count_baskets",
+      "text": "Soon, people began comparing their marks. Tuk gave the biggest portions to the highest numbers. He called it fair.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 146.25,
+      "end": 152.7575,
+      "chapter": 3
+    },
+    {
+      "id": "03-03",
+      "setting": "camp",
+      "action": "exchange_token",
+      "text": "Koa discovered that bringing back small bundles earned more marks than bringing one large bundle. So he made more trips.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 152.7575,
+      "end": 159.495,
+      "chapter": 3
+    },
+    {
+      "id": "03-04",
+      "setting": "forest",
+      "action": "carry_basket",
+      "text": "His legs worked harder. The village got the same amount of wood. His score, however, was excellent.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 159.495,
+      "end": 165.8475,
+      "chapter": 3
+    },
+    {
+      "id": "03-05",
+      "setting": "yard",
+      "action": "supervise",
+      "text": "Tuk added a schedule, then a minimum, then another meeting about why some people were falling behind the minimum.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 165.8475,
+      "end": 173.02249999999998,
+      "chapter": 3
+    },
+    {
+      "id": "03-06",
+      "setting": "camp",
+      "action": "blocked_food",
+      "text": "The serving stone became a checkpoint. Before dinner, you showed your marks. Being hungry was no longer the only requirement.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 173.02249999999998,
+      "end": 180.9475,
+      "chapter": 3
+    },
+    {
+      "id": "03-07",
+      "setting": "yard",
+      "action": "tally",
+      "text": "The machine displayed rising numbers. Tuk stood a little taller. The tribe was clearly becoming more efficient. Just look at the board.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 180.9475,
+      "end": 190.1775,
+      "chapter": 3
+    },
+    {
+      "id": "03-08",
+      "setting": "river",
+      "action": "tired_walk",
+      "text": "Koa stopped sitting by the river. There was always another mark he could earn before the food was divided.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 190.1775,
+      "end": 196.7625,
+      "chapter": 3
+    },
+    {
+      "id": "04-01",
+      "setting": "store",
+      "action": "roof_notice",
+      "text": "Then Nim noticed water dripping through the storage roof. Another storm would soak the food they had worked so hard to save.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 196.7625,
+      "end": 203.58999999999997,
+      "chapter": 4
+    },
+    {
+      "id": "04-02",
+      "setting": "yard",
+      "action": "repair_rope",
+      "text": "He spent the morning fixing a support, replacing a rope and moving the driest baskets farther from the opening.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 203.58999999999997,
+      "end": 209.44,
+      "chapter": 4
+    },
+    {
+      "id": "04-03",
+      "setting": "store",
+      "action": "roof_repair",
+      "text": "It was slow, awkward work. By sunset, the roof held. The food stayed dry. Nim had not completed a single assigned task.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 209.44,
+      "end": 218.655,
+      "chapter": 4
+    },
+    {
+      "id": "04-04",
+      "setting": "camp",
+      "action": "empty_bowl",
+      "text": "At dinner, Tuk checked his marks and handed him an empty bowl. Repairs were not on today's list.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 218.655,
+      "end": 224.3675,
+      "chapter": 4
+    },
+    {
+      "id": "04-05",
+      "setting": "camp",
+      "action": "offer_food",
+      "text": "Koa looked from the full store to Nim's empty hands. He split his own portion. Tuk reminded him that sharing confused the records.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 224.3675,
+      "end": 233.055,
+      "chapter": 4
+    },
+    {
+      "id": "04-06",
+      "setting": "storm",
+      "action": "rising_water",
+      "text": "The shallow stream was climbing over its banks. Water was heading toward the food. Tuk called for everyone to finish their assigned bundles.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 233.055,
+      "end": 240.5725,
+      "chapter": 4
+    },
+    {
+      "id": "04-07",
+      "setting": "storm",
+      "action": "leave_bundle",
+      "text": "Koa put his bundle down. For once, he was willing to lose the mark. Nim was already running toward the store.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 240.5725,
+      "end": 247.815,
+      "chapter": 4
+    },
+    {
+      "id": "04-08",
+      "setting": "storm",
+      "action": "rescue_basket",
+      "text": "The machine still had a plan. The weather had a different one. And dinner was about to float away.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 247.815,
+      "end": 254.95,
+      "chapter": 4
+    },
+    {
+      "id": "05-01",
+      "setting": "storm",
+      "action": "rescue_basket",
+      "text": "Nim grabbed the nearest basket before the current caught it. Koa followed him toward the higher ground.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 254.95,
+      "end": 260.5025,
+      "chapter": 5
+    },
+    {
+      "id": "05-02",
+      "setting": "storm",
+      "action": "stuck_rope",
+      "text": "A heavy basket caught on a rope. Koa pulled. Nothing moved. Behind him, Tuk was still holding the schedule.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 260.5025,
+      "end": 267.515,
+      "chapter": 5
+    },
+    {
+      "id": "05-03",
+      "setting": "storm",
+      "action": "drop_board",
+      "text": "Then the water reached Tuk's feet. He looked at the marks, looked at the food, and finally put the board down.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 267.515,
+      "end": 273.9675,
+      "chapter": 5
+    },
+    {
+      "id": "05-04",
+      "setting": "storm",
+      "action": "shared_pull",
+      "text": "With three people pulling, the basket came free. They dragged it onto the bank, soaked, exhausted, and very much alive.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 273.9675,
+      "end": 281.2175,
+      "chapter": 5
+    },
+    {
+      "id": "05-05",
+      "setting": "store",
+      "action": "safe_food",
+      "text": "By morning, the food was safe. The roof Nim had repaired was still standing. His score was still zero.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 281.2175,
+      "end": 288.12,
+      "chapter": 5
+    },
+    {
+      "id": "05-06",
+      "setting": "camp",
+      "action": "confront",
+      "text": "Koa carried the empty bowl to the machine. He asked why the person who had saved dinner had been refused dinner.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 288.12,
+      "end": 295.1175,
+      "chapter": 5
+    },
+    {
+      "id": "05-07",
+      "setting": "camp",
+      "action": "machine_answer",
+      "text": "The answer was uncomfortable. The system had counted the assigned tasks. Those were the marks Tuk had asked it to track.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 295.1175,
+      "end": 302.91999999999996,
+      "chapter": 5
+    },
+    {
+      "id": "05-08",
+      "setting": "camp",
+      "action": "erase_tally",
+      "text": "They had wanted a way to stop going hungry. Somewhere along the way, they had started protecting the score instead of the food.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 302.91999999999996,
+      "end": 310.7125,
+      "chapter": 5
+    },
+    {
+      "id": "06-01",
+      "setting": "camp",
+      "action": "council",
+      "text": "That evening, nobody stood behind the serving stone. They sat around the fire, with the empty bowl between them.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 310.7125,
+      "end": 317.135,
+      "chapter": 6
+    },
+    {
+      "id": "06-02",
+      "setting": "camp",
+      "action": "offer_food",
+      "text": "Before discussing anything, Tuk filled Nim's bowl. It was a small decision. The machine had not needed to make it.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 317.135,
+      "end": 324.09499999999997,
+      "chapter": 6
+    },
+    {
+      "id": "06-03",
+      "setting": "camp",
+      "action": "set_boundary",
+      "text": "Koa asked for a new plan. Enough food for everyone. A reserve for bad weather. And some part of the day that remained their own.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 324.09499999999997,
+      "end": 333.2525,
+      "chapter": 6
+    },
+    {
+      "id": "06-04",
+      "setting": "camp",
+      "action": "count_need",
+      "text": "The machine asked how much was enough. This time, they answered together, using the people they actually needed to feed.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 333.2525,
+      "end": 339.865,
+      "chapter": 6
+    },
+    {
+      "id": "06-05",
+      "setting": "store",
+      "action": "inspect_roof",
+      "text": "Nim added protecting the store. Koa added carrying useful loads. Tuk admitted that another meeting would not make the roof stronger.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 339.865,
+      "end": 348.30499999999995,
+      "chapter": 6
+    },
+    {
+      "id": "06-06",
+      "setting": "camp",
+      "action": "erase_tally",
+      "text": "They kept the useful records. They removed the rule that turned every completed task into a competition for dinner.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 348.30499999999995,
+      "end": 354.9525,
+      "chapter": 6
+    },
+    {
+      "id": "06-07",
+      "setting": "forest",
+      "action": "fruit_pick",
+      "text": "The next morning, they gathered what they needed and stopped. Koa waited for someone to announce another task. Nobody did.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 354.9525,
+      "end": 362.75249999999994,
+      "chapter": 6
+    },
+    {
+      "id": "06-08",
+      "setting": "river",
+      "action": "sit_rest",
+      "text": "He walked to the river and sat down. The machine had helped them find time. They were going to decide what belonged in it.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 362.75249999999994,
+      "end": 371.3875,
+      "chapter": 6
+    },
+    {
+      "id": "07-01",
+      "setting": "yard",
+      "action": "repair_tool",
+      "text": "Nim repaired a tool because it needed repairing, not because a mark was waiting at the end of it.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 371.3875,
+      "end": 376.86,
+      "chapter": 7
+    },
+    {
+      "id": "07-02",
+      "setting": "river",
+      "action": "skip_stone",
+      "text": "Koa tried skipping stones. Most of them sank immediately. For once, being bad at something was not a problem that required a system.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 376.86,
+      "end": 385.46500000000003,
+      "chapter": 7
+    },
+    {
+      "id": "07-03",
+      "setting": "camp",
+      "action": "rest_food",
+      "text": "The blue eye still watched the clearing. It could compare routes, count baskets and warn them when supplies were running low.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 385.46500000000003,
+      "end": 392.86249999999995,
+      "chapter": 7
+    },
+    {
+      "id": "07-04",
+      "setting": "camp",
+      "action": "look_machine",
+      "text": "But a better answer depended on a better question. More marks had been easy to measure. A life worth living required the people living it.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 392.86249999999995,
+      "end": 400.8775,
+      "chapter": 7
+    },
+    {
+      "id": "07-05",
+      "setting": "camp",
+      "action": "tuk_idea",
+      "text": "Tuk glanced at the others enjoying the afternoon. An idea crossed his face. Perhaps the machine could help them use this time more efficiently.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 400.8775,
+      "end": 408.625,
+      "chapter": 7
+    },
+    {
+      "id": "07-06",
+      "setting": "camp",
+      "action": "raise_board",
+      "text": "He picked up a blank stone. Koa stopped chewing. Nim stopped working. Very slowly, everyone turned toward Tuk.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 408.625,
+      "end": 416.4125,
+      "chapter": 7
+    },
+    {
+      "id": "07-07",
+      "setting": "camp",
+      "action": "lower_board",
+      "text": "Tuk looked at the stone. Then at their faces. He put it down, took a piece of food, and sat beside them.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 416.4125,
+      "end": 422.4575,
+      "chapter": 7
+    },
+    {
+      "id": "07-08",
+      "setting": "camp",
+      "action": "final_rest",
+      "text": "For once, the schedule was empty. Nobody needed to fill it. And the tribe had finally found something the machine could not choose for them.",
+      "primary_information": "A concrete action and visible consequence in the fictional story",
+      "start": 422.4575,
+      "end": 433.7,
+      "chapter": 7
+    }
+  ]
+}

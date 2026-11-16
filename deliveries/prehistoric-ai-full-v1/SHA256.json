@@ -1,0 +1,74 @@
+{
+  "QA.json": {
+    "bytes": 6625,
+    "sha256": "e40d045a8401f9557783dbd0cce583aeab645ba17b996f8ec80009ca9d51947d"
+  },
+  "chapters.txt": {
+    "bytes": 228,
+    "sha256": "d250b066c16946f09f4efbd4b7ea007f93776d53400a104835d4ec42ef4484ba"
+  },
+  "description-en.txt": {
+    "bytes": 818,
+    "sha256": "fc1b473d79703ea44522baeb733646639fc14201f40ed3d6fdf6cc0cd1602e3c"
+  },
+  "visual-review.md": {
+    "bytes": 3791,
+    "sha256": "e4e7b322fbb3a38ba251bff9a023b4895160560a47112ba5335a9ce0b60bb00c"
+  },
+  "repair-findings.md": {
+    "bytes": 2453,
+    "sha256": "b3b96da9b2176abf8ee6550ea3ce918cbc0904b878581ed67117ddbea1d789a7"
+  },
+  "CHECKPOINT.json": {
+    "bytes": 862,
+    "sha256": "d1a704f4aabd347628f99bde50dfbd2799e60d1bd9c9be3c674b52863c6667d0"
+  },
+  "source.zip": {
+    "bytes": 48883886,
+    "sha256": "0b25bf6c74b38428ea8ca29786798741eb65fa7f0137f9c30d9b7e59cffed4b2"
+  },
+  "timeline.json": {
+    "bytes": 24243,
+    "sha256": "5191c20036eb18f5c4734d3cf9b3d430445000ec00c18a94abb89f354491c36b"
+  },
+  "captions-en.srt": {
+    "bytes": 13533,
+    "sha256": "d7af10197eb35186a4767f2138df63519ebfdecfb18eeadd2ce65bb42078d0c8"
+  },
+  "review-evidence.json": {
+    "bytes": 9970,
+    "sha256": "52c4a4b3b7a517f3827df663ed7864db3c9176d346ca355c44e12d687a24ccf2"
+  },
+  "story.json": {
+    "bytes": 27725,
+    "sha256": "27a02c9392e419ccb1a4038437791307429011301c3135b03bc0f67efad4c546"
+  },
+  "cavemen-ai-food-jobs.mp4": {
+    "bytes": 61573192,
+    "sha256": "3f77f4bcd118b09efbd939676c592aacf152c4c74f4dd4524daf1f639aa3381f"
+  },
+  "captions-en.vtt": {
+    "bytes": 12873,
+    "sha256": "8965fe7a7de1b46632e5a1259472fd444c147a4c3998a0fc04bafa53faee73c1"
+  },
+  "rights.md": {
+    "bytes": 1324,
+    "sha256": "e234d8e51164016e2f16f8092c7c13fc4db028c2070e8ca2a5110445c8af236d"
+  },
+  "script.txt": {
+    "bytes": 6908,
+    "sha256": "a56fb13c828bf85920af0d766d116cd4fa3aa5d6aa9b47d87098967125892d5b"
+  },
+  "encoded-storyboard-2.jpg": {
+    "bytes": 766498,
+    "sha256": "13b9823614f1bf5393a6b394eaadc7b004bd3545a31b2392832b869d30c24c80"
+  },
+  "encoded-storyboard-1.jpg": {
+    "bytes": 802307,
+    "sha256": "a189da3853e95066805bf006a0d1990bc13b968c802607aaf8207f747cc81ccf"
+  },
+  "README.md": {
+    "bytes": 3682,
+    "sha256": "74b6b46c0fbcb9035524c1c07133e157564489aac287a4b78f820aaeadc90eb5"
+  }
+}

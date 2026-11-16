@@ -1,0 +1,456 @@
+{
+  "title": "Cavemen Asked AI for More Food. It Gave Them Jobs.",
+  "language": "English",
+  "ratio": "16:9",
+  "dimensions": [
+    1280,
+    720
+  ],
+  "fps": 30,
+  "intro": "18-second user-reviewed opening reused once, not regenerated",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Before the machine",
+      "text": "Koa had never wanted to change the world. He wanted dinner. Lately, even that had become difficult.\n\nThe river gave them fish on one day and nothing on the next. A successful morning could become an empty evening.\n\nNim knew which trees ripened first. But knowing where food grew was different from getting everyone there before it spoiled.\n\nOne night, Tuk divided the last meal into smaller and smaller pieces. Koa watched his portion disappear before anyone touched it.\n\nThe next morning, he found something half buried beneath a fallen branch. It had one blue eye and absolutely no mouth.\n\nKoa asked whether it knew where the food was. The eye lit up. First, the machine wanted to know what they already knew.\n\nNim marked the trees, the river and the muddy paths. Koa added where he had wasted most of yesterday walking.\n\nThe machine compared their trips, the changing weather and the food they kept throwing away. Then it offered a different plan.",
+      "beats": [
+        {
+          "id": "01-01",
+          "setting": "forest",
+          "action": "empty_basket",
+          "text": "Koa had never wanted to change the world. He wanted dinner. Lately, even that had become difficult.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "01-02",
+          "setting": "river",
+          "action": "fish_escape",
+          "text": "The river gave them fish on one day and nothing on the next. A successful morning could become an empty evening.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "01-03",
+          "setting": "forest",
+          "action": "fruit_pick",
+          "text": "Nim knew which trees ripened first. But knowing where food grew was different from getting everyone there before it spoiled.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "01-04",
+          "setting": "camp",
+          "action": "last_portion",
+          "text": "One night, Tuk divided the last meal into smaller and smaller pieces. Koa watched his portion disappear before anyone touched it.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "01-05",
+          "setting": "forest",
+          "action": "discover",
+          "text": "The next morning, he found something half buried beneath a fallen branch. It had one blue eye and absolutely no mouth.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "01-06",
+          "setting": "forest",
+          "action": "ask_stone",
+          "text": "Koa asked whether it knew where the food was. The eye lit up. First, the machine wanted to know what they already knew.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "01-07",
+          "setting": "river",
+          "action": "map_ground",
+          "text": "Nim marked the trees, the river and the muddy paths. Koa added where he had wasted most of yesterday walking.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "01-08",
+          "setting": "forest",
+          "action": "sort_stones",
+          "text": "The machine compared their trips, the changing weather and the food they kept throwing away. Then it offered a different plan.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Enough, for a while",
+      "text": "Nim chose a safer stretch of river. The machine suggested the order of the trips. Neither could have done it alone.\n\nKoa made stronger baskets. Suddenly, less of their dinner arrived on the ground behind him. That was an improvement everyone understood.\n\nThey dried some food, covered some food and finally stopped storing everything directly where the rain could reach it.\n\nA week later, the same serving stone held more than enough. Nobody needed to pretend they were not hungry anymore.\n\nAfter eating, Koa sat beside the water. There was nothing urgent to do. He was beginning to like this machine.\n\nBut more food needed more baskets. More baskets needed more fiber. More storage needed more wood. Useful work had not disappeared.\n\nSomeone had to decide what came first. Tuk volunteered. He was organized, serious, and very pleased to have a stone to point at.\n\nThe machine suggested recording completed tasks. Tuk loved the idea. At last, helping the tribe could be turned into a number.",
+      "beats": [
+        {
+          "id": "02-01",
+          "setting": "river",
+          "action": "fishing",
+          "text": "Nim chose a safer stretch of river. The machine suggested the order of the trips. Neither could have done it alone.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "02-02",
+          "setting": "yard",
+          "action": "weave",
+          "text": "Koa made stronger baskets. Suddenly, less of their dinner arrived on the ground behind him. That was an improvement everyone understood.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "02-03",
+          "setting": "store",
+          "action": "dry_food",
+          "text": "They dried some food, covered some food and finally stopped storing everything directly where the rain could reach it.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "02-04",
+          "setting": "camp",
+          "action": "share_food",
+          "text": "A week later, the same serving stone held more than enough. Nobody needed to pretend they were not hungry anymore.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "02-05",
+          "setting": "river",
+          "action": "sit_rest",
+          "text": "After eating, Koa sat beside the water. There was nothing urgent to do. He was beginning to like this machine.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "02-06",
+          "setting": "yard",
+          "action": "basket_stack",
+          "text": "But more food needed more baskets. More baskets needed more fiber. More storage needed more wood. Useful work had not disappeared.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "02-07",
+          "setting": "camp",
+          "action": "point_schedule",
+          "text": "Someone had to decide what came first. Tuk volunteered. He was organized, serious, and very pleased to have a stone to point at.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "02-08",
+          "setting": "yard",
+          "action": "tally",
+          "text": "The machine suggested recording completed tasks. Tuk loved the idea. At last, helping the tribe could be turned into a number.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The first performance review",
+      "text": "At first, the marks were harmless. Carry wood, earn a mark. Fill a basket, earn a mark. Everyone could see the progress.\n\nSoon, people began comparing their marks. Tuk gave the biggest portions to the highest numbers. He called it fair.\n\nKoa discovered that bringing back small bundles earned more marks than bringing one large bundle. So he made more trips.\n\nHis legs worked harder. The village got the same amount of wood. His score, however, was excellent.\n\nTuk added a schedule, then a minimum, then another meeting about why some people were falling behind the minimum.\n\nThe serving stone became a checkpoint. Before dinner, you showed your marks. Being hungry was no longer the only requirement.\n\nThe machine displayed rising numbers. Tuk stood a little taller. The tribe was clearly becoming more efficient. Just look at the board.\n\nKoa stopped sitting by the river. There was always another mark he could earn before the food was divided.",
+      "beats": [
+        {
+          "id": "03-01",
+          "setting": "yard",
+          "action": "chop",
+          "text": "At first, the marks were harmless. Carry wood, earn a mark. Fill a basket, earn a mark. Everyone could see the progress.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "03-02",
+          "setting": "store",
+          "action": "count_baskets",
+          "text": "Soon, people began comparing their marks. Tuk gave the biggest portions to the highest numbers. He called it fair.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "03-03",
+          "setting": "camp",
+          "action": "exchange_token",
+          "text": "Koa discovered that bringing back small bundles earned more marks than bringing one large bundle. So he made more trips.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "03-04",
+          "setting": "forest",
+          "action": "carry_basket",
+          "text": "His legs worked harder. The village got the same amount of wood. His score, however, was excellent.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "03-05",
+          "setting": "yard",
+          "action": "supervise",
+          "text": "Tuk added a schedule, then a minimum, then another meeting about why some people were falling behind the minimum.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "03-06",
+          "setting": "camp",
+          "action": "blocked_food",
+          "text": "The serving stone became a checkpoint. Before dinner, you showed your marks. Being hungry was no longer the only requirement.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "03-07",
+          "setting": "yard",
+          "action": "tally",
+          "text": "The machine displayed rising numbers. Tuk stood a little taller. The tribe was clearly becoming more efficient. Just look at the board.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "03-08",
+          "setting": "river",
+          "action": "tired_walk",
+          "text": "Koa stopped sitting by the river. There was always another mark he could earn before the food was divided.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The work that did not count",
+      "text": "Then Nim noticed water dripping through the storage roof. Another storm would soak the food they had worked so hard to save.\n\nHe spent the morning fixing a support, replacing a rope and moving the driest baskets farther from the opening.\n\nIt was slow, awkward work. By sunset, the roof held. The food stayed dry. Nim had not completed a single assigned task.\n\nAt dinner, Tuk checked his marks and handed him an empty bowl. Repairs were not on today's list.\n\nKoa looked from the full store to Nim's empty hands. He split his own portion. Tuk reminded him that sharing confused the records.\n\nThe shallow stream was climbing over its banks. Water was heading toward the food. Tuk called for everyone to finish their assigned bundles.\n\nKoa put his bundle down. For once, he was willing to lose the mark. Nim was already running toward the store.\n\nThe machine still had a plan. The weather had a different one. And dinner was about to float away.",
+      "beats": [
+        {
+          "id": "04-01",
+          "setting": "store",
+          "action": "roof_notice",
+          "text": "Then Nim noticed water dripping through the storage roof. Another storm would soak the food they had worked so hard to save.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "04-02",
+          "setting": "yard",
+          "action": "repair_rope",
+          "text": "He spent the morning fixing a support, replacing a rope and moving the driest baskets farther from the opening.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "04-03",
+          "setting": "store",
+          "action": "roof_repair",
+          "text": "It was slow, awkward work. By sunset, the roof held. The food stayed dry. Nim had not completed a single assigned task.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "04-04",
+          "setting": "camp",
+          "action": "empty_bowl",
+          "text": "At dinner, Tuk checked his marks and handed him an empty bowl. Repairs were not on today's list.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "04-05",
+          "setting": "camp",
+          "action": "offer_food",
+          "text": "Koa looked from the full store to Nim's empty hands. He split his own portion. Tuk reminded him that sharing confused the records.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "04-06",
+          "setting": "storm",
+          "action": "rising_water",
+          "text": "The shallow stream was climbing over its banks. Water was heading toward the food. Tuk called for everyone to finish their assigned bundles.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "04-07",
+          "setting": "storm",
+          "action": "leave_bundle",
+          "text": "Koa put his bundle down. For once, he was willing to lose the mark. Nim was already running toward the store.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "04-08",
+          "setting": "storm",
+          "action": "rescue_basket",
+          "text": "The machine still had a plan. The weather had a different one. And dinner was about to float away.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "When the numbers got wet",
+      "text": "Nim grabbed the nearest basket before the current caught it. Koa followed him toward the higher ground.\n\nA heavy basket caught on a rope. Koa pulled. Nothing moved. Behind him, Tuk was still holding the schedule.\n\nThen the water reached Tuk's feet. He looked at the marks, looked at the food, and finally put the board down.\n\nWith three people pulling, the basket came free. They dragged it onto the bank, soaked, exhausted, and very much alive.\n\nBy morning, the food was safe. The roof Nim had repaired was still standing. His score was still zero.\n\nKoa carried the empty bowl to the machine. He asked why the person who had saved dinner had been refused dinner.\n\nThe answer was uncomfortable. The system had counted the assigned tasks. Those were the marks Tuk had asked it to track.\n\nThey had wanted a way to stop going hungry. Somewhere along the way, they had started protecting the score instead of the food.",
+      "beats": [
+        {
+          "id": "05-01",
+          "setting": "storm",
+          "action": "rescue_basket",
+          "text": "Nim grabbed the nearest basket before the current caught it. Koa followed him toward the higher ground.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "05-02",
+          "setting": "storm",
+          "action": "stuck_rope",
+          "text": "A heavy basket caught on a rope. Koa pulled. Nothing moved. Behind him, Tuk was still holding the schedule.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "05-03",
+          "setting": "storm",
+          "action": "drop_board",
+          "text": "Then the water reached Tuk's feet. He looked at the marks, looked at the food, and finally put the board down.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "05-04",
+          "setting": "storm",
+          "action": "shared_pull",
+          "text": "With three people pulling, the basket came free. They dragged it onto the bank, soaked, exhausted, and very much alive.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "05-05",
+          "setting": "store",
+          "action": "safe_food",
+          "text": "By morning, the food was safe. The roof Nim had repaired was still standing. His score was still zero.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "05-06",
+          "setting": "camp",
+          "action": "confront",
+          "text": "Koa carried the empty bowl to the machine. He asked why the person who had saved dinner had been refused dinner.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "05-07",
+          "setting": "camp",
+          "action": "machine_answer",
+          "text": "The answer was uncomfortable. The system had counted the assigned tasks. Those were the marks Tuk had asked it to track.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "05-08",
+          "setting": "camp",
+          "action": "erase_tally",
+          "text": "They had wanted a way to stop going hungry. Somewhere along the way, they had started protecting the score instead of the food.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "How much is enough?",
+      "text": "That evening, nobody stood behind the serving stone. They sat around the fire, with the empty bowl between them.\n\nBefore discussing anything, Tuk filled Nim's bowl. It was a small decision. The machine had not needed to make it.\n\nKoa asked for a new plan. Enough food for everyone. A reserve for bad weather. And some part of the day that remained their own.\n\nThe machine asked how much was enough. This time, they answered together, using the people they actually needed to feed.\n\nNim added protecting the store. Koa added carrying useful loads. Tuk admitted that another meeting would not make the roof stronger.\n\nThey kept the useful records. They removed the rule that turned every completed task into a competition for dinner.\n\nThe next morning, they gathered what they needed and stopped. Koa waited for someone to announce another task. Nobody did.\n\nHe walked to the river and sat down. The machine had helped them find time. They were going to decide what belonged in it.",
+      "beats": [
+        {
+          "id": "06-01",
+          "setting": "camp",
+          "action": "council",
+          "text": "That evening, nobody stood behind the serving stone. They sat around the fire, with the empty bowl between them.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "06-02",
+          "setting": "camp",
+          "action": "offer_food",
+          "text": "Before discussing anything, Tuk filled Nim's bowl. It was a small decision. The machine had not needed to make it.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "06-03",
+          "setting": "camp",
+          "action": "set_boundary",
+          "text": "Koa asked for a new plan. Enough food for everyone. A reserve for bad weather. And some part of the day that remained their own.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "06-04",
+          "setting": "camp",
+          "action": "count_need",
+          "text": "The machine asked how much was enough. This time, they answered together, using the people they actually needed to feed.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "06-05",
+          "setting": "store",
+          "action": "inspect_roof",
+          "text": "Nim added protecting the store. Koa added carrying useful loads. Tuk admitted that another meeting would not make the roof stronger.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "06-06",
+          "setting": "camp",
+          "action": "erase_tally",
+          "text": "They kept the useful records. They removed the rule that turned every completed task into a competition for dinner.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "06-07",
+          "setting": "forest",
+          "action": "fruit_pick",
+          "text": "The next morning, they gathered what they needed and stopped. Koa waited for someone to announce another task. Nobody did.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "06-08",
+          "setting": "river",
+          "action": "sit_rest",
+          "text": "He walked to the river and sat down. The machine had helped them find time. They were going to decide what belonged in it.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "One unscheduled afternoon",
+      "text": "Nim repaired a tool because it needed repairing, not because a mark was waiting at the end of it.\n\nKoa tried skipping stones. Most of them sank immediately. For once, being bad at something was not a problem that required a system.\n\nThe blue eye still watched the clearing. It could compare routes, count baskets and warn them when supplies were running low.\n\nBut a better answer depended on a better question. More marks had been easy to measure. A life worth living required the people living it.\n\nTuk glanced at the others enjoying the afternoon. An idea crossed his face. Perhaps the machine could help them use this time more efficiently.\n\nHe picked up a blank stone. Koa stopped chewing. Nim stopped working. Very slowly, everyone turned toward Tuk.\n\nTuk looked at the stone. Then at their faces. He put it down, took a piece of food, and sat beside them.\n\nFor once, the schedule was empty. Nobody needed to fill it. And the tribe had finally found something the machine could not choose for them.",
+      "beats": [
+        {
+          "id": "07-01",
+          "setting": "yard",
+          "action": "repair_tool",
+          "text": "Nim repaired a tool because it needed repairing, not because a mark was waiting at the end of it.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "07-02",
+          "setting": "river",
+          "action": "skip_stone",
+          "text": "Koa tried skipping stones. Most of them sank immediately. For once, being bad at something was not a problem that required a system.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "07-03",
+          "setting": "camp",
+          "action": "rest_food",
+          "text": "The blue eye still watched the clearing. It could compare routes, count baskets and warn them when supplies were running low.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "07-04",
+          "setting": "camp",
+          "action": "look_machine",
+          "text": "But a better answer depended on a better question. More marks had been easy to measure. A life worth living required the people living it.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "07-05",
+          "setting": "camp",
+          "action": "tuk_idea",
+          "text": "Tuk glanced at the others enjoying the afternoon. An idea crossed his face. Perhaps the machine could help them use this time more efficiently.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "07-06",
+          "setting": "camp",
+          "action": "raise_board",
+          "text": "He picked up a blank stone. Koa stopped chewing. Nim stopped working. Very slowly, everyone turned toward Tuk.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "07-07",
+          "setting": "camp",
+          "action": "lower_board",
+          "text": "Tuk looked at the stone. Then at their faces. He put it down, took a piece of food, and sat beside them.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        },
+        {
+          "id": "07-08",
+          "setting": "camp",
+          "action": "final_rest",
+          "text": "For once, the schedule was empty. Nobody needed to fill it. And the tribe had finally found something the machine could not choose for them.",
+          "primary_information": "A concrete action and visible consequence in the fictional story"
+        }
+      ]
+    }
+  ],
+  "genre": "Fictional Stone Age/AI social satire; not factual prehistory or a prediction about all AI",
+  "visual_direction": "New natural/resource/work/storm settings; new actions and consequences; no looping of the preview or talking presenter filler"
+}
