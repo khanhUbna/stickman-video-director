@@ -1,0 +1,138 @@
+{
+  "title": "Why Your Free Time Doesn't Feel Like Yours",
+  "duration_seconds": 32.533333,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 30,
+  "frames": 976,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "full_decode": "pass",
+  "audio_video_duration_difference_seconds": 0.00033299999999769625,
+  "loudness": {
+    "input_i": "-16.67",
+    "input_tp": "-4.35",
+    "input_lra": "4.20",
+    "input_thresh": "-27.64",
+    "output_i": "-16.23",
+    "output_tp": "-3.81",
+    "output_lra": "1.90",
+    "output_thresh": "-27.17",
+    "normalization_type": "dynamic",
+    "target_offset": "0.23"
+  },
+  "motion": {
+    "renderer": "New project-local fixed-bone action extension; installed standing-only runtime was not modified or certified",
+    "actor_frames_checked": 875,
+    "limbs_per_actor_frame": 4,
+    "maximum_fixed_bone_error_pixels": 1.8474111129762605e-13,
+    "maximum_consecutive_planted_foot_drift_pixels": 1.1368683772161603e-13,
+    "guitar_fret_grip_max_error_pixels": 0.0,
+    "guitar_strum_traversal_max_pixels": 21.000000000000057,
+    "unreachable_target_negative_test": true,
+    "shot_coverage": {
+      "chosen_evening": [
+        26.833,
+        32.5
+      ],
+      "enter": [
+        0.0,
+        3.233
+      ],
+      "late": [
+        8.133,
+        9.667
+      ],
+      "next_evening": [
+        17.667,
+        19.0
+      ],
+      "phone": [
+        4.267,
+        5.367
+      ],
+      "phone_down": [
+        19.033,
+        20.633
+      ],
+      "pickup": [
+        21.933,
+        23.133
+      ],
+      "play": [
+        23.167,
+        26.8
+      ],
+      "regret": [
+        12.067,
+        14.8
+      ],
+      "rise": [
+        14.833,
+        17.633
+      ],
+      "scroll": [
+        6.567,
+        8.1
+      ],
+      "sit": [
+        5.4,
+        6.533
+      ],
+      "walk_to_guitar": [
+        20.667,
+        21.9
+      ]
+    }
+  },
+  "captions": {
+    "language": "en",
+    "cues": 31,
+    "single_line": true,
+    "profile": {
+      "font_family": "Archivo Black",
+      "font_file": "fonts/ArchivoBlack.ttf",
+      "font_sha256": "dd9a89a019b4849f66ab75455fe7bdf931311042cbb0f0f97acc061539703180",
+      "fill": "#ffffff",
+      "stroke_fill": "#171319",
+      "supersampling": 3,
+      "resample": "lanczos",
+      "anchor": "ms",
+      "switch": "hard_cut",
+      "autoshrink": false,
+      "pop": false,
+      "profile": "eiffel-v44-portrait-archivo-black-v1",
+      "native_design": "9:16",
+      "font_size": 47,
+      "stroke": 4,
+      "side": 44,
+      "baseline": 914,
+      "band": [
+        864,
+        951
+      ]
+    },
+    "timing": "Offline acoustic alignment plus recorded silent holds; no paid transcription"
+  },
+  "voice": {
+    "model": "tts-1",
+    "voice": "alloy",
+    "new_calls": 1,
+    "native_recording_seconds": 28.275,
+    "speed": 1,
+    "silent_holds_added": true,
+    "source_sha256": "9776f513306759a0d9b21df5934417e432c175db90d50989f339a03132030c45"
+  },
+  "new_image_API_calls": 0,
+  "YouTube_upload": false,
+  "review": {
+    "author_decoded_frame_review": "Recorded separately in README; not an independent creative acceptance",
+    "independent_creative_review": "not available",
+    "real_time_AV_listening": "not performed by the agent; automated sound/decode measurements are separate",
+    "user_approval": "pending user viewing",
+    "installed_B6_35_subcheck_acceptance": "not claimed for the new project-local action extension"
+  },
+  "sha256": "d734066025062beac36500aaef2a8330c5ab448b13a4e89c48c8aacd970b3f89"
+}

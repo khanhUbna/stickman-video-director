@@ -1,0 +1,24 @@
+{
+  "narration": {
+    "source": "One authorized OpenAI tts-1/alloy request; AI-generated narration",
+    "cost_estimate_usd": 0.00702,
+    "speed": 1
+  },
+  "music_and_Foley": {
+    "source": "Original seeded local synthesis in prepare_audio.py; no third-party melody or recording",
+    "rights": "Original production audio supplied for synchronization, editing and redistribution with this film"
+  },
+  "new_room_and_guitar_art": {
+    "source": "Original local artwork in film.py"
+  },
+  "character": {
+    "source": "Existing channel B6 protagonist painted head/garment, reused from short-clean-b6-v2",
+    "runtime": "New local articulated extension; installed B6 runtime unchanged"
+  },
+  "font": {
+    "name": "Archivo Black",
+    "license": "SIL Open Font License; notice bundled"
+  },
+  "image_API_calls": 0,
+  "YouTube_upload": false
+}

@@ -1,0 +1,9 @@
+{
+  "model": "tts-1",
+  "voice": "alloy",
+  "characters": 468,
+  "estimated_usd": 0.00702,
+  "estimate_basis": "Prior documented $15 per million characters; account bill not independently verified",
+  "authorization": "User requested complete new Short; single-call estimated cost announced before execution",
+  "automatic_retries": false
+}
