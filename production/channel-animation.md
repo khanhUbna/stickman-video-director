@@ -2,6 +2,8 @@
 
 The channel covers everyday psychology and task avoidance. The user wants clothed stick figures **acting through a story**, including future long-form videos. A rendered slideshow, static presenter with an occasional moving wrist, or a successful encoder/rig test does not satisfy that preference.
 
+For title, thumbnail and opening alignment, also read [channel-packaging.md](channel-packaging.md).
+
 ## Current reusable capability
 
 The current B6 V2 project contains `acting.py`: planted-foot hip/shoulder weight shifts, anticipation/reach/recoil, body-driven cloth wiping, grip/lift/placement/release, hand-to-key contact with visible text progression, and a genuine front/three-quarter view cut. Artwork, voice and clothing identity are preserved. Arms remain high contrast against scenery and clear of captions.
