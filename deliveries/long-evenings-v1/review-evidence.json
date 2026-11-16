@@ -1,0 +1,639 @@
+{
+  "final_movie_sha256": "8e6d3cb835896a5d8618a69d18ff38127979148d4ddcb5846090bcf286f368af",
+  "source": "Actual final MP4 decoded with FFmpeg",
+  "frames": [
+    {
+      "shot": "01-01",
+      "setting": "office",
+      "action": "bag",
+      "time": 4.467,
+      "path": "output/review/shot-01-01.jpg"
+    },
+    {
+      "shot": "01-02",
+      "setting": "street",
+      "action": "walk",
+      "time": 11.815,
+      "path": "output/review/shot-01-02.jpg"
+    },
+    {
+      "shot": "01-03",
+      "setting": "entry",
+      "action": "arrive",
+      "time": 18.921,
+      "path": "output/review/shot-01-03.jpg"
+    },
+    {
+      "shot": "01-04",
+      "setting": "living",
+      "action": "sit_phone",
+      "time": 26.405,
+      "path": "output/review/shot-01-04.jpg"
+    },
+    {
+      "shot": "01-05",
+      "setting": "living",
+      "action": "clock",
+      "time": 33.455,
+      "path": "output/review/shot-01-05.jpg"
+    },
+    {
+      "shot": "01-06",
+      "setting": "hobby",
+      "action": "guitar_stand",
+      "time": 40.938,
+      "path": "output/review/shot-01-06.jpg"
+    },
+    {
+      "shot": "01-07",
+      "setting": "bedroom",
+      "action": "phone_place",
+      "time": 47.8,
+      "path": "output/review/shot-01-07.jpg"
+    },
+    {
+      "shot": "01-08",
+      "setting": "office",
+      "action": "email",
+      "time": 55.138,
+      "path": "output/review/shot-01-08.jpg"
+    },
+    {
+      "shot": "01-09",
+      "setting": "living",
+      "action": "regret",
+      "time": 62.987,
+      "path": "output/review/shot-01-09.jpg"
+    },
+    {
+      "shot": "01-10",
+      "setting": "entry",
+      "action": "bag",
+      "time": 70.091,
+      "path": "output/review/shot-01-10.jpg"
+    },
+    {
+      "shot": "02-01",
+      "setting": "living",
+      "action": "phone_pickup",
+      "time": 77.285,
+      "path": "output/review/shot-02-01.jpg"
+    },
+    {
+      "shot": "02-02",
+      "setting": "hobby",
+      "action": "guitar_case",
+      "time": 85.048,
+      "path": "output/review/shot-02-02.jpg"
+    },
+    {
+      "shot": "02-03",
+      "setting": "living",
+      "action": "book",
+      "time": 92.178,
+      "path": "output/review/shot-02-03.jpg"
+    },
+    {
+      "shot": "02-04",
+      "setting": "entry",
+      "action": "shoes",
+      "time": 99.898,
+      "path": "output/review/shot-02-04.jpg"
+    },
+    {
+      "shot": "02-05",
+      "setting": "living",
+      "action": "scroll",
+      "time": 108.429,
+      "path": "output/review/shot-02-05.jpg"
+    },
+    {
+      "shot": "02-06",
+      "setting": "kitchen",
+      "action": "pour",
+      "time": 116.894,
+      "path": "output/review/shot-02-06.jpg"
+    },
+    {
+      "shot": "02-07",
+      "setting": "living",
+      "action": "clock",
+      "time": 124.526,
+      "path": "output/review/shot-02-07.jpg"
+    },
+    {
+      "shot": "02-08",
+      "setting": "living",
+      "action": "phone_place",
+      "time": 131.863,
+      "path": "output/review/shot-02-08.jpg"
+    },
+    {
+      "shot": "02-09",
+      "setting": "hobby",
+      "action": "guitar",
+      "time": 139.84,
+      "path": "output/review/shot-02-09.jpg"
+    },
+    {
+      "shot": "02-10",
+      "setting": "living",
+      "action": "stand",
+      "time": 148.289,
+      "path": "output/review/shot-02-10.jpg"
+    },
+    {
+      "shot": "03-01",
+      "setting": "office",
+      "action": "email",
+      "time": 156.673,
+      "path": "output/review/shot-03-01.jpg"
+    },
+    {
+      "shot": "03-02",
+      "setting": "street",
+      "action": "walk",
+      "time": 164.4,
+      "path": "output/review/shot-03-02.jpg"
+    },
+    {
+      "shot": "03-03",
+      "setting": "kitchen",
+      "action": "cook",
+      "time": 171.233,
+      "path": "output/review/shot-03-03.jpg"
+    },
+    {
+      "shot": "03-04",
+      "setting": "living",
+      "action": "phone_pickup",
+      "time": 179.325,
+      "path": "output/review/shot-03-04.jpg"
+    },
+    {
+      "shot": "03-05",
+      "setting": "entry",
+      "action": "notebook",
+      "time": 187.239,
+      "path": "output/review/shot-03-05.jpg"
+    },
+    {
+      "shot": "03-06",
+      "setting": "office",
+      "action": "notebook",
+      "time": 195.1,
+      "path": "output/review/shot-03-06.jpg"
+    },
+    {
+      "shot": "03-07",
+      "setting": "office",
+      "action": "close_laptop",
+      "time": 202.686,
+      "path": "output/review/shot-03-07.jpg"
+    },
+    {
+      "shot": "03-08",
+      "setting": "entry",
+      "action": "bag",
+      "time": 209.763,
+      "path": "output/review/shot-03-08.jpg"
+    },
+    {
+      "shot": "03-09",
+      "setting": "living",
+      "action": "window",
+      "time": 217.666,
+      "path": "output/review/shot-03-09.jpg"
+    },
+    {
+      "shot": "03-10",
+      "setting": "living",
+      "action": "stretch",
+      "time": 225.882,
+      "path": "output/review/shot-03-10.jpg"
+    },
+    {
+      "shot": "04-01",
+      "setting": "kitchen",
+      "action": "wash",
+      "time": 233.032,
+      "path": "output/review/shot-04-01.jpg"
+    },
+    {
+      "shot": "04-02",
+      "setting": "kitchen",
+      "action": "dishes",
+      "time": 241.463,
+      "path": "output/review/shot-04-02.jpg"
+    },
+    {
+      "shot": "04-03",
+      "setting": "laundry",
+      "action": "fold",
+      "time": 250.291,
+      "path": "output/review/shot-04-03.jpg"
+    },
+    {
+      "shot": "04-04",
+      "setting": "living",
+      "action": "book",
+      "time": 257.995,
+      "path": "output/review/shot-04-04.jpg"
+    },
+    {
+      "shot": "04-05",
+      "setting": "kitchen",
+      "action": "wipe",
+      "time": 265.637,
+      "path": "output/review/shot-04-05.jpg"
+    },
+    {
+      "shot": "04-06",
+      "setting": "entry",
+      "action": "notebook",
+      "time": 274.311,
+      "path": "output/review/shot-04-06.jpg"
+    },
+    {
+      "shot": "04-07",
+      "setting": "kitchen",
+      "action": "cook",
+      "time": 283.098,
+      "path": "output/review/shot-04-07.jpg"
+    },
+    {
+      "shot": "04-08",
+      "setting": "living",
+      "action": "sit_book",
+      "time": 292.134,
+      "path": "output/review/shot-04-08.jpg"
+    },
+    {
+      "shot": "04-09",
+      "setting": "hobby",
+      "action": "paint",
+      "time": 299.504,
+      "path": "output/review/shot-04-09.jpg"
+    },
+    {
+      "shot": "04-10",
+      "setting": "living",
+      "action": "regret",
+      "time": 305.86,
+      "path": "output/review/shot-04-10.jpg"
+    },
+    {
+      "shot": "05-01",
+      "setting": "hobby",
+      "action": "guitar_case",
+      "time": 313.359,
+      "path": "output/review/shot-05-01.jpg"
+    },
+    {
+      "shot": "05-02",
+      "setting": "hobby",
+      "action": "guitar_stand",
+      "time": 321.193,
+      "path": "output/review/shot-05-02.jpg"
+    },
+    {
+      "shot": "05-03",
+      "setting": "hobby",
+      "action": "guitar_pickup",
+      "time": 328.9,
+      "path": "output/review/shot-05-03.jpg"
+    },
+    {
+      "shot": "05-04",
+      "setting": "hobby",
+      "action": "guitar",
+      "time": 337.569,
+      "path": "output/review/shot-05-04.jpg"
+    },
+    {
+      "shot": "05-05",
+      "setting": "living",
+      "action": "book",
+      "time": 346.37,
+      "path": "output/review/shot-05-05.jpg"
+    },
+    {
+      "shot": "05-06",
+      "setting": "entry",
+      "action": "shoes",
+      "time": 354.079,
+      "path": "output/review/shot-05-06.jpg"
+    },
+    {
+      "shot": "05-07",
+      "setting": "street",
+      "action": "walk",
+      "time": 361.577,
+      "path": "output/review/shot-05-07.jpg"
+    },
+    {
+      "shot": "05-08",
+      "setting": "hobby",
+      "action": "paint",
+      "time": 368.958,
+      "path": "output/review/shot-05-08.jpg"
+    },
+    {
+      "shot": "05-09",
+      "setting": "park",
+      "action": "call",
+      "time": 375.904,
+      "path": "output/review/shot-05-09.jpg"
+    },
+    {
+      "shot": "05-10",
+      "setting": "living",
+      "action": "phone_place",
+      "time": 382.511,
+      "path": "output/review/shot-05-10.jpg"
+    },
+    {
+      "shot": "06-01",
+      "setting": "entry",
+      "action": "arrive",
+      "time": 389.053,
+      "path": "output/review/shot-06-01.jpg"
+    },
+    {
+      "shot": "06-02",
+      "setting": "entry",
+      "action": "phone_place",
+      "time": 396.732,
+      "path": "output/review/shot-06-02.jpg"
+    },
+    {
+      "shot": "06-03",
+      "setting": "kitchen",
+      "action": "pour",
+      "time": 405.138,
+      "path": "output/review/shot-06-03.jpg"
+    },
+    {
+      "shot": "06-04",
+      "setting": "living",
+      "action": "stretch",
+      "time": 413.095,
+      "path": "output/review/shot-06-04.jpg"
+    },
+    {
+      "shot": "06-05",
+      "setting": "hobby",
+      "action": "guitar_pickup",
+      "time": 421.377,
+      "path": "output/review/shot-06-05.jpg"
+    },
+    {
+      "shot": "06-06",
+      "setting": "park",
+      "action": "walk",
+      "time": 430.546,
+      "path": "output/review/shot-06-06.jpg"
+    },
+    {
+      "shot": "06-07",
+      "setting": "living",
+      "action": "sit_phone",
+      "time": 438.732,
+      "path": "output/review/shot-06-07.jpg"
+    },
+    {
+      "shot": "06-08",
+      "setting": "living",
+      "action": "phone_place",
+      "time": 446.66,
+      "path": "output/review/shot-06-08.jpg"
+    },
+    {
+      "shot": "06-09",
+      "setting": "living",
+      "action": "book",
+      "time": 455.938,
+      "path": "output/review/shot-06-09.jpg"
+    },
+    {
+      "shot": "06-10",
+      "setting": "bedroom",
+      "action": "lamp",
+      "time": 464.47,
+      "path": "output/review/shot-06-10.jpg"
+    },
+    {
+      "shot": "07-01",
+      "setting": "street",
+      "action": "walk",
+      "time": 471.629,
+      "path": "output/review/shot-07-01.jpg"
+    },
+    {
+      "shot": "07-02",
+      "setting": "kitchen",
+      "action": "cook",
+      "time": 479.053,
+      "path": "output/review/shot-07-02.jpg"
+    },
+    {
+      "shot": "07-03",
+      "setting": "laundry",
+      "action": "fold",
+      "time": 486.613,
+      "path": "output/review/shot-07-03.jpg"
+    },
+    {
+      "shot": "07-04",
+      "setting": "living",
+      "action": "regret",
+      "time": 494.53,
+      "path": "output/review/shot-07-04.jpg"
+    },
+    {
+      "shot": "07-05",
+      "setting": "kitchen",
+      "action": "pour",
+      "time": 502.586,
+      "path": "output/review/shot-07-05.jpg"
+    },
+    {
+      "shot": "07-06",
+      "setting": "park",
+      "action": "meet",
+      "time": 511.142,
+      "path": "output/review/shot-07-06.jpg"
+    },
+    {
+      "shot": "07-07",
+      "setting": "park",
+      "action": "walk_pair",
+      "time": 519.54,
+      "path": "output/review/shot-07-07.jpg"
+    },
+    {
+      "shot": "07-08",
+      "setting": "entry",
+      "action": "notebook",
+      "time": 527.809,
+      "path": "output/review/shot-07-08.jpg"
+    },
+    {
+      "shot": "07-09",
+      "setting": "living",
+      "action": "window",
+      "time": 535.162,
+      "path": "output/review/shot-07-09.jpg"
+    },
+    {
+      "shot": "07-10",
+      "setting": "bedroom",
+      "action": "lamp",
+      "time": 542.278,
+      "path": "output/review/shot-07-10.jpg"
+    },
+    {
+      "shot": "08-01",
+      "setting": "office",
+      "action": "close_laptop",
+      "time": 550.173,
+      "path": "output/review/shot-08-01.jpg"
+    },
+    {
+      "shot": "08-02",
+      "setting": "entry",
+      "action": "bag",
+      "time": 557.383,
+      "path": "output/review/shot-08-02.jpg"
+    },
+    {
+      "shot": "08-03",
+      "setting": "entry",
+      "action": "phone_place",
+      "time": 565.129,
+      "path": "output/review/shot-08-03.jpg"
+    },
+    {
+      "shot": "08-04",
+      "setting": "hobby",
+      "action": "guitar_pickup",
+      "time": 572.318,
+      "path": "output/review/shot-08-04.jpg"
+    },
+    {
+      "shot": "08-05",
+      "setting": "hobby",
+      "action": "guitar",
+      "time": 578.997,
+      "path": "output/review/shot-08-05.jpg"
+    },
+    {
+      "shot": "08-06",
+      "setting": "park",
+      "action": "walk",
+      "time": 586.401,
+      "path": "output/review/shot-08-06.jpg"
+    },
+    {
+      "shot": "08-07",
+      "setting": "living",
+      "action": "sit_book",
+      "time": 593.958,
+      "path": "output/review/shot-08-07.jpg"
+    },
+    {
+      "shot": "08-08",
+      "setting": "living",
+      "action": "clock",
+      "time": 600.96,
+      "path": "output/review/shot-08-08.jpg"
+    },
+    {
+      "shot": "08-09",
+      "setting": "bedroom",
+      "action": "lamp",
+      "time": 608.997,
+      "path": "output/review/shot-08-09.jpg"
+    },
+    {
+      "shot": "08-10",
+      "setting": "living",
+      "action": "window",
+      "time": 618.115,
+      "path": "output/review/shot-08-10.jpg"
+    },
+    {
+      "shot": "01-02",
+      "time": 14.509,
+      "detail": "landed-walk",
+      "path": "output/review/detail-landed-walk.png"
+    },
+    {
+      "shot": "02-04",
+      "time": 99.898,
+      "detail": "shoe-contact",
+      "path": "output/review/detail-shoe-contact.png"
+    },
+    {
+      "shot": "02-06",
+      "time": 116.218,
+      "detail": "pour-contact",
+      "path": "output/review/detail-pour-contact.png"
+    },
+    {
+      "shot": "04-09",
+      "time": 299.621,
+      "detail": "brush-contact",
+      "path": "output/review/detail-brush-contact.png"
+    },
+    {
+      "shot": "05-03",
+      "time": 326.889,
+      "detail": "guitar-acquire",
+      "path": "output/review/detail-guitar-acquire.png"
+    },
+    {
+      "shot": "05-03",
+      "time": 328.668,
+      "detail": "guitar-lift",
+      "path": "output/review/detail-guitar-lift.png"
+    },
+    {
+      "shot": "05-04",
+      "time": 337.569,
+      "detail": "guitar-play",
+      "path": "output/review/detail-guitar-play.png"
+    },
+    {
+      "shot": "06-02",
+      "time": 397.916,
+      "detail": "phone-placement",
+      "path": "output/review/detail-phone-placement.png"
+    },
+    {
+      "shot": "06-02",
+      "time": 398.255,
+      "detail": "phone-release",
+      "path": "output/review/detail-phone-release.png"
+    },
+    {
+      "shot": "07-06",
+      "time": 511.142,
+      "detail": "friend-greeting",
+      "path": "output/review/detail-friend-greeting.png"
+    },
+    {
+      "shot": "07-07",
+      "time": 522.553,
+      "detail": "two-landed-walkers",
+      "path": "output/review/detail-two-landed-walkers.png"
+    },
+    {
+      "shot": "08-10",
+      "time": 619.674,
+      "detail": "ending",
+      "path": "output/review/detail-ending.png"
+    }
+  ],
+  "limits": "Decoded frames and excerpts are inspection artifacts; no independent reviewer or real-time agent AV listening is inferred."
+}

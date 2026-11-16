@@ -1,0 +1,74 @@
+{
+  "model": "tts-1",
+  "voice": "alloy",
+  "speed": 1,
+  "chapters": [
+    {
+      "chapter": 1,
+      "path": "audio/chapter-01.wav",
+      "characters": 1183,
+      "duration": 72.1125,
+      "sha256": "62930b5c4f1f27e98cc9f7898fd0f0f68bc12044be6e8f182437509f8a5232e5",
+      "estimated_usd": 0.017745
+    },
+    {
+      "chapter": 2,
+      "path": "audio/chapter-02.wav",
+      "characters": 1265,
+      "duration": 78.275,
+      "sha256": "e564c37589bcfe19c5bbd73d4136f57dba9b794ff885ed54d9fd1359f10006a9",
+      "estimated_usd": 0.018975
+    },
+    {
+      "chapter": 3,
+      "path": "audio/chapter-03.wav",
+      "characters": 1268,
+      "duration": 76.7375,
+      "sha256": "b7b27500c05c92d9b1e87a9e1fddd168c52b1083d1434bf3ff18c405db390871",
+      "estimated_usd": 0.01902
+    },
+    {
+      "chapter": 4,
+      "path": "audio/chapter-04.wav",
+      "characters": 1291,
+      "duration": 78.7625,
+      "sha256": "f8b61d4009a5805137123a12b64165c80f0139e560d6d764ffd769e8cf3aa8de",
+      "estimated_usd": 0.019365
+    },
+    {
+      "chapter": 5,
+      "path": "audio/chapter-05.wav",
+      "characters": 1264,
+      "duration": 75.8875,
+      "sha256": "83009ddb1e3c6f07231911962431ca01f2fda710a19d36a452951597eb3224f6",
+      "estimated_usd": 0.01896
+    },
+    {
+      "chapter": 6,
+      "path": "audio/chapter-06.wav",
+      "characters": 1338,
+      "duration": 81.7625,
+      "sha256": "441456b6d98cebfaf7858f0d6dcb11a94fe897755bca3f29f06c1fe15a3dbdf0",
+      "estimated_usd": 0.02007
+    },
+    {
+      "chapter": 7,
+      "path": "audio/chapter-07.wav",
+      "characters": 1258,
+      "duration": 77.1625,
+      "sha256": "98ddd1eafdd84cfeb9e43bac98fd535d5e23ef925e87408054cbac91778a56bd",
+      "estimated_usd": 0.01887
+    },
+    {
+      "chapter": 8,
+      "path": "audio/chapter-08.wav",
+      "characters": 1206,
+      "duration": 74.5125,
+      "sha256": "38601e58f466222aca3b808ef6d11b5f17a8cfabfc595d88d1478d44250ac60f",
+      "estimated_usd": 0.01809
+    }
+  ],
+  "estimated_usd": 0.151095,
+  "billing_verified": false,
+  "new_paid_transcription_calls": 0
+}

@@ -1,0 +1,31 @@
+{
+  "narration": {
+    "provider": "OpenAI",
+    "model": "tts-1",
+    "voice": "alloy",
+    "speed": 1,
+    "AI_generated": true,
+    "new_requests": 8,
+    "estimated_usd": 0.151095,
+    "account_billing_verified": false,
+    "source": "Saved chapter-01.wav through chapter-08.wav; never regenerate on a picture revision"
+  },
+  "music_room_and_Foley": {
+    "source": "Original seeded local synthesis in sound.py; no downloaded melody or recording",
+    "use": "Supplied for synchronization, editing, redistribution and use with the user\u2019s film",
+    "events": "audio/sound-events.json"
+  },
+  "character_art": {
+    "source": "Existing channel protagonist painted B6 assets; installed parcel_runner artwork reused as a supporting friend",
+    "license_notice": "Existing source LICENSE included; no new image API calls"
+  },
+  "new_sets_props_and_motion": {
+    "source": "Original local sets.py, props.py, film.py and rig.py; separately staged native landscape",
+    "scope": "New project-local action extension; installed standing-only B6 compositor unchanged"
+  },
+  "font": {
+    "name": "Archivo Black",
+    "license": "SIL Open Font License; notice included in fonts"
+  },
+  "YouTube_upload": false
+}
