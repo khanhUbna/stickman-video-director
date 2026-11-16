@@ -14,5 +14,18 @@
     "full_real_time_AV_listening_by_agent": "Not performed; automated audio measurements are not listening review",
     "installed_B6_35_subcheck_reference_acceptance": "Not claimed",
     "user_review": "Full-film viewing remains for user"
+  },
+  "publishing_kit": {
+    "status": "requested and completed",
+    "language": "English",
+    "title": "Cavemen Asked AI for Food. It Gave Them Jobs.",
+    "thumbnail": "publishing/thumbnail.jpg",
+    "metadata": "publishing/metadata.md",
+    "image_tool": "image_gen",
+    "image_job": "exec-c1d0250e-9dd4-4d94-9740-0db3cc8579e3.png",
+    "new_image_calls": 1,
+    "TTS_calls": 0,
+    "film_regenerated": false,
+    "YouTube_upload": false
   }
 }

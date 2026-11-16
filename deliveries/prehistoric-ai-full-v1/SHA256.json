@@ -20,8 +20,8 @@
     "sha256": "b3b96da9b2176abf8ee6550ea3ce918cbc0904b878581ed67117ddbea1d789a7"
   },
   "CHECKPOINT.json": {
-    "bytes": 862,
-    "sha256": "d1a704f4aabd347628f99bde50dfbd2799e60d1bd9c9be3c674b52863c6667d0"
+    "bytes": 1308,
+    "sha256": "a3674a597683fb4c7e5d8fbb6b6d3d0a24fc5f23b64af8c91d6690ed4ea58093"
   },
   "source.zip": {
     "bytes": 48883886,
@@ -68,7 +68,15 @@
     "sha256": "a189da3853e95066805bf006a0d1990bc13b968c802607aaf8207f747cc81ccf"
   },
   "README.md": {
-    "bytes": 3682,
-    "sha256": "74b6b46c0fbcb9035524c1c07133e157564489aac287a4b78f820aaeadc90eb5"
+    "bytes": 4076,
+    "sha256": "ac48df9ab993efc0eaa4f35a3f9fb2d91ab9ea2a8cc2a41005937a6d330aeca9"
+  },
+  "publishing/thumbnail.jpg": {
+    "bytes": 375766,
+    "sha256": "e59074a5e107c448c2b08f97d84ae52c3c1ecf63db419f3425708806d1595d18"
+  },
+  "publishing/metadata.md": {
+    "bytes": 3860,
+    "sha256": "1bdceecf8ec29ef15b06d7dd38b63e060367b63f13be4cd04e6c7d7a3ea8ff0a"
   }
 }

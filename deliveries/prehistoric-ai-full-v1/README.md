@@ -14,6 +14,10 @@ The approved 18-second opening is included once. The remainder is newly authored
 
 No YouTube upload has been made. This is fictional social satire, not a historical account or a factual prediction about AI.
 
+## Thumbnail and publishing text
+
+The requested cover is in [publishing/thumbnail.jpg](publishing/thumbnail.jpg), 1280×720 JPEG, below 2 MB. Recommended public title: **Cavemen Asked AI for Food. It Gave Them Jobs.** [Five title options, description, tags and a pinned comment](publishing/metadata.md) are saved separately. This packaging addition does not regenerate the movie or narration.
+
 ## Sound and rights
 
 Seven additional `tts-1` / `alloy` requests, original speed 1. Estimated narration charge **USD 0.10086**, based on the recorded character count and working rate; account billing was not verified. The preview voice was reused. Four additional image-generation calls supplied three environments and one expression/AI sprite atlas; their billing amount is not exposed by the tool. No paid transcription was requested.
