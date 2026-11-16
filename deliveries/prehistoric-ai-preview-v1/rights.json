@@ -1,0 +1,24 @@
+{
+  "story": "Original fictional Stone Age/AI social satire; not factual prehistory",
+  "art": {
+    "source": "Three image-generation requests using the installed B6 painted character solely as style reference",
+    "assets": [
+      "character-sheet.png",
+      "camp.png",
+      "koa-expressions.png"
+    ],
+    "new_identity_and_wardrobe": true
+  },
+  "voice": {
+    "source": "Single saved OpenAI tts-1/alloy request at speed 1",
+    "estimated_usd": 0.002535,
+    "billing_verified": false
+  },
+  "score_and_Foley": {
+    "source": "Original seeded local synthesis, finish.py",
+    "third_party_music_or_recordings": false,
+    "use": "Provided for synchronization, editing and redistribution with the user\u2019s film"
+  },
+  "font": "Archivo Black, SIL Open Font License; notice included",
+  "YouTube_upload": false
+}

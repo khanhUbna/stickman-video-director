@@ -1,0 +1,125 @@
+{
+  "title": "Cavemen Asked AI for More Food. It Gave Them Jobs.",
+  "stage": "preview_for_user_review_only",
+  "full_episode_proposed_minutes": [
+    6,
+    8
+  ],
+  "full_episode_rendered": false,
+  "duration_seconds": 18.0,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "fps": 30,
+  "frames": 540,
+  "full_decode": "pass",
+  "audio_video_duration_difference_seconds": 0.0,
+  "sha256": "fce2c4aba0de9c39fe88cc9fb04cd5c2ffb2f283eadfb1c487110d0e35e1e055",
+  "motion": {
+    "renderer": "New-cast fitting in existing project-local articulated action extension; installed B6 runtime unchanged",
+    "actor_frames_checked": 1020,
+    "four_control_chains_per_actor_frame": true,
+    "maximum_fixed_bone_error_pixels": 4.263256414560601e-13,
+    "maximum_consecutive_planted_foot_drift_pixels": 2.2737367544323206e-13,
+    "maximum_authored_prop_grip_errors_pixels": {
+      "meat_giver": 0,
+      "meat_receiver": 0,
+      "first_portion": 0,
+      "axe_left": 0,
+      "axe_right": 0
+    },
+    "unreachable_target_negative_test": true,
+    "cast_by_shot": {
+      "ask": [
+        "koa"
+      ],
+      "food": [
+        "koa",
+        "tuk"
+      ],
+      "blocked": [
+        "koa",
+        "tuk"
+      ],
+      "work": [
+        "koa",
+        "nim",
+        "tuk"
+      ]
+    },
+    "views": "Fitted front artwork only; no fabricated continuous turn",
+    "costume": "Generated white cartoon torsos with fully covering hide loincloths, dark stick limbs and bare stylized feet"
+  },
+  "audio": {
+    "model": "tts-1",
+    "voice": "alloy",
+    "new_requests": 1,
+    "native_voice_seconds": 10.4125,
+    "speed": 1,
+    "estimated_speech_usd": 0.002535,
+    "estimated_rate_basis": "Previously documented USD 15/million characters; account bill not independently verified",
+    "new_paid_transcription_requests": 0,
+    "original_music_and_Foley": true,
+    "loudness": {
+      "input_i": "-17.08",
+      "input_tp": "-4.32",
+      "input_lra": "15.00",
+      "input_thresh": "-29.05",
+      "output_i": "-17.03",
+      "output_tp": "-3.97",
+      "output_lra": "6.00",
+      "output_thresh": "-28.44",
+      "normalization_type": "dynamic",
+      "target_offset": "1.03"
+    }
+  },
+  "art": {
+    "image_generation_requests": 3,
+    "purpose": [
+      "three-character head/body atlas",
+      "prehistoric camp",
+      "Koa shocked/weary facial variants"
+    ],
+    "image_generation_cost": "Not exposed by this tool; no invented estimate",
+    "historical_claim": "Fictional Stone Age/AI thought experiment"
+  },
+  "captions": {
+    "language": "English",
+    "cues": 9,
+    "single_line": true,
+    "profile": {
+      "font_family": "Archivo Black",
+      "font_file": "fonts/ArchivoBlack.ttf",
+      "font_sha256": "dd9a89a019b4849f66ab75455fe7bdf931311042cbb0f0f97acc061539703180",
+      "fill": "#ffffff",
+      "stroke_fill": "#171319",
+      "supersampling": 3,
+      "resample": "lanczos",
+      "anchor": "ms",
+      "switch": "hard_cut",
+      "autoshrink": false,
+      "pop": false,
+      "profile": "b6-landscape-native-archivo-black-v1",
+      "native_design": "16:9",
+      "font_size": 39,
+      "stroke": 3,
+      "side": 55,
+      "baseline": 683,
+      "band": [
+        635,
+        711
+      ],
+      "native_layout_reason": "Native landscape preview, principal hands/food/face above 610, feet at 630 or legitimate medium-view crop; semantic single line below the action field."
+    }
+  },
+  "review": {
+    "technical": "Complete decode, all-frame actual drawn-chain and authored-grip checks",
+    "author_visual": "Source and final decoded frames; recorded in README",
+    "independent_creative_review": "not available",
+    "real_time_AV_listening_by_agent": "not performed; loudness/decode checks are separate",
+    "installed_B6_35_subcheck_reference_acceptance": "not claimed for this local extension",
+    "user_approval": "pending; do not produce the full episode automatically"
+  },
+  "YouTube_upload": false
+}

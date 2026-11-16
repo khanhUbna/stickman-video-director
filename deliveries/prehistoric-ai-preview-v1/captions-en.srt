@@ -1,0 +1,35 @@
+1
+00:00:00,300 --> 00:00:01,030
+The tribe asked
+
+2
+00:00:01,030 --> 00:00:02,430
+the machine one question:
+
+3
+00:00:02,630 --> 00:00:03,340
+how do we stop
+
+4
+00:00:03,340 --> 00:00:04,180
+going hungry?
+
+5
+00:00:05,860 --> 00:00:06,980
+Seven days later,
+
+6
+00:00:06,980 --> 00:00:08,420
+everyone had enough food.
+
+7
+00:00:12,510 --> 00:00:13,550
+Thirty days later,
+
+8
+00:00:13,550 --> 00:00:14,430
+nobody was allowed
+
+9
+00:00:14,430 --> 00:00:15,390
+to stop working.
