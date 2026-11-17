@@ -1,0 +1,78 @@
+{
+  "QA.json": {
+    "bytes": 5131,
+    "sha256": "a468001b6302060d658c8a9e412d30374355ebdc147b7bcabcd4c386a76ff841"
+  },
+  "chapters.txt": {
+    "bytes": 168,
+    "sha256": "1ead4ed8630c87a614a9048b68fcc8d460c54b79b4533ef210627de987b09b1a"
+  },
+  "description-en.txt": {
+    "bytes": 1128,
+    "sha256": "279d75c0253a677293cd1b8db3de62c5f5a2d1c832a00974f8584ef7cbd45f2f"
+  },
+  "visual-review.md": {
+    "bytes": 3818,
+    "sha256": "c577bda4d9eba1287a2665c3ad30136ef29cd100af96624279bb0067640b461c"
+  },
+  "repair-findings.md": {
+    "bytes": 2047,
+    "sha256": "83510888171b8cf0521b3fb4e4bb25c7594687772dc3b41528ae3b76cf7422e7"
+  },
+  "CHECKPOINT.json": {
+    "bytes": 936,
+    "sha256": "9fd0c6aa3a9e7699e23d53b4d632fce4321555e46521a5bc995d590186389a21"
+  },
+  "source.zip": {
+    "bytes": 45541340,
+    "sha256": "128d70341a3a53fef5538591c65117b1dece22f1a617291f593dc30bd17c1174"
+  },
+  "timeline.json": {
+    "bytes": 18204,
+    "sha256": "d96c39d53c05c8e1eb107baf452bf54af6780e29a08d17b6ecc2f6e17ad941c1"
+  },
+  "captions-en.srt": {
+    "bytes": 11037,
+    "sha256": "0f611e32e63e51eaa9cc45821817040b70fa831a51f8ac530799649edc79fb79"
+  },
+  "review-evidence.json": {
+    "bytes": 6959,
+    "sha256": "d7923fbdd9223050580bb0cfd2252e32aa33770f8c9efd83188ba447f7256ed1"
+  },
+  "3-questions-even-ai-cant-answer.mp4": {
+    "bytes": 36378186,
+    "sha256": "8c1ad3f5e2b7ae4de1f1d880a33db6b01b46b87bcf0a116c46d84cdcd430f494"
+  },
+  "story.json": {
+    "bytes": 21383,
+    "sha256": "6ab7746e9d944c3722bfa6131ce3f714186f04682cc98a2ef005bcafeb32ad88"
+  },
+  "reference-study.md": {
+    "bytes": 3865,
+    "sha256": "e94d9a9537e43a33e23a94769d694fb0bcf903f4032d4ac6c31207c8448977e2"
+  },
+  "captions-en.vtt": {
+    "bytes": 10541,
+    "sha256": "95aa4d7ee5e80451d06dd6e22235e9b6ef278e409d1f54fd8aabe7a41be30221"
+  },
+  "rights.md": {
+    "bytes": 1317,
+    "sha256": "c5a2da48b6a575dd13d33c2b2f615c67953e5b80573722b47d04911e86e24e4e"
+  },
+  "script.txt": {
+    "bytes": 5825,
+    "sha256": "96d22dab4d1465122771c9489fbe15149bf66f518ae61fa9e0dc777776eefc53"
+  },
+  "encoded-storyboard-2.jpg": {
+    "bytes": 424252,
+    "sha256": "4967653c02fbe182c6bb4c882660995661411a3410bc725b8a745dad2c209a81"
+  },
+  "encoded-storyboard-1.jpg": {
+    "bytes": 458411,
+    "sha256": "3c7fe4370805a91977696caf00c856f372d6f69f596bcf7d50a4281a21c174de"
+  },
+  "README.md": {
+    "bytes": 3886,
+    "sha256": "e421ecf6d3e424d073c85b4d87d6f1dab5e975afeea474d0520d9465381f0d0e"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "state": "Complete exported film with saved narration and decoded evidence",
+  "title": "3 Questions Even AI Can't Answer",
+  "duration_seconds": 361.5,
+  "video_sha256": "8c1ad3f5e2b7ae4de1f1d880a33db6b01b46b87bcf0a116c46d84cdcd430f494",
+  "new_tts_calls": 5,
+  "tts_estimate_usd": 0.08724,
+  "new_image_calls": 6,
+  "YouTube_upload": false,
+  "future_corrections": "Reuse saved audio; do not regenerate speech for visual repairs",
+  "review_limits": {
+    "renderer": "Established project-local B6-look articulated compositor; installed trusted runtime unchanged",
+    "author_visual": "See visual-review.md and actual final-video decoded boards",
+    "independent_review": "Not performed",
+    "full_real_time_audiovisual_listening": "Not performed; measurements do not establish listening approval",
+    "strict_B6_35_subcheck_reference_acceptance": "Not claimed",
+    "user_viewing": "Full film available for user review"
+  }
+}

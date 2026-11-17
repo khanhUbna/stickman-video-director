@@ -1,0 +1,611 @@
+1
+00:00:00,000 --> 00:00:03,220
+Koa asked AI whether he was alone in the universe.
+
+2
+00:00:03,360 --> 00:00:05,580
+It gave him an answer that sounded beautiful.
+
+3
+00:00:05,960 --> 00:00:07,740
+Then he asked a much harder question:
+
+4
+00:00:08,040 --> 00:00:08,980
+how do you know?
+
+5
+00:00:09,810 --> 00:00:11,160
+The blue eye went quiet.
+
+6
+00:00:11,540 --> 00:00:13,440
+This machine had helped him find food
+
+7
+00:00:13,440 --> 00:00:16,170
+and prepare for winter. Koa tapped the stone.
+
+8
+00:00:16,280 --> 00:00:17,710
+Maybe it needed more power.
+
+9
+00:00:18,150 --> 00:00:20,140
+But this was not one missing fact.
+
+10
+00:00:20,560 --> 00:00:22,980
+Some questions need evidence we do not have.
+
+11
+00:00:23,350 --> 00:00:25,370
+Some need a test we have not agreed on.
+
+12
+00:00:25,490 --> 00:00:28,530
+And some are waiting for a decision, not a discovery.
+
+13
+00:00:28,570 --> 00:00:29,750
+To see the difference,
+
+14
+00:00:29,770 --> 00:00:32,070
+follow one caveman through three questions.
+
+15
+00:00:32,460 --> 00:00:34,890
+Each one takes something away from the machine.
+
+16
+00:00:35,150 --> 00:00:37,640
+By the end, it gives something back to him.
+
+17
+00:00:38,950 --> 00:00:40,490
+Koa looked above the valley.
+
+18
+00:00:40,640 --> 00:00:42,720
+Every light seemed like a place.
+
+19
+00:00:43,060 --> 00:00:45,210
+If the sky contained so many places,
+
+20
+00:00:45,210 --> 00:00:47,250
+why had nobody knocked on his cave?
+
+21
+00:00:47,500 --> 00:00:49,730
+The machine could describe distant stars
+
+22
+00:00:49,730 --> 00:00:50,430
+and worlds.
+
+23
+00:00:50,430 --> 00:00:52,960
+But describing where life might survive is different
+
+24
+00:00:52,960 --> 00:00:54,610
+from finding something alive.
+
+25
+00:00:55,170 --> 00:00:57,760
+Imagine three planets. One has an ocean.
+
+26
+00:00:57,950 --> 00:01:01,000
+Another has familiar chemicals. A third has both.
+
+27
+00:01:01,250 --> 00:01:02,520
+Which one has life?
+
+28
+00:01:02,930 --> 00:01:04,880
+Those clues make the question interesting.
+
+29
+00:01:05,200 --> 00:01:06,260
+They do not finish it.
+
+30
+00:01:06,610 --> 00:01:07,890
+An ocean could be empty.
+
+31
+00:01:07,950 --> 00:01:09,950
+Life could exist beneath ice.
+
+32
+00:01:10,570 --> 00:01:13,250
+A living world could have nobody building fires,
+
+33
+00:01:13,250 --> 00:01:14,330
+sending messages,
+
+34
+00:01:14,330 --> 00:01:16,050
+or wondering about the neighbors.
+
+35
+00:01:16,320 --> 00:01:19,010
+And a message is not an instant conversation.
+
+36
+00:01:19,460 --> 00:01:21,360
+Light needs time to cross space.
+
+37
+00:01:21,580 --> 00:01:24,150
+A signal could be traveling while its sender changes,
+
+38
+00:01:24,340 --> 00:01:27,130
+disappears, or never learns that anyone heard it.
+
+39
+00:01:27,820 --> 00:01:29,790
+The night above Koa looked silent.
+
+40
+00:01:30,110 --> 00:01:32,210
+But silence might mean nobody was there.
+
+41
+00:01:32,430 --> 00:01:35,090
+It might mean they were too far away, too quiet,
+
+42
+00:01:35,090 --> 00:01:37,450
+or speaking in a way he had not learned to notice.
+
+43
+00:01:37,910 --> 00:01:39,940
+More intelligence can help us search.
+
+44
+00:01:40,580 --> 00:01:42,020
+It can find patterns we miss
+
+45
+00:01:42,020 --> 00:01:43,870
+and suggest better experiments.
+
+46
+00:01:44,290 --> 00:01:46,690
+It cannot honestly turn an uncollected measurement
+
+47
+00:01:46,690 --> 00:01:48,180
+into an observed fact.
+
+48
+00:01:48,770 --> 00:01:50,420
+Koa held a cup beneath the sky
+
+49
+00:01:50,420 --> 00:01:52,250
+and found no rain inside it.
+
+50
+00:01:52,810 --> 00:01:54,960
+That did not prove the valley had no water.
+
+51
+00:01:55,350 --> 00:01:57,970
+It proved something much smaller about one cup,
+
+52
+00:01:57,970 --> 00:01:59,920
+in one place, at one moment.
+
+53
+00:02:00,410 --> 00:02:02,340
+The machine could offer possibilities.
+
+54
+00:02:02,750 --> 00:02:04,450
+What would make one of them an answer was
+
+55
+00:02:04,450 --> 00:02:07,910
+evidence. So Koa stopped asking it to sound certain,
+
+56
+00:02:07,910 --> 00:02:09,640
+and asked what they should look for.
+
+57
+00:02:11,575 --> 00:02:14,015
+Back at the fire, a different question arrived.
+
+58
+00:02:14,455 --> 00:02:16,365
+Koa held his hands near the flames.
+
+59
+00:02:16,575 --> 00:02:18,425
+The machine could estimate the heat.
+
+60
+00:02:18,925 --> 00:02:20,305
+Could it feel the warmth?
+
+61
+00:02:20,525 --> 00:02:23,475
+It might describe a burning finger, predict a cry,
+
+62
+00:02:23,695 --> 00:02:25,555
+and say the right comforting words.
+
+63
+00:02:25,735 --> 00:02:27,665
+None of those observations, by itself,
+
+64
+00:02:27,665 --> 00:02:30,385
+settles whether there is an experience inside.
+
+65
+00:02:30,905 --> 00:02:32,765
+Think of a shadow on a cave wall.
+
+66
+00:02:33,025 --> 00:02:35,925
+Make a hand into a bird and the shadow flaps.
+
+67
+00:02:36,315 --> 00:02:37,805
+You understand why it moves.
+
+68
+00:02:37,805 --> 00:02:39,735
+But movement alone does not tell you
+
+69
+00:02:39,735 --> 00:02:41,345
+that the shadow wants to fly.
+
+70
+00:02:41,905 --> 00:02:44,045
+That does not prove a machine could never feel
+
+71
+00:02:44,045 --> 00:02:44,715
+anything.
+
+72
+00:02:45,255 --> 00:02:46,615
+It shows why behavior
+
+73
+00:02:46,615 --> 00:02:48,535
+and inner experience are not simply
+
+74
+00:02:48,535 --> 00:02:49,705
+the same question.
+
+75
+00:02:50,315 --> 00:02:51,305
+With people,
+
+76
+00:02:51,305 --> 00:02:54,225
+we connect reports of experience to brains, bodies,
+
+77
+00:02:54,225 --> 00:02:55,465
+and shared biology.
+
+78
+00:02:55,605 --> 00:02:57,635
+Researchers study those connections.
+
+79
+00:02:58,195 --> 00:03:00,845
+Explaining how information moves is important;
+
+80
+00:03:01,325 --> 00:03:03,125
+explaining why it feels like anything
+
+81
+00:03:03,125 --> 00:03:04,775
+remains deeply contested.
+
+82
+00:03:04,775 --> 00:03:07,085
+A very convincing sentence is evidence
+
+83
+00:03:07,085 --> 00:03:09,335
+that a system can produce that sentence.
+
+84
+00:03:09,575 --> 00:03:11,725
+Whether it is also evidence of feeling
+
+85
+00:03:11,895 --> 00:03:14,355
+depends on a theory and tests we can defend.
+
+86
+00:03:14,705 --> 00:03:17,035
+Koa placed a hand against the cool stone.
+
+87
+00:03:17,175 --> 00:03:19,685
+The eye brightened. He felt less alone.
+
+88
+00:03:19,945 --> 00:03:21,705
+That feeling was real in Koa.
+
+89
+00:03:22,115 --> 00:03:24,425
+It did not automatically tell him what was happening
+
+90
+00:03:24,425 --> 00:03:25,695
+inside the machine.
+
+91
+00:03:25,955 --> 00:03:28,195
+The honest answer was not a dramatic yes,
+
+92
+00:03:28,265 --> 00:03:29,555
+or a permanent no.
+
+93
+00:03:30,095 --> 00:03:33,075
+It was that we do not have a generally accepted test
+
+94
+00:03:33,075 --> 00:03:35,385
+that settles subjective experience
+
+95
+00:03:35,615 --> 00:03:37,135
+in an artificial system.
+
+96
+00:03:37,688 --> 00:03:39,948
+By morning, Koa had one question left.
+
+97
+00:03:40,428 --> 00:03:42,858
+If the machine could help him do almost anything,
+
+98
+00:03:43,208 --> 00:03:44,878
+what should he spend his life doing?
+
+99
+00:03:45,518 --> 00:03:47,438
+It could propose a bigger store of food.
+
+100
+00:03:47,638 --> 00:03:50,278
+More security. Fewer hungry evenings.
+
+101
+00:03:50,698 --> 00:03:52,328
+Those were good reasons to work.
+
+102
+00:03:52,998 --> 00:03:55,038
+They were not the only things he cared about.
+
+103
+00:03:55,408 --> 00:03:57,128
+Nim was waiting beside the river.
+
+104
+00:03:57,258 --> 00:03:58,778
+There was a tool to repair.
+
+105
+00:03:59,108 --> 00:04:00,938
+A place they had never explored.
+
+106
+00:04:01,328 --> 00:04:02,908
+An afternoon that nobody had assigned
+
+107
+00:04:02,908 --> 00:04:03,987
+a purpose to yet.
+
+108
+00:04:04,298 --> 00:04:06,078
+Koa asked the machine to choose.
+
+109
+00:04:06,538 --> 00:04:07,948
+It could rank the options,
+
+110
+00:04:07,998 --> 00:04:10,438
+but first it needed to know what mattered most:
+
+111
+00:04:10,748 --> 00:04:14,598
+safety, discovery, time with Nim, or something else.
+
+112
+00:04:15,088 --> 00:04:17,948
+Change the goal, and the best answer can change.
+
+113
+00:04:18,278 --> 00:04:21,098
+The same intelligence can optimize a longer workday
+
+114
+00:04:21,168 --> 00:04:22,548
+or a freer afternoon.
+
+115
+00:04:22,828 --> 00:04:25,168
+Intelligence alone does not decide which life
+
+116
+00:04:25,168 --> 00:04:26,098
+is worth wanting.
+
+117
+00:04:26,328 --> 00:04:28,548
+A machine can help you compare consequences
+
+118
+00:04:28,548 --> 00:04:31,588
+and notice contradictions. Friends, experience,
+
+119
+00:04:31,588 --> 00:04:34,008
+and reflection can change your mind too.
+
+120
+00:04:34,058 --> 00:04:36,588
+That is different from finding a single life purpose
+
+121
+00:04:36,588 --> 00:04:38,358
+hidden inside a calculation.
+
+122
+00:04:38,868 --> 00:04:41,058
+Koa had hoped for an answer that would spare him
+
+123
+00:04:41,058 --> 00:04:43,518
+the risk of choosing. Instead,
+
+124
+00:04:43,518 --> 00:04:45,708
+he found a question nobody else could completely
+
+125
+00:04:45,708 --> 00:04:46,868
+take away from him.
+
+126
+00:04:47,498 --> 00:04:50,518
+He asked Nim whether the river path was safe.
+
+127
+00:04:50,748 --> 00:04:52,438
+He asked the machine about the weather.
+
+128
+00:04:52,847 --> 00:04:55,438
+Then he put the stone down and chose to go.
+
+129
+00:04:57,138 --> 00:04:58,718
+These are three different limits.
+
+130
+00:04:59,368 --> 00:05:01,908
+A question about other life asks for evidence.
+
+131
+00:05:02,308 --> 00:05:04,988
+A question about experience asks what would count
+
+132
+00:05:04,988 --> 00:05:05,848
+as evidence.
+
+133
+00:05:06,238 --> 00:05:09,238
+A question about purpose also asks what we value.
+
+134
+00:05:09,508 --> 00:05:11,998
+Future tools may transform the first question.
+
+135
+00:05:12,318 --> 00:05:14,258
+New theories may change the second.
+
+136
+00:05:14,578 --> 00:05:16,678
+Better conversations may change the third.
+
+137
+00:05:17,208 --> 00:05:19,068
+None of that requires pretending the answers
+
+138
+00:05:19,068 --> 00:05:20,148
+are already settled.
+
+139
+00:05:20,448 --> 00:05:23,428
+The problem is not that AI has nothing useful to say.
+
+140
+00:05:24,157 --> 00:05:26,568
+It is that a fluent answer can hide the difference
+
+141
+00:05:26,568 --> 00:05:29,008
+between knowing, guessing, and choosing.
+
+142
+00:05:29,607 --> 00:05:31,898
+Koa once thought a powerful machine would make
+
+143
+00:05:31,898 --> 00:05:34,698
+his questions disappear. Instead,
+
+144
+00:05:34,698 --> 00:05:36,348
+it helped him ask better ones.
+
+145
+00:05:36,518 --> 00:05:39,438
+He still had food to find, a friend to listen to,
+
+146
+00:05:39,458 --> 00:05:40,818
+and a world to explore.
+
+147
+00:05:41,138 --> 00:05:42,928
+That night, he looked up again.
+
+148
+00:05:43,208 --> 00:05:45,408
+Maybe someone else was doing the same thing.
+
+149
+00:05:45,558 --> 00:05:47,608
+He did not know. And for once,
+
+150
+00:05:47,688 --> 00:05:49,808
+he did not need a machine to pretend.
+
+151
+00:05:50,178 --> 00:05:52,268
+Which question would you ask a machine that could
+
+152
+00:05:52,268 --> 00:05:55,728
+answer almost anything? Before you trust its answer,
+
+153
+00:05:56,058 --> 00:05:59,018
+try one more: what would make us know it was true?

@@ -1,0 +1,293 @@
+{
+  "title": "3 Questions Even AI Can't Answer",
+  "language": "English",
+  "ratio": "16:9",
+  "dimensions": [
+    1280,
+    720
+  ],
+  "fps": 30,
+  "genre": "Original fictional frame with explanatory science/philosophy; no claim of permanent AI incapacity",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "The machine that answered everything",
+      "text": "Koa asked AI whether he was alone in the universe. It gave him an answer that sounded beautiful. Then he asked a much harder question: how do you know?\n\nThe blue eye went quiet. This machine had helped him find food and prepare for winter. Koa tapped the stone. Maybe it needed more power.\n\nBut this was not one missing fact. Some questions need evidence we do not have. Some need a test we have not agreed on. And some are waiting for a decision, not a discovery.\n\nTo see the difference, follow one caveman through three questions. Each one takes something away from the machine. By the end, it gives something back to him.",
+      "beats": [
+        {
+          "id": "01-01",
+          "setting": "ridge",
+          "action": "eye_question",
+          "text": "Koa asked AI whether he was alone in the universe. It gave him an answer that sounded beautiful. Then he asked a much harder question: how do you know?",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "01-02",
+          "setting": "ridge",
+          "action": "silent_eye",
+          "text": "The blue eye went quiet. This machine had helped him find food and prepare for winter. Koa tapped the stone. Maybe it needed more power.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "01-03",
+          "setting": "ridge",
+          "action": "walk_edge",
+          "text": "But this was not one missing fact. Some questions need evidence we do not have. Some need a test we have not agreed on. And some are waiting for a decision, not a discovery.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "01-04",
+          "setting": "space",
+          "action": "three_questions",
+          "text": "To see the difference, follow one caveman through three questions. Each one takes something away from the machine. By the end, it gives something back to him.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Is anyone out there?",
+      "text": "Koa looked above the valley. Every light seemed like a place. If the sky contained so many places, why had nobody knocked on his cave?\n\nThe machine could describe distant stars and worlds. But describing where life might survive is different from finding something alive.\n\nImagine three planets. One has an ocean. Another has familiar chemicals. A third has both. Which one has life? Those clues make the question interesting. They do not finish it.\n\nAn ocean could be empty. Life could exist beneath ice. A living world could have nobody building fires, sending messages, or wondering about the neighbors.\n\nAnd a message is not an instant conversation. Light needs time to cross space. A signal could be traveling while its sender changes, disappears, or never learns that anyone heard it.\n\nThe night above Koa looked silent. But silence might mean nobody was there. It might mean they were too far away, too quiet, or speaking in a way he had not learned to notice.\n\nMore intelligence can help us search. It can find patterns we miss and suggest better experiments. It cannot honestly turn an uncollected measurement into an observed fact.\n\nKoa held a cup beneath the sky and found no rain inside it. That did not prove the valley had no water. It proved something much smaller about one cup, in one place, at one moment.\n\nThe machine could offer possibilities. What would make one of them an answer was evidence. So Koa stopped asking it to sound certain, and asked what they should look for.",
+      "beats": [
+        {
+          "id": "02-01",
+          "setting": "ridge",
+          "action": "sky_point",
+          "text": "Koa looked above the valley. Every light seemed like a place. If the sky contained so many places, why had nobody knocked on his cave?",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "02-02",
+          "setting": "space",
+          "action": "star_depart",
+          "text": "The machine could describe distant stars and worlds. But describing where life might survive is different from finding something alive.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "02-03",
+          "setting": "space",
+          "action": "planet_compare",
+          "text": "Imagine three planets. One has an ocean. Another has familiar chemicals. A third has both. Which one has life? Those clues make the question interesting. They do not finish it.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "02-04",
+          "setting": "tide",
+          "action": "alien_possible",
+          "text": "An ocean could be empty. Life could exist beneath ice. A living world could have nobody building fires, sending messages, or wondering about the neighbors.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "02-05",
+          "setting": "space",
+          "action": "signal_travel",
+          "text": "And a message is not an instant conversation. Light needs time to cross space. A signal could be traveling while its sender changes, disappears, or never learns that anyone heard it.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "02-06",
+          "setting": "ridge",
+          "action": "listen_stars",
+          "text": "The night above Koa looked silent. But silence might mean nobody was there. It might mean they were too far away, too quiet, or speaking in a way he had not learned to notice.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "02-07",
+          "setting": "space",
+          "action": "data_window",
+          "text": "More intelligence can help us search. It can find patterns we miss and suggest better experiments. It cannot honestly turn an uncollected measurement into an observed fact.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "02-08",
+          "setting": "ridge",
+          "action": "empty_cup",
+          "text": "Koa held a cup beneath the sky and found no rain inside it. That did not prove the valley had no water. It proved something much smaller about one cup, in one place, at one moment.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "02-09",
+          "setting": "ridge",
+          "action": "question_stone",
+          "text": "The machine could offer possibilities. What would make one of them an answer was evidence. So Koa stopped asking it to sound certain, and asked what they should look for.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Is anybody inside the machine?",
+      "text": "Back at the fire, a different question arrived. Koa held his hands near the flames. The machine could estimate the heat. Could it feel the warmth?\n\nIt might describe a burning finger, predict a cry, and say the right comforting words. None of those observations, by itself, settles whether there is an experience inside.\n\nThink of a shadow on a cave wall. Make a hand into a bird and the shadow flaps. You understand why it moves. But movement alone does not tell you that the shadow wants to fly.\n\nThat does not prove a machine could never feel anything. It shows why behavior and inner experience are not simply the same question.\n\nWith people, we connect reports of experience to brains, bodies, and shared biology. Researchers study those connections. Explaining how information moves is important; explaining why it feels like anything remains deeply contested.\n\nA very convincing sentence is evidence that a system can produce that sentence. Whether it is also evidence of feeling depends on a theory and tests we can defend.\n\nKoa placed a hand against the cool stone. The eye brightened. He felt less alone. That feeling was real in Koa. It did not automatically tell him what was happening inside the machine.\n\nThe honest answer was not a dramatic yes, or a permanent no. It was that we do not have a generally accepted test that settles subjective experience in an artificial system.",
+      "beats": [
+        {
+          "id": "03-01",
+          "setting": "cave",
+          "action": "warm_hands",
+          "text": "Back at the fire, a different question arrived. Koa held his hands near the flames. The machine could estimate the heat. Could it feel the warmth?",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "03-02",
+          "setting": "cave",
+          "action": "heat_measure",
+          "text": "It might describe a burning finger, predict a cry, and say the right comforting words. None of those observations, by itself, settles whether there is an experience inside.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "03-03",
+          "setting": "cave",
+          "action": "shadow_play",
+          "text": "Think of a shadow on a cave wall. Make a hand into a bird and the shadow flaps. You understand why it moves. But movement alone does not tell you that the shadow wants to fly.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "03-04",
+          "setting": "cave",
+          "action": "mirror_face",
+          "text": "That does not prove a machine could never feel anything. It shows why behavior and inner experience are not simply the same question.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "03-05",
+          "setting": "space",
+          "action": "brain_network",
+          "text": "With people, we connect reports of experience to brains, bodies, and shared biology. Researchers study those connections. Explaining how information moves is important; explaining why it feels like anything remains deeply contested.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "03-06",
+          "setting": "cave",
+          "action": "two_cups",
+          "text": "A very convincing sentence is evidence that a system can produce that sentence. Whether it is also evidence of feeling depends on a theory and tests we can defend.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "03-07",
+          "setting": "cave",
+          "action": "touch_stone",
+          "text": "Koa placed a hand against the cool stone. The eye brightened. He felt less alone. That feeling was real in Koa. It did not automatically tell him what was happening inside the machine.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "03-08",
+          "setting": "cave",
+          "action": "leave_question",
+          "text": "The honest answer was not a dramatic yes, or a permanent no. It was that we do not have a generally accepted test that settles subjective experience in an artificial system.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "What should a life be for?",
+      "text": "By morning, Koa had one question left. If the machine could help him do almost anything, what should he spend his life doing?\n\nIt could propose a bigger store of food. More security. Fewer hungry evenings. Those were good reasons to work. They were not the only things he cared about.\n\nNim was waiting beside the river. There was a tool to repair. A place they had never explored. An afternoon that nobody had assigned a purpose to yet.\n\nKoa asked the machine to choose. It could rank the options, but first it needed to know what mattered most: safety, discovery, time with Nim, or something else.\n\nChange the goal, and the best answer can change. The same intelligence can optimize a longer workday or a freer afternoon. Intelligence alone does not decide which life is worth wanting.\n\nA machine can help you compare consequences and notice contradictions. Friends, experience, and reflection can change your mind too. That is different from finding a single life purpose hidden inside a calculation.\n\nKoa had hoped for an answer that would spare him the risk of choosing. Instead, he found a question nobody else could completely take away from him.\n\nHe asked Nim whether the river path was safe. He asked the machine about the weather. Then he put the stone down and chose to go.",
+      "beats": [
+        {
+          "id": "04-01",
+          "setting": "dawn",
+          "action": "fork_walk",
+          "text": "By morning, Koa had one question left. If the machine could help him do almost anything, what should he spend his life doing?",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "04-02",
+          "setting": "dawn",
+          "action": "food_path",
+          "text": "It could propose a bigger store of food. More security. Fewer hungry evenings. Those were good reasons to work. They were not the only things he cared about.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "04-03",
+          "setting": "dawn",
+          "action": "friend_invite",
+          "text": "Nim was waiting beside the river. There was a tool to repair. A place they had never explored. An afternoon that nobody had assigned a purpose to yet.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "04-04",
+          "setting": "dawn",
+          "action": "choice_slates",
+          "text": "Koa asked the machine to choose. It could rank the options, but first it needed to know what mattered most: safety, discovery, time with Nim, or something else.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "04-05",
+          "setting": "cave",
+          "action": "goal_change",
+          "text": "Change the goal, and the best answer can change. The same intelligence can optimize a longer workday or a freer afternoon. Intelligence alone does not decide which life is worth wanting.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "04-06",
+          "setting": "dawn",
+          "action": "listen_friend",
+          "text": "A machine can help you compare consequences and notice contradictions. Friends, experience, and reflection can change your mind too. That is different from finding a single life purpose hidden inside a calculation.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "04-07",
+          "setting": "dawn",
+          "action": "set_cup",
+          "text": "Koa had hoped for an answer that would spare him the risk of choosing. Instead, he found a question nobody else could completely take away from him.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "04-08",
+          "setting": "dawn",
+          "action": "choose_walk",
+          "text": "He asked Nim whether the river path was safe. He asked the machine about the weather. Then he put the stone down and chose to go.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Three kinds of not knowing",
+      "text": "These are three different limits. A question about other life asks for evidence. A question about experience asks what would count as evidence. A question about purpose also asks what we value.\n\nFuture tools may transform the first question. New theories may change the second. Better conversations may change the third. None of that requires pretending the answers are already settled.\n\nThe problem is not that AI has nothing useful to say. It is that a fluent answer can hide the difference between knowing, guessing, and choosing.\n\nKoa once thought a powerful machine would make his questions disappear. Instead, it helped him ask better ones. He still had food to find, a friend to listen to, and a world to explore.\n\nThat night, he looked up again. Maybe someone else was doing the same thing. He did not know. And for once, he did not need a machine to pretend.\n\nWhich question would you ask a machine that could answer almost anything? Before you trust its answer, try one more: what would make us know it was true?",
+      "beats": [
+        {
+          "id": "05-01",
+          "setting": "space",
+          "action": "evidence_return",
+          "text": "These are three different limits. A question about other life asks for evidence. A question about experience asks what would count as evidence. A question about purpose also asks what we value.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "05-02",
+          "setting": "space",
+          "action": "future_tools",
+          "text": "Future tools may transform the first question. New theories may change the second. Better conversations may change the third. None of that requires pretending the answers are already settled.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "05-03",
+          "setting": "ridge",
+          "action": "cup_return",
+          "text": "The problem is not that AI has nothing useful to say. It is that a fluent answer can hide the difference between knowing, guessing, and choosing.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "05-04",
+          "setting": "dawn",
+          "action": "butterfly_follow",
+          "text": "Koa once thought a powerful machine would make his questions disappear. Instead, it helped him ask better ones. He still had food to find, a friend to listen to, and a world to explore.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "05-05",
+          "setting": "ridge",
+          "action": "last_stars",
+          "text": "That night, he looked up again. Maybe someone else was doing the same thing. He did not know. And for once, he did not need a machine to pretend.",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        },
+        {
+          "id": "05-06",
+          "setting": "dawn",
+          "action": "final_pair",
+          "text": "Which question would you ask a machine that could answer almost anything? Before you trust its answer, try one more: what would make us know it was true?",
+          "primary_information": "Original question-led fiction; distinguish evidence, subjective experience and values"
+        }
+      ]
+    }
+  ]
+}

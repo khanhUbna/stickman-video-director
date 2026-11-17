@@ -1,0 +1,204 @@
+{
+  "title": "3 Questions Even AI Can't Answer",
+  "duration_seconds": 361.5,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "fps": 30,
+  "frames": 10845,
+  "full_decode": "pass",
+  "audio_video_difference_seconds": 0.0,
+  "file_bytes": 36378186,
+  "sha256": "8c1ad3f5e2b7ae4de1f1d880a33db6b01b46b87bcf0a116c46d84cdcd430f494",
+  "source_fingerprint": "29c3b1dd30c46be2e4ed173845d5153f95f763ee7611356ac254db3baf0efcec",
+  "narrative": {
+    "chapters": 5,
+    "shots": 35,
+    "settings": [
+      "ridge",
+      "space",
+      "tide",
+      "cave",
+      "dawn"
+    ],
+    "old_movie_footage_reused": false,
+    "source_SRT_quoted_or_redistributed": false,
+    "science_scope": "Illustrative possibilities and epistemic distinctions; not a claim that AI can never make discoveries or have experience"
+  },
+  "motion": {
+    "actor_frames": 9493,
+    "four_drawn_chains_per_actor_frame": true,
+    "max_fixed_bone_error_px": 2.2737367544323206e-13,
+    "max_consecutive_planted_foot_drift_px": 4.547473508864641e-13,
+    "authored_contacts_px": {
+      "stone_touch": 0,
+      "cup_handle": 0,
+      "empty_cup_handle": 0,
+      "warm_cup": 0,
+      "friend_shoulder": 0,
+      "placing_cup": 0,
+      "left_AI_stone": 0,
+      "right_AI_stone": 0
+    },
+    "unreachable_pose_guard": true,
+    "cast_by_shot": {
+      "01-01": [
+        "koa"
+      ],
+      "01-02": [
+        "koa"
+      ],
+      "01-03": [
+        "koa"
+      ],
+      "01-04": [],
+      "02-01": [
+        "koa"
+      ],
+      "02-02": [],
+      "02-03": [],
+      "02-04": [],
+      "02-05": [],
+      "02-06": [
+        "koa"
+      ],
+      "02-07": [],
+      "02-08": [
+        "koa"
+      ],
+      "02-09": [
+        "koa"
+      ],
+      "03-01": [
+        "koa"
+      ],
+      "03-02": [
+        "koa"
+      ],
+      "03-03": [
+        "koa"
+      ],
+      "03-04": [
+        "koa"
+      ],
+      "03-05": [],
+      "03-06": [
+        "koa"
+      ],
+      "03-07": [
+        "koa"
+      ],
+      "03-08": [
+        "koa"
+      ],
+      "04-01": [
+        "koa"
+      ],
+      "04-02": [
+        "koa"
+      ],
+      "04-03": [
+        "koa",
+        "nim"
+      ],
+      "04-04": [
+        "koa"
+      ],
+      "04-05": [
+        "koa"
+      ],
+      "04-06": [
+        "koa",
+        "nim"
+      ],
+      "04-07": [
+        "koa"
+      ],
+      "04-08": [
+        "koa",
+        "nim"
+      ],
+      "05-01": [],
+      "05-02": [],
+      "05-03": [
+        "koa"
+      ],
+      "05-04": [
+        "koa",
+        "nim"
+      ],
+      "05-05": [
+        "koa"
+      ],
+      "05-06": [
+        "koa",
+        "nim"
+      ]
+    },
+    "scoped_scene_patch_sha256": "a49bb8268d2118b12a5155af32d4d4814e3aee80d3f18f1b83e106894e5a09d7",
+    "scoped_scene_patch": "04-08: AI stone carried, lowered, released and left behind; chapters 1\u20133 reused; chapter 5 first frame clamped to its authored cut",
+    "chapter_5_start_clamped": true
+  },
+  "captions": {
+    "language": "English",
+    "cues": 153,
+    "word_coverage": "Exact normalized narration coverage",
+    "alignment": "Offline acoustic PocketSphinx; saved original-rate audio",
+    "profile": {
+      "font_family": "Archivo Black",
+      "font_file": "fonts/ArchivoBlack.ttf",
+      "font_sha256": "dd9a89a019b4849f66ab75455fe7bdf931311042cbb0f0f97acc061539703180",
+      "fill": "#ffffff",
+      "stroke_fill": "#171319",
+      "supersampling": 3,
+      "resample": "lanczos",
+      "anchor": "ms",
+      "switch": "hard_cut",
+      "autoshrink": false,
+      "pop": false,
+      "profile": "b6-landscape-native-archivo-black-v1",
+      "native_design": "16:9",
+      "font_size": 39,
+      "stroke": 3,
+      "side": 64,
+      "baseline": 677,
+      "band": [
+        624,
+        708
+      ],
+      "native_layout_reason": "Separately authored 1280x720 landscape stage: floor at 590, hands/props above 480, fixed one-line captions below all principal body/prop actions; native landscape framing, not a crop of the Short."
+    }
+  },
+  "sound": {
+    "voice": "tts-1 / alloy, speed 1",
+    "new_tts_calls": 5,
+    "new_tts_estimate_usd": 0.08724,
+    "billing_verified": false,
+    "new_image_calls": 6,
+    "image_billing": "not exposed",
+    "paid_transcription_calls": 0,
+    "score_and_foley": "Original local synthesis; no external music recording",
+    "loudness": {
+      "input_i": "-16.22",
+      "input_tp": "-3.91",
+      "input_lra": "4.20",
+      "input_thresh": "-27.03",
+      "output_i": "-16.00",
+      "output_tp": "-3.41",
+      "output_lra": "4.20",
+      "output_thresh": "-26.77",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.00"
+    }
+  },
+  "review": {
+    "renderer": "Established project-local B6-look articulated compositor; installed trusted runtime unchanged",
+    "author_visual": "See visual-review.md and actual final-video decoded boards",
+    "independent_review": "Not performed",
+    "full_real_time_audiovisual_listening": "Not performed; measurements do not establish listening approval",
+    "strict_B6_35_subcheck_reference_acceptance": "Not claimed",
+    "user_viewing": "Full film available for user review"
+  },
+  "YouTube_upload": false
+}
