@@ -1,0 +1,644 @@
+﻿1
+00:00:00,000 --> 00:00:03,220
+Koa hỏi AI liệu cậu có cô độc trong vũ trụ hay không.
+
+2
+00:00:03,360 --> 00:00:05,580
+Nó đưa ra một câu trả lời nghe thật đẹp đẽ.
+
+3
+00:00:05,960 --> 00:00:07,740
+Rồi cậu hỏi một câu khó hơn nhiều:
+
+4
+00:00:08,040 --> 00:00:08,980
+Làm sao ngươi biết?
+
+5
+00:00:09,810 --> 00:00:11,160
+Con mắt xanh bỗng im lặng.
+
+6
+00:00:11,540 --> 00:00:13,440
+Cỗ máy này từng giúp cậu tìm thức ăn
+
+7
+00:00:13,440 --> 00:00:16,170
+và chuẩn bị cho mùa đông. Koa gõ lên hòn đá.
+
+8
+00:00:16,280 --> 00:00:17,710
+Có lẽ nó cần thêm năng lượng.
+
+9
+00:00:18,150 --> 00:00:20,140
+Nhưng đây không chỉ là chuyện thiếu một dữ kiện.
+
+10
+00:00:20,560 --> 00:00:22,980
+Có những câu hỏi cần bằng chứng mà ta chưa có.
+
+11
+00:00:23,350 --> 00:00:25,370
+Có những câu cần một phép kiểm tra mà ta chưa thống
+nhất.
+
+12
+00:00:25,490 --> 00:00:28,530
+Và có những câu chờ một quyết định, chứ không phải một
+khám phá.
+
+13
+00:00:28,570 --> 00:00:29,750
+Để thấy sự khác biệt,
+
+14
+00:00:29,770 --> 00:00:32,070
+hãy theo chân một người tiền sử qua ba câu hỏi.
+
+15
+00:00:32,460 --> 00:00:34,890
+Mỗi câu lấy đi một điều gì đó từ cỗ máy.
+
+16
+00:00:35,150 --> 00:00:37,640
+Đến cuối cùng, chúng lại trả về cho cậu một điều gì
+đó.
+
+17
+00:00:38,950 --> 00:00:40,490
+Koa ngước nhìn bầu trời phía trên thung lũng.
+
+18
+00:00:40,640 --> 00:00:42,720
+Mỗi đốm sáng dường như là một nơi chốn.
+
+19
+00:00:43,060 --> 00:00:45,210
+Nếu trên trời có nhiều nơi đến vậy,
+
+20
+00:00:45,210 --> 00:00:47,250
+tại sao chưa ai gõ cửa hang của cậu?
+
+21
+00:00:47,500 --> 00:00:49,730
+Cỗ máy có thể mô tả những ngôi sao xa xôi
+
+22
+00:00:49,730 --> 00:00:50,430
+và những thế giới khác.
+
+23
+00:00:50,430 --> 00:00:52,960
+Nhưng mô tả nơi sự sống có thể tồn tại thì khác
+
+24
+00:00:52,960 --> 00:00:54,610
+với việc tìm thấy một thứ đang sống.
+
+25
+00:00:55,170 --> 00:00:57,760
+Hãy hình dung ba hành tinh. Một hành tinh có đại
+dương.
+
+26
+00:00:57,950 --> 00:01:01,000
+Hành tinh khác có những chất hóa học quen thuộc. Hành
+tinh thứ ba có cả hai.
+
+27
+00:01:01,250 --> 00:01:02,520
+Hành tinh nào có sự sống?
+
+28
+00:01:02,930 --> 00:01:04,880
+Những manh mối ấy khiến câu hỏi trở nên thú vị.
+
+29
+00:01:05,200 --> 00:01:06,260
+Chúng chưa giải đáp được câu hỏi đó.
+
+30
+00:01:06,610 --> 00:01:07,890
+Một đại dương vẫn có thể không có sự sống.
+
+31
+00:01:07,950 --> 00:01:09,950
+Sự sống cũng có thể tồn tại bên dưới lớp băng.
+
+32
+00:01:10,570 --> 00:01:13,250
+Một thế giới có sự sống có thể chẳng có ai nhóm lửa,
+
+33
+00:01:13,250 --> 00:01:14,330
+gửi thông điệp,
+
+34
+00:01:14,330 --> 00:01:16,050
+hay tự hỏi về những người hàng xóm.
+
+35
+00:01:16,320 --> 00:01:19,010
+Và một thông điệp không phải cuộc trò chuyện tức thì.
+
+36
+00:01:19,460 --> 00:01:21,360
+Ánh sáng cần thời gian để đi qua không gian.
+
+37
+00:01:21,580 --> 00:01:24,150
+Một tín hiệu có thể vẫn đang truyền đi khi người gửi
+đã thay đổi,
+
+38
+00:01:24,340 --> 00:01:27,130
+biến mất, hoặc chẳng bao giờ biết có ai đã nghe thấy
+nó.
+
+39
+00:01:27,820 --> 00:01:29,790
+Bầu trời đêm trên đầu Koa trông thật yên lặng.
+
+40
+00:01:30,110 --> 00:01:32,210
+Nhưng sự yên lặng có thể có nghĩa là chẳng có ai ở đó.
+
+41
+00:01:32,430 --> 00:01:35,090
+Cũng có thể họ ở quá xa, quá lặng lẽ,
+
+42
+00:01:35,090 --> 00:01:37,450
+hoặc giao tiếp theo một cách mà cậu chưa biết nhận ra.
+
+43
+00:01:37,910 --> 00:01:39,940
+Trí thông minh cao hơn có thể giúp chúng ta tìm kiếm.
+
+44
+00:01:40,580 --> 00:01:42,020
+Nó có thể phát hiện những quy luật mà ta bỏ lỡ
+
+45
+00:01:42,020 --> 00:01:43,870
+và đề xuất những thí nghiệm tốt hơn.
+
+46
+00:01:44,290 --> 00:01:46,690
+Để trung thực, nó không thể biến dữ liệu chưa thu thập
+
+47
+00:01:46,690 --> 00:01:48,180
+thành một sự thật đã được quan sát.
+
+48
+00:01:48,770 --> 00:01:50,420
+Koa giơ một chiếc cốc dưới bầu trời
+
+49
+00:01:50,420 --> 00:01:52,250
+và thấy chẳng có giọt mưa nào trong đó.
+
+50
+00:01:52,810 --> 00:01:54,960
+Điều ấy không chứng minh rằng thung lũng không có
+nước.
+
+51
+00:01:55,350 --> 00:01:57,970
+Nó chỉ chứng minh một điều nhỏ hơn nhiều về một chiếc
+cốc,
+
+52
+00:01:57,970 --> 00:01:59,920
+tại một nơi, vào một thời điểm.
+
+53
+00:02:00,410 --> 00:02:02,340
+Cỗ máy có thể đưa ra các khả năng.
+
+54
+00:02:02,750 --> 00:02:04,450
+Điều biến một khả năng thành câu trả lời chính là
+
+55
+00:02:04,450 --> 00:02:07,910
+bằng chứng. Vì vậy, Koa không còn đòi nó phải tỏ ra
+chắc chắn,
+
+56
+00:02:07,910 --> 00:02:09,640
+mà hỏi họ nên tìm kiếm điều gì.
+
+57
+00:02:11,575 --> 00:02:14,015
+Trở về bên đống lửa, một câu hỏi khác xuất hiện.
+
+58
+00:02:14,455 --> 00:02:16,365
+Koa đưa hai bàn tay lại gần ngọn lửa.
+
+59
+00:02:16,575 --> 00:02:18,425
+Cỗ máy có thể ước tính nhiệt độ.
+
+60
+00:02:18,925 --> 00:02:20,305
+Nhưng nó có cảm nhận được hơi ấm không?
+
+61
+00:02:20,525 --> 00:02:23,475
+Nó có thể mô tả một ngón tay bị bỏng, dự đoán tiếng
+kêu,
+
+62
+00:02:23,695 --> 00:02:25,555
+và nói những lời an ủi phù hợp.
+
+63
+00:02:25,735 --> 00:02:27,665
+Riêng từng điều quan sát được ấy
+
+64
+00:02:27,665 --> 00:02:30,385
+không đủ để kết luận bên trong có một trải nghiệm hay
+không.
+
+65
+00:02:30,905 --> 00:02:32,765
+Hãy nghĩ đến một cái bóng trên vách hang.
+
+66
+00:02:33,025 --> 00:02:35,925
+Tạo hình con chim bằng bàn tay, cái bóng sẽ vỗ cánh.
+
+67
+00:02:36,315 --> 00:02:37,805
+Bạn hiểu vì sao nó chuyển động.
+
+68
+00:02:37,805 --> 00:02:39,735
+Nhưng chỉ riêng chuyển động không cho bạn biết
+
+69
+00:02:39,735 --> 00:02:41,345
+rằng cái bóng muốn bay.
+
+70
+00:02:41,905 --> 00:02:44,045
+Điều đó không chứng minh rằng máy móc vĩnh viễn không
+thể cảm nhận
+
+71
+00:02:44,045 --> 00:02:44,715
+bất cứ điều gì.
+
+72
+00:02:45,255 --> 00:02:46,615
+Nó cho thấy vì sao hành vi
+
+73
+00:02:46,615 --> 00:02:48,535
+và trải nghiệm bên trong không đơn giản
+
+74
+00:02:48,535 --> 00:02:49,705
+là cùng một câu hỏi.
+
+75
+00:02:50,315 --> 00:02:51,305
+Đối với con người,
+
+76
+00:02:51,305 --> 00:02:54,225
+ta liên hệ những trải nghiệm được kể lại với bộ não,
+cơ thể
+
+77
+00:02:54,225 --> 00:02:55,465
+và những đặc điểm sinh học chung.
+
+78
+00:02:55,605 --> 00:02:57,635
+Các nhà nghiên cứu tìm hiểu những mối liên hệ ấy.
+
+79
+00:02:58,195 --> 00:03:00,845
+Giải thích thông tin được truyền đi như thế nào là
+điều quan trọng;
+
+80
+00:03:01,325 --> 00:03:03,125
+còn giải thích vì sao quá trình ấy lại đi kèm cảm nhận
+
+81
+00:03:03,125 --> 00:03:04,775
+vẫn là vấn đề gây nhiều tranh luận.
+
+82
+00:03:04,775 --> 00:03:07,085
+Một câu nói rất thuyết phục là bằng chứng
+
+83
+00:03:07,085 --> 00:03:09,335
+rằng một hệ thống có thể tạo ra câu nói đó.
+
+84
+00:03:09,575 --> 00:03:11,725
+Liệu nó có đồng thời là bằng chứng về cảm nhận hay
+không
+
+85
+00:03:11,895 --> 00:03:14,355
+còn phụ thuộc vào một lý thuyết và các phép kiểm tra
+có cơ sở vững chắc.
+
+86
+00:03:14,705 --> 00:03:17,035
+Koa đặt một bàn tay lên hòn đá mát lạnh.
+
+87
+00:03:17,175 --> 00:03:19,685
+Con mắt sáng lên. Cậu thấy bớt cô đơn.
+
+88
+00:03:19,945 --> 00:03:21,705
+Cảm giác ấy là có thật ở Koa.
+
+89
+00:03:22,115 --> 00:03:24,425
+Nhưng nó không tự động cho cậu biết điều gì đang diễn
+ra
+
+90
+00:03:24,425 --> 00:03:25,695
+bên trong cỗ máy.
+
+91
+00:03:25,955 --> 00:03:28,195
+Câu trả lời trung thực không phải một tiếng “có” đầy
+kịch tính,
+
+92
+00:03:28,265 --> 00:03:29,555
+cũng không phải lời phủ nhận vĩnh viễn.
+
+93
+00:03:30,095 --> 00:03:33,075
+Mà là chúng ta chưa có một phép kiểm tra được thừa
+nhận rộng rãi
+
+94
+00:03:33,075 --> 00:03:35,385
+để xác định liệu có trải nghiệm chủ quan
+
+95
+00:03:35,615 --> 00:03:37,135
+bên trong một hệ thống nhân tạo hay không.
+
+96
+00:03:37,688 --> 00:03:39,948
+Đến sáng, Koa chỉ còn một câu hỏi.
+
+97
+00:03:40,428 --> 00:03:42,858
+Nếu cỗ máy có thể giúp cậu làm gần như mọi thứ,
+
+98
+00:03:43,208 --> 00:03:44,878
+thì cậu nên dành cuộc đời mình để làm gì?
+
+99
+00:03:45,518 --> 00:03:47,438
+Nó có thể đề xuất một kho thức ăn lớn hơn.
+
+100
+00:03:47,638 --> 00:03:50,278
+An toàn hơn. Ít buổi tối đói bụng hơn.
+
+101
+00:03:50,698 --> 00:03:52,328
+Đó là những lý do chính đáng để làm việc.
+
+102
+00:03:52,998 --> 00:03:55,038
+Nhưng chúng không phải những điều duy nhất cậu quan
+tâm.
+
+103
+00:03:55,408 --> 00:03:57,128
+Nim đang đợi bên bờ sông.
+
+104
+00:03:57,258 --> 00:03:58,778
+Có một công cụ cần sửa.
+
+105
+00:03:59,108 --> 00:04:00,938
+Một nơi họ chưa từng khám phá.
+
+106
+00:04:01,328 --> 00:04:02,908
+Một buổi chiều mà chưa ai gán cho
+
+107
+00:04:02,908 --> 00:04:03,987
+một mục đích nào cả.
+
+108
+00:04:04,298 --> 00:04:06,078
+Koa nhờ cỗ máy lựa chọn.
+
+109
+00:04:06,538 --> 00:04:07,948
+Nó có thể xếp hạng các phương án,
+
+110
+00:04:07,998 --> 00:04:10,438
+nhưng trước hết nó cần biết điều gì quan trọng nhất:
+
+111
+00:04:10,748 --> 00:04:14,598
+sự an toàn, khám phá, thời gian bên Nim, hay một điều
+khác.
+
+112
+00:04:15,088 --> 00:04:17,948
+Thay đổi mục tiêu, câu trả lời tốt nhất cũng có thể
+thay đổi.
+
+113
+00:04:18,278 --> 00:04:21,098
+Cùng một trí thông minh có thể tối ưu cho ngày làm
+việc dài hơn
+
+114
+00:04:21,168 --> 00:04:22,548
+hoặc một buổi chiều thảnh thơi hơn.
+
+115
+00:04:22,828 --> 00:04:25,168
+Chỉ riêng trí thông minh không quyết định được cuộc
+sống nào
+
+116
+00:04:25,168 --> 00:04:26,098
+là điều đáng để chúng ta mong muốn.
+
+117
+00:04:26,328 --> 00:04:28,548
+Một cỗ máy có thể giúp bạn so sánh các hệ quả
+
+118
+00:04:28,548 --> 00:04:31,588
+và nhận ra mâu thuẫn. Bạn bè, trải nghiệm
+
+119
+00:04:31,588 --> 00:04:34,008
+và sự suy ngẫm cũng có thể khiến bạn đổi ý.
+
+120
+00:04:34,058 --> 00:04:36,588
+Điều ấy khác với việc tìm ra một mục đích sống duy
+nhất
+
+121
+00:04:36,588 --> 00:04:38,358
+ẩn trong một phép tính.
+
+122
+00:04:38,868 --> 00:04:41,058
+Koa từng hy vọng có một câu trả lời giúp cậu tránh
+
+123
+00:04:41,058 --> 00:04:43,518
+rủi ro của việc lựa chọn. Thay vào đó,
+
+124
+00:04:43,518 --> 00:04:45,708
+cậu tìm thấy một câu hỏi mà không ai khác có thể hoàn
+toàn
+
+125
+00:04:45,708 --> 00:04:46,868
+gánh thay cậu.
+
+126
+00:04:47,498 --> 00:04:50,518
+Cậu hỏi Nim liệu con đường ven sông có an toàn không.
+
+127
+00:04:50,748 --> 00:04:52,438
+Cậu hỏi cỗ máy về thời tiết.
+
+128
+00:04:52,847 --> 00:04:55,438
+Rồi cậu đặt hòn đá xuống và chọn lên đường.
+
+129
+00:04:57,138 --> 00:04:58,718
+Đây là ba giới hạn khác nhau.
+
+130
+00:04:59,368 --> 00:05:01,908
+Câu hỏi về sự sống ngoài kia đòi hỏi bằng chứng.
+
+131
+00:05:02,308 --> 00:05:04,988
+Câu hỏi về trải nghiệm đặt ra vấn đề điều gì được xem
+
+132
+00:05:04,988 --> 00:05:05,848
+là bằng chứng.
+
+133
+00:05:06,238 --> 00:05:09,238
+Câu hỏi về mục đích còn hỏi chúng ta coi trọng điều
+gì.
+
+134
+00:05:09,508 --> 00:05:11,998
+Công cụ tương lai có thể thay đổi sâu sắc câu hỏi thứ
+nhất.
+
+135
+00:05:12,318 --> 00:05:14,258
+Lý thuyết mới có thể thay đổi câu hỏi thứ hai.
+
+136
+00:05:14,578 --> 00:05:16,678
+Những cuộc trò chuyện tốt hơn có thể thay đổi câu hỏi
+thứ ba.
+
+137
+00:05:17,208 --> 00:05:19,068
+Không điều nào trong số đó đòi hỏi ta phải giả vờ rằng
+các câu trả lời
+
+138
+00:05:19,068 --> 00:05:20,148
+đã được xác định chắc chắn.
+
+139
+00:05:20,448 --> 00:05:23,428
+Vấn đề không phải AI chẳng có gì hữu ích để nói.
+
+140
+00:05:24,157 --> 00:05:26,568
+Mà là một câu trả lời trôi chảy có thể che khuất sự
+khác biệt
+
+141
+00:05:26,568 --> 00:05:29,008
+giữa biết, phỏng đoán và lựa chọn.
+
+142
+00:05:29,607 --> 00:05:31,898
+Koa từng nghĩ một cỗ máy mạnh mẽ sẽ khiến
+
+143
+00:05:31,898 --> 00:05:34,698
+những câu hỏi của cậu biến mất. Thay vào đó,
+
+144
+00:05:34,698 --> 00:05:36,348
+nó giúp cậu đặt ra những câu hỏi tốt hơn.
+
+145
+00:05:36,518 --> 00:05:39,438
+Cậu vẫn cần tìm thức ăn, lắng nghe một người bạn
+
+146
+00:05:39,458 --> 00:05:40,818
+và khám phá cả một thế giới.
+
+147
+00:05:41,138 --> 00:05:42,928
+Đêm ấy, cậu lại ngước nhìn lên.
+
+148
+00:05:43,208 --> 00:05:45,408
+Có lẽ ai đó ở nơi khác cũng đang làm điều tương tự.
+
+149
+00:05:45,558 --> 00:05:47,608
+Cậu không biết. Và lần này,
+
+150
+00:05:47,688 --> 00:05:49,808
+cậu không cần một cỗ máy giả vờ rằng nó biết.
+
+151
+00:05:50,178 --> 00:05:52,268
+Bạn sẽ hỏi gì một cỗ máy có thể
+
+152
+00:05:52,268 --> 00:05:55,728
+trả lời gần như mọi câu hỏi? Trước khi tin câu trả lời
+ấy,
+
+153
+00:05:56,058 --> 00:05:59,018
+hãy hỏi thêm: điều gì sẽ giúp ta biết đó là sự thật?

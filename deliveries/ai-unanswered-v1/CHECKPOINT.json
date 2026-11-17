@@ -15,5 +15,15 @@
     "full_real_time_audiovisual_listening": "Not performed; measurements do not establish listening approval",
     "strict_B6_35_subcheck_reference_acceptance": "Not claimed",
     "user_viewing": "Full film available for user review"
+  },
+  "vietnamese_translation": {
+    "status": "completed at user request",
+    "subtitle": "captions-vi.srt",
+    "reading_copy": "noi-dung-tieng-viet.txt",
+    "cues": 153,
+    "original_timestamps_preserved": true,
+    "encoding": "UTF-8 with BOM",
+    "new_paid_calls": 0,
+    "English_movie_changed": false
   }
 }

@@ -20,8 +20,8 @@
     "sha256": "83510888171b8cf0521b3fb4e4bb25c7594687772dc3b41528ae3b76cf7422e7"
   },
   "CHECKPOINT.json": {
-    "bytes": 936,
-    "sha256": "9fd0c6aa3a9e7699e23d53b4d632fce4321555e46521a5bc995d590186389a21"
+    "bytes": 1250,
+    "sha256": "bb1856c6ccd996284caf89be4ff7dbc33dbd166985aa2fbc161e154b55c7948f"
   },
   "source.zip": {
     "bytes": 45541340,
@@ -43,6 +43,10 @@
     "bytes": 36378186,
     "sha256": "8c1ad3f5e2b7ae4de1f1d880a33db6b01b46b87bcf0a116c46d84cdcd430f494"
   },
+  "noi-dung-tieng-viet.txt": {
+    "bytes": 9371,
+    "sha256": "410914fc2e7d15ee27c441a7589c20c3b6b2ab8aa0260e64e90b9f75e5b0197d"
+  },
   "story.json": {
     "bytes": 21383,
     "sha256": "6ab7746e9d944c3722bfa6131ce3f714186f04682cc98a2ef005bcafeb32ad88"
@@ -50,6 +54,10 @@
   "reference-study.md": {
     "bytes": 3865,
     "sha256": "e94d9a9537e43a33e23a94769d694fb0bcf903f4032d4ac6c31207c8448977e2"
+  },
+  "captions-vi.srt": {
+    "bytes": 14197,
+    "sha256": "ab33f2af923d0ef5a6701bd02dfb58ab11e042f96cf24cf14bd17155d3b9e7a5"
   },
   "captions-en.vtt": {
     "bytes": 10541,
@@ -72,7 +80,7 @@
     "sha256": "3c7fe4370805a91977696caf00c856f372d6f69f596bcf7d50a4281a21c174de"
   },
   "README.md": {
-    "bytes": 3886,
-    "sha256": "e421ecf6d3e424d073c85b4d87d6f1dab5e975afeea474d0520d9465381f0d0e"
+    "bytes": 4396,
+    "sha256": "e56d9d6616cad3d762b2236f68ce04cc28051ea862dbec9d2362342941165f78"
   }
 }

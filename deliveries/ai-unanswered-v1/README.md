@@ -6,6 +6,8 @@ An original English film for **AI Arrived Too Early**, built from the user's req
 
 - `3-questions-even-ai-cant-answer.mp4`: complete native 1280×720, 30 fps landscape film; Alloy narration, one-line burned-in captions, original score/Foley.
 - `captions-en.srt` / `.vtt`: separately selectable English captions.
+- [captions-vi.srt](captions-vi.srt): requested Vietnamese translation, preserving all 153 original cue indices and timestamps; UTF-8 with BOM.
+- [noi-dung-tieng-viet.txt](noi-dung-tieng-viet.txt): Vietnamese reading copy grouped into five chapters and 35 narrative paragraphs.
 - `description-en.txt`, `chapters.txt`, `script.txt`: upload/editorial materials.
 - `source.zip`: project source, generated paintings and props, saved speech, alignments and motion traces.
 - `QA.json`, `visual-review.md`, `encoded-storyboard-*.jpg`: actual technical results, decoded evidence and review limits.
@@ -18,6 +20,8 @@ The 35 shots are authored specifically for this story. None of the previous movi
 Five newly saved `tts-1` / `alloy` requests at speed 1: estimated **USD 0.08724** using the recorded text count and working rate. Account billing was not verified. Six new image-generation calls; their billing is not exposed. No paid transcription call, voice audition or visual-correction revoice was made.
 
 All music and Foley were synthesized locally for this film; no music recording or audio from the reference video was copied. See `rights.md`. No YouTube upload has been made.
+
+The subsequently requested Vietnamese files are separate reading/subtitle deliverables. The English movie, saved narration and original source archive remain unchanged. No TTS or other paid generation was used for the translation.
 
 ## Rebuild
 
