@@ -1,0 +1,70 @@
+{
+  "title": "Why Your Tap Still Runs",
+  "duration_seconds": 15,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "fps": 30,
+  "frames": 450,
+  "full_decode": "pass",
+  "sha256": "0798fc1c5c0ca6c9b666e2f31fe616aecee75b323162188f0a2d26d413413e2c",
+  "file_bytes": 1032934,
+  "motion": {
+    "camera": "Fixed across all 15 seconds; no global pan/zoom as substitute for mechanism animation",
+    "local_actions": [
+      "mascot touches physical motor switch",
+      "impeller accelerates, turns, decelerates and stops",
+      "inlet flow markers stop with pump",
+      "tank volume rises then declines from the modeled net flow",
+      "tap lever physically attached to the faucet rotates open",
+      "outlet flow continues after pump stops",
+      "falling stream and splash droplets move",
+      "mascot body, knees, arms and expressions change"
+    ],
+    "volume_balance_max_error": 5.551115123125783e-17,
+    "initial_tank_fraction": 0.3,
+    "maximum_tank_fraction": 0.6255297859588328,
+    "final_tank_fraction": 0.34076674987878297,
+    "motor_fully_stopped_after": 3.5800000000000005,
+    "positive_flow_with_motor_stopped": true,
+    "water_surface_above_faucet_entire_clip": true,
+    "maximum_mascot_bone_error": 1.0658141036401503e-13
+  },
+  "science_scope": "Simplified illustrative elevated, vented tank supplied with already-treated water; filled distribution pipe, non-return inlet valve, open tap, positive height head. No claim all homes use this arrangement. No scale or engineering/CFD accuracy claimed.",
+  "sound": {
+    "voice": "OpenAI tts-1 / alloy, speed 1",
+    "native_speech_seconds": 9.2625,
+    "new_tts_calls": 1,
+    "estimated_tts_usd": 0.00228,
+    "billing_verified": false,
+    "new_image_calls": 1,
+    "image_billing": "not exposed",
+    "music_and_foley": "Original local synthesis",
+    "loudness": {
+      "input_i": "-16.53",
+      "input_tp": "-4.41",
+      "input_lra": "16.40",
+      "input_thresh": "-29.58",
+      "output_i": "-17.66",
+      "output_tp": "-3.73",
+      "output_lra": "8.90",
+      "output_thresh": "-28.27",
+      "normalization_type": "dynamic",
+      "target_offset": "1.66"
+    }
+  },
+  "review": {
+    "author_visual": "See decoded-review.jpg and README",
+    "independent_review": "Not performed",
+    "real_time_AV_listening": "Not performed",
+    "user_decision": "Requested 15-second preview only; full episode not authorized"
+  },
+  "YouTube_upload": false,
+  "decoded_local_pixel_checks": {
+    "impeller_running_difference": 75.03683899404722,
+    "impeller_stopped_difference": 0.0,
+    "downstream_flow_after_stop_difference": 23.461425173632247,
+    "tank_level_after_stop_difference": 74.71928503107853
+  }
+}

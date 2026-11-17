@@ -1,0 +1,11 @@
+{
+  "stage": "15-second user-requested preview completed",
+  "duration_seconds": 15,
+  "video_sha256": "0798fc1c5c0ca6c9b666e2f31fe616aecee75b323162188f0a2d26d413413e2c",
+  "full_episode_authorized": false,
+  "YouTube_upload": false,
+  "new_tts_calls": 1,
+  "estimated_tts_usd": 0.00228,
+  "new_image_calls": 1,
+  "reuse_for_corrections": "Keep saved narration and original mascot art"
+}

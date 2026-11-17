@@ -1,0 +1,19 @@
+1
+00:00:00,180 --> 00:00:02,440
+A pump pushes water into a tank.
+
+2
+00:00:02,680 --> 00:00:03,870
+Then the pump stops.
+
+3
+00:00:04,020 --> 00:00:05,730
+So why does the tap still run?
+
+4
+00:00:05,820 --> 00:00:07,840
+Because the water is higher than your tap.
+
+5
+00:00:08,010 --> 00:00:09,560
+Gravity keeps it moving.

@@ -1,0 +1,42 @@
+{
+  "QA.json": {
+    "bytes": 2683,
+    "sha256": "1ad084369c6698ea19a74277e5c0eff7426d0244c52a5ae0f38252637ba2da4c"
+  },
+  "CHECKPOINT.json": {
+    "bytes": 387,
+    "sha256": "9b499b7d80e7c3bb1538c690d8a7f6c68afb6328ef2226675d2eef96d927712c"
+  },
+  "source.zip": {
+    "bytes": 4037362,
+    "sha256": "1a7029144db96e41ca8db2876299208ec08d06bf24e259921f5ab1d49caa778d"
+  },
+  "captions-en.srt": {
+    "bytes": 317,
+    "sha256": "c76b7446bf009027cd9aa2be3e638680c18e514dc5e0422ed599f01233acda06"
+  },
+  "decoded-review.jpg": {
+    "bytes": 272814,
+    "sha256": "22fe57df8ece11aa2bd7815e85cf4b4781046fae03998a4b9f2d4b7f65bdd40d"
+  },
+  "water-motion-preview-15s.mp4": {
+    "bytes": 1032934,
+    "sha256": "0798fc1c5c0ca6c9b666e2f31fe616aecee75b323162188f0a2d26d413413e2c"
+  },
+  "story.json": {
+    "bytes": 370,
+    "sha256": "de254c835df44f52bb2b1c06023eb8fe0d424ba5cc34e0515ecf7b24c5ff9865"
+  },
+  "captions-vi.srt": {
+    "bytes": 376,
+    "sha256": "48c77792ddf7d0b5dbfb2580ad4257665379d16443e131e6f5925110ab6dd93c"
+  },
+  "script.txt": {
+    "bytes": 153,
+    "sha256": "6777c18d78547d6abf5944aee8f5dae70ad41d96a12e1c6a6009b225ba347e02"
+  },
+  "README.md": {
+    "bytes": 4969,
+    "sha256": "1981446035fcaf573c037d135699e462c14c8d8e06f7e8059a2f4fedfd3c642f"
+  }
+}
