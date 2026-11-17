@@ -1,0 +1,54 @@
+{
+  "shots.json": {
+    "bytes": 4780,
+    "sha256": "29261153f514a6f738018d257bbadd0be8726dbffc32c8813ce772e2b899de9d"
+  },
+  "decoded-review-2.jpg": {
+    "bytes": 541976,
+    "sha256": "205a47d68746a117af0caba08bde4ba53deb30b9f8ad50e679e3d7967864cc03"
+  },
+  "decoded-review-1.jpg": {
+    "bytes": 556900,
+    "sha256": "d08f6da9c3c377a89bc2d4fedaf3a9e4fbe5e6473a700de176cb9c0c567f25a0"
+  },
+  "QA.json": {
+    "bytes": 1081,
+    "sha256": "ef11913305500b306456fbcbe8f05f3cd246393830a8ebc6fc274b76a0e995db"
+  },
+  "decoded-review-3.jpg": {
+    "bytes": 520223,
+    "sha256": "bd5d3a9863de945a69fc6ec0435a5a7749d79fd1996a0256669e42aeacf0108d"
+  },
+  "source.zip": {
+    "bytes": 18039636,
+    "sha256": "443c2611ecafc7d532bc90cdf793a54478764dd956acfc99e6d77d3136121a25"
+  },
+  "captions-en.srt": {
+    "bytes": 4633,
+    "sha256": "d898932d00b28a743ae8b0169334ad6718f911630a85cda0a50177477ca3414c"
+  },
+  "where-your-tap-water-comes-from.mp4": {
+    "bytes": 14726212,
+    "sha256": "359914eb20859af25afe4aacb71f90f4065fcc787c171c0ae59ef5f17ab3a031"
+  },
+  "decoded-motion-checks.json": {
+    "bytes": 14646,
+    "sha256": "cfa8e0559aa73641fbf59a97b5bbe99f5c4cbfff7516e80a6a73eb6c01f415a1"
+  },
+  "README.md": {
+    "bytes": 5853,
+    "sha256": "c62da742cd9c956166d326334ada6fedbad0b6638b12ecc0aa6593e7c6be4df9"
+  },
+  "captions-vi.srt": {
+    "bytes": 5639,
+    "sha256": "ab8a957629d6e75ff07831d2b8978102f30d7a1d3a81059e8fd26096832bb281"
+  },
+  "script-with-speakers.txt": {
+    "bytes": 2877,
+    "sha256": "dcf0c2383cfc826510b0c2a1d8447fceb40454d96a7a9d3b6b985dcce8af74fc"
+  },
+  "sound-rights.json": {
+    "bytes": 11944,
+    "sha256": "25f9f49d68239c5e134d8990e20654dd7f0b35bb21976ef87d0da5ef087c209e"
+  }
+}

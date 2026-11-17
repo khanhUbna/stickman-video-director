@@ -1,0 +1,402 @@
+{
+  "music": "Original locally composed plucked arrangement; no third-party recording",
+  "ambience_and_foley": "Original local synthesis; no library restrictions",
+  "dialogue": {
+    "provider": "OpenAI",
+    "model": "tts-1",
+    "voices": {
+      "DROP": "alloy",
+      "PUMP": "echo",
+      "TANK": "onyx",
+      "FILTER": "nova",
+      "TAP": "shimmer",
+      "DRAIN": "fable"
+    },
+    "estimated_usd": 0.034995,
+    "billing_verified": false,
+    "saved_native_audio_reused_for_picture_changes": true
+  },
+  "scenes": [
+    {
+      "scene": "bath",
+      "start": 0,
+      "end": 3.2,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "boast",
+      "start": 3.2,
+      "end": 9.2,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "question",
+      "start": 9.2,
+      "end": 13.2,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "rewind",
+      "start": 13.2,
+      "end": 18,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "lake",
+      "start": 18,
+      "end": 23.7,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "intake",
+      "start": 23.7,
+      "end": 28.1,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "sources",
+      "start": 28.1,
+      "end": 39.4,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "screen",
+      "start": 39.4,
+      "end": 52,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "plant",
+      "start": 52,
+      "end": 58.3,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "specks",
+      "start": 58.3,
+      "end": 64.1,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "floc",
+      "start": 64.1,
+      "end": 71.6,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "settle",
+      "start": 71.6,
+      "end": 76.1,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "filter",
+      "start": 76.1,
+      "end": 78.7,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "chlorine",
+      "start": 78.7,
+      "end": 92,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "stairs",
+      "start": 92,
+      "end": 101.9,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "rotor",
+      "start": 101.9,
+      "end": 110.7,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "network",
+      "start": 110.7,
+      "end": 125,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "systems",
+      "start": 125,
+      "end": 128.4,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "tower",
+      "start": 128.4,
+      "end": 135.2,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "rush",
+      "start": 135.2,
+      "end": 143.6,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "head",
+      "start": 143.6,
+      "end": 154.1,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "team",
+      "start": 154.1,
+      "end": 166,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "ground",
+      "start": 166,
+      "end": 174.1,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "home",
+      "start": 174.1,
+      "end": 179.1,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "full",
+      "start": 179.1,
+      "end": 188.2,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "valve",
+      "start": 188.2,
+      "end": 192.5,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "contract",
+      "start": 192.5,
+      "end": 202.8825,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "return",
+      "start": 202.8825,
+      "end": 210.6825,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "thanks",
+      "start": 210.6825,
+      "end": 213.4825,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "brush",
+      "start": 213.4825,
+      "end": 222.8825,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    },
+    {
+      "scene": "drain",
+      "start": 222.8825,
+      "end": 225.9,
+      "ambience": "designed water/room air; motor when visible running",
+      "source": "original local synthesis",
+      "listener": "medium distance, dry stylized cartoon",
+      "status": "final"
+    }
+  ],
+  "events": [
+    {
+      "time": 45.1675,
+      "duration": 0.18,
+      "kind": "screen_contact",
+      "gain": 0.022,
+      "source": "original local synthesis",
+      "status": "final",
+      "purpose": "visible action contact / comic punctuation"
+    },
+    {
+      "time": 49.2925,
+      "duration": 0.18,
+      "kind": "comic_pluck",
+      "gain": 0.022,
+      "source": "original local synthesis",
+      "status": "final",
+      "purpose": "visible action contact / comic punctuation"
+    },
+    {
+      "time": 65.58,
+      "duration": 0.18,
+      "kind": "particle_pop",
+      "gain": 0.022,
+      "source": "original local synthesis",
+      "status": "final",
+      "purpose": "visible action contact / comic punctuation"
+    },
+    {
+      "time": 96.60499999999999,
+      "duration": 0.18,
+      "kind": "comic_pluck",
+      "gain": 0.022,
+      "source": "original local synthesis",
+      "status": "final",
+      "purpose": "visible action contact / comic punctuation"
+    },
+    {
+      "time": 118.34249999999999,
+      "duration": 0.18,
+      "kind": "comic_pluck",
+      "gain": 0.022,
+      "source": "original local synthesis",
+      "status": "final",
+      "purpose": "visible action contact / comic punctuation"
+    },
+    {
+      "time": 165.21750000000003,
+      "duration": 0.18,
+      "kind": "comic_pluck",
+      "gain": 0.022,
+      "source": "original local synthesis",
+      "status": "final",
+      "purpose": "visible action contact / comic punctuation"
+    },
+    {
+      "time": 215.45,
+      "duration": 0.18,
+      "kind": "comic_pluck",
+      "gain": 0.022,
+      "source": "original local synthesis",
+      "status": "final",
+      "purpose": "visible action contact / comic punctuation"
+    },
+    {
+      "time": 223.9375,
+      "duration": 0.18,
+      "kind": "comic_pluck",
+      "gain": 0.022,
+      "source": "original local synthesis",
+      "status": "final",
+      "purpose": "visible action contact / comic punctuation"
+    },
+    {
+      "time": 135.45,
+      "duration": 0.08,
+      "kind": "click",
+      "gain": 0.022,
+      "source": "original local synthesis",
+      "status": "final",
+      "purpose": "visible action contact / comic punctuation"
+    },
+    {
+      "time": 136.25,
+      "duration": 0.08,
+      "kind": "click",
+      "gain": 0.022,
+      "source": "original local synthesis",
+      "status": "final",
+      "purpose": "visible action contact / comic punctuation"
+    },
+    {
+      "time": 137.04999999999998,
+      "duration": 0.08,
+      "kind": "click",
+      "gain": 0.022,
+      "source": "original local synthesis",
+      "status": "final",
+      "purpose": "visible action contact / comic punctuation"
+    }
+  ],
+  "listening_review": "No real-time AV or independent listening review performed"
+}

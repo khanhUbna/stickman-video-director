@@ -1,0 +1,263 @@
+﻿1
+00:00:00,120 --> 00:00:01,582
+Không có gì đâu, phòng tắm.
+
+2
+00:00:02,100 --> 00:00:02,588
+Vì chuyện gì cơ?
+
+3
+00:00:03,200 --> 00:00:04,275
+Từng giọt nước. Công của tôi hết.
+
+4
+00:00:05,300 --> 00:00:06,350
+Anh đang tắt máy mà.
+
+5
+00:00:07,400 --> 00:00:08,350
+Tôi đang giám sát.
+
+6
+00:00:09,200 --> 00:00:11,925
+Nếu anh đang tắt, sao nước vẫn chảy?
+
+7
+00:00:13,200 --> 00:00:16,125
+Muốn trả lời, chúng ta phải quay về hồ chứa.
+
+8
+00:00:18,000 --> 00:00:19,825
+Tôi đang thư giãn trong hồ chứa.
+
+9
+00:00:20,800 --> 00:00:22,812
+Rồi cái ống này cướp mất buổi chiều của tôi.
+
+10
+00:00:23,700 --> 00:00:26,738
+Đó là cửa lấy nước. Cậu đang gia nhập hệ thống cấp nước.
+
+11
+00:00:28,100 --> 00:00:30,538
+Nhà nào cũng lấy nước từ hồ à?
+
+12
+00:00:31,100 --> 00:00:34,200
+Không. Nguồn cấp có thể là sông, hồ chứa hoặc nước ngầm.
+
+13
+00:00:35,500 --> 00:00:37,662
+Hôm nay, chúng ta theo một hệ thống lấy nước từ hồ chứa.
+
+14
+00:00:39,400 --> 00:00:41,075
+Tuyệt. Đến thẳng vòi sen nhé?
+
+15
+00:00:41,500 --> 00:00:45,088
+Còn chiếc lá đó thì chưa. Rác lớn bị giữ ở lưới chắn cửa lấy nước.
+
+16
+00:00:46,800 --> 00:00:47,438
+Đấy là mũ của tôi.
+
+17
+00:00:48,100 --> 00:00:49,212
+Mũ của cậu có chân kìa.
+
+18
+00:00:52,000 --> 00:00:53,538
+Được rồi. Hết lá. Trông tôi sạch rồi.
+
+19
+00:00:54,900 --> 00:00:57,538
+Trông sạch không có nghĩa là an toàn.
+
+20
+00:00:58,300 --> 00:00:59,900
+Những chấm nhỏ li ti kia là gì?
+
+21
+00:01:00,800 --> 00:01:03,025
+Các hạt nhỏ. Hãy gom chúng lại.
+
+22
+00:01:04,100 --> 00:01:05,500
+Chúng đang lập nhóm chat kìa.
+
+23
+00:01:11,600 --> 00:01:14,587
+Cụm lớn hơn lắng xuống. Bộ lọc giữ thêm các hạt.
+
+24
+00:01:16,100 --> 00:01:17,488
+Vậy... đến vòi sen được chưa?
+
+25
+00:01:18,700 --> 00:01:22,300
+Còn một bước. Khử trùng xử lý các vi sinh vật có thể còn sót lại.
+
+26
+00:01:24,600 --> 00:01:27,412
+Thị trấn này dùng clo với liều lượng được kiểm soát.
+
+27
+00:01:32,000 --> 00:01:34,575
+Sạch rồi. Tuyệt. Giờ tôi chỉ việc lên tầng trên.
+
+28
+00:01:36,100 --> 00:01:36,525
+Thử đi.
+
+29
+00:01:38,000 --> 00:01:40,300
+Lên tầng là phải leo dốc. Bất công thật.
+
+30
+00:01:41,900 --> 00:01:44,725
+Tôi cấp năng lượng để vận chuyển nước và tạo áp suất.
+
+31
+00:01:46,400 --> 00:01:47,888
+Áp lực? Ngay ngày đầu đi làm à?
+
+32
+00:01:49,200 --> 00:01:50,150
+Loại có ích ấy.
+
+33
+00:01:50,700 --> 00:01:53,913
+Vậy anh đẩy từng giọt nước đến tận từng vòi à?
+
+34
+00:01:56,100 --> 00:01:56,700
+Đương nhiên.
+
+35
+00:01:57,600 --> 00:01:58,262
+Không phải lúc nào cũng vậy.
+
+36
+00:01:59,400 --> 00:02:01,388
+Anh để tôi nói hết một câu được không?
+
+37
+00:02:05,000 --> 00:02:07,788
+Một số hệ thống bơm trực tiếp vào mạng lưới.
+
+38
+00:02:08,400 --> 00:02:11,475
+Ở đây, máy bơm còn bơm đầy bồn chứa trên cao. Chính tôi.
+
+39
+00:02:12,600 --> 00:02:14,462
+Sao phải đặt bồn nước lên chân cao thế?
+
+40
+00:02:15,200 --> 00:02:18,075
+Cao điểm buổi sáng! Hai vòi sen và một máy giặt!
+
+41
+00:02:18,800 --> 00:02:19,888
+Mọi người bình tĩnh!
+
+42
+00:02:23,600 --> 00:02:25,875
+Máy bơm đang tắt. Các vòi vẫn chảy.
+
+43
+00:02:26,400 --> 00:02:29,975
+Máy bơm đã bơm đầy tôi từ trước. Giờ trọng lực giữ nước chảy.
+
+44
+00:02:30,400 --> 00:02:32,850
+Mặt nước của tôi nằm cao hơn những vòi đó.
+
+45
+00:02:34,100 --> 00:02:36,300
+Anh là một phòng chờ khổng lồ cho nước.
+
+46
+00:02:37,100 --> 00:02:40,025
+Một phòng chờ có ích. Nhưng mực nước hạ xuống khi nước chảy đi.
+
+47
+00:02:40,600 --> 00:02:43,075
+Bởi vậy mới cần có người bơm đầy anh lại.
+
+48
+00:02:43,800 --> 00:02:45,138
+Đấy. Làm việc nhóm.
+
+49
+00:02:46,000 --> 00:02:47,338
+Sao chúng ta ở dưới đất?
+
+50
+00:02:48,200 --> 00:02:50,462
+Ống chôn dưới đất giúp bảo vệ nguồn cấp.
+
+51
+00:02:51,200 --> 00:02:53,525
+Độ sâu phụ thuộc điều kiện địa phương.
+
+52
+00:02:54,100 --> 00:02:54,900
+Rồi sau đó?
+
+53
+00:02:55,500 --> 00:02:58,600
+Một đường ống nhỏ hơn dẫn nước vào nhà.
+
+54
+00:02:59,100 --> 00:03:03,088
+Mỗi lần mở vòi, có ai phải khởi động lại cả hành trình này không?
+
+55
+00:03:04,300 --> 00:03:07,163
+Không. Bình thường, các ống cấp nước đã đầy nước.
+
+56
+00:03:08,200 --> 00:03:11,600
+Mở vòi là tạo lối thoát cho lượng nước đang có áp suất ấy.
+
+57
+00:03:12,500 --> 00:03:15,625
+Vậy không cần khởi động máy bơm cho từng chiếc bàn chải?
+
+58
+00:03:16,300 --> 00:03:18,338
+Tôi muốn ghi điều đó vào hợp đồng.
+
+59
+00:03:18,600 --> 00:03:22,662
+Duy trì nước sẵn có vẫn cần năng lượng và hạ tầng.
+
+60
+00:03:22,882 --> 00:03:23,645
+Cho xin nước!
+
+61
+00:03:24,282 --> 00:03:27,358
+Sẵn sàng. Đã xử lý, dự trữ và đưa đến bằng áp suất.
+
+62
+00:03:28,182 --> 00:03:29,945
+Ai đã gánh phần nặng nhọc nào?
+
+63
+00:03:30,682 --> 00:03:31,320
+Không có gì.
+
+64
+00:03:31,982 --> 00:03:32,582
+Công sức cả đội.
+
+65
+00:03:33,482 --> 00:03:35,370
+Bao nhiêu công sức... chỉ vì một chiếc bàn chải?
+
+66
+00:03:42,882 --> 00:03:43,858
+Bộ phận tiếp theo.

@@ -1,0 +1,33 @@
+{
+  "duration": 225.9,
+  "frames": 6777,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 30,
+  "full_decode": "pass",
+  "audio_video_duration_match": "pass",
+  "loudness": {
+    "input_i": "-16.38",
+    "input_tp": "-4.23",
+    "input_lra": "7.20",
+    "input_thresh": "-28.69",
+    "output_i": "-16.10",
+    "output_tp": "-1.50",
+    "output_lra": "6.80",
+    "output_thresh": "-27.93",
+    "normalization_type": "dynamic",
+    "target_offset": "0.10"
+  },
+  "sha256": "359914eb20859af25afe4aacb71f90f4065fcc787c171c0ae59ef5f17ab3a031",
+  "file_bytes": 14726212,
+  "scenes": 31,
+  "caption_cues": 66,
+  "caption_timing": "Native line audio placements; multi-part captions apportioned within line",
+  "visual_review": "Author source storyboard and decoded final frames; see review sheets",
+  "independent_review": "not performed",
+  "real_time_AV_listening": "not performed",
+  "scope": "Simplified reservoir-fed town with treatment and elevated vented storage. Other supplies and direct pumped networks exist. Diagram not to scale; time compressed.",
+  "youtube_upload": false
+}
