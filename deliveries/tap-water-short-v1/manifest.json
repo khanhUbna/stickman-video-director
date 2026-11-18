@@ -1,0 +1,62 @@
+{
+  "shots.json": {
+    "bytes": 508,
+    "sha256": "f6311a9d3795149373cf3f3a6b6eb95e8f11af3d9d38e255b514c7ce007530be"
+  },
+  "pump-off-water-still-flows-short.mp4": {
+    "bytes": 2578210,
+    "sha256": "3830a43fb77552e54eaf91d6df266b107130057869baa6f1c52548a746dfea04"
+  },
+  "decoded-review-2.jpg": {
+    "bytes": 207204,
+    "sha256": "4e56cb74bfd0c28043db94c9be539f0c2f1da73185ac7e6a30bdf8f1645527e1"
+  },
+  "decoded-review-1.jpg": {
+    "bytes": 228300,
+    "sha256": "2d0dedf1008c6c80a8182a2ab89c71b677e1b4387fe03f7e8c8267c97a4670ec"
+  },
+  "QA.json": {
+    "bytes": 1215,
+    "sha256": "64edf557c0bfd41684333663b31c60f4b3f5f23ef51323698f1683062c200272"
+  },
+  "cover.jpg": {
+    "bytes": 229740,
+    "sha256": "f83a821cb80a3052a32712305c67c0acda75e7cef7858cb0f91e9e59a19b9fdf"
+  },
+  "words.json": {
+    "bytes": 4964,
+    "sha256": "82946aab6e9485c8c766538010861eb1ef59f6cba9f5a0ceed79a06cc06105b0"
+  },
+  "upload-text.txt": {
+    "bytes": 717,
+    "sha256": "aec0be0ec1317e03f334c005f31f605ffa2d750c9e7b874796a40c94a7edea06"
+  },
+  "source.zip": {
+    "bytes": 4194705,
+    "sha256": "9a0eaf54f6ad779850ce99f2a2496492e7ea3e32d5684dae1d721a9be646a4c9"
+  },
+  "captions-en.srt": {
+    "bytes": 977,
+    "sha256": "ab954dda02ce948477018193a04a854ed6b36132fd778866062fae6350f91f5e"
+  },
+  "caption-cues.json": {
+    "bytes": 1973,
+    "sha256": "cf54c8f3ca58143b9022ec85b8d9eba71d37093f6b69d7e1bef518770fc671fe"
+  },
+  "decoded-motion-checks.json": {
+    "bytes": 1530,
+    "sha256": "6b6f135fa9cfaeab8c288ef6ec30f6f7606169414e51948894b7a6990bb1f40d"
+  },
+  "README.md": {
+    "bytes": 3556,
+    "sha256": "c524e6fafd1cb682d386051d989582ffb083cdd86af288571529dd191e33b313"
+  },
+  "captions-vi.srt": {
+    "bytes": 772,
+    "sha256": "2b8371a7a4bb01088811fe02cff35e167fcdd3364f6c49c60ef0dee17ad2daf3"
+  },
+  "sound-rights.json": {
+    "bytes": 841,
+    "sha256": "c120ecf96c3dec8870ab5efa6cf2a1f4b0c31cb1e38a041d6acfd135dbc450de"
+  }
+}

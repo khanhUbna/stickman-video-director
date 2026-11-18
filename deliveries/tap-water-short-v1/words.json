@@ -1,0 +1,310 @@
+{
+  "method": "offline acoustic forced alignment, no paid API",
+  "words": [
+    {
+      "word": "You're",
+      "start": 0.1,
+      "end": 0.24000000000000002
+    },
+    {
+      "word": "switched",
+      "start": 0.24000000000000002,
+      "end": 0.6699999999999999
+    },
+    {
+      "word": "off",
+      "start": 0.6699999999999999,
+      "end": 1.1500000000000001
+    },
+    {
+      "word": "If",
+      "start": 1.35,
+      "end": 1.4900000000000002
+    },
+    {
+      "word": "you're",
+      "start": 1.4900000000000002,
+      "end": 1.6700000000000002
+    },
+    {
+      "word": "off",
+      "start": 1.6700000000000002,
+      "end": 2.14
+    },
+    {
+      "word": "why",
+      "start": 2.4400000000000004,
+      "end": 2.73
+    },
+    {
+      "word": "is",
+      "start": 2.73,
+      "end": 2.85
+    },
+    {
+      "word": "the",
+      "start": 2.85,
+      "end": 2.92
+    },
+    {
+      "word": "water",
+      "start": 2.92,
+      "end": 3.21
+    },
+    {
+      "word": "still",
+      "start": 3.21,
+      "end": 3.44
+    },
+    {
+      "word": "running",
+      "start": 3.44,
+      "end": 4.07
+    },
+    {
+      "word": "Pump",
+      "start": 4.65,
+      "end": 4.87
+    },
+    {
+      "word": "filled",
+      "start": 4.87,
+      "end": 5.140000000000001
+    },
+    {
+      "word": "me",
+      "start": 5.140000000000001,
+      "end": 5.32
+    },
+    {
+      "word": "earlier",
+      "start": 5.32,
+      "end": 5.87
+    },
+    {
+      "word": "Now",
+      "start": 6.11,
+      "end": 6.25
+    },
+    {
+      "word": "gravity",
+      "start": 6.25,
+      "end": 6.83
+    },
+    {
+      "word": "keeps",
+      "start": 6.83,
+      "end": 7.16
+    },
+    {
+      "word": "the",
+      "start": 7.16,
+      "end": 7.24
+    },
+    {
+      "word": "water",
+      "start": 7.24,
+      "end": 7.550000000000001
+    },
+    {
+      "word": "moving",
+      "start": 7.550000000000001,
+      "end": 7.99
+    },
+    {
+      "word": "My",
+      "start": 8.65,
+      "end": 8.77
+    },
+    {
+      "word": "water",
+      "start": 8.77,
+      "end": 9.07
+    },
+    {
+      "word": "level",
+      "start": 9.07,
+      "end": 9.43
+    },
+    {
+      "word": "is",
+      "start": 9.43,
+      "end": 9.55
+    },
+    {
+      "word": "higher",
+      "start": 9.55,
+      "end": 9.93
+    },
+    {
+      "word": "than",
+      "start": 9.93,
+      "end": 10.14
+    },
+    {
+      "word": "those",
+      "start": 10.14,
+      "end": 10.39
+    },
+    {
+      "word": "taps",
+      "start": 10.39,
+      "end": 11.100000000000001
+    },
+    {
+      "word": "You're",
+      "start": 12.6,
+      "end": 12.74
+    },
+    {
+      "word": "a",
+      "start": 12.74,
+      "end": 12.78
+    },
+    {
+      "word": "giant",
+      "start": 12.78,
+      "end": 13.24
+    },
+    {
+      "word": "waiting",
+      "start": 13.24,
+      "end": 13.62
+    },
+    {
+      "word": "room",
+      "start": 13.62,
+      "end": 13.83
+    },
+    {
+      "word": "for",
+      "start": 13.83,
+      "end": 13.969999999999999
+    },
+    {
+      "word": "water",
+      "start": 13.969999999999999,
+      "end": 14.48
+    },
+    {
+      "word": "A",
+      "start": 15.2,
+      "end": 15.28
+    },
+    {
+      "word": "useful",
+      "start": 15.28,
+      "end": 15.69
+    },
+    {
+      "word": "one",
+      "start": 15.69,
+      "end": 16.08
+    },
+    {
+      "word": "But",
+      "start": 16.08,
+      "end": 16.25
+    },
+    {
+      "word": "my",
+      "start": 16.25,
+      "end": 16.439999999999998
+    },
+    {
+      "word": "level",
+      "start": 16.439999999999998,
+      "end": 16.73
+    },
+    {
+      "word": "falls",
+      "start": 16.73,
+      "end": 17.13
+    },
+    {
+      "word": "as",
+      "start": 17.13,
+      "end": 17.24
+    },
+    {
+      "word": "water",
+      "start": 17.24,
+      "end": 17.58
+    },
+    {
+      "word": "leaves",
+      "start": 17.58,
+      "end": 18.119999999999997
+    },
+    {
+      "word": "Which",
+      "start": 19.6,
+      "end": 19.75
+    },
+    {
+      "word": "is",
+      "start": 19.75,
+      "end": 19.87
+    },
+    {
+      "word": "why",
+      "start": 19.87,
+      "end": 20.05
+    },
+    {
+      "word": "somebody",
+      "start": 20.05,
+      "end": 20.41
+    },
+    {
+      "word": "has",
+      "start": 20.41,
+      "end": 20.6
+    },
+    {
+      "word": "to",
+      "start": 20.6,
+      "end": 20.69
+    },
+    {
+      "word": "refill",
+      "start": 20.69,
+      "end": 21.14
+    },
+    {
+      "word": "you",
+      "start": 21.14,
+      "end": 21.400000000000002
+    },
+    {
+      "word": "There",
+      "start": 23.3,
+      "end": 23.44
+    },
+    {
+      "word": "you",
+      "start": 23.44,
+      "end": 23.53
+    },
+    {
+      "word": "go",
+      "start": 23.53,
+      "end": 23.85
+    },
+    {
+      "word": "Teamwork",
+      "start": 23.98,
+      "end": 24.6375
+    },
+    {
+      "word": "I'm",
+      "start": 27.0,
+      "end": 27.12
+    },
+    {
+      "word": "supervising",
+      "start": 27.12,
+      "end": 27.95
+    }
+  ]
+}

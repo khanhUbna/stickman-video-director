@@ -1,0 +1,33 @@
+{
+  "dialogue": "Nine saved native voice clips from water-full-v1. No revoicing or paid API calls.",
+  "music": "Original locally composed plucked arrangement",
+  "ambience_and_foley": "Original local synthesis; no third-party recordings",
+  "events": [
+    {
+      "time": 4.65,
+      "kind": "pump_start",
+      "source": "original synthetic cartoon click"
+    },
+    {
+      "time": 6.25,
+      "kind": "pump_stop",
+      "source": "original synthetic cartoon click"
+    },
+    {
+      "time": 15.2,
+      "kind": "level_reveal",
+      "source": "original synthetic cartoon click"
+    },
+    {
+      "time": 20.4,
+      "kind": "pump_start",
+      "source": "original synthetic cartoon click"
+    },
+    {
+      "time": 26.5,
+      "kind": "pump_stop",
+      "source": "original synthetic cartoon click"
+    }
+  ],
+  "new_paid_calls": 0
+}

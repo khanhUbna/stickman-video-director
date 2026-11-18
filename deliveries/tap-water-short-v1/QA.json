@@ -1,0 +1,37 @@
+{
+  "title": "Why Does Water Still Flow When the Pump Is Off?",
+  "duration": 32,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 960,
+  "full_decode": "pass",
+  "audio_video_duration_match": "pass",
+  "new_paid_API_calls": 0,
+  "caption_alignment": "Offline PocketSphinx acoustic forced alignment",
+  "caption_cues": 19,
+  "native_portrait": "Separately authored scene positions and paths; not a crop of landscape frames",
+  "scientific_scope": "One elevated vented storage example; stored water above tap, pump off during gravity proof; time compressed and not to scale. Not all supplies use this design.",
+  "loudness": {
+    "input_i": "-16.26",
+    "input_tp": "-4.43",
+    "input_lra": "6.20",
+    "input_thresh": "-29.09",
+    "output_i": "-16.03",
+    "output_tp": "-3.35",
+    "output_lra": "5.90",
+    "output_thresh": "-28.50",
+    "normalization_type": "dynamic",
+    "target_offset": "0.03"
+  },
+  "sha256": "3830a43fb77552e54eaf91d6df266b107130057869baa6f1c52548a746dfea04",
+  "bytes": 2578210,
+  "review": {
+    "author": "Source and decoded final frame inspection",
+    "independent": "not performed",
+    "real_time_AV_listening": "not performed"
+  },
+  "youtube_upload": false
+}

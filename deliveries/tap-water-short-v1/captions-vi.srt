@@ -1,0 +1,35 @@
+﻿1
+00:00:00,100 --> 00:00:01,150
+Anh đang tắt máy mà.
+
+2
+00:00:01,350 --> 00:00:04,075
+Nếu anh đang tắt, sao nước vẫn chảy?
+
+3
+00:00:04,650 --> 00:00:08,225
+Máy bơm đã bơm đầy tôi từ trước. Giờ trọng lực giữ nước chảy.
+
+4
+00:00:08,650 --> 00:00:11,100
+Mặt nước của tôi nằm cao hơn những vòi đó.
+
+5
+00:00:12,600 --> 00:00:14,800
+Anh là một phòng chờ khổng lồ cho nước.
+
+6
+00:00:15,200 --> 00:00:18,125
+Một phòng chờ có ích. Nhưng mực nước hạ xuống khi nước chảy đi.
+
+7
+00:00:19,600 --> 00:00:22,075
+Bởi vậy mới cần có người bơm đầy anh lại.
+
+8
+00:00:23,300 --> 00:00:24,638
+Đấy. Làm việc nhóm.
+
+9
+00:00:27,000 --> 00:00:27,950
+Tôi đang giám sát.

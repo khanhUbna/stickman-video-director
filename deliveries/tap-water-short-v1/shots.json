@@ -1,0 +1,50 @@
+[
+  [
+    0,
+    4.65,
+    "off",
+    "PUMP OFF."
+  ],
+  [
+    4.65,
+    6.25,
+    "earlier",
+    "EARLIER..."
+  ],
+  [
+    6.25,
+    12.6,
+    "gravity",
+    "GRAVITY TAKES OVER."
+  ],
+  [
+    12.6,
+    15.2,
+    "waiting",
+    "WATER IN WAITING."
+  ],
+  [
+    15.2,
+    19.6,
+    "level",
+    "THE LEVEL FALLS."
+  ],
+  [
+    19.6,
+    23.3,
+    "refill",
+    "BACK TO WORK."
+  ],
+  [
+    23.3,
+    26.5,
+    "team",
+    "TEAMWORK."
+  ],
+  [
+    26.5,
+    32,
+    "supervise",
+    "STILL SUPERVISING."
+  ]
+]

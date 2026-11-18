@@ -1,0 +1,116 @@
+[
+  {
+    "start": 0.1,
+    "end": 1.1500000000000001,
+    "text": "You're switched off.",
+    "speaker": "TANK"
+  },
+  {
+    "start": 1.35,
+    "end": 2.2,
+    "text": "If you're off,",
+    "speaker": "DROP"
+  },
+  {
+    "start": 2.4400000000000004,
+    "end": 3.21,
+    "text": "why is the water",
+    "speaker": "DROP"
+  },
+  {
+    "start": 3.21,
+    "end": 4.075,
+    "text": "still running?",
+    "speaker": "DROP"
+  },
+  {
+    "start": 4.65,
+    "end": 5.93,
+    "text": "Pump filled me earlier.",
+    "speaker": "TANK"
+  },
+  {
+    "start": 6.11,
+    "end": 7.16,
+    "text": "Now gravity keeps",
+    "speaker": "TANK"
+  },
+  {
+    "start": 7.16,
+    "end": 8.05,
+    "text": "the water moving.",
+    "speaker": "TANK"
+  },
+  {
+    "start": 8.65,
+    "end": 9.93,
+    "text": "My water level is higher",
+    "speaker": "TANK"
+  },
+  {
+    "start": 9.93,
+    "end": 11.100000000000001,
+    "text": "than those taps.",
+    "speaker": "TANK"
+  },
+  {
+    "start": 12.6,
+    "end": 13.83,
+    "text": "You're a giant waiting room",
+    "speaker": "DROP"
+  },
+  {
+    "start": 13.83,
+    "end": 14.540000000000001,
+    "text": "for water.",
+    "speaker": "DROP"
+  },
+  {
+    "start": 15.2,
+    "end": 16.08,
+    "text": "A useful one.",
+    "speaker": "TANK"
+  },
+  {
+    "start": 16.08,
+    "end": 17.13,
+    "text": "But my level falls",
+    "speaker": "TANK"
+  },
+  {
+    "start": 17.13,
+    "end": 18.125,
+    "text": "as water leaves.",
+    "speaker": "TANK"
+  },
+  {
+    "start": 19.6,
+    "end": 20.41,
+    "text": "Which is why somebody",
+    "speaker": "PUMP"
+  },
+  {
+    "start": 20.41,
+    "end": 21.46,
+    "text": "has to refill you.",
+    "speaker": "PUMP"
+  },
+  {
+    "start": 23.3,
+    "end": 23.91,
+    "text": "There you go.",
+    "speaker": "TANK"
+  },
+  {
+    "start": 23.98,
+    "end": 24.6375,
+    "text": "Teamwork.",
+    "speaker": "TANK"
+  },
+  {
+    "start": 27.0,
+    "end": 27.95,
+    "text": "I'm supervising.",
+    "speaker": "PUMP"
+  }
+]

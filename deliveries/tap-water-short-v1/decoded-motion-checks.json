@@ -1,0 +1,79 @@
+{
+  "sha256": "3830a43fb77552e54eaf91d6df266b107130057869baa6f1c52548a746dfea04",
+  "decoded_samples": [
+    {
+      "scene": "off",
+      "time": 0.9300000000000002
+    },
+    {
+      "scene": "earlier",
+      "time": 4.970000000000001
+    },
+    {
+      "scene": "gravity",
+      "time": 7.52
+    },
+    {
+      "scene": "waiting",
+      "time": 13.12
+    },
+    {
+      "scene": "level",
+      "time": 16.08
+    },
+    {
+      "scene": "refill",
+      "time": 20.34
+    },
+    {
+      "scene": "team",
+      "time": 23.94
+    },
+    {
+      "scene": "supervise",
+      "time": 27.6
+    },
+    {
+      "scene": "off",
+      "time": 3.7200000000000006
+    },
+    {
+      "scene": "earlier",
+      "time": 5.93
+    },
+    {
+      "scene": "gravity",
+      "time": 11.33
+    },
+    {
+      "scene": "waiting",
+      "time": 14.68
+    },
+    {
+      "scene": "level",
+      "time": 18.720000000000002
+    },
+    {
+      "scene": "refill",
+      "time": 22.560000000000002
+    },
+    {
+      "scene": "team",
+      "time": 25.86
+    },
+    {
+      "scene": "supervise",
+      "time": 30.9
+    }
+  ],
+  "stopped_impeller_mean_pixel_difference": 0.0,
+  "flowing_stream_mean_pixel_difference": 15.520080808080808,
+  "minimum_schematic_height_head_pixels": 367.52414,
+  "caption_single_line_width_pass": true,
+  "caption_non_overlap_pass": true,
+  "switch_contact_times": [
+    20.33,
+    20.47
+  ],
+  "limits": "Picture comparisons exclude captions; metrics do not establish natural acting, independent review or real-time listening."
+}
