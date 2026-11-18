@@ -1,0 +1,62 @@
+{
+  "timeline.json": {
+    "bytes": 1457,
+    "sha256": "4b9d4eddeea724fa45d089d621964d9ba50f8285a3e3d166ef966ebf1193772f"
+  },
+  "decoded-review.json": {
+    "bytes": 3533,
+    "sha256": "c551b3e229dcfc562eca5ab928c7deb2b2d0caeb3453eb7def6dcbdeb49cba7a"
+  },
+  "decoded-review-2.jpg": {
+    "bytes": 472357,
+    "sha256": "bb433360a60a2ec80615951840d925c04a4a02c9d555c5d46b785d190110592c"
+  },
+  "decoded-review-1.jpg": {
+    "bytes": 486330,
+    "sha256": "a89867e49b6badc5a2610163c7182aacd466f6bf0e150fb253cc1e6db60d0d0c"
+  },
+  "script.txt": {
+    "bytes": 400,
+    "sha256": "1ddd4c4d61f80914e2916e9dc54596c702322db8c44947e81f1979872580c4ea"
+  },
+  "QA.json": {
+    "bytes": 2288,
+    "sha256": "83b22707b56d6ffd1fb6f326c12d264518c0ba4028cb24366e2624b31824a877"
+  },
+  "cover.jpg": {
+    "bytes": 249575,
+    "sha256": "a7287635da47cf90e0347713fa3927fe97aa4f9d83c52e75ecf1735d7ffad10c"
+  },
+  "words.json": {
+    "bytes": 6050,
+    "sha256": "e836f841f61773c26fed24c1c0ffae5c8433bfbe5019adc85b4e866ef4812a8b"
+  },
+  "upload-text.txt": {
+    "bytes": 550,
+    "sha256": "1a63b0b2abea7335cd9cc4c26f8b2e1fe88d3685615b541bc355eb761419c20c"
+  },
+  "source.zip": {
+    "bytes": 8528269,
+    "sha256": "02457ad932303a5ae16014d309629d3410b24623d998e6a3dd60eb19d77fb586"
+  },
+  "captions-en.srt": {
+    "bytes": 1206,
+    "sha256": "390396e60c6f068f1cad38bcb6c38f55a9cbf9e95465a83816dfeb900038c290"
+  },
+  "why-you-forget-what-you-just-learned.mp4": {
+    "bytes": 4586657,
+    "sha256": "f9e52f112380d429c838809e55abcc96f755fd6944468e677c77bdada0dfab92"
+  },
+  "README.md": {
+    "bytes": 4794,
+    "sha256": "64422236050f92d7592313e1c0505d749f5313741dc855b726b1201a170ab509"
+  },
+  "captions-vi.srt": {
+    "bytes": 1426,
+    "sha256": "9df2c60eba4e0fff49aa7ee3f36cac583dc681f59704e8570d469d7dab7fd533"
+  },
+  "sound-rights.json": {
+    "bytes": 2009,
+    "sha256": "bddb459de3d5eb7c1926f2fb11fc0849c42352f7c9181df1818f2e5589df27cc"
+  }
+}

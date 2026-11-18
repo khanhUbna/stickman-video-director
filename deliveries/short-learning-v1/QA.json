@@ -1,0 +1,73 @@
+{
+  "title": "Why You Forget What You Just Learned",
+  "duration": 25.433333,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": 30,
+  "frames": 763,
+  "full_decode": "pass",
+  "audio_video_duration_match": "pass",
+  "caption_alignment": "Offline PocketSphinx acoustic forced alignment",
+  "caption_profile": {
+    "font_family": "Archivo Black",
+    "font_file": "fonts/ArchivoBlack.ttf",
+    "font_sha256": "dd9a89a019b4849f66ab75455fe7bdf931311042cbb0f0f97acc061539703180",
+    "fill": "#ffffff",
+    "stroke_fill": "#171319",
+    "supersampling": 3,
+    "resample": "lanczos",
+    "anchor": "ms",
+    "switch": "hard_cut",
+    "autoshrink": false,
+    "pop": false,
+    "profile": "eiffel-v44-portrait-archivo-black-v1",
+    "native_design": "9:16",
+    "font_size": 47,
+    "stroke": 4,
+    "side": 44,
+    "baseline": 914,
+    "band": [
+      864,
+      951
+    ]
+  },
+  "motion": {
+    "max_bone_length_error": 1.7053025658242404e-13,
+    "screen_contact_frames": 32,
+    "maximum_screen_contact_error": 0.0,
+    "left_fret_target_error": 0.0,
+    "fixed_foot_support": "Both feet remain at [819,1045], [886,1045]; torso lean/weight transfer and prop contacts animate independently of camera",
+    "shots": 12
+  },
+  "sound": {
+    "voice": "Native tts-1 alloy, speed 1; one saved response",
+    "new_tts_calls": 1,
+    "estimated_tts_usd": 0.005985,
+    "new_image_calls": 1,
+    "image_billing": "Not exposed",
+    "music_and_foley": "Original local synthesis; no third-party recordings",
+    "loudness": {
+      "input_i": "-16.58",
+      "input_tp": "-4.26",
+      "input_lra": "7.30",
+      "input_thresh": "-27.69",
+      "output_i": "-16.51",
+      "output_tp": "-4.24",
+      "output_lra": "2.50",
+      "output_thresh": "-27.38",
+      "normalization_type": "dynamic",
+      "target_offset": "0.51"
+    }
+  },
+  "visual_scope": "User-supplied prior channel frame and existing green-vest identity/action extension. No assertion of canonical B6 35-subcheck or independent acceptance.",
+  "review": {
+    "author": "Source poses and decoded final frame review",
+    "independent": "not performed",
+    "real_time_AV_listening": "not performed"
+  },
+  "sha256": "f9e52f112380d429c838809e55abcc96f755fd6944468e677c77bdada0dfab92",
+  "bytes": 4586657,
+  "youtube_upload": false
+}

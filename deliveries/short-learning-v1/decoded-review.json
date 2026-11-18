@@ -1,0 +1,186 @@
+{
+  "sha256": "f9e52f112380d429c838809e55abcc96f755fd6944468e677c77bdada0dfab92",
+  "samples": [
+    {
+      "scene": "watch",
+      "time": 0.542
+    },
+    {
+      "scene": "forgot",
+      "time": 2.924
+    },
+    {
+      "scene": "recognition",
+      "time": 4.168
+    },
+    {
+      "scene": "cant_do",
+      "time": 6.491999999999999
+    },
+    {
+      "scene": "pause",
+      "time": 9.913999999999998
+    },
+    {
+      "scene": "trial",
+      "time": 11.628
+    },
+    {
+      "scene": "stuck",
+      "time": 13.303999999999998
+    },
+    {
+      "scene": "check",
+      "time": 14.181999999999999
+    },
+    {
+      "scene": "hide",
+      "time": 15.335999999999999
+    },
+    {
+      "scene": "retry",
+      "time": 16.678
+    },
+    {
+      "scene": "practice",
+      "time": 18.496000000000002
+    },
+    {
+      "scene": "result",
+      "time": 22.142666666666667
+    },
+    {
+      "scene": "watch",
+      "time": 2.168
+    },
+    {
+      "scene": "forgot",
+      "time": 3.5660000000000003
+    },
+    {
+      "scene": "recognition",
+      "time": 5.332
+    },
+    {
+      "scene": "cant_do",
+      "time": 8.808
+    },
+    {
+      "scene": "pause",
+      "time": 10.916
+    },
+    {
+      "scene": "trial",
+      "time": 12.761999999999999
+    },
+    {
+      "scene": "stuck",
+      "time": 13.796
+    },
+    {
+      "scene": "check",
+      "time": 14.847999999999999
+    },
+    {
+      "scene": "hide",
+      "time": 16.134
+    },
+    {
+      "scene": "retry",
+      "time": 17.512000000000004
+    },
+    {
+      "scene": "practice",
+      "time": 20.614
+    },
+    {
+      "scene": "result",
+      "time": 24.610666666666667
+    }
+  ],
+  "screen_events": [
+    {
+      "event": "pause",
+      "time": 10.27,
+      "side": "before"
+    },
+    {
+      "event": "pause",
+      "time": 10.469999999999999,
+      "side": "after"
+    },
+    {
+      "event": "recheck",
+      "time": 14.1,
+      "side": "before"
+    },
+    {
+      "event": "recheck",
+      "time": 14.299999999999999,
+      "side": "after"
+    },
+    {
+      "event": "hide",
+      "time": 15.209999999999999,
+      "side": "before"
+    },
+    {
+      "event": "hide",
+      "time": 15.409999999999998,
+      "side": "after"
+    }
+  ],
+  "caption_coverage": "pass",
+  "fixed_foot_max_drift": 0.0,
+  "picture_checks": [
+    {
+      "scene": "watch",
+      "picture_mean_difference": 6.051407407407408
+    },
+    {
+      "scene": "forgot",
+      "picture_mean_difference": 5.323540305010893
+    },
+    {
+      "scene": "recognition",
+      "picture_mean_difference": 0.4576247276688453
+    },
+    {
+      "scene": "cant_do",
+      "picture_mean_difference": 3.219204248366013
+    },
+    {
+      "scene": "pause",
+      "picture_mean_difference": 42.146365468409584
+    },
+    {
+      "scene": "trial",
+      "picture_mean_difference": 7.990582244008714
+    },
+    {
+      "scene": "stuck",
+      "picture_mean_difference": 18.216575708061
+    },
+    {
+      "scene": "check",
+      "picture_mean_difference": 2.8950315904139434
+    },
+    {
+      "scene": "hide",
+      "picture_mean_difference": 15.092902505446624
+    },
+    {
+      "scene": "retry",
+      "picture_mean_difference": 10.002224945533769
+    },
+    {
+      "scene": "practice",
+      "picture_mean_difference": 2.1255348583877995
+    },
+    {
+      "scene": "result",
+      "picture_mean_difference": 49.63702668845316
+    }
+  ],
+  "review": "Author inspects decoded before/after frames, source paths and contact evidence; no independent creative review or real-time AV listening claimed"
+}

@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "time": 2.96,
+      "kind": "muted_wrong_chord",
+      "source": "Original local plucked-string synthesis",
+      "reason": "Visible string crossing and outcome, not background decoration"
+    },
+    {
+      "time": 11.8,
+      "kind": "muted_wrong_chord",
+      "source": "Original local plucked-string synthesis",
+      "reason": "Visible string crossing and outcome, not background decoration"
+    },
+    {
+      "time": 16.950000000000003,
+      "kind": "clear_chord",
+      "source": "Original local plucked-string synthesis",
+      "reason": "Visible string crossing and outcome, not background decoration"
+    },
+    {
+      "time": 18.44,
+      "kind": "clear_chord",
+      "source": "Original local plucked-string synthesis",
+      "reason": "Visible string crossing and outcome, not background decoration"
+    },
+    {
+      "time": 21.62,
+      "kind": "clear_chord",
+      "source": "Original local plucked-string synthesis",
+      "reason": "Visible string crossing and outcome, not background decoration"
+    },
+    {
+      "time": 22.52,
+      "kind": "clear_chord",
+      "source": "Original local plucked-string synthesis",
+      "reason": "Visible string crossing and outcome, not background decoration"
+    },
+    {
+      "time": 10.37,
+      "kind": "pause_and_hide",
+      "source": "Original local stylized tap synthesis"
+    },
+    {
+      "time": 14.2,
+      "kind": "recheck_one_step",
+      "source": "Original local stylized tap synthesis"
+    },
+    {
+      "time": 15.309999999999999,
+      "kind": "hide_again",
+      "source": "Original local stylized tap synthesis"
+    }
+  ],
+  "music": "Original additive plucked arrangement, no copied song",
+  "ambience": "Original low-level synthetic room air",
+  "dialogue": "OpenAI native Alloy, saved file retained; no picture-driven revoicing",
+  "art": "Existing channel protagonist and one new generated painted set, source reference and prompt retained in chat",
+  "font": "Archivo Black, included OFL"
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Why You Forget What You Just Learned",
+  "duration": 25.433333333333334,
+  "fps": 30,
+  "native_speech_duration": 24.3,
+  "voice_offset": 0.12,
+  "caption_profile": {
+    "font_family": "Archivo Black",
+    "font_file": "fonts/ArchivoBlack.ttf",
+    "font_sha256": "dd9a89a019b4849f66ab75455fe7bdf931311042cbb0f0f97acc061539703180",
+    "fill": "#ffffff",
+    "stroke_fill": "#171319",
+    "supersampling": 3,
+    "resample": "lanczos",
+    "anchor": "ms",
+    "switch": "hard_cut",
+    "autoshrink": false,
+    "pop": false,
+    "profile": "eiffel-v44-portrait-archivo-black-v1",
+    "native_design": "9:16",
+    "font_size": 47,
+    "stroke": 4,
+    "side": 44,
+    "baseline": 914,
+    "band": [
+      864,
+      951
+    ]
+  },
+  "phases": {
+    "watch": 0,
+    "recognize": 3.7800000000000002,
+    "contrast": 5.72,
+    "pause": 10.129999999999999,
+    "trial": 11.25,
+    "stuck": 13.139999999999999,
+    "check": 13.959999999999999,
+    "hide": 15.069999999999999,
+    "retry": 16.400000000000002,
+    "measure": 17.790000000000003,
+    "show": 21.32,
+    "end": 25.433333333333334
+  },
+  "strums": [
+    2.96,
+    11.8,
+    16.950000000000003,
+    18.44,
+    21.62,
+    22.52
+  ],
+  "cast": "Existing gray-haired green-vest protagonist, user-supplied screenshot reference",
+  "reference_scope": "Continue the supplied prior channel character/look using the existing local action extension; no claim of canonical B6 sample equivalence"
+}
