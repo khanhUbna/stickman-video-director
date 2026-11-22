@@ -1,0 +1,108 @@
+{
+  "file": "lightning-animation-preview-no-voice.mp4",
+  "narration_present": false,
+  "sha256": "eebe5d55a78811ac64c196ceebd8815d1605e7c5c9db4cb1e5f3b6e2a5922206",
+  "samples": [
+    {
+      "scene": "hit",
+      "time": 0.39192857142857146
+    },
+    {
+      "scene": "ground",
+      "time": 3.0759285714285713
+    },
+    {
+      "scene": "spread",
+      "time": 6.555
+    },
+    {
+      "scene": "where",
+      "time": 11.720357142857143
+    },
+    {
+      "scene": "feet",
+      "time": 13.935357142857143
+    },
+    {
+      "scene": "body",
+      "time": 17.49
+    },
+    {
+      "scene": "reaction",
+      "time": 25.28
+    },
+    {
+      "scene": "shelter",
+      "time": 29.05
+    },
+    {
+      "scene": "hit",
+      "time": 2.0902857142857143
+    },
+    {
+      "scene": "ground",
+      "time": 5.082571428571429
+    },
+    {
+      "scene": "spread",
+      "time": 10.260000000000002
+    },
+    {
+      "scene": "where",
+      "time": 13.108571428571429
+    },
+    {
+      "scene": "feet",
+      "time": 15.667142857142856
+    },
+    {
+      "scene": "body",
+      "time": 23.080000000000002
+    },
+    {
+      "scene": "reaction",
+      "time": 27.36
+    },
+    {
+      "scene": "shelter",
+      "time": 33.6
+    }
+  ],
+  "caption_text_coverage": "pass",
+  "caption_non_overlap": "pass",
+  "picture_checks": [
+    {
+      "scene": "hit",
+      "picture_mean_pixel_difference": 3.334485172457681
+    },
+    {
+      "scene": "ground",
+      "picture_mean_pixel_difference": 1.2356891943489883
+    },
+    {
+      "scene": "spread",
+      "picture_mean_pixel_difference": 2.694126575028637
+    },
+    {
+      "scene": "where",
+      "picture_mean_pixel_difference": 1.188018009418353
+    },
+    {
+      "scene": "feet",
+      "picture_mean_pixel_difference": 6.6505046455390096
+    },
+    {
+      "scene": "body",
+      "picture_mean_pixel_difference": 1.2235535191548936
+    },
+    {
+      "scene": "reaction",
+      "picture_mean_pixel_difference": 2.0463042509863816
+    },
+    {
+      "scene": "shelter",
+      "picture_mean_pixel_difference": 0.07831424207712867
+    }
+  ],
+  "limits": "Author decoded-frame inspection; sampled pixel motion is not semantic acceptance, independent review or real-time AV listening."
+}

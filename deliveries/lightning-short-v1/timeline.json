@@ -1,0 +1,102 @@
+{
+  "title": "Where Does Lightning Go After It Hits the Ground?",
+  "duration": 35,
+  "fps": 30,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "cues": [
+    {
+      "id": 1,
+      "role": "BOLT",
+      "voice": "echo",
+      "text": "I hit the ground. Job done?",
+      "vi": "T\u00f4i ch\u1ea1m \u0111\u1ea5t r\u1ed3i. Xong vi\u1ec7c ch\u01b0a?",
+      "start": 0.12,
+      "end": 2.412857142857143,
+      "duration": 2.2928571428571427,
+      "file": "audio/01.wav"
+    },
+    {
+      "id": 2,
+      "role": "GROUND",
+      "voice": "onyx",
+      "text": "The ground isn't a trash can.",
+      "vi": "M\u1eb7t \u0111\u1ea5t kh\u00f4ng ph\u1ea3i th\u00f9ng r\u00e1c \u0111\u00e2u.",
+      "start": 2.612857142857143,
+      "end": 4.905714285714286,
+      "duration": 2.2928571428571427,
+      "file": "audio/02.wav"
+    },
+    {
+      "id": 3,
+      "role": "NARRATOR",
+      "voice": "alloy",
+      "text": "During the strike, current spreads through and along the ground.",
+      "vi": "Trong l\u00fac s\u00e9t \u0111\u00e1nh, d\u00f2ng \u0111i\u1ec7n lan trong \u0111\u1ea5t v\u00e0 d\u1ecdc b\u1ec1 m\u1eb7t \u0111\u1ea5t.",
+      "start": 5.7,
+      "end": 9.42142857142857,
+      "duration": 3.7214285714285715,
+      "file": "audio/03.wav"
+    },
+    {
+      "id": 4,
+      "role": "BOLT",
+      "voice": "echo",
+      "text": "So where you stand matters?",
+      "vi": "V\u1eady \u0111\u1ee9ng \u1edf \u0111\u00e2u c\u0169ng quan tr\u1ecdng \u00e0?",
+      "start": 11.4,
+      "end": 13.335714285714285,
+      "duration": 1.9357142857142857,
+      "file": "audio/04.wav"
+    },
+    {
+      "id": 5,
+      "role": "GROUND",
+      "voice": "onyx",
+      "text": "And where both feet stand.",
+      "vi": "V\u00e0 c\u1ea3 ch\u1ed7 \u0111\u1eb7t t\u1eebng b\u00e0n ch\u00e2n n\u1eefa.",
+      "start": 13.535714285714285,
+      "end": 15.47142857142857,
+      "duration": 1.9357142857142857,
+      "file": "audio/05.wav"
+    },
+    {
+      "id": 6,
+      "role": "NARRATOR",
+      "voice": "alloy",
+      "text": "Your feet can touch places at different voltages. That difference can drive current through your body.",
+      "vi": "Hai ch\u00e2n c\u00f3 th\u1ec3 ch\u1ea1m nh\u1eefng ch\u1ed7 c\u00f3 \u0111i\u1ec7n th\u1ebf kh\u00e1c nhau. Ch\u00eanh l\u1ec7ch \u0111\u00f3 c\u00f3 th\u1ec3 khi\u1ebfn d\u00f2ng \u0111i\u1ec7n \u0111i qua c\u01a1 th\u1ec3.",
+      "start": 16.2,
+      "end": 22.064285714285713,
+      "duration": 5.864285714285715,
+      "file": "audio/06.wav"
+    },
+    {
+      "id": 7,
+      "role": "BOLT",
+      "voice": "echo",
+      "text": "That escalated quickly.",
+      "vi": "Chuy\u1ec7n c\u0103ng l\u00ean nhanh th\u1eadt.",
+      "start": 24.8,
+      "end": 26.021428571428572,
+      "duration": 1.2214285714285713,
+      "file": "audio/07.wav"
+    },
+    {
+      "id": 8,
+      "role": "NARRATOR",
+      "voice": "alloy",
+      "text": "Hear thunder? Get inside a substantial building.",
+      "vi": "Nghe ti\u1ebfng s\u1ea5m? H\u00e3y v\u00e0o b\u00ean trong m\u1ed9t t\u00f2a nh\u00e0 ki\u00ean c\u1ed1.",
+      "start": 28.0,
+      "end": 30.65,
+      "duration": 2.65,
+      "file": "audio/08.wav"
+    }
+  ],
+  "provisional": true,
+  "narration_present": false,
+  "timing": "Editorial estimates; missing narration. Not audio-aligned."
+}

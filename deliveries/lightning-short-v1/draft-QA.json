@@ -1,0 +1,39 @@
+{
+  "title": "Where Does Lightning Go After It Hits the Ground?",
+  "stage": "animation preview; narration blocked by HTTP 401",
+  "file": "lightning-animation-preview-no-voice.mp4",
+  "duration": 35.0,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 1050,
+  "full_decode": "pass",
+  "audio_video_duration_match": "pass",
+  "narration_present": false,
+  "caption_timing": "Editorial estimates; NOT audio-aligned",
+  "max_mascot_bone_length_error": 2.4158453015843406e-13,
+  "sha256": "eebe5d55a78811ac64c196ceebd8815d1605e7c5c9db4cb1e5f3b6e2a5922206",
+  "bytes": 2040776,
+  "loudness": {
+    "input_i": "-19.92",
+    "input_tp": "-4.38",
+    "input_lra": "1.90",
+    "input_thresh": "-30.07",
+    "output_i": "-15.77",
+    "output_tp": "-1.50",
+    "output_lra": "1.40",
+    "output_thresh": "-25.88",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.23"
+  },
+  "review": {
+    "author": "Source storyboard and decoded output frames",
+    "independent": "not performed",
+    "real_time_AV_listening": "not performed"
+  },
+  "research_access": "NWS/CDC direct access denied by environment proxy; not reported as verified source retrieval",
+  "science_scope": "Conceptual ground-current and step-voltage illustration during a brief lightning pulse. Geometry, duration, color and arrows schematic, not a field model or safe-distance claim. No outdoor location declared safe. The mascot is fictional; the human is a diagram, not a proposed outdoor experiment.",
+  "youtube_upload": false
+}

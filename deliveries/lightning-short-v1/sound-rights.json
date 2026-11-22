@@ -1,0 +1,51 @@
+{
+  "narration_present": false,
+  "music": "Original local plucked composition",
+  "foley_and_ambience": "Original local synthesis, no third-party recording",
+  "events": [
+    {
+      "time": 0.15,
+      "duration": 1.2,
+      "kind": "single_strike",
+      "source": "Original local stylized synthesis",
+      "purpose": "Visible strike / schematic reveal / shelter check mark"
+    },
+    {
+      "time": 2.962857142857143,
+      "duration": 0.16,
+      "kind": "trash_can_correction",
+      "source": "Original local stylized synthesis",
+      "purpose": "Visible strike / schematic reveal / shelter check mark"
+    },
+    {
+      "time": 14.085714285714285,
+      "duration": 0.16,
+      "kind": "first_contact_reveal",
+      "source": "Original local stylized synthesis",
+      "purpose": "Visible strike / schematic reveal / shelter check mark"
+    },
+    {
+      "time": 14.535714285714285,
+      "duration": 0.16,
+      "kind": "second_contact_reveal",
+      "source": "Original local stylized synthesis",
+      "purpose": "Visible strike / schematic reveal / shelter check mark"
+    },
+    {
+      "time": 19.132142857142856,
+      "duration": 0.2,
+      "kind": "current_path_reveal",
+      "source": "Original local stylized synthesis",
+      "purpose": "Visible strike / schematic reveal / shelter check mark"
+    },
+    {
+      "time": 28.15,
+      "duration": 0.26,
+      "kind": "shelter_check",
+      "source": "Original local stylized synthesis",
+      "purpose": "Visible strike / schematic reveal / shelter check mark"
+    }
+  ],
+  "art": "One new transparent bolt expression atlas; mechanisms, soil and educational silhouette drawn locally",
+  "rights_note": "No third-party song, footage or human voice impersonation used"
+}

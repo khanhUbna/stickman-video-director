@@ -1,0 +1,18 @@
+{
+  "title": "Where Does Lightning Go After It Hits the Ground?",
+  "channel": "Everyday, Explained",
+  "format": "Native portrait animated science comedy, 1080x1920, 30 fps",
+  "voices": {"BOLT":"echo","GROUND":"onyx","NARRATOR":"alloy"},
+  "rows": [
+    [0.12,"BOLT","I hit the ground. Job done?","Tôi chạm đất rồi. Xong việc chưa?"],
+    [2.6,"GROUND","The ground isn't a trash can.","Mặt đất không phải thùng rác đâu."],
+    [5.7,"NARRATOR","During the strike, current spreads through and along the ground.","Trong lúc sét đánh, dòng điện lan trong đất và dọc bề mặt đất."],
+    [11.4,"BOLT","So where you stand matters?","Vậy đứng ở đâu cũng quan trọng à?"],
+    [13.2,"GROUND","And where both feet stand.","Và cả chỗ đặt từng bàn chân nữa."],
+    [16.2,"NARRATOR","Your feet can touch places at different voltages. That difference can drive current through your body.","Hai chân có thể chạm những chỗ có điện thế khác nhau. Chênh lệch đó có thể khiến dòng điện đi qua cơ thể."],
+    [24.8,"BOLT","That escalated quickly.","Chuyện căng lên nhanh thật."],
+    [28.0,"NARRATOR","Hear thunder? Get inside a substantial building.","Nghe tiếng sấm? Hãy vào bên trong một tòa nhà kiên cố." ]
+  ],
+  "science_scope": "Conceptual ground-current and step-voltage illustration during a brief lightning pulse. Geometry, duration, color and arrows schematic, not a field model or safe-distance claim. No outdoor location declared safe. The mascot is fictional; the human is a diagram, not a proposed outdoor experiment.",
+  "research_access": "Direct read of NWS and CDC official pages was blocked by environment proxy (HTTP CONNECT 403). Intended official reference URLs retained; not represented as retrieved/verified on this run. Script limited to established ground-current and step-potential principles; no statistics or numerical safety thresholds."
+}

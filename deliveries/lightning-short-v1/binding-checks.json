@@ -1,0 +1,246 @@
+{
+  "actual_sprite_alpha_checks": [
+    {
+      "expression": "smug",
+      "height": 155,
+      "hip_alpha": [
+        254,
+        254
+      ],
+      "shoulder_alpha": [
+        254,
+        254
+      ]
+    },
+    {
+      "expression": "smug",
+      "height": 190,
+      "hip_alpha": [
+        253,
+        254
+      ],
+      "shoulder_alpha": [
+        254,
+        253
+      ]
+    },
+    {
+      "expression": "smug",
+      "height": 245,
+      "hip_alpha": [
+        254,
+        254
+      ],
+      "shoulder_alpha": [
+        254,
+        253
+      ]
+    },
+    {
+      "expression": "smug",
+      "height": 255,
+      "hip_alpha": [
+        254,
+        254
+      ],
+      "shoulder_alpha": [
+        254,
+        254
+      ]
+    },
+    {
+      "expression": "smug",
+      "height": 280,
+      "hip_alpha": [
+        254,
+        254
+      ],
+      "shoulder_alpha": [
+        254,
+        253
+      ]
+    },
+    {
+      "expression": "puzzled",
+      "height": 155,
+      "hip_alpha": [
+        254,
+        253
+      ],
+      "shoulder_alpha": [
+        253,
+        254
+      ]
+    },
+    {
+      "expression": "puzzled",
+      "height": 190,
+      "hip_alpha": [
+        254,
+        254
+      ],
+      "shoulder_alpha": [
+        253,
+        254
+      ]
+    },
+    {
+      "expression": "puzzled",
+      "height": 245,
+      "hip_alpha": [
+        254,
+        254
+      ],
+      "shoulder_alpha": [
+        253,
+        254
+      ]
+    },
+    {
+      "expression": "puzzled",
+      "height": 255,
+      "hip_alpha": [
+        254,
+        253
+      ],
+      "shoulder_alpha": [
+        253,
+        254
+      ]
+    },
+    {
+      "expression": "puzzled",
+      "height": 280,
+      "hip_alpha": [
+        254,
+        253
+      ],
+      "shoulder_alpha": [
+        253,
+        254
+      ]
+    },
+    {
+      "expression": "alarmed",
+      "height": 155,
+      "hip_alpha": [
+        254,
+        254
+      ],
+      "shoulder_alpha": [
+        254,
+        254
+      ]
+    },
+    {
+      "expression": "alarmed",
+      "height": 190,
+      "hip_alpha": [
+        254,
+        254
+      ],
+      "shoulder_alpha": [
+        254,
+        254
+      ]
+    },
+    {
+      "expression": "alarmed",
+      "height": 245,
+      "hip_alpha": [
+        254,
+        254
+      ],
+      "shoulder_alpha": [
+        254,
+        254
+      ]
+    },
+    {
+      "expression": "alarmed",
+      "height": 255,
+      "hip_alpha": [
+        254,
+        254
+      ],
+      "shoulder_alpha": [
+        254,
+        254
+      ]
+    },
+    {
+      "expression": "alarmed",
+      "height": 280,
+      "hip_alpha": [
+        254,
+        254
+      ],
+      "shoulder_alpha": [
+        254,
+        254
+      ]
+    },
+    {
+      "expression": "happy",
+      "height": 155,
+      "hip_alpha": [
+        254,
+        253
+      ],
+      "shoulder_alpha": [
+        254,
+        254
+      ]
+    },
+    {
+      "expression": "happy",
+      "height": 190,
+      "hip_alpha": [
+        254,
+        253
+      ],
+      "shoulder_alpha": [
+        254,
+        254
+      ]
+    },
+    {
+      "expression": "happy",
+      "height": 245,
+      "hip_alpha": [
+        254,
+        253
+      ],
+      "shoulder_alpha": [
+        254,
+        254
+      ]
+    },
+    {
+      "expression": "happy",
+      "height": 255,
+      "hip_alpha": [
+        254,
+        253
+      ],
+      "shoulder_alpha": [
+        254,
+        254
+      ]
+    },
+    {
+      "expression": "happy",
+      "height": 280,
+      "hip_alpha": [
+        254,
+        253
+      ],
+      "shoulder_alpha": [
+        254,
+        254
+      ]
+    }
+  ],
+  "result": "All arm/leg roots lie inside the visible body at all authored sprite scales",
+  "repair": "Initial leg roots were in transparent pixels; moved hips into lower body and used fixed 75-unit outward-bending legs. Arm roots already inside visible alpha."
+}

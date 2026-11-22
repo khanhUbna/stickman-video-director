@@ -1,0 +1,9 @@
+{
+  "observed_result": "Speech creation request returned HTTP 401; zero audio responses saved",
+  "secret_metadata": "Environment reported OPENAI_API_KEY ready; this did not establish service acceptance",
+  "user_reply": "I will update the key in the environment",
+  "completion_of_update_confirmed": false,
+  "automatic_audio_retry": false,
+  "next_step": "After the user explicitly confirms finishing the credential update, verify access and retry only unsaved requests; retain failed-attempt records and reuse any successful saved native audio",
+  "credentials_logged": false
+}

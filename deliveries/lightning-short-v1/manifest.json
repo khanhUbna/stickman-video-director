@@ -1,0 +1,78 @@
+{
+  "script-en.txt": {
+    "bytes": 418,
+    "sha256": "8773f2a7ef379ef690bb802f49ca8ef6b69c913970c5f550bd78af19f5a47326"
+  },
+  "timeline.json": {
+    "bytes": 3278,
+    "sha256": "cbea2fb1a30c7629930bd334c8408089d26f7150a5740ef0b0f397bbb812248c"
+  },
+  "shots.json": {
+    "bytes": 382,
+    "sha256": "756cf261ca8d3a3f7339cb091674b9570189ea18668b7266a94d9906963859dd"
+  },
+  "decoded-review.json": {
+    "bytes": 2230,
+    "sha256": "33c08154d955970f39ba83de1252a4b9ec012c5b95ca949389c8d4d02a6fa0d2"
+  },
+  "cover-draft.jpg": {
+    "bytes": 168072,
+    "sha256": "4faf129ac3fd46fedae0535006b5d958124d355949451045e506255f4a042d8f"
+  },
+  "decoded-review-2.jpg": {
+    "bytes": 183703,
+    "sha256": "2ae246971e66ae3869cecfe8cd2fae12db53dffd41a7218a6ae24d12bcf5deae"
+  },
+  "decoded-review-1.jpg": {
+    "bytes": 199847,
+    "sha256": "04be22e30ddc90ab84a3f405057b958c152c896bdb9903ce75966fdcab640ec4"
+  },
+  "source-preview.zip": {
+    "bytes": 1947632,
+    "sha256": "027630cc13ae9240005d095bdf7da2038030a923956338b95419828e13d8ac75"
+  },
+  "auth-status.json": {
+    "bytes": 581,
+    "sha256": "68ddc7c7d00993e8a035714d5810f01047e508d89f0a20b93065c464f5da9604"
+  },
+  "upload-text.txt": {
+    "bytes": 742,
+    "sha256": "8dc5948805b7c6c69dd63b1eb927b7155254809df888755273285910f3eda87a"
+  },
+  "story.json": {
+    "bytes": 1977,
+    "sha256": "6306089a5d1db9cbdeb90427852a8a6b93c48b6fa4bd5513bf5c250b17999a4d"
+  },
+  "script-vi.txt": {
+    "bytes": 610,
+    "sha256": "ab85704614c012c04e215d458778e9820c9b81cb8bd7e7e07fcc67e27b6febb9"
+  },
+  "draft-QA.json": {
+    "bytes": 1517,
+    "sha256": "b884f63c98b5cf4c492abe430c8bba10e82c10e5fbfc6ff11ea0a3f00433797d"
+  },
+  "binding-checks.json": {
+    "bytes": 3859,
+    "sha256": "fbadc7be228d078edf71c1f3e7184b6be5c236ea51aaa58c90b0afc463c51c7f"
+  },
+  "README.md": {
+    "bytes": 5364,
+    "sha256": "8064ea3b476135909cf1075cb05530b2233e5dfeede0b4623db6d06d5129f472"
+  },
+  "sound-rights.json": {
+    "bytes": 1745,
+    "sha256": "2af7170d42b1984078b7853df51b74f09466e207268e18bfe5032389479b0def"
+  },
+  "draft-captions-en.srt": {
+    "bytes": 956,
+    "sha256": "5adeae77c8e8f153621f18154cbb7df4f0c0f033d44c07f5f173a79b09c6d06d"
+  },
+  "lightning-animation-preview-no-voice.mp4": {
+    "bytes": 2040776,
+    "sha256": "eebe5d55a78811ac64c196ceebd8815d1605e7c5c9db4cb1e5f3b6e2a5922206"
+  },
+  "draft-captions-vi.srt": {
+    "bytes": 779,
+    "sha256": "9b5f34a933b5f691ea1c920b584f473dc66e913713c677cf115e9478a0c546ac"
+  }
+}
