@@ -1,78 +1,106 @@
 {
-  "script-en.txt": {
-    "bytes": 418,
-    "sha256": "8773f2a7ef379ef690bb802f49ca8ef6b69c913970c5f550bd78af19f5a47326"
-  },
-  "timeline.json": {
-    "bytes": 3278,
-    "sha256": "cbea2fb1a30c7629930bd334c8408089d26f7150a5740ef0b0f397bbb812248c"
-  },
-  "shots.json": {
-    "bytes": 382,
-    "sha256": "756cf261ca8d3a3f7339cb091674b9570189ea18668b7266a94d9906963859dd"
-  },
-  "decoded-review.json": {
-    "bytes": 2230,
-    "sha256": "33c08154d955970f39ba83de1252a4b9ec012c5b95ca949389c8d4d02a6fa0d2"
-  },
-  "cover-draft.jpg": {
-    "bytes": 168072,
-    "sha256": "4faf129ac3fd46fedae0535006b5d958124d355949451045e506255f4a042d8f"
-  },
-  "decoded-review-2.jpg": {
-    "bytes": 183703,
-    "sha256": "2ae246971e66ae3869cecfe8cd2fae12db53dffd41a7218a6ae24d12bcf5deae"
-  },
-  "decoded-review-1.jpg": {
-    "bytes": 199847,
-    "sha256": "04be22e30ddc90ab84a3f405057b958c152c896bdb9903ce75966fdcab640ec4"
-  },
-  "source-preview.zip": {
-    "bytes": 1947632,
-    "sha256": "027630cc13ae9240005d095bdf7da2038030a923956338b95419828e13d8ac75"
+  "README.md": {
+    "bytes": 6196,
+    "sha256": "0860ae297a2ac6c5b0fcb8d9e3c8343b907de1b6a190be987350ba652e30257a"
   },
   "auth-status.json": {
-    "bytes": 581,
-    "sha256": "68ddc7c7d00993e8a035714d5810f01047e508d89f0a20b93065c464f5da9604"
-  },
-  "upload-text.txt": {
-    "bytes": 742,
-    "sha256": "8dc5948805b7c6c69dd63b1eb927b7155254809df888755273285910f3eda87a"
-  },
-  "story.json": {
-    "bytes": 1977,
-    "sha256": "6306089a5d1db9cbdeb90427852a8a6b93c48b6fa4bd5513bf5c250b17999a4d"
-  },
-  "script-vi.txt": {
-    "bytes": 610,
-    "sha256": "ab85704614c012c04e215d458778e9820c9b81cb8bd7e7e07fcc67e27b6febb9"
-  },
-  "draft-QA.json": {
-    "bytes": 1517,
-    "sha256": "b884f63c98b5cf4c492abe430c8bba10e82c10e5fbfc6ff11ea0a3f00433797d"
+    "bytes": 490,
+    "sha256": "6a9179b68b3244322dae10fe0d320fe0957ffcfad780a7712dcaf704d480a2e1"
   },
   "binding-checks.json": {
     "bytes": 3859,
     "sha256": "fbadc7be228d078edf71c1f3e7184b6be5c236ea51aaa58c90b0afc463c51c7f"
   },
-  "README.md": {
-    "bytes": 5364,
-    "sha256": "8064ea3b476135909cf1075cb05530b2233e5dfeede0b4623db6d06d5129f472"
+  "cover-draft.jpg": {
+    "bytes": 168072,
+    "sha256": "4faf129ac3fd46fedae0535006b5d958124d355949451045e506255f4a042d8f"
   },
-  "sound-rights.json": {
-    "bytes": 1745,
-    "sha256": "2af7170d42b1984078b7853df51b74f09466e207268e18bfe5032389479b0def"
+  "decoded-review-1.jpg": {
+    "bytes": 199849,
+    "sha256": "ec5fcd7c0e81086f30d0d44fcfef7f7e2588859f818b7a461199a5f5fa23ab29"
+  },
+  "decoded-review-2.jpg": {
+    "bytes": 179950,
+    "sha256": "72cd96a04faa1999fecdaf42433c974c1cdfdbb325d574e2dd58081b0c3314d2"
+  },
+  "decoded-review.json": {
+    "bytes": 2124,
+    "sha256": "1f1194127cdc32537f24753880bf021b3ed5c7278b8481e2f2d1221138ade931"
+  },
+  "draft-QA.json": {
+    "bytes": 1517,
+    "sha256": "b884f63c98b5cf4c492abe430c8bba10e82c10e5fbfc6ff11ea0a3f00433797d"
   },
   "draft-captions-en.srt": {
     "bytes": 956,
     "sha256": "5adeae77c8e8f153621f18154cbb7df4f0c0f033d44c07f5f173a79b09c6d06d"
   },
+  "draft-captions-vi.srt": {
+    "bytes": 779,
+    "sha256": "9b5f34a933b5f691ea1c920b584f473dc66e913713c677cf115e9478a0c546ac"
+  },
   "lightning-animation-preview-no-voice.mp4": {
     "bytes": 2040776,
     "sha256": "eebe5d55a78811ac64c196ceebd8815d1605e7c5c9db4cb1e5f3b6e2a5922206"
   },
-  "draft-captions-vi.srt": {
+  "script-en.txt": {
+    "bytes": 418,
+    "sha256": "8773f2a7ef379ef690bb802f49ca8ef6b69c913970c5f550bd78af19f5a47326"
+  },
+  "script-vi.txt": {
+    "bytes": 610,
+    "sha256": "ab85704614c012c04e215d458778e9820c9b81cb8bd7e7e07fcc67e27b6febb9"
+  },
+  "shots.json": {
+    "bytes": 332,
+    "sha256": "a237384058b0495aa684121e66d2e8b0a69e17ae8790ed61e862fb5638c64b06"
+  },
+  "sound-rights.json": {
+    "bytes": 1696,
+    "sha256": "b16005040d58b8c0cbf6592fffe82c6a310b597ae17282a401919466fcfa2d73"
+  },
+  "source-preview.zip": {
+    "bytes": 1947632,
+    "sha256": "027630cc13ae9240005d095bdf7da2038030a923956338b95419828e13d8ac75"
+  },
+  "story.json": {
+    "bytes": 1977,
+    "sha256": "6306089a5d1db9cbdeb90427852a8a6b93c48b6fa4bd5513bf5c250b17999a4d"
+  },
+  "timeline.json": {
+    "bytes": 3389,
+    "sha256": "6099aa0fe4963fcd372561447f726afaaea958e3cc7a0d34533832cd8c188734"
+  },
+  "upload-text.txt": {
+    "bytes": 679,
+    "sha256": "501efe5d6457fe10a35bad28469abc5b2fd8771a53f97dc246f1359c96a1a890"
+  },
+  "QA.json": {
+    "bytes": 1464,
+    "sha256": "35a4039036df8c329e31579c882f288cf4bbee8e6262adffc0061df178674aa6"
+  },
+  "voice-presence-checks.json": {
+    "bytes": 1708,
+    "sha256": "16c4ee5b37730e42b665dceb2e2cb52d6821f95f9b9fab640c19c65b9fb2893d"
+  },
+  "where-does-lightning-go-short.mp4": {
+    "bytes": 2031653,
+    "sha256": "a967ab59bdecfdcb3c1c92a803b031942a0c8a6d00e7c6336277c8c24831c755"
+  },
+  "captions-vi.srt": {
     "bytes": 779,
-    "sha256": "9b5f34a933b5f691ea1c920b584f473dc66e913713c677cf115e9478a0c546ac"
+    "sha256": "ab8265b1af80568c211471fd0462856bdf3f73f86f7c3cefd7222e6ba7fd1d3c"
+  },
+  "cover.jpg": {
+    "bytes": 168115,
+    "sha256": "905190e38733ea9bceef8e095dba4ffc9c140a62c6f013b2561d18da56f85eb6"
+  },
+  "source.zip": {
+    "bytes": 4219660,
+    "sha256": "882b8d190c7f05387c16d8ef6bec833984b64691f521e9d18b19a5981ead7146"
+  },
+  "captions-en.srt": {
+    "bytes": 956,
+    "sha256": "582fd8afb7546fd63e2860985c13d680aa6cfd975eadc566d812ce4e0f5f1415"
   }
 }

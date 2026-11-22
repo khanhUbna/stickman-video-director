@@ -1,0 +1,56 @@
+{
+  "file": "where-does-lightning-go-short.mp4",
+  "saved_dialogue_files": 8,
+  "all_eight_dialogue_segments_present": true,
+  "segments": [
+    {
+      "cue": 1,
+      "role": "BOLT",
+      "encoded_audio_vs_saved_dialogue_correlation": 0.9869966736598137,
+      "dialogue_above_background_db": 23.4041908229103
+    },
+    {
+      "cue": 2,
+      "role": "GROUND",
+      "encoded_audio_vs_saved_dialogue_correlation": 0.9954222036782986,
+      "dialogue_above_background_db": 33.3736835616623
+    },
+    {
+      "cue": 3,
+      "role": "NARRATOR",
+      "encoded_audio_vs_saved_dialogue_correlation": 0.9990033228358296,
+      "dialogue_above_background_db": 35.09386325658442
+    },
+    {
+      "cue": 4,
+      "role": "BOLT",
+      "encoded_audio_vs_saved_dialogue_correlation": 0.9884665918473814,
+      "dialogue_above_background_db": 35.843414736611486
+    },
+    {
+      "cue": 5,
+      "role": "GROUND",
+      "encoded_audio_vs_saved_dialogue_correlation": 0.9873061431638545,
+      "dialogue_above_background_db": 32.06565006677809
+    },
+    {
+      "cue": 6,
+      "role": "NARRATOR",
+      "encoded_audio_vs_saved_dialogue_correlation": 0.9910503041720765,
+      "dialogue_above_background_db": 33.633717294025544
+    },
+    {
+      "cue": 7,
+      "role": "BOLT",
+      "encoded_audio_vs_saved_dialogue_correlation": 0.97131228697681,
+      "dialogue_above_background_db": 35.53605016466123
+    },
+    {
+      "cue": 8,
+      "role": "NARRATOR",
+      "encoded_audio_vs_saved_dialogue_correlation": 0.9984553826460459,
+      "dialogue_above_background_db": 31.75593121919689
+    }
+  ],
+  "qualification": "Signal presence and mix checks; not independent listening or intelligibility approval."
+}

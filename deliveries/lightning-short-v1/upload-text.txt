@@ -1,7 +1,7 @@
-PLANNED TITLE
+TITLE
 Where Does Lightning Go After It Hits the Ground?
 
-PLANNED DESCRIPTION (for the finished narrated export)
+DESCRIPTION
 Lightning hits the ground. Then what? ⚡
 
 Meet Bolt and Ground as we look beneath the surface at a brief pulse of current—and why two foot positions can matter.
@@ -13,4 +13,4 @@ Subscribe to Everyday, Explained for funny animated answers to everyday question
 #Shorts #EverydayExplained #Science
 
 STATUS
-Current export is an animation preview without narration. Speech authentication returned HTTP 401. No YouTube upload performed.
+Current export includes English dialogue, original music/effects and English captions. No YouTube upload performed.

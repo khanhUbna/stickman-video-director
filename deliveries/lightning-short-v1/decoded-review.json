@@ -1,15 +1,15 @@
 {
-  "file": "lightning-animation-preview-no-voice.mp4",
-  "narration_present": false,
-  "sha256": "eebe5d55a78811ac64c196ceebd8815d1605e7c5c9db4cb1e5f3b6e2a5922206",
+  "file": "where-does-lightning-go-short.mp4",
+  "narration_present": true,
+  "sha256": "a967ab59bdecfdcb3c1c92a803b031942a0c8a6d00e7c6336277c8c24831c755",
   "samples": [
     {
       "scene": "hit",
-      "time": 0.39192857142857146
+      "time": 0.39
     },
     {
       "scene": "ground",
-      "time": 3.0759285714285713
+      "time": 3.065
     },
     {
       "scene": "spread",
@@ -17,11 +17,11 @@
     },
     {
       "scene": "where",
-      "time": 11.720357142857143
+      "time": 11.683125
     },
     {
       "scene": "feet",
-      "time": 13.935357142857143
+      "time": 13.724375
     },
     {
       "scene": "body",
@@ -37,11 +37,11 @@
     },
     {
       "scene": "hit",
-      "time": 2.0902857142857143
+      "time": 2.08
     },
     {
       "scene": "ground",
-      "time": 5.082571428571429
+      "time": 5.08
     },
     {
       "scene": "spread",
@@ -49,11 +49,11 @@
     },
     {
       "scene": "where",
-      "time": 13.108571428571429
+      "time": 12.91
     },
     {
       "scene": "feet",
-      "time": 15.667142857142856
+      "time": 15.6175
     },
     {
       "scene": "body",
@@ -77,31 +77,31 @@
     },
     {
       "scene": "ground",
-      "picture_mean_pixel_difference": 1.2356891943489883
+      "picture_mean_pixel_difference": 1.3860038818887617
     },
     {
       "scene": "spread",
-      "picture_mean_pixel_difference": 2.694126575028637
+      "picture_mean_pixel_difference": 2.9132012854779177
     },
     {
       "scene": "where",
-      "picture_mean_pixel_difference": 1.188018009418353
+      "picture_mean_pixel_difference": 1.1736407025582283
     },
     {
       "scene": "feet",
-      "picture_mean_pixel_difference": 6.6505046455390096
+      "picture_mean_pixel_difference": 6.557498727249587
     },
     {
       "scene": "body",
-      "picture_mean_pixel_difference": 1.2235535191548936
+      "picture_mean_pixel_difference": 1.216289932544228
     },
     {
       "scene": "reaction",
-      "picture_mean_pixel_difference": 2.0463042509863816
+      "picture_mean_pixel_difference": 2.043270968563065
     },
     {
       "scene": "shelter",
-      "picture_mean_pixel_difference": 0.07831424207712867
+      "picture_mean_pixel_difference": 0.07784586992490773
     }
   ],
   "limits": "Author decoded-frame inspection; sampled pixel motion is not semantic acceptance, independent review or real-time AV listening."

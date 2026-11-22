@@ -2,9 +2,13 @@
 
 Everyday, Explained — new 35-second native portrait animated science Short, 1080x1920, 30 fps. This is the everyday-science channel, not the green-vest psychology channel or the Koa/B6 story series.
 
-## Current stage: animation preview, voice pending
+## Current stage: narrated export
 
-The animation, original music/ambience/Foley and editorial English/Vietnamese caption drafts are ready for a viewing export. New OpenAI speech requests returned HTTP 401; no native speech response was saved. The user selected updating the credential in the environment, but has not yet confirmed completing that update. No automatic audio retry or substitute voice is used. A preview filename explicitly says `no-voice`; it is not represented as the finished narrated film. Estimated draft caption times must be acoustically aligned after actual speech exists.
+`where-does-lightning-go-short.mp4` is the current 35-second export with English character dialogue, original music/ambience/Foley and burned-in English captions. `captions-en.srt` is acoustically aligned to the saved speech; `captions-vi.srt` is a separate Vietnamese reading translation. `QA.json`, `decoded-review.json` and the review sheets describe the current narrated file. `source.zip` contains the saved voices and editable project.
+
+The earlier `lightning-animation-preview-no-voice.mp4`, `draft-*` files and `source-preview.zip` are retained as the previous animation-only draft. They are not the current narrated export.
+
+Speech access initially returned HTTP 401. After the user's update request, a non-billable authentication check returned HTTP 200. The three prior request records were archived, and eight native speech responses were generated and saved. No successful response was regenerated, and no new image-generation call was made for the voice addition. The draft's estimated captions were replaced by offline acoustic alignment.
 
 ## Story
 
@@ -32,7 +36,9 @@ Direct reads were denied by the environment's outbound proxy (`Tunnel connection
 
 One new transparent four-expression yellow Bolt atlas was generated. The mascot has separately animated two-bone arms/legs and pinned feet. Soil, branching current paths, voltage-contact diagrams, body silhouette, house and Ground face are original locally drawn animation, using the science channel's navy/teal/cream/yellow palette. The picture is a native portrait composition, not a crop of a landscape video. No rapid full-screen white flashes are used.
 
-Music is an original locally composed plucked pattern; ambience, a restrained designed strike rumble and reveal cues are original local synthesis. No third-party recording, song or video is extracted. DejaVu Sans Bold is bundled with its license. New image billing is not exposed by the tool. No successful TTS response or verified TTS billing is claimed yet; rejected authentication attempts are recorded, not automatically replayed.
+Music is an original locally composed plucked pattern; ambience, a restrained designed strike rumble and reveal cues are original local synthesis. No third-party recording, song or video is extracted. DejaVu Sans Bold is bundled with its license. The original image generation's billing is not exposed by the tool.
+
+Eight new native `tts-1`, speed-1 responses supply Bolt (Echo), Ground (Onyx) and narration (Alloy). Estimated speech cost is USD 0.00519, using the previously documented USD 15 per million characters rate; account billing is not independently verified. Native response WAVs, normalizations and request metadata are saved. Prior authentication-failure records are retained; they are not represented as saved speech or automatically replayed. No API key is bundled or logged.
 
 ## Verification and rebuild
 
