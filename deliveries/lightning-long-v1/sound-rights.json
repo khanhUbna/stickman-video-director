@@ -1,0 +1,499 @@
+{
+  "music": "Original local six-chapter plucked arrangement; no third-party melody/recording",
+  "voices": {
+    "NARRATOR": "alloy",
+    "BOLT": "echo",
+    "GROUND": "onyx",
+    "COW": "shimmer",
+    "SAND": "nova",
+    "CAR": "fable"
+  },
+  "saved_native_audio": true,
+  "ambience": [
+    {
+      "start": 0.12,
+      "end": 12.5775,
+      "scene": "opening",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 12.5775,
+      "end": 14.7947,
+      "scene": "bolt_boast",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 14.7947,
+      "end": 17.0119,
+      "scene": "ground_reply",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 17.0119,
+      "end": 20.8444,
+      "scene": "cutaway",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 20.8444,
+      "end": 33.2644,
+      "scene": "air_channel",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 33.2644,
+      "end": 35.4816,
+      "scene": "bolt_not_storage",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 35.4816,
+      "end": 36.6266,
+      "scene": "ground_reply",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 36.6266,
+      "end": 49.9966,
+      "scene": "pulse_clock",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 49.9966,
+      "end": 63.5541,
+      "scene": "branches",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 63.5541,
+      "end": 66.8116,
+      "scene": "earth_core",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 66.8116,
+      "end": 69.3567,
+      "scene": "soil_layers",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 69.3567,
+      "end": 83.9642,
+      "scene": "conductivity",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 83.9642,
+      "end": 98.4467,
+      "scene": "energy",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 98.4467,
+      "end": 100.6639,
+      "scene": "sand_intro",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 100.6639,
+      "end": 102.5532,
+      "scene": "sand_character",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 102.5532,
+      "end": 117.3857,
+      "scene": "fuse",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 117.3857,
+      "end": 131.4682,
+      "scene": "fulgurite",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 131.4682,
+      "end": 133.4257,
+      "scene": "glass_fragile",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 133.4257,
+      "end": 145.9957,
+      "scene": "museum",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 145.9957,
+      "end": 148.0032,
+      "scene": "feet_question",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 148.0032,
+      "end": 149.9232,
+      "scene": "two_feet",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 149.9232,
+      "end": 156.5182,
+      "scene": "step_body",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 156.5182,
+      "end": 170.2632,
+      "scene": "voltage_steps",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 170.2632,
+      "end": 184.4832,
+      "scene": "voltage_map",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 184.4832,
+      "end": 187.3562,
+      "scene": "cow_question",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 187.3562,
+      "end": 200.1262,
+      "scene": "cow_span",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 200.1262,
+      "end": 202.6462,
+      "scene": "cow_reply",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 202.6462,
+      "end": 216.8162,
+      "scene": "side_flash",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 216.8162,
+      "end": 218.5237,
+      "scene": "reaction",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 218.5237,
+      "end": 226.3147,
+      "scene": "car_arrival",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 226.3147,
+      "end": 228.8598,
+      "scene": "tires",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 228.8598,
+      "end": 244.5423,
+      "scene": "car_shell",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 244.5423,
+      "end": 246.7623,
+      "scene": "tire_joke",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 246.7623,
+      "end": 249.3074,
+      "scene": "car_face",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 249.3074,
+      "end": 260.7399,
+      "scene": "tire_gap",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 260.7399,
+      "end": 276.1724,
+      "scene": "vehicle_compare",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 276.1724,
+      "end": 278.4424,
+      "scene": "no_experiment",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 278.4424,
+      "end": 291.6249,
+      "scene": "thunder_air",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 291.6249,
+      "end": 294.4979,
+      "scene": "air_joke",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 294.4979,
+      "end": 305.1804,
+      "scene": "sound_wave",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 305.1804,
+      "end": 308.3879,
+      "scene": "shelter",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 308.3879,
+      "end": 321.0454,
+      "scene": "inside_house",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 321.0454,
+      "end": 333.3779,
+      "scene": "wait",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 333.3779,
+      "end": 344.2479,
+      "scene": "bad_shelters",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 344.2479,
+      "end": 346.793,
+      "scene": "ending_bolt",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 346.793,
+      "end": 348.1255,
+      "scene": "ending_ground",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    },
+    {
+      "start": 348.1255,
+      "end": 351.5705,
+      "scene": "ending_narrator",
+      "source": "Original local filtered-noise room/outdoor bed",
+      "purpose": "Setting continuity, quieter for artifact/indoor scenes"
+    }
+  ],
+  "events": [
+    {
+      "time": 0.22,
+      "duration": 1.5,
+      "kind": "strike_rumble",
+      "gain": 0.09,
+      "source": "Original local cartoon synthesis",
+      "status": "final",
+      "listener": "Stylized medium/close perspective; not a field recording or physical sound simulation"
+    },
+    {
+      "time": 1.0990554670003077,
+      "duration": 0.11,
+      "kind": "hoof_contact",
+      "gain": 0.027,
+      "source": "Original local cartoon synthesis",
+      "status": "final",
+      "listener": "Stylized medium/close perspective; not a field recording or physical sound simulation"
+    },
+    {
+      "time": 1.6199999999986359,
+      "duration": 0.11,
+      "kind": "hoof_contact",
+      "gain": 0.027,
+      "source": "Original local cartoon synthesis",
+      "status": "final",
+      "listener": "Stylized medium/close perspective; not a field recording or physical sound simulation"
+    },
+    {
+      "time": 2.1409445329996926,
+      "duration": 0.11,
+      "kind": "hoof_contact",
+      "gain": 0.027,
+      "source": "Original local cartoon synthesis",
+      "status": "final",
+      "listener": "Stylized medium/close perspective; not a field recording or physical sound simulation"
+    },
+    {
+      "time": 3.119999988822765,
+      "duration": 0.11,
+      "kind": "hoof_contact",
+      "gain": 0.027,
+      "source": "Original local cartoon synthesis",
+      "status": "final",
+      "listener": "Stylized medium/close perspective; not a field recording or physical sound simulation"
+    },
+    {
+      "time": 36.826600000000006,
+      "duration": 0.1,
+      "kind": "pulse_diagram_tick",
+      "gain": 0.014,
+      "source": "Original local cartoon synthesis",
+      "status": "final",
+      "listener": "Stylized medium/close perspective; not a field recording or physical sound simulation"
+    },
+    {
+      "time": 37.52660000000001,
+      "duration": 0.1,
+      "kind": "pulse_diagram_tick",
+      "gain": 0.014,
+      "source": "Original local cartoon synthesis",
+      "status": "final",
+      "listener": "Stylized medium/close perspective; not a field recording or physical sound simulation"
+    },
+    {
+      "time": 38.226600000000005,
+      "duration": 0.1,
+      "kind": "pulse_diagram_tick",
+      "gain": 0.014,
+      "source": "Original local cartoon synthesis",
+      "status": "final",
+      "listener": "Stylized medium/close perspective; not a field recording or physical sound simulation"
+    },
+    {
+      "time": 108.0732,
+      "duration": 0.8,
+      "kind": "glass_discovery",
+      "gain": 0.023,
+      "source": "Original local cartoon synthesis",
+      "status": "final",
+      "listener": "Stylized medium/close perspective; not a field recording or physical sound simulation"
+    },
+    {
+      "time": 131.6182,
+      "duration": 0.6,
+      "kind": "glass_discovery",
+      "gain": 0.018,
+      "source": "Original local cartoon synthesis",
+      "status": "final",
+      "listener": "Stylized medium/close perspective; not a field recording or physical sound simulation"
+    },
+    {
+      "time": 148.6032,
+      "duration": 0.1,
+      "kind": "foot_point_a",
+      "gain": 0.018,
+      "source": "Original local cartoon synthesis",
+      "status": "final",
+      "listener": "Stylized medium/close perspective; not a field recording or physical sound simulation"
+    },
+    {
+      "time": 149.1032,
+      "duration": 0.1,
+      "kind": "foot_point_b",
+      "gain": 0.018,
+      "source": "Original local cartoon synthesis",
+      "status": "final",
+      "listener": "Stylized medium/close perspective; not a field recording or physical sound simulation"
+    },
+    {
+      "time": 205.1962,
+      "duration": 0.1,
+      "kind": "mechanism_reveal",
+      "gain": 0.016,
+      "source": "Original local cartoon synthesis",
+      "status": "final",
+      "listener": "Stylized medium/close perspective; not a field recording or physical sound simulation"
+    },
+    {
+      "time": 206.1962,
+      "duration": 0.1,
+      "kind": "mechanism_reveal",
+      "gain": 0.016,
+      "source": "Original local cartoon synthesis",
+      "status": "final",
+      "listener": "Stylized medium/close perspective; not a field recording or physical sound simulation"
+    },
+    {
+      "time": 208.28619999999998,
+      "duration": 0.1,
+      "kind": "mechanism_reveal",
+      "gain": 0.016,
+      "source": "Original local cartoon synthesis",
+      "status": "final",
+      "listener": "Stylized medium/close perspective; not a field recording or physical sound simulation"
+    },
+    {
+      "time": 268.38989999999995,
+      "duration": 0.12,
+      "kind": "window_closed",
+      "gain": 0.018,
+      "source": "Original local cartoon synthesis",
+      "status": "final",
+      "listener": "Stylized medium/close perspective; not a field recording or physical sound simulation"
+    },
+    {
+      "time": 282.6924,
+      "duration": 1.2,
+      "kind": "thunder_air",
+      "gain": 0.06,
+      "source": "Original local cartoon synthesis",
+      "status": "final",
+      "listener": "Stylized medium/close perspective; not a field recording or physical sound simulation"
+    }
+  ],
+  "rights": "Original local synthetic music/ambience/Foley, existing generated Bolt, one new generated supporting cast atlas and original scenery/diagrams; DejaVu font/license included. No third-party footage/recording extracted."
+}

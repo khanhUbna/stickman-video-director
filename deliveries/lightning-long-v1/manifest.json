@@ -1,0 +1,90 @@
+{
+  "shots.json": {
+    "bytes": 6012,
+    "sha256": "bf8a3461756df09d13a08bbbffe1c46772ba174780ecbdebf7994582af3160b2"
+  },
+  "decoded-review.json": {
+    "bytes": 13626,
+    "sha256": "0a24dd0675937df020553d86f560dbc337ba711d90ef6088cb774c2061af6614"
+  },
+  "timeline.json": {
+    "bytes": 32392,
+    "sha256": "efb44a01bc464a1bfffe7fba90c3c59e06e79b77330fecfc14076ac638b51e89"
+  },
+  "QA.json": {
+    "bytes": 1705,
+    "sha256": "cc17078fc76336adc249500710a92c13caad2e1c73068bf6d6e70a7ca0c9e53a"
+  },
+  "upload-text.txt": {
+    "bytes": 985,
+    "sha256": "87062cbec3efccf9b7b6f3f262ef763a0c86c6ff35e28b40b6edf6a7ce51c293"
+  },
+  "script-vi.txt": {
+    "bytes": 7237,
+    "sha256": "16dd431a51aa1f3c6e35b0cf34a77db86a82f1580b37a731bf390d202c0e6b52"
+  },
+  "chapters.txt": {
+    "bytes": 129,
+    "sha256": "25ea7f54102386e6af2841668dd6f3576d7f553f0aad66aae094175331a7d6f2"
+  },
+  "supporting-binding-checks.json": {
+    "bytes": 1202,
+    "sha256": "df6fd604ff5393f418b5cda920f57b57679a2dbbabf7333771289a622980fe6a"
+  },
+  "decoded-review-3.jpg": {
+    "bytes": 397660,
+    "sha256": "9d387a494b964177d033bc41ce44c43fc74dac984cf0babdc2f1b1c11c23a608"
+  },
+  "decoded-review-2.jpg": {
+    "bytes": 417279,
+    "sha256": "f0bd028903f936becf978a36858b17bfaef0d308ee618c4cfceec2b8b1053981"
+  },
+  "lightning-hits-the-ground-then-what.mp4": {
+    "bytes": 15990925,
+    "sha256": "97d988ade36bc92eebd6ccac410d719377df00016b6c5b7cba220db66a299332"
+  },
+  "voice-presence-checks.json": {
+    "bytes": 7987,
+    "sha256": "19d90fbe1d80c9c2514ddb096517e89882eda2c05c715f8db862fcde0088aaa0"
+  },
+  "script-en.txt": {
+    "bytes": 5845,
+    "sha256": "3387374f04c457df318b69b9f9b1f57c38fbc22d844d8e6ce92b80ce55dfd6ef"
+  },
+  "science-notes.md": {
+    "bytes": 3337,
+    "sha256": "f1369a87b8958f5a5c6a71cc91aaa1a60d11988f035f6efc195eace6b2fa75de"
+  },
+  "README.md": {
+    "bytes": 6847,
+    "sha256": "1e9313494eb14c9468b48df8a52cf38e8edaffdad254dbf98132b839390bf2a9"
+  },
+  "decoded-review-4.jpg": {
+    "bytes": 415563,
+    "sha256": "d857093de7b65c3521cc75d28857bbe8bb37db8b67ead819c874fb137520eb99"
+  },
+  "captions-vi.srt": {
+    "bytes": 8388,
+    "sha256": "694add82699336df0df0aed795055a9c0d664c7755206bc5cc1d057de13eb4cb"
+  },
+  "cover.jpg": {
+    "bytes": 126723,
+    "sha256": "194796a00eb20b199f899c92b7e2d1543bfcd8f9dbf8432fe357535c2c73b80e"
+  },
+  "source.zip": {
+    "bytes": 42563068,
+    "sha256": "ce71f7a211d09eecc2e796e3c448b49c5ec6ce3a2489f3c3966433757fc019b0"
+  },
+  "captions-en.srt": {
+    "bytes": 10756,
+    "sha256": "6f2cbdec353ee2241d4da07aad920c17baac249cf27111f11c5d9ac9f1c320e2"
+  },
+  "decoded-review-1.jpg": {
+    "bytes": 391207,
+    "sha256": "bd7ac62e494d4ab843bf9d5fe85242c362561e9ada7159ea8136815d4bcbfdda"
+  },
+  "sound-rights.json": {
+    "bytes": 16444,
+    "sha256": "a4049277acf40be1d6c6eb310de7d401bd85fdf9cb5f35d37fb6e608262f8f6a"
+  }
+}

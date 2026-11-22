@@ -1,0 +1,331 @@
+[
+  {
+    "scene": "opening",
+    "chapter": "THE MYSTERY",
+    "start": 0.12,
+    "end": 12.5775,
+    "cue": 1
+  },
+  {
+    "scene": "bolt_boast",
+    "chapter": "THE MYSTERY",
+    "start": 12.5775,
+    "end": 14.7947,
+    "cue": 2
+  },
+  {
+    "scene": "ground_reply",
+    "chapter": "THE MYSTERY",
+    "start": 14.7947,
+    "end": 17.0119,
+    "cue": 3
+  },
+  {
+    "scene": "cutaway",
+    "chapter": "THE MYSTERY",
+    "start": 17.0119,
+    "end": 20.8444,
+    "cue": 8
+  },
+  {
+    "scene": "air_channel",
+    "chapter": "THE MYSTERY",
+    "start": 20.8444,
+    "end": 33.2644,
+    "cue": 4
+  },
+  {
+    "scene": "bolt_not_storage",
+    "chapter": "THE MYSTERY",
+    "start": 33.2644,
+    "end": 35.4816,
+    "cue": 5
+  },
+  {
+    "scene": "ground_reply",
+    "chapter": "THE MYSTERY",
+    "start": 35.4816,
+    "end": 36.6266,
+    "cue": 6
+  },
+  {
+    "scene": "pulse_clock",
+    "chapter": "THE MYSTERY",
+    "start": 36.6266,
+    "end": 49.9966,
+    "cue": 7
+  },
+  {
+    "scene": "branches",
+    "chapter": "BENEATH THE GRASS",
+    "start": 49.9966,
+    "end": 63.5541,
+    "cue": 9
+  },
+  {
+    "scene": "earth_core",
+    "chapter": "BENEATH THE GRASS",
+    "start": 63.5541,
+    "end": 66.8116,
+    "cue": 10
+  },
+  {
+    "scene": "soil_layers",
+    "chapter": "BENEATH THE GRASS",
+    "start": 66.8116,
+    "end": 69.3567,
+    "cue": 11
+  },
+  {
+    "scene": "conductivity",
+    "chapter": "BENEATH THE GRASS",
+    "start": 69.3567,
+    "end": 83.9642,
+    "cue": 12
+  },
+  {
+    "scene": "energy",
+    "chapter": "BENEATH THE GRASS",
+    "start": 83.9642,
+    "end": 98.4467,
+    "cue": 14
+  },
+  {
+    "scene": "sand_intro",
+    "chapter": "SAND TO GLASS",
+    "start": 98.4467,
+    "end": 100.6639,
+    "cue": 15
+  },
+  {
+    "scene": "sand_character",
+    "chapter": "SAND TO GLASS",
+    "start": 100.6639,
+    "end": 102.5532,
+    "cue": 16
+  },
+  {
+    "scene": "fuse",
+    "chapter": "SAND TO GLASS",
+    "start": 102.5532,
+    "end": 117.3857,
+    "cue": 17
+  },
+  {
+    "scene": "fulgurite",
+    "chapter": "SAND TO GLASS",
+    "start": 117.3857,
+    "end": 131.4682,
+    "cue": 18
+  },
+  {
+    "scene": "glass_fragile",
+    "chapter": "SAND TO GLASS",
+    "start": 131.4682,
+    "end": 133.4257,
+    "cue": 19
+  },
+  {
+    "scene": "museum",
+    "chapter": "SAND TO GLASS",
+    "start": 133.4257,
+    "end": 145.9957,
+    "cue": 20
+  },
+  {
+    "scene": "feet_question",
+    "chapter": "TWO POINTS OF CONTACT",
+    "start": 145.9957,
+    "end": 148.0032,
+    "cue": 21
+  },
+  {
+    "scene": "two_feet",
+    "chapter": "TWO POINTS OF CONTACT",
+    "start": 148.0032,
+    "end": 149.9232,
+    "cue": 22
+  },
+  {
+    "scene": "step_body",
+    "chapter": "TWO POINTS OF CONTACT",
+    "start": 149.9232,
+    "end": 156.5182,
+    "cue": 23
+  },
+  {
+    "scene": "voltage_steps",
+    "chapter": "TWO POINTS OF CONTACT",
+    "start": 156.5182,
+    "end": 170.2632,
+    "cue": 24
+  },
+  {
+    "scene": "voltage_map",
+    "chapter": "TWO POINTS OF CONTACT",
+    "start": 170.2632,
+    "end": 184.4832,
+    "cue": 25
+  },
+  {
+    "scene": "cow_question",
+    "chapter": "TWO POINTS OF CONTACT",
+    "start": 184.4832,
+    "end": 187.3562,
+    "cue": 26
+  },
+  {
+    "scene": "cow_span",
+    "chapter": "TWO POINTS OF CONTACT",
+    "start": 187.3562,
+    "end": 200.1262,
+    "cue": 27
+  },
+  {
+    "scene": "cow_reply",
+    "chapter": "TWO POINTS OF CONTACT",
+    "start": 200.1262,
+    "end": 202.6462,
+    "cue": 28
+  },
+  {
+    "scene": "side_flash",
+    "chapter": "TWO POINTS OF CONTACT",
+    "start": 202.6462,
+    "end": 216.8162,
+    "cue": 29
+  },
+  {
+    "scene": "reaction",
+    "chapter": "TWO POINTS OF CONTACT",
+    "start": 216.8162,
+    "end": 218.5237,
+    "cue": 30
+  },
+  {
+    "scene": "car_arrival",
+    "chapter": "THE CAR QUESTION",
+    "start": 218.5237,
+    "end": 226.3147,
+    "cue": 31
+  },
+  {
+    "scene": "tires",
+    "chapter": "THE CAR QUESTION",
+    "start": 226.3147,
+    "end": 228.8598,
+    "cue": 32
+  },
+  {
+    "scene": "car_shell",
+    "chapter": "THE CAR QUESTION",
+    "start": 228.8598,
+    "end": 244.5423,
+    "cue": 33
+  },
+  {
+    "scene": "tire_joke",
+    "chapter": "THE CAR QUESTION",
+    "start": 244.5423,
+    "end": 246.7623,
+    "cue": 34
+  },
+  {
+    "scene": "car_face",
+    "chapter": "THE CAR QUESTION",
+    "start": 246.7623,
+    "end": 249.3074,
+    "cue": 35
+  },
+  {
+    "scene": "tire_gap",
+    "chapter": "THE CAR QUESTION",
+    "start": 249.3074,
+    "end": 260.7399,
+    "cue": 36
+  },
+  {
+    "scene": "vehicle_compare",
+    "chapter": "THE CAR QUESTION",
+    "start": 260.7399,
+    "end": 276.1724,
+    "cue": 37
+  },
+  {
+    "scene": "no_experiment",
+    "chapter": "THE CAR QUESTION",
+    "start": 276.1724,
+    "end": 278.4424,
+    "cue": 38
+  },
+  {
+    "scene": "thunder_air",
+    "chapter": "FINDING SHELTER",
+    "start": 278.4424,
+    "end": 291.6249,
+    "cue": 39
+  },
+  {
+    "scene": "air_joke",
+    "chapter": "FINDING SHELTER",
+    "start": 291.6249,
+    "end": 294.4979,
+    "cue": 40
+  },
+  {
+    "scene": "sound_wave",
+    "chapter": "FINDING SHELTER",
+    "start": 294.4979,
+    "end": 305.1804,
+    "cue": 41
+  },
+  {
+    "scene": "shelter",
+    "chapter": "FINDING SHELTER",
+    "start": 305.1804,
+    "end": 308.3879,
+    "cue": 42
+  },
+  {
+    "scene": "inside_house",
+    "chapter": "FINDING SHELTER",
+    "start": 308.3879,
+    "end": 321.0454,
+    "cue": 43
+  },
+  {
+    "scene": "wait",
+    "chapter": "FINDING SHELTER",
+    "start": 321.0454,
+    "end": 333.3779,
+    "cue": 44
+  },
+  {
+    "scene": "bad_shelters",
+    "chapter": "FINDING SHELTER",
+    "start": 333.3779,
+    "end": 344.2479,
+    "cue": 45
+  },
+  {
+    "scene": "ending_bolt",
+    "chapter": "FINDING SHELTER",
+    "start": 344.2479,
+    "end": 346.793,
+    "cue": 47
+  },
+  {
+    "scene": "ending_ground",
+    "chapter": "FINDING SHELTER",
+    "start": 346.793,
+    "end": 348.1255,
+    "cue": 48
+  },
+  {
+    "scene": "ending_narrator",
+    "chapter": "FINDING SHELTER",
+    "start": 348.1255,
+    "end": 351.5705,
+    "cue": 49
+  }
+]

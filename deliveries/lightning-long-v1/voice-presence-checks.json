@@ -1,0 +1,289 @@
+{
+  "all_spoken_blocks_present": true,
+  "segments": [
+    {
+      "cue": 1,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9934730186675657,
+      "dialogue_above_background_db": 28.06732940673828
+    },
+    {
+      "cue": 2,
+      "role": "BOLT",
+      "encoded_voice_correlation": 0.9870540854754077,
+      "dialogue_above_background_db": 34.90013122558594
+    },
+    {
+      "cue": 3,
+      "role": "GROUND",
+      "encoded_voice_correlation": 0.9886699172421882,
+      "dialogue_above_background_db": 34.2635498046875
+    },
+    {
+      "cue": 8,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9976010637429682,
+      "dialogue_above_background_db": 34.509422302246094
+    },
+    {
+      "cue": 4,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9960864006382304,
+      "dialogue_above_background_db": 32.39575958251953
+    },
+    {
+      "cue": 5,
+      "role": "BOLT",
+      "encoded_voice_correlation": 0.9915183383920931,
+      "dialogue_above_background_db": 34.1077766418457
+    },
+    {
+      "cue": 6,
+      "role": "GROUND",
+      "encoded_voice_correlation": 0.9989984181199248,
+      "dialogue_above_background_db": 34.8773078918457
+    },
+    {
+      "cue": 7,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.992388782534926,
+      "dialogue_above_background_db": 31.889583587646484
+    },
+    {
+      "cue": 9,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9850794456247363,
+      "dialogue_above_background_db": 32.98169708251953
+    },
+    {
+      "cue": 10,
+      "role": "BOLT",
+      "encoded_voice_correlation": 0.9979420370246043,
+      "dialogue_above_background_db": 32.11406326293945
+    },
+    {
+      "cue": 11,
+      "role": "GROUND",
+      "encoded_voice_correlation": 0.9934919397837741,
+      "dialogue_above_background_db": 34.160648345947266
+    },
+    {
+      "cue": 12,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9958564590838151,
+      "dialogue_above_background_db": 32.647342681884766
+    },
+    {
+      "cue": 14,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9955628807115524,
+      "dialogue_above_background_db": 32.64570236206055
+    },
+    {
+      "cue": 15,
+      "role": "BOLT",
+      "encoded_voice_correlation": 0.987969131297859,
+      "dialogue_above_background_db": 37.236045837402344
+    },
+    {
+      "cue": 16,
+      "role": "SAND",
+      "encoded_voice_correlation": 0.9978596290931285,
+      "dialogue_above_background_db": 30.57260513305664
+    },
+    {
+      "cue": 17,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9951538068581576,
+      "dialogue_above_background_db": 33.25246047973633
+    },
+    {
+      "cue": 18,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9919338249572901,
+      "dialogue_above_background_db": 35.213829040527344
+    },
+    {
+      "cue": 19,
+      "role": "SAND",
+      "encoded_voice_correlation": 0.995944137594191,
+      "dialogue_above_background_db": 27.964462280273438
+    },
+    {
+      "cue": 20,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9955044717764657,
+      "dialogue_above_background_db": 34.483055114746094
+    },
+    {
+      "cue": 21,
+      "role": "BOLT",
+      "encoded_voice_correlation": 0.9794713912994957,
+      "dialogue_above_background_db": 36.342681884765625
+    },
+    {
+      "cue": 22,
+      "role": "GROUND",
+      "encoded_voice_correlation": 0.9773913296018092,
+      "dialogue_above_background_db": 33.811344146728516
+    },
+    {
+      "cue": 23,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9838046529454321,
+      "dialogue_above_background_db": 35.344993591308594
+    },
+    {
+      "cue": 24,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9928315291409672,
+      "dialogue_above_background_db": 34.420352935791016
+    },
+    {
+      "cue": 25,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9909242021881964,
+      "dialogue_above_background_db": 34.42497253417969
+    },
+    {
+      "cue": 26,
+      "role": "COW",
+      "encoded_voice_correlation": 0.9883688131304929,
+      "dialogue_above_background_db": 35.655399322509766
+    },
+    {
+      "cue": 27,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9931521365648527,
+      "dialogue_above_background_db": 33.60188674926758
+    },
+    {
+      "cue": 28,
+      "role": "COW",
+      "encoded_voice_correlation": 0.9959452586670934,
+      "dialogue_above_background_db": 35.098026275634766
+    },
+    {
+      "cue": 29,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9947360911044896,
+      "dialogue_above_background_db": 33.7586555480957
+    },
+    {
+      "cue": 30,
+      "role": "BOLT",
+      "encoded_voice_correlation": 0.9638794136237343,
+      "dialogue_above_background_db": 36.14265060424805
+    },
+    {
+      "cue": 31,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.991931029030891,
+      "dialogue_above_background_db": 31.311819076538086
+    },
+    {
+      "cue": 32,
+      "role": "CAR",
+      "encoded_voice_correlation": 0.9679734829857811,
+      "dialogue_above_background_db": 36.04353332519531
+    },
+    {
+      "cue": 33,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9939730236191036,
+      "dialogue_above_background_db": 34.59002685546875
+    },
+    {
+      "cue": 34,
+      "role": "BOLT",
+      "encoded_voice_correlation": 0.9685955974087997,
+      "dialogue_above_background_db": 36.24188995361328
+    },
+    {
+      "cue": 35,
+      "role": "CAR",
+      "encoded_voice_correlation": 0.9574311182160979,
+      "dialogue_above_background_db": 36.69464111328125
+    },
+    {
+      "cue": 36,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9924738570831456,
+      "dialogue_above_background_db": 34.95732498168945
+    },
+    {
+      "cue": 37,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.991869968615961,
+      "dialogue_above_background_db": 34.358699798583984
+    },
+    {
+      "cue": 38,
+      "role": "GROUND",
+      "encoded_voice_correlation": 0.9821765448035524,
+      "dialogue_above_background_db": 37.380191802978516
+    },
+    {
+      "cue": 39,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9909105589994873,
+      "dialogue_above_background_db": 32.950965881347656
+    },
+    {
+      "cue": 40,
+      "role": "BOLT",
+      "encoded_voice_correlation": 0.9973286620113071,
+      "dialogue_above_background_db": 37.50720977783203
+    },
+    {
+      "cue": 41,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9896391881391482,
+      "dialogue_above_background_db": 37.421058654785156
+    },
+    {
+      "cue": 42,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9990600668488165,
+      "dialogue_above_background_db": 37.72930908203125
+    },
+    {
+      "cue": 43,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9979608364717466,
+      "dialogue_above_background_db": 36.519771575927734
+    },
+    {
+      "cue": 44,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9953141378185315,
+      "dialogue_above_background_db": 36.71320724487305
+    },
+    {
+      "cue": 45,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.9951488670492152,
+      "dialogue_above_background_db": 37.31915283203125
+    },
+    {
+      "cue": 47,
+      "role": "BOLT",
+      "encoded_voice_correlation": 0.982664102751326,
+      "dialogue_above_background_db": 43.03865432739258
+    },
+    {
+      "cue": 48,
+      "role": "GROUND",
+      "encoded_voice_correlation": 0.9835377423942285,
+      "dialogue_above_background_db": 43.48695373535156
+    },
+    {
+      "cue": 49,
+      "role": "NARRATOR",
+      "encoded_voice_correlation": 0.991248124344206,
+      "dialogue_above_background_db": 43.76618957519531
+    }
+  ],
+  "minimum_correlation": 0.9574311182160979,
+  "qualification": "Signal presence/mix measurements, not independent listening or intelligibility approval"
+}

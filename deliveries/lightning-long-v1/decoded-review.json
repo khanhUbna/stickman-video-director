@@ -1,0 +1,717 @@
+{
+  "sha256": "97d988ade36bc92eebd6ccac410d719377df00016b6c5b7cba220db66a299332",
+  "decoded_samples": [
+    {
+      "cue": 1,
+      "scene": "opening",
+      "time": 2.36235
+    },
+    {
+      "cue": 2,
+      "scene": "bolt_boast",
+      "time": 12.976596
+    },
+    {
+      "cue": 3,
+      "scene": "ground_reply",
+      "time": 15.193796
+    },
+    {
+      "cue": 8,
+      "scene": "cutaway",
+      "time": 17.70175
+    },
+    {
+      "cue": 4,
+      "scene": "air_channel",
+      "time": 23.080000000000002
+    },
+    {
+      "cue": 5,
+      "scene": "bolt_not_storage",
+      "time": 33.663496
+    },
+    {
+      "cue": 6,
+      "scene": "ground_reply",
+      "time": 35.6877
+    },
+    {
+      "cue": 7,
+      "scene": "pulse_clock",
+      "time": 39.0332
+    },
+    {
+      "cue": 9,
+      "scene": "branches",
+      "time": 52.43695
+    },
+    {
+      "cue": 10,
+      "scene": "earth_core",
+      "time": 64.14045
+    },
+    {
+      "cue": 11,
+      "scene": "soil_layers",
+      "time": 67.269718
+    },
+    {
+      "cue": 12,
+      "scene": "conductivity",
+      "time": 71.98605
+    },
+    {
+      "cue": 14,
+      "scene": "energy",
+      "time": 86.57105
+    },
+    {
+      "cue": 15,
+      "scene": "sand_intro",
+      "time": 98.845796
+    },
+    {
+      "cue": 16,
+      "scene": "sand_character",
+      "time": 101.003974
+    },
+    {
+      "cue": 17,
+      "scene": "fuse",
+      "time": 105.22305
+    },
+    {
+      "cue": 18,
+      "scene": "fulgurite",
+      "time": 119.92055
+    },
+    {
+      "cue": 19,
+      "scene": "glass_fragile",
+      "time": 131.82055
+    },
+    {
+      "cue": 20,
+      "scene": "museum",
+      "time": 135.6883
+    },
+    {
+      "cue": 21,
+      "scene": "feet_question",
+      "time": 146.35705
+    },
+    {
+      "cue": 22,
+      "scene": "two_feet",
+      "time": 148.34879999999998
+    },
+    {
+      "cue": 23,
+      "scene": "step_body",
+      "time": 151.1103
+    },
+    {
+      "cue": 24,
+      "scene": "voltage_steps",
+      "time": 158.9923
+    },
+    {
+      "cue": 25,
+      "scene": "voltage_map",
+      "time": 172.8228
+    },
+    {
+      "cue": 26,
+      "scene": "cow_question",
+      "time": 185.00034000000002
+    },
+    {
+      "cue": 27,
+      "scene": "cow_span",
+      "time": 189.6548
+    },
+    {
+      "cue": 28,
+      "scene": "cow_reply",
+      "time": 200.5798
+    },
+    {
+      "cue": 29,
+      "scene": "side_flash",
+      "time": 205.1968
+    },
+    {
+      "cue": 30,
+      "scene": "reaction",
+      "time": 217.12355
+    },
+    {
+      "cue": 31,
+      "scene": "car_arrival",
+      "time": 219.92607999999998
+    },
+    {
+      "cue": 32,
+      "scene": "tires",
+      "time": 226.772818
+    },
+    {
+      "cue": 33,
+      "scene": "car_shell",
+      "time": 231.68265
+    },
+    {
+      "cue": 34,
+      "scene": "tire_joke",
+      "time": 244.9419
+    },
+    {
+      "cue": 35,
+      "scene": "car_face",
+      "time": 247.220418
+    },
+    {
+      "cue": 36,
+      "scene": "tire_gap",
+      "time": 251.36525
+    },
+    {
+      "cue": 37,
+      "scene": "vehicle_compare",
+      "time": 263.51775
+    },
+    {
+      "cue": 38,
+      "scene": "no_experiment",
+      "time": 276.581
+    },
+    {
+      "cue": 39,
+      "scene": "thunder_air",
+      "time": 280.81525000000005
+    },
+    {
+      "cue": 40,
+      "scene": "air_joke",
+      "time": 292.14204
+    },
+    {
+      "cue": 41,
+      "scene": "sound_wave",
+      "time": 296.42075
+    },
+    {
+      "cue": 42,
+      "scene": "shelter",
+      "time": 305.75775000000004
+    },
+    {
+      "cue": 43,
+      "scene": "inside_house",
+      "time": 310.66625
+    },
+    {
+      "cue": 44,
+      "scene": "wait",
+      "time": 323.26525
+    },
+    {
+      "cue": 45,
+      "scene": "bad_shelters",
+      "time": 335.3345
+    },
+    {
+      "cue": 47,
+      "scene": "ending_bolt",
+      "time": 344.70601800000003
+    },
+    {
+      "cue": 48,
+      "scene": "ending_ground",
+      "time": 347.03285
+    },
+    {
+      "cue": 49,
+      "scene": "ending_narrator",
+      "time": 348.74559999999997
+    },
+    {
+      "cue": 1,
+      "scene": "opening",
+      "time": 9.83685
+    },
+    {
+      "cue": 2,
+      "scene": "bolt_boast",
+      "time": 14.306916000000001
+    },
+    {
+      "cue": 3,
+      "scene": "ground_reply",
+      "time": 16.524116
+    },
+    {
+      "cue": 8,
+      "scene": "cutaway",
+      "time": 20.00125
+    },
+    {
+      "cue": 4,
+      "scene": "air_channel",
+      "time": 30.532000000000004
+    },
+    {
+      "cue": 5,
+      "scene": "bolt_not_storage",
+      "time": 34.993816
+    },
+    {
+      "cue": 6,
+      "scene": "ground_reply",
+      "time": 36.374700000000004
+    },
+    {
+      "cue": 7,
+      "scene": "pulse_clock",
+      "time": 47.0552
+    },
+    {
+      "cue": 9,
+      "scene": "branches",
+      "time": 60.57145
+    },
+    {
+      "cue": 10,
+      "scene": "earth_core",
+      "time": 66.09495
+    },
+    {
+      "cue": 11,
+      "scene": "soil_layers",
+      "time": 68.796778
+    },
+    {
+      "cue": 12,
+      "scene": "conductivity",
+      "time": 80.75055
+    },
+    {
+      "cue": 14,
+      "scene": "energy",
+      "time": 95.26055000000001
+    },
+    {
+      "cue": 15,
+      "scene": "sand_intro",
+      "time": 100.176116
+    },
+    {
+      "cue": 16,
+      "scene": "sand_character",
+      "time": 102.13755400000001
+    },
+    {
+      "cue": 17,
+      "scene": "fuse",
+      "time": 114.12255
+    },
+    {
+      "cue": 18,
+      "scene": "fulgurite",
+      "time": 128.37005
+    },
+    {
+      "cue": 19,
+      "scene": "glass_fragile",
+      "time": 132.99505
+    },
+    {
+      "cue": 20,
+      "scene": "museum",
+      "time": 143.2303
+    },
+    {
+      "cue": 21,
+      "scene": "feet_question",
+      "time": 147.56154999999998
+    },
+    {
+      "cue": 22,
+      "scene": "two_feet",
+      "time": 149.5008
+    },
+    {
+      "cue": 23,
+      "scene": "step_body",
+      "time": 155.06730000000002
+    },
+    {
+      "cue": 24,
+      "scene": "voltage_steps",
+      "time": 167.23930000000001
+    },
+    {
+      "cue": 25,
+      "scene": "voltage_map",
+      "time": 181.3548
+    },
+    {
+      "cue": 26,
+      "scene": "cow_question",
+      "time": 186.72414
+    },
+    {
+      "cue": 27,
+      "scene": "cow_span",
+      "time": 197.3168
+    },
+    {
+      "cue": 28,
+      "scene": "cow_reply",
+      "time": 202.0918
+    },
+    {
+      "cue": 29,
+      "scene": "side_flash",
+      "time": 213.6988
+    },
+    {
+      "cue": 30,
+      "scene": "reaction",
+      "time": 218.14804999999998
+    },
+    {
+      "cue": 31,
+      "scene": "car_arrival",
+      "time": 224.60067999999998
+    },
+    {
+      "cue": 32,
+      "scene": "tires",
+      "time": 228.299878
+    },
+    {
+      "cue": 33,
+      "scene": "car_shell",
+      "time": 241.09215
+    },
+    {
+      "cue": 34,
+      "scene": "tire_joke",
+      "time": 246.2739
+    },
+    {
+      "cue": 35,
+      "scene": "car_face",
+      "time": 248.747478
+    },
+    {
+      "cue": 36,
+      "scene": "tire_gap",
+      "time": 258.22475
+    },
+    {
+      "cue": 37,
+      "scene": "vehicle_compare",
+      "time": 272.77725
+    },
+    {
+      "cue": 38,
+      "scene": "no_experiment",
+      "time": 277.943
+    },
+    {
+      "cue": 39,
+      "scene": "thunder_air",
+      "time": 288.72475000000003
+    },
+    {
+      "cue": 40,
+      "scene": "air_joke",
+      "time": 293.86584
+    },
+    {
+      "cue": 41,
+      "scene": "sound_wave",
+      "time": 302.83025000000004
+    },
+    {
+      "cue": 42,
+      "scene": "shelter",
+      "time": 307.68225
+    },
+    {
+      "cue": 43,
+      "scene": "inside_house",
+      "time": 318.26075
+    },
+    {
+      "cue": 44,
+      "scene": "wait",
+      "time": 330.66475
+    },
+    {
+      "cue": 45,
+      "scene": "bad_shelters",
+      "time": 341.85650000000004
+    },
+    {
+      "cue": 47,
+      "scene": "ending_bolt",
+      "time": 346.23307800000003
+    },
+    {
+      "cue": 48,
+      "scene": "ending_ground",
+      "time": 347.83235
+    },
+    {
+      "cue": 49,
+      "scene": "ending_narrator",
+      "time": 350.8126
+    }
+  ],
+  "caption_text_coverage": "pass",
+  "caption_non_overlap": "pass",
+  "caption_single_line_width": "pass",
+  "cow_stance_max_world_foot_drift": 1.1368683772161603e-13,
+  "picture_samples": [
+    {
+      "cue": 1,
+      "scene": "opening",
+      "main_picture_difference": 10.286175881410257
+    },
+    {
+      "cue": 2,
+      "scene": "bolt_boast",
+      "main_picture_difference": 4.104205729166667
+    },
+    {
+      "cue": 3,
+      "scene": "ground_reply",
+      "main_picture_difference": 2.3323016826923078
+    },
+    {
+      "cue": 8,
+      "scene": "cutaway",
+      "main_picture_difference": 2.9816937099358976
+    },
+    {
+      "cue": 4,
+      "scene": "air_channel",
+      "main_picture_difference": 4.036363181089744
+    },
+    {
+      "cue": 5,
+      "scene": "bolt_not_storage",
+      "main_picture_difference": 3.4482572115384613
+    },
+    {
+      "cue": 6,
+      "scene": "ground_reply",
+      "main_picture_difference": 1.3674384014423078
+    },
+    {
+      "cue": 7,
+      "scene": "pulse_clock",
+      "main_picture_difference": 1.5534239783653847
+    },
+    {
+      "cue": 9,
+      "scene": "branches",
+      "main_picture_difference": 2.1513436498397436
+    },
+    {
+      "cue": 10,
+      "scene": "earth_core",
+      "main_picture_difference": 2.8585697115384616
+    },
+    {
+      "cue": 11,
+      "scene": "soil_layers",
+      "main_picture_difference": 2.0119406049679487
+    },
+    {
+      "cue": 12,
+      "scene": "conductivity",
+      "main_picture_difference": 1.3260571915064103
+    },
+    {
+      "cue": 14,
+      "scene": "energy",
+      "main_picture_difference": 3.551472355769231
+    },
+    {
+      "cue": 15,
+      "scene": "sand_intro",
+      "main_picture_difference": 4.498566706730769
+    },
+    {
+      "cue": 16,
+      "scene": "sand_character",
+      "main_picture_difference": 4.554657952724359
+    },
+    {
+      "cue": 17,
+      "scene": "fuse",
+      "main_picture_difference": 6.4313736979166665
+    },
+    {
+      "cue": 18,
+      "scene": "fulgurite",
+      "main_picture_difference": 2.749236278044872
+    },
+    {
+      "cue": 19,
+      "scene": "glass_fragile",
+      "main_picture_difference": 0.017663261217948718
+    },
+    {
+      "cue": 20,
+      "scene": "museum",
+      "main_picture_difference": 55.9192688301282
+    },
+    {
+      "cue": 21,
+      "scene": "feet_question",
+      "main_picture_difference": 1.613282251602564
+    },
+    {
+      "cue": 22,
+      "scene": "two_feet",
+      "main_picture_difference": 4.291232471955128
+    },
+    {
+      "cue": 23,
+      "scene": "step_body",
+      "main_picture_difference": 2.449901342147436
+    },
+    {
+      "cue": 24,
+      "scene": "voltage_steps",
+      "main_picture_difference": 2.3900726161858974
+    },
+    {
+      "cue": 25,
+      "scene": "voltage_map",
+      "main_picture_difference": 3.4802008213141025
+    },
+    {
+      "cue": 26,
+      "scene": "cow_question",
+      "main_picture_difference": 3.824296374198718
+    },
+    {
+      "cue": 27,
+      "scene": "cow_span",
+      "main_picture_difference": 7.976773838141026
+    },
+    {
+      "cue": 28,
+      "scene": "cow_reply",
+      "main_picture_difference": 6.317245592948718
+    },
+    {
+      "cue": 29,
+      "scene": "side_flash",
+      "main_picture_difference": 7.029972956730769
+    },
+    {
+      "cue": 30,
+      "scene": "reaction",
+      "main_picture_difference": 2.989336438301282
+    },
+    {
+      "cue": 31,
+      "scene": "car_arrival",
+      "main_picture_difference": 11.413855168269231
+    },
+    {
+      "cue": 32,
+      "scene": "tires",
+      "main_picture_difference": 2.327951221955128
+    },
+    {
+      "cue": 33,
+      "scene": "car_shell",
+      "main_picture_difference": 0.48863131009615385
+    },
+    {
+      "cue": 34,
+      "scene": "tire_joke",
+      "main_picture_difference": 0.46053735977564103
+    },
+    {
+      "cue": 35,
+      "scene": "car_face",
+      "main_picture_difference": 2.2333423477564103
+    },
+    {
+      "cue": 36,
+      "scene": "tire_gap",
+      "main_picture_difference": 1.6340369591346153
+    },
+    {
+      "cue": 37,
+      "scene": "vehicle_compare",
+      "main_picture_difference": 0.0862089342948718
+    },
+    {
+      "cue": 38,
+      "scene": "no_experiment",
+      "main_picture_difference": 1.7610942508012821
+    },
+    {
+      "cue": 39,
+      "scene": "thunder_air",
+      "main_picture_difference": 3.37119391025641
+    },
+    {
+      "cue": 40,
+      "scene": "air_joke",
+      "main_picture_difference": 2.6106595552884615
+    },
+    {
+      "cue": 41,
+      "scene": "sound_wave",
+      "main_picture_difference": 2.515743689903846
+    },
+    {
+      "cue": 42,
+      "scene": "shelter",
+      "main_picture_difference": 0.023891726762820514
+    },
+    {
+      "cue": 43,
+      "scene": "inside_house",
+      "main_picture_difference": 2.1124043469551284
+    },
+    {
+      "cue": 44,
+      "scene": "wait",
+      "main_picture_difference": 0.23077974759615386
+    },
+    {
+      "cue": 45,
+      "scene": "bad_shelters",
+      "main_picture_difference": 0.9049859775641026
+    },
+    {
+      "cue": 47,
+      "scene": "ending_bolt",
+      "main_picture_difference": 3.2525390625
+    },
+    {
+      "cue": 48,
+      "scene": "ending_ground",
+      "main_picture_difference": 2.0702038261217948
+    },
+    {
+      "cue": 49,
+      "scene": "ending_narrator",
+      "main_picture_difference": 0.003744991987179487
+    }
+  ],
+  "review_scope": "Author source and actual decoded before/after frames, speech-presence and stance checks; no independent creative or full real-time AV listening review claimed."
+}

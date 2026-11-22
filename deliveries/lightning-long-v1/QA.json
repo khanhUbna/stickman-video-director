@@ -1,0 +1,44 @@
+{
+  "title": "Lightning Hits the Ground. Then What?",
+  "duration": 351.6,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "fps": 30,
+  "frames": 10548,
+  "full_decode": "pass",
+  "audio_video_duration_match": "pass",
+  "active_spoken_blocks": 47,
+  "caption_cues": 156,
+  "caption_alignment": "Offline PocketSphinx acoustic forced alignment to saved native speech",
+  "new_tts_responses_saved": 41,
+  "reused_tts_responses": 8,
+  "estimated_new_tts_usd": 0.08202,
+  "billing_verified": false,
+  "new_image_calls": 1,
+  "image_billing": "Not exposed; supporting cast atlas only, prior Bolt reused",
+  "maximum_rig_bone_error": 2.2737367544323206e-13,
+  "loudness": {
+    "input_i": "-16.27",
+    "input_tp": "-3.99",
+    "input_lra": "3.90",
+    "input_thresh": "-27.16",
+    "output_i": "-16.11",
+    "output_tp": "-3.81",
+    "output_lra": "3.80",
+    "output_thresh": "-26.97",
+    "normalization_type": "dynamic",
+    "target_offset": "0.11"
+  },
+  "sha256": "97d988ade36bc92eebd6ccac410d719377df00016b6c5b7cba220db66a299332",
+  "bytes": 15990925,
+  "research_access": "Direct NWS/USGS reads denied by environment proxy; no claim of source retrieval. Script uses established conceptual mechanisms and standard shelter guidance.",
+  "science_scope": "Established conceptual lightning/ground-current/step-voltage/fulgurite/conducting-shell explanations. No numerical safe radius, no promise of zero risk. Diagram pulse times and shapes are schematic and slowed; voltage maps are illustrative.",
+  "review": {
+    "author": "Source and decoded MP4 frames, mechanism/contact and caption checks",
+    "independent": "not performed",
+    "real_time_AV_listening": "not performed"
+  },
+  "youtube_upload": false
+}
