@@ -1,0 +1,12 @@
+import {mkdir,writeFile} from 'node:fs/promises';
+import {fileURLToPath} from 'node:url';
+import path from 'node:path';
+import {runLocal} from '../../../scripts/hf.mjs';
+const root=path.resolve(fileURLToPath(new URL('../',import.meta.url)));
+const output=path.join(root,'output');await mkdir(output,{recursive:true});
+const start=Date.now();
+const args=['render',root,'--fps','12','--workers','1','--no-browser-gpu','--quality','delivery','--strict','--output',path.join(output,'base-12fps.mp4')];
+const env={PRODUCER_FORCE_SCREENSHOT:'true',PRODUCER_EXPERIMENTAL_FAST_CAPTURE:'false',HYPERFRAMES_CHROME_SANDBOX:'0'};
+const code=await runLocal(args,{env});
+await writeFile(path.join(output,'render-execution.json'),JSON.stringify({command:['hyperframes',...args],environment:env,exitCode:code,wallSeconds:(Date.now()-start)/1000,nativePixels:[1920,1080],captureFps:12,deliveryFps:30,paidApiCalls:0,localOnly:true},null,2)+'\n');
+process.exitCode=code;

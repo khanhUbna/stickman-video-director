@@ -1,0 +1,32 @@
+[
+  {
+    "id": "C1",
+    "paragraph": 9,
+    "claim": "Research has linked seeing leisure as wasted time with enjoying it less.",
+    "verdict": "SUPPORTED",
+    "source_ids": ["S1"],
+    "evidence_locator": "sources/leisure-institution.txt, Results showed paragraph, line 40",
+    "evidence_excerpt": "the more the participants believed leisure to be wasteful, the less they enjoyed leisure activities.",
+    "limitations": "Institutional communication, not a full-paper review. Association only; not a universal explanation or demonstrated cause of guilt."
+  },
+  {
+    "id": "C2",
+    "paragraph": 8,
+    "claim": "Conditioning self-regard on usefulness may make an unfinished task feel personal for this fictional protagonist.",
+    "verdict": "UNVERIFIED",
+    "source_ids": ["S2"],
+    "evidence_locator": "sources/self-worth-pubmed-xml.txt, abstract, line 8",
+    "evidence_excerpt": "self-esteem rises and falls around its typical level in response to successes and failures in domains on which one has staked self-worth.",
+    "limitations": "General theoretical model; the exact work/rest-guilt explanation is not established by the abstract. Narration retains Maybe and If, within an explicit fictional frame."
+  },
+  {
+    "id": "C3",
+    "paragraph": 11,
+    "claim": "The fictional character writes a reminder before closing the laptop; no emotional-efficacy claim is made.",
+    "verdict": "UNVERIFIED",
+    "source_ids": ["S3"],
+    "evidence_locator": "sources/planning-pubmed-xml.txt, abstract, line 9",
+    "evidence_excerpt": "Allowing participants to formulate specific plans for their unfulfilled goals eliminated the various activation and interference effects.",
+    "limitations": "Context only. This abstract concerns measured cognitive effects, not proof that a reminder relieves guilt. The script depicts an action, not a treatment result."
+  }
+]

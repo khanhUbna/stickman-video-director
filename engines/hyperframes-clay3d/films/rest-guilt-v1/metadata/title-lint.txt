@@ -1,0 +1,60 @@
+
+  "Why You Feel Guilty When You Rest"
+  33 chars   score 94/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              33 characters, inside the 60-character desktop cut
+    ok              thumbnail and title carry different words
+
+  "Why You Pretend to Be Busy"
+  26 chars   score 94/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              26 characters, inside the 60-character desktop cut
+    ok              thumbnail and title carry different words
+
+  "You Finally Rest. Then the Guilt Starts."
+  40 chars   score 94/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              40 characters, inside the 60-character desktop cut
+    ok              thumbnail and title carry different words
+
+  "Why You Keep Trying to Earn a Break"
+  35 chars   score 94/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              35 characters, inside the 60-character desktop cut
+    ok              thumbnail and title carry different words
+
+  "Why Doing Nothing Feels Wrong"
+  29 chars   score 94/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              29 characters, inside the 60-character desktop cut
+    ok              thumbnail and title carry different words
+
+  "The Break You Never Actually Took"
+  33 chars   score 94/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              33 characters, inside the 60-character desktop cut
+    ok              thumbnail and title carry different words
+
+  "Why You Can’t Relax at Home"
+  27 chars   score 94/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              27 characters, inside the 60-character desktop cut
+    ok              thumbnail and title carry different words
+
+  "Why You Hide the Fact You’re Resting"
+  36 chars   score 94/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              36 characters, inside the 60-character desktop cut
+    ok              thumbnail and title carry different words
+
+  "Why One Email Ruins Your Evening"
+  32 chars   score 94/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              32 characters, inside the 60-character desktop cut
+    ok              thumbnail and title carry different words
+
+  "Why Rest Feels Like Getting Caught"
+  34 chars   score 76/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    x  duplicate    thumbnail repeats the title on caught - the thumbnail should say what the title does not
+    ok              34 characters, inside the 60-character desktop cut

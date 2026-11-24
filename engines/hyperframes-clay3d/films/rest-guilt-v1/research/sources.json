@@ -1,0 +1,53 @@
+[
+  {
+    "id": "S1",
+    "title": "Think leisure is a waste? That may not bode well for your mental health",
+    "authors": [
+      "Jeff Grabmeier"
+    ],
+    "year": 2021,
+    "url": "https://news.osu.edu/think-leisure-is-a-waste-that-may-not-bode-well-for-your-mental-health/",
+    "kind": "university research communication",
+    "access_status": "read",
+    "sections_read": [
+      "Article body, local text lines30–58; leisure/enjoyment association lines38–42"
+    ],
+    "limitations": "University summary read in full; linked journal full paper not accessed. Do not infer causation for mental-health correlations or a universal cause of guilt."
+  },
+  {
+    "id": "S2",
+    "title": "Contingencies of self-worth",
+    "authors": [
+      "J. Crocker",
+      "C. T. Wolfe"
+    ],
+    "year": 2001,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11488379/",
+    "retrieved_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=11488379&retmode=xml",
+    "doi": "10.1037/0033-295X.108.3.593",
+    "kind": "theoretical review, bibliographic record and abstract",
+    "access_status": "read",
+    "sections_read": [
+      "PubMed record and full abstract, local extracted text lines1–13"
+    ],
+    "limitations": "Abstract-level reading only. Supports a general model of contingent self-worth; does not establish a chores/rest-guilt causal pathway or a diagnosis."
+  },
+  {
+    "id": "S3",
+    "title": "Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals",
+    "authors": [
+      "E. J. Masicampo",
+      "Roy F. Baumeister"
+    ],
+    "year": 2011,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21688924/",
+    "retrieved_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21688924&retmode=xml",
+    "doi": "10.1037/a0024192",
+    "kind": "primary experimental research, bibliographic record and abstract",
+    "access_status": "read",
+    "sections_read": [
+      "PubMed record and full abstract, local extracted text lines1–12"
+    ],
+    "limitations": "Abstract-level reading. Experimental cognitive activation/interference findings; no demonstrated cure for guilt or anxiety is claimed."
+  }
+]

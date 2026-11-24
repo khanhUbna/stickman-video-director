@@ -1,0 +1,122 @@
+{
+  "script_sha256": "30f4fbc4dc8da1f6d4c4b99e42882a7da065e15018f4edd21e7b66a7196fa27d",
+  "word_count": 637,
+  "provider": "Kokoro ONNX, local CPU",
+  "voice": "am_michael",
+  "native_synthesis_speed": 0.86,
+  "sample_rate": 24000,
+  "duration": 277.0353333333333,
+  "paragraphs": [
+    {
+      "id": 1,
+      "start": 0.25,
+      "end": 15.162,
+      "text": "Why does resting in your own home feel like getting caught? Picture this. You hear keys at the front door. A second ago, you were watching a movie. Now you're washing a plate. The plate was already clean.",
+      "audio": ".cache/paragraph-01-am_michael-0.86.wav"
+    },
+    {
+      "id": 2,
+      "start": 15.862,
+      "end": 33.824667,
+      "text": "An hour earlier, this evening looked different. Dinner was done. The urgent stuff was handled. You texted a friend: finally, movie time. You made a snack, found the remote, and gave yourself twenty minutes. Then you noticed your laptop was still open.",
+      "audio": ".cache/paragraph-02-am_michael-0.86.wav"
+    },
+    {
+      "id": 3,
+      "start": 34.244667,
+      "end": 49.711333,
+      "text": "One unanswered email. It could wait until tomorrow. You knew that. But answering it would take two minutes. Then you could relax without it hanging over you. You put the snack down, crossed the room, and pulled the chair out.",
+      "audio": ".cache/paragraph-03-am_michael-0.86.wav"
+    },
+    {
+      "id": 4,
+      "start": 50.131333,
+      "end": 69.416667,
+      "text": "You sent the reply. Another message arrived. Apparently your inbox had learned to reproduce. You opened that one too. Now you needed a document. The document needed a correction. Your movie was still waiting for you to press play. The snack was getting cold.",
+      "audio": ".cache/paragraph-04-am_michael-0.86.wav"
+    },
+    {
+      "id": 5,
+      "start": 69.836667,
+      "end": 87.479333,
+      "text": "Your phone rang. The timer. Twenty minutes were up. You had successfully completed your break without experiencing any of it. You silenced the alarm and reached for the laptop again. Just finish this. Then you could finally stop thinking about work.",
+      "audio": ".cache/paragraph-05-am_michael-0.86.wav"
+    },
+    {
+      "id": 6,
+      "start": 88.179333,
+      "end": 106.824667,
+      "text": "Then your friend texted. They'd spent the afternoon lying around and felt terrible about it. Your reply came easily: you were exhausted. You needed a break. You hit send. A moment later, they asked: how's the movie? You looked at the untouched remote.",
+      "audio": ".cache/paragraph-06-am_michael-0.86.wav"
+    },
+    {
+      "id": 7,
+      "start": 107.244667,
+      "end": 125.164667,
+      "text": "You started typing: haven't earned it yet. Then stopped. You wouldn't actually send that. It sounded ridiculous. But looking at your evening, wasn't that the rule you were following? Your friend could rest because they were tired. You needed evidence that you'd done enough.",
+      "audio": ".cache/paragraph-07-am_michael-0.86.wav"
+    },
+    {
+      "id": 8,
+      "start": 125.864667,
+      "end": 144.531333,
+      "text": "Maybe that's part of what makes rest uncomfortable. If being useful has become a condition for feeling okay about yourself, an unfinished task can feel personal. The document can wait until morning. But can you feel okay about yourself while it waits?",
+      "audio": ".cache/paragraph-08-am_michael-0.86.wav"
+    },
+    {
+      "id": 9,
+      "start": 144.951333,
+      "end": 165.964667,
+      "text": "Research has linked seeing leisure as wasted time with enjoying it less. That doesn't explain everyone's guilt. In this story, though, every attempt to relax comes with an inspection: have I justified this yet? Imagine watching a movie while somebody keeps asking for your receipt.",
+      "audio": ".cache/paragraph-09-am_michael-0.86.wav"
+    },
+    {
+      "id": 10,
+      "start": 166.384667,
+      "end": 187.568667,
+      "text": "Sometimes the pressure comes from outside. A boss expects evening replies. Housework isn't shared fairly. Someone depends on you. Those situations may need practical help or boundaries. But tonight, the urgent work is done. Nobody has asked you to open that laptop again.",
+      "audio": ".cache/paragraph-10-am_michael-0.86.wav"
+    },
+    {
+      "id": 11,
+      "start": 187.988667,
+      "end": 205.652667,
+      "text": "You look at the document. One correction can wait. You write yourself a note: fix this tomorrow after breakfast. Then you close the laptop. You take the snack back to the couch. This time, you press play before finding another reason to leave.",
+      "audio": ".cache/paragraph-11-am_michael-0.86.wav"
+    },
+    {
+      "id": 12,
+      "start": 206.072667,
+      "end": 223.054,
+      "text": "And right then, keys turn in the door. Your shoulders tighten. The familiar thought arrives: look busy. You hurry to the sink and grab a plate from the drying rack. Under the running water, you notice it. This plate was already clean.",
+      "audio": ".cache/paragraph-12-am_michael-0.86.wav"
+    },
+    {
+      "id": 13,
+      "start": 223.754,
+      "end": 240.948667,
+      "text": "Your roommate walks in. Hey. How was your night? You almost say you were just cleaning up. Instead, you turn off the faucet. Set the plate down. Your mouth starts forming an explanation. You let that go too. I was watching a movie.",
+      "audio": ".cache/paragraph-13-am_michael-0.86.wav"
+    },
+    {
+      "id": 14,
+      "start": 241.648667,
+      "end": 257.179333,
+      "text": "Any good? You shake your head. You don't know yet. You've barely started. You sit back down. Your roommate takes a piece of your snack and heads down the hall. That's it. No inspection. You pick up the remote and find your place.",
+      "audio": ".cache/paragraph-14-am_michael-0.86.wav"
+    },
+    {
+      "id": 15,
+      "start": 257.599333,
+      "end": 274.815333,
+      "text": "The guilt hasn't magically disappeared. Neither has tomorrow's work. But this time, you stay for the next scene. Then the next. You let the movie hold your attention. And you let someone see you resting, without trying to make it look like something else.",
+      "audio": ".cache/paragraph-15-am_michael-0.86.wav"
+    }
+  ],
+  "paid_api_calls": 0,
+  "model_license": "Apache-2.0",
+  "model_card": "https://huggingface.co/hexgrad/Kokoro-82M",
+  "model_sha256": "7d5df8ecf7d4b1878015a32686053fd0eebe2bc377234608764cc0ef3636a6c5",
+  "voices_sha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+  "telemetry_disabled": true
+}

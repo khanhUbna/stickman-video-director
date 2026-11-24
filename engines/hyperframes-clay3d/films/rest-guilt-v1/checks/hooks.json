@@ -1,0 +1,67 @@
+[
+ {
+  "hook": "Your break is over, but you never actually rested. How did twenty minutes disappear while you were trying to earn them?",
+  "properties": {
+   "SPECIFICITY": 57,
+   "ADDRESS": 100,
+   "STAKES": 62,
+   "CURIOSITY": 93,
+   "BREVITY": 100
+  },
+  "verdict": 72,
+  "band": "STRONG",
+  "formula": "The Question"
+ },
+ {
+  "hook": "You finally have twenty minutes to rest. Then you hear keys at the door. Why does your first instinct tell you to look busy?",
+  "properties": {
+   "SPECIFICITY": 68,
+   "ADDRESS": 100,
+   "STAKES": 36,
+   "CURIOSITY": 59,
+   "BREVITY": 100
+  },
+  "verdict": 58,
+  "band": "WORKABLE",
+  "formula": "The Question"
+ },
+ {
+  "hook": "You just told a friend they deserve a break. Why are you still trying to earn yours?",
+  "properties": {
+   "SPECIFICITY": 35,
+   "ADDRESS": 96,
+   "STAKES": 22,
+   "CURIOSITY": 59,
+   "BREVITY": 100
+  },
+  "verdict": 46,
+  "band": "WEAK",
+  "formula": "The Question"
+ },
+ {
+  "hook": "You're washing a clean plate because somebody just came home. What are you trying to prove?",
+  "properties": {
+   "SPECIFICITY": 35,
+   "ADDRESS": 96,
+   "STAKES": 22,
+   "CURIOSITY": 41,
+   "BREVITY": 100
+  },
+  "verdict": 44,
+  "band": "WEAK",
+  "formula": "The Question"
+ },
+ {
+  "hook": "Why does resting in your own home feel like getting caught? Picture this. You hear keys at the front door, and suddenly you're washing a plate that was already clean.",
+  "properties": {
+   "SPECIFICITY": 41,
+   "ADDRESS": 100,
+   "STAKES": 22,
+   "CURIOSITY": 41,
+   "BREVITY": 58
+  },
+  "verdict": 40,
+  "band": "WEAK",
+  "formula": "The Question"
+ }
+]

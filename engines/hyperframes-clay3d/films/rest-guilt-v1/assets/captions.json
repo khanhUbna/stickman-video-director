@@ -1,0 +1,782 @@
+[
+  {
+    "start": 0.25,
+    "end": 2.16,
+    "text": "Why does resting in your own home",
+    "id": 1
+  },
+  {
+    "start": 2.17,
+    "end": 3.74,
+    "text": "feel like getting caught?",
+    "id": 2
+  },
+  {
+    "start": 3.75,
+    "end": 6.8,
+    "text": "Picture this. You hear keys at the",
+    "id": 3
+  },
+  {
+    "start": 6.81,
+    "end": 9.3,
+    "text": "front door. A second ago, you were",
+    "id": 4
+  },
+  {
+    "start": 9.31,
+    "end": 10.36,
+    "text": "watching a movie.",
+    "id": 5
+  },
+  {
+    "start": 10.37,
+    "end": 12.44,
+    "text": "Now you're washing a plate.",
+    "id": 6
+  },
+  {
+    "start": 12.45,
+    "end": 14.729999999999999,
+    "text": "The plate was already clean.",
+    "id": 7
+  },
+  {
+    "start": 15.862,
+    "end": 18.542,
+    "text": "An hour earlier, this evening looked different.",
+    "id": 8
+  },
+  {
+    "start": 19.042,
+    "end": 20.042,
+    "text": "Dinner was done.",
+    "id": 9
+  },
+  {
+    "start": 20.742,
+    "end": 22.342000000000002,
+    "text": "The urgent stuff was handled.",
+    "id": 10
+  },
+  {
+    "start": 23.042,
+    "end": 25.902,
+    "text": "You texted a friend: finally, movie time.",
+    "id": 11
+  },
+  {
+    "start": 26.522,
+    "end": 28.602,
+    "text": "You made a snack, found the remote,",
+    "id": 12
+  },
+  {
+    "start": 28.802,
+    "end": 30.402,
+    "text": "and gave yourself twenty minutes.",
+    "id": 13
+  },
+  {
+    "start": 31.142,
+    "end": 33.052,
+    "text": "Then you noticed your laptop was still",
+    "id": 14
+  },
+  {
+    "start": 33.062,
+    "end": 33.582,
+    "text": "open.",
+    "id": 15
+  },
+  {
+    "start": 34.244667,
+    "end": 35.844666999999994,
+    "text": "One unanswered email.",
+    "id": 16
+  },
+  {
+    "start": 36.564667,
+    "end": 38.164666999999994,
+    "text": "It could wait until tomorrow.",
+    "id": 17
+  },
+  {
+    "start": 38.704667,
+    "end": 39.324667,
+    "text": "You knew that.",
+    "id": 18
+  },
+  {
+    "start": 39.884667,
+    "end": 41.844666999999994,
+    "text": "But answering it would take two minutes.",
+    "id": 19
+  },
+  {
+    "start": 42.644667,
+    "end": 44.434667,
+    "text": "Then you could relax without it hanging",
+    "id": 20
+  },
+  {
+    "start": 44.444666999999995,
+    "end": 47.06466699999999,
+    "text": "over you. You put the snack down,",
+    "id": 21
+  },
+  {
+    "start": 47.264667,
+    "end": 49.074667,
+    "text": "crossed the room, and pulled the chair",
+    "id": 22
+  },
+  {
+    "start": 49.084666999999996,
+    "end": 49.544667,
+    "text": "out.",
+    "id": 23
+  },
+  {
+    "start": 50.131333,
+    "end": 51.19133299999999,
+    "text": "You sent the reply.",
+    "id": 24
+  },
+  {
+    "start": 52.011333,
+    "end": 53.091333,
+    "text": "Another message arrived.",
+    "id": 25
+  },
+  {
+    "start": 54.031333,
+    "end": 56.69133299999999,
+    "text": "Apparently your inbox had learned to reproduce.",
+    "id": 26
+  },
+  {
+    "start": 57.671333,
+    "end": 59.031333,
+    "text": "You opened that one too.",
+    "id": 27
+  },
+  {
+    "start": 59.611333,
+    "end": 61.131333,
+    "text": "Now you needed a document.",
+    "id": 28
+  },
+  {
+    "start": 61.691333,
+    "end": 63.37133299999999,
+    "text": "The document needed a correction.",
+    "id": 29
+  },
+  {
+    "start": 64.111333,
+    "end": 65.98133299999999,
+    "text": "Your movie was still waiting for you",
+    "id": 30
+  },
+  {
+    "start": 65.991333,
+    "end": 66.831333,
+    "text": "to press play.",
+    "id": 31
+  },
+  {
+    "start": 67.431333,
+    "end": 68.951333,
+    "text": "The snack was getting cold.",
+    "id": 32
+  },
+  {
+    "start": 69.836667,
+    "end": 71.01666700000001,
+    "text": "Your phone rang.",
+    "id": 33
+  },
+  {
+    "start": 71.836667,
+    "end": 72.31666700000001,
+    "text": "The timer.",
+    "id": 34
+  },
+  {
+    "start": 72.89666700000001,
+    "end": 74.03666700000001,
+    "text": "Twenty minutes were up.",
+    "id": 35
+  },
+  {
+    "start": 74.556667,
+    "end": 76.826667,
+    "text": "You had successfully completed your break without",
+    "id": 36
+  },
+  {
+    "start": 76.836667,
+    "end": 78.63666700000002,
+    "text": "experiencing any of it.",
+    "id": 37
+  },
+  {
+    "start": 79.076667,
+    "end": 81.266667,
+    "text": "You silenced the alarm and reached for",
+    "id": 38
+  },
+  {
+    "start": 81.276667,
+    "end": 82.276667,
+    "text": "the laptop again.",
+    "id": 39
+  },
+  {
+    "start": 82.936667,
+    "end": 83.95666700000001,
+    "text": "Just finish this.",
+    "id": 40
+  },
+  {
+    "start": 84.576667,
+    "end": 86.686667,
+    "text": "Then you could finally stop thinking about",
+    "id": 41
+  },
+  {
+    "start": 86.696667,
+    "end": 87.21666700000002,
+    "text": "work.",
+    "id": 42
+  },
+  {
+    "start": 88.179333,
+    "end": 89.399333,
+    "text": "Then your friend texted.",
+    "id": 43
+  },
+  {
+    "start": 90.359333,
+    "end": 92.789333,
+    "text": "They'd spent the afternoon lying around and",
+    "id": 44
+  },
+  {
+    "start": 92.799333,
+    "end": 94.299333,
+    "text": "felt terrible about it.",
+    "id": 45
+  },
+  {
+    "start": 94.739333,
+    "end": 97.55933300000001,
+    "text": "Your reply came easily: you were exhausted.",
+    "id": 46
+  },
+  {
+    "start": 98.459333,
+    "end": 99.27933300000001,
+    "text": "You needed a break.",
+    "id": 47
+  },
+  {
+    "start": 99.919333,
+    "end": 100.61933300000001,
+    "text": "You hit send.",
+    "id": 48
+  },
+  {
+    "start": 101.319333,
+    "end": 102.77933300000001,
+    "text": "A moment later, they asked:",
+    "id": 49
+  },
+  {
+    "start": 103.279333,
+    "end": 104.299333,
+    "text": "how's the movie?",
+    "id": 50
+  },
+  {
+    "start": 104.679333,
+    "end": 106.459333,
+    "text": "You looked at the untouched remote.",
+    "id": 51
+  },
+  {
+    "start": 107.244667,
+    "end": 109.684667,
+    "text": "You started typing: haven't earned it yet.",
+    "id": 52
+  },
+  {
+    "start": 110.22466700000001,
+    "end": 110.66466700000001,
+    "text": "Then stopped.",
+    "id": 53
+  },
+  {
+    "start": 111.604667,
+    "end": 113.08466700000001,
+    "text": "You wouldn't actually send that.",
+    "id": 54
+  },
+  {
+    "start": 113.38466700000001,
+    "end": 114.58466700000001,
+    "text": "It sounded ridiculous.",
+    "id": 55
+  },
+  {
+    "start": 115.50466700000001,
+    "end": 117.494667,
+    "text": "But looking at your evening, wasn't that",
+    "id": 56
+  },
+  {
+    "start": 117.50466700000001,
+    "end": 119.044667,
+    "text": "the rule you were following?",
+    "id": 57
+  },
+  {
+    "start": 119.52466700000001,
+    "end": 121.534667,
+    "text": "Your friend could rest because they were",
+    "id": 58
+  },
+  {
+    "start": 121.544667,
+    "end": 122.12466700000002,
+    "text": "tired.",
+    "id": 59
+  },
+  {
+    "start": 122.844667,
+    "end": 124.88466700000001,
+    "text": "You needed evidence that you'd done enough.",
+    "id": 60
+  },
+  {
+    "start": 125.864667,
+    "end": 127.81466699999999,
+    "text": "Maybe that's part of what makes rest",
+    "id": 61
+  },
+  {
+    "start": 127.82466699999999,
+    "end": 128.724667,
+    "text": "uncomfortable.",
+    "id": 62
+  },
+  {
+    "start": 129.664667,
+    "end": 131.694667,
+    "text": "If being useful has become a condition",
+    "id": 63
+  },
+  {
+    "start": 131.704667,
+    "end": 134.044667,
+    "text": "for feeling okay about yourself,",
+    "id": 64
+  },
+  {
+    "start": 134.704667,
+    "end": 137.464667,
+    "text": "an unfinished task can feel personal.",
+    "id": 65
+  },
+  {
+    "start": 138.224667,
+    "end": 140.444667,
+    "text": "The document can wait until morning.",
+    "id": 66
+  },
+  {
+    "start": 141.044667,
+    "end": 143.074667,
+    "text": "But can you feel okay about yourself",
+    "id": 67
+  },
+  {
+    "start": 143.084667,
+    "end": 144.144667,
+    "text": "while it waits?",
+    "id": 68
+  },
+  {
+    "start": 144.951333,
+    "end": 147.90133300000002,
+    "text": "Research has linked seeing leisure as wasted",
+    "id": 69
+  },
+  {
+    "start": 147.911333,
+    "end": 150.09133300000002,
+    "text": "time with enjoying it less.",
+    "id": 70
+  },
+  {
+    "start": 150.931333,
+    "end": 153.131333,
+    "text": "That doesn't explain everyone's guilt.",
+    "id": 71
+  },
+  {
+    "start": 153.871333,
+    "end": 156.56133300000002,
+    "text": "In this story, though, every attempt to",
+    "id": 72
+  },
+  {
+    "start": 156.571333,
+    "end": 158.37133300000002,
+    "text": "relax comes with an inspection:",
+    "id": 73
+  },
+  {
+    "start": 159.171333,
+    "end": 160.831333,
+    "text": "have I justified this yet?",
+    "id": 74
+  },
+  {
+    "start": 161.97133300000002,
+    "end": 164.18133300000002,
+    "text": "Imagine watching a movie while somebody keeps",
+    "id": 75
+  },
+  {
+    "start": 164.19133300000001,
+    "end": 165.611333,
+    "text": "asking for your receipt.",
+    "id": 76
+  },
+  {
+    "start": 166.384667,
+    "end": 168.664667,
+    "text": "Sometimes the pressure comes from outside.",
+    "id": 77
+  },
+  {
+    "start": 169.604667,
+    "end": 171.55466700000002,
+    "text": "A boss expects evening replies.",
+    "id": 78
+  },
+  {
+    "start": 171.56466700000001,
+    "end": 174.30466700000002,
+    "text": "Housework isn't shared fairly.",
+    "id": 79
+  },
+  {
+    "start": 175.06466700000001,
+    "end": 176.56466700000001,
+    "text": "Someone depends on you.",
+    "id": 80
+  },
+  {
+    "start": 177.06466700000001,
+    "end": 179.87466700000002,
+    "text": "Those situations may need practical help or",
+    "id": 81
+  },
+  {
+    "start": 179.884667,
+    "end": 180.46466700000002,
+    "text": "boundaries.",
+    "id": 82
+  },
+  {
+    "start": 181.46466700000002,
+    "end": 183.62466700000002,
+    "text": "But tonight, the urgent work is done.",
+    "id": 83
+  },
+  {
+    "start": 184.584667,
+    "end": 186.254667,
+    "text": "Nobody has asked you to open that",
+    "id": 84
+  },
+  {
+    "start": 186.264667,
+    "end": 187.30466700000002,
+    "text": "laptop again.",
+    "id": 85
+  },
+  {
+    "start": 187.988667,
+    "end": 189.24866699999998,
+    "text": "You look at the document.",
+    "id": 86
+  },
+  {
+    "start": 190.068667,
+    "end": 191.288667,
+    "text": "One correction can wait.",
+    "id": 87
+  },
+  {
+    "start": 192.02866699999998,
+    "end": 194.058667,
+    "text": "You write yourself a note: fix this",
+    "id": 88
+  },
+  {
+    "start": 194.068667,
+    "end": 195.52866699999998,
+    "text": "tomorrow after breakfast.",
+    "id": 89
+  },
+  {
+    "start": 196.388667,
+    "end": 197.608667,
+    "text": "Then you close the laptop.",
+    "id": 90
+  },
+  {
+    "start": 198.46866699999998,
+    "end": 200.018667,
+    "text": "You take the snack back to the",
+    "id": 91
+  },
+  {
+    "start": 200.02866699999998,
+    "end": 200.508667,
+    "text": "couch.",
+    "id": 92
+  },
+  {
+    "start": 201.288667,
+    "end": 203.818667,
+    "text": "This time, you press play before finding",
+    "id": 93
+  },
+  {
+    "start": 203.828667,
+    "end": 205.268667,
+    "text": "another reason to leave.",
+    "id": 94
+  },
+  {
+    "start": 206.072667,
+    "end": 207.982667,
+    "text": "And right then, keys turn in the",
+    "id": 95
+  },
+  {
+    "start": 207.99266699999998,
+    "end": 208.372667,
+    "text": "door.",
+    "id": 96
+  },
+  {
+    "start": 209.032667,
+    "end": 210.072667,
+    "text": "Your shoulders tighten.",
+    "id": 97
+  },
+  {
+    "start": 210.952667,
+    "end": 212.332667,
+    "text": "The familiar thought arrives:",
+    "id": 98
+  },
+  {
+    "start": 213.032667,
+    "end": 213.452667,
+    "text": "look busy.",
+    "id": 99
+  },
+  {
+    "start": 214.252667,
+    "end": 215.902667,
+    "text": "You hurry to the sink and grab",
+    "id": 100
+  },
+  {
+    "start": 215.912667,
+    "end": 217.83266700000001,
+    "text": "a plate from the drying rack.",
+    "id": 101
+  },
+  {
+    "start": 218.49266699999998,
+    "end": 220.592667,
+    "text": "Under the running water, you notice it.",
+    "id": 102
+  },
+  {
+    "start": 221.012667,
+    "end": 222.572667,
+    "text": "This plate was already clean.",
+    "id": 103
+  },
+  {
+    "start": 223.754,
+    "end": 225.314,
+    "text": "Your roommate walks in.",
+    "id": 104
+  },
+  {
+    "start": 225.914,
+    "end": 227.194,
+    "text": "Hey. How was your night?",
+    "id": 105
+  },
+  {
+    "start": 227.834,
+    "end": 229.464,
+    "text": "You almost say you were just cleaning",
+    "id": 106
+  },
+  {
+    "start": 229.474,
+    "end": 232.414,
+    "text": "up. Instead, you turn off the faucet.",
+    "id": 107
+  },
+  {
+    "start": 232.834,
+    "end": 234.014,
+    "text": "Set the plate down.",
+    "id": 108
+  },
+  {
+    "start": 234.594,
+    "end": 236.754,
+    "text": "Your mouth starts forming an explanation.",
+    "id": 109
+  },
+  {
+    "start": 237.654,
+    "end": 238.79399999999998,
+    "text": "You let that go too.",
+    "id": 110
+  },
+  {
+    "start": 239.314,
+    "end": 240.73399999999998,
+    "text": "I was watching a movie.",
+    "id": 111
+  },
+  {
+    "start": 241.648667,
+    "end": 243.368667,
+    "text": "Any good? You shake your head.",
+    "id": 112
+  },
+  {
+    "start": 243.608667,
+    "end": 244.30866699999999,
+    "text": "You don't know yet.",
+    "id": 113
+  },
+  {
+    "start": 244.56866699999998,
+    "end": 245.588667,
+    "text": "You've barely started.",
+    "id": 114
+  },
+  {
+    "start": 246.008667,
+    "end": 247.068667,
+    "text": "You sit back down.",
+    "id": 115
+  },
+  {
+    "start": 247.80866699999999,
+    "end": 249.478667,
+    "text": "Your roommate takes a piece of your",
+    "id": 116
+  },
+  {
+    "start": 249.488667,
+    "end": 251.30866699999999,
+    "text": "snack and heads down the hall.",
+    "id": 117
+  },
+  {
+    "start": 251.888667,
+    "end": 252.52866699999998,
+    "text": "That's it.",
+    "id": 118
+  },
+  {
+    "start": 253.208667,
+    "end": 253.928667,
+    "text": "No inspection.",
+    "id": 119
+  },
+  {
+    "start": 254.668667,
+    "end": 256.238667,
+    "text": "You pick up the remote and find",
+    "id": 120
+  },
+  {
+    "start": 256.248667,
+    "end": 256.908667,
+    "text": "your place.",
+    "id": 121
+  },
+  {
+    "start": 257.599333,
+    "end": 259.899333,
+    "text": "The guilt hasn't magically disappeared.",
+    "id": 122
+  },
+  {
+    "start": 260.859333,
+    "end": 262.499333,
+    "text": "Neither has tomorrow's work.",
+    "id": 123
+  },
+  {
+    "start": 263.199333,
+    "end": 264.789333,
+    "text": "But this time, you stay for the",
+    "id": 124
+  },
+  {
+    "start": 264.799333,
+    "end": 265.499333,
+    "text": "next scene.",
+    "id": 125
+  },
+  {
+    "start": 266.119333,
+    "end": 266.87933300000003,
+    "text": "Then the next.",
+    "id": 126
+  },
+  {
+    "start": 267.479333,
+    "end": 269.539333,
+    "text": "You let the movie hold your attention.",
+    "id": 127
+  },
+  {
+    "start": 270.279333,
+    "end": 272.019333,
+    "text": "And you let someone see you resting,",
+    "id": 128
+  },
+  {
+    "start": 272.299333,
+    "end": 273.709333,
+    "text": "without trying to make it look like",
+    "id": 129
+  },
+  {
+    "start": 273.719333,
+    "end": 274.499333,
+    "text": "something else.",
+    "id": 130
+  }
+]

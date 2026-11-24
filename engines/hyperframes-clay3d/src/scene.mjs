@@ -97,6 +97,9 @@ export function makeScene(renderer) {
   key.shadow.normalBias = 0.025; key.shadow.bias = -0.0002; key.shadow.radius = 3; scene.add(key);
   const rim = new THREE.DirectionalLight('#bddde0', 1.3); rim.position.set(4, 4, -2); scene.add(rim);
 
+  // Public handles for story-specific films; the default demo's drawing is unchanged.
+  const environmentObjects = scene.children.filter(object => !object.isLight);
+  const characterStart = scene.children.length;
   const torso = new THREE.Group(); scene.add(torso);
   ellipsoid(torso, mat.vest, [0, 0.28, 0], [0.30, 0.37, 0.22]);
   ellipsoid(torso, mat.cream, [0, 0.53, 0.025], [0.27, 0.13, 0.19]);
@@ -177,5 +180,12 @@ export function makeScene(renderer) {
     debug.joints = joints; debug.reaches = reaches; debug.shot = pose.shot; debug.pose = pose;
     debug.projected = Object.fromEntries(Object.entries(joints).map(([key, point]) => [key, v(point).project(camera).toArray()]));
   }
-  return { scene, camera, update, debug };
+  return {
+    scene, camera, update, debug,
+    environmentObjects,
+    actorObjects: scene.children.slice(characterStart),
+    materials: mat,
+    helpers: { material, ellipsoid, box, cylinder },
+    objects: { torso, head, hips, limbs, ball, sofa, eyes, pupils, brows, mouth, smile },
+  };
 }
