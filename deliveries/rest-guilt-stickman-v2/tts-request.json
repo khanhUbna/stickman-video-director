@@ -1,0 +1,12 @@
+{
+  "state": "saved",
+  "model": "tts-1-hd",
+  "voice": "alloy",
+  "characters": 3736,
+  "estimated_usd": 0.11208,
+  "billing_verified": false,
+  "speed": 1,
+  "automatic_retry": false,
+  "native_wav_sha256": "4fcc8f9d4a0583d4f1abf2e11bcf03300e41025dcd08099b01e21199a42302df",
+  "duration_seconds": 228.5
+}

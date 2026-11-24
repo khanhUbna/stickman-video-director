@@ -1,0 +1,512 @@
+{
+  "ok": true,
+  "file": "why-you-feel-guilty-when-you-rest-2d-alloy-720p.mp4",
+  "sha256": "93c8ff590811e12368b4f8c97c8b5ebd7b4d2419b97fdc7a0c5635bb5eafd9a8",
+  "bytes": 25961772,
+  "duration_seconds": 244.4,
+  "width": 1280,
+  "height": 720,
+  "native_layout": "16:9; no upscale from the 3D movie",
+  "fps": "30/1",
+  "frames": 7332,
+  "audio_codec": "aac",
+  "audio_sample_rate": "48000",
+  "integrated_lufs": -16.32,
+  "true_peak_dbtp": -1.81,
+  "full_decode_errors": "",
+  "shot_samples": [
+    {
+      "shot": "p01-s01",
+      "action": "couch_guilt",
+      "time": 2.3333333333333335,
+      "rgb_stddev": 56.15494683538734
+    },
+    {
+      "shot": "p01-s02",
+      "action": "keys",
+      "time": 5.5,
+      "rgb_stddev": 18.71509291188789
+    },
+    {
+      "shot": "p01-s03",
+      "action": "couch_movie",
+      "time": 7.866666666666666,
+      "rgb_stddev": 49.94931769664407
+    },
+    {
+      "shot": "p01-s04",
+      "action": "wash",
+      "time": 11.333333333333334,
+      "rgb_stddev": 47.15008054214059
+    },
+    {
+      "shot": "p02-s01",
+      "action": "dinner_done",
+      "time": 16.433333333333334,
+      "rgb_stddev": 48.64316494605691
+    },
+    {
+      "shot": "p02-s02",
+      "action": "phone_movie",
+      "time": 20.366666666666667,
+      "rgb_stddev": 61.857419148525956
+    },
+    {
+      "shot": "p02-s03",
+      "action": "prepare_snack",
+      "time": 24.166666666666668,
+      "rgb_stddev": 49.98799736965981
+    },
+    {
+      "shot": "p02-s04",
+      "action": "email_insert",
+      "time": 27.8,
+      "rgb_stddev": 42.997411969777424
+    },
+    {
+      "shot": "p03-s01",
+      "action": "email_insert",
+      "time": 31.966666666666665,
+      "rgb_stddev": 47.71376777917997
+    },
+    {
+      "shot": "p03-s02",
+      "action": "hesitate",
+      "time": 36.9,
+      "rgb_stddev": 53.92978775816124
+    },
+    {
+      "shot": "p03-s03",
+      "action": "set_snack",
+      "time": 39.766666666666666,
+      "rgb_stddev": 50.03199683970936
+    },
+    {
+      "shot": "p03-s04",
+      "action": "walk_pull",
+      "time": 42.6,
+      "rgb_stddev": 46.8944248565127
+    },
+    {
+      "shot": "p04-s01",
+      "action": "typing_reply",
+      "time": 46.1,
+      "rgb_stddev": 49.0251767018381
+    },
+    {
+      "shot": "p04-s02",
+      "action": "inbox_overflow",
+      "time": 50.1,
+      "rgb_stddev": 46.20364890171487
+    },
+    {
+      "shot": "p04-s03",
+      "action": "file_check",
+      "time": 54.36666666666667,
+      "rgb_stddev": 49.6328795835884
+    },
+    {
+      "shot": "p04-s04",
+      "action": "empty_movie",
+      "time": 57.53333333333333,
+      "rgb_stddev": 47.02981238984967
+    },
+    {
+      "shot": "p04-s05",
+      "action": "snack_cooling",
+      "time": 60.13333333333333,
+      "rgb_stddev": 37.13232370841072
+    },
+    {
+      "shot": "p05-s01",
+      "action": "timer_insert",
+      "time": 63.3,
+      "rgb_stddev": 59.479639322796935
+    },
+    {
+      "shot": "p05-s02",
+      "action": "missed_break",
+      "time": 67.06666666666666,
+      "rgb_stddev": 53.29384139308657
+    },
+    {
+      "shot": "p05-s03",
+      "action": "alarm_off",
+      "time": 70.63333333333334,
+      "rgb_stddev": 49.98093409443556
+    },
+    {
+      "shot": "p05-s04",
+      "action": "reach_work",
+      "time": 75.13333333333334,
+      "rgb_stddev": 47.41363433218962
+    },
+    {
+      "shot": "p06-s01",
+      "action": "friend_rest",
+      "time": 80.3,
+      "rgb_stddev": 42.74161037414842
+    },
+    {
+      "shot": "p06-s02",
+      "action": "phone_reply",
+      "time": 85.8,
+      "rgb_stddev": 53.42550645161547
+    },
+    {
+      "shot": "p06-s03",
+      "action": "phone_question",
+      "time": 89.7,
+      "rgb_stddev": 59.42805077461347
+    },
+    {
+      "shot": "p06-s04",
+      "action": "remote_insert",
+      "time": 92.63333333333334,
+      "rgb_stddev": 30.74172531018591
+    },
+    {
+      "shot": "p07-s01",
+      "action": "unsent_insert",
+      "time": 95.33333333333333,
+      "rgb_stddev": 60.528380013234106
+    },
+    {
+      "shot": "p07-s02",
+      "action": "thumb_stop",
+      "time": 99.46666666666667,
+      "rgb_stddev": 58.13403387239996
+    },
+    {
+      "shot": "p07-s03",
+      "action": "realize",
+      "time": 103.5,
+      "rgb_stddev": 53.388819046561906
+    },
+    {
+      "shot": "p07-s04",
+      "action": "friend_kindness",
+      "time": 109.1,
+      "rgb_stddev": 42.76776677996034
+    },
+    {
+      "shot": "p08-s01",
+      "action": "leave_desk",
+      "time": 113.53333333333333,
+      "rgb_stddev": 48.31093952001097
+    },
+    {
+      "shot": "p08-s02",
+      "action": "useful_pause",
+      "time": 119.5,
+      "rgb_stddev": 53.734258184640915
+    },
+    {
+      "shot": "p08-s03",
+      "action": "document_insert",
+      "time": 123.76666666666667,
+      "rgb_stddev": 48.51399116463592
+    },
+    {
+      "shot": "p08-s04",
+      "action": "hover_couch",
+      "time": 127.13333333333334,
+      "rgb_stddev": 48.22659500508727
+    },
+    {
+      "shot": "p09-s01",
+      "action": "leisure",
+      "time": 131.73333333333332,
+      "rgb_stddev": 41.48199009586443
+    },
+    {
+      "shot": "p09-s02",
+      "action": "uneasy_movie",
+      "time": 135.03333333333333,
+      "rgb_stddev": 56.98703484895578
+    },
+    {
+      "shot": "p09-s03",
+      "action": "inspection",
+      "time": 139.5,
+      "rgb_stddev": 47.98800781096881
+    },
+    {
+      "shot": "p09-s04",
+      "action": "receipt",
+      "time": 144.86666666666667,
+      "rgb_stddev": 61.1917766589148
+    },
+    {
+      "shot": "p10-s01",
+      "action": "boss",
+      "time": 149.8,
+      "rgb_stddev": 49.29969122520405
+    },
+    {
+      "shot": "p10-s02",
+      "action": "laundry",
+      "time": 152.86666666666667,
+      "rgb_stddev": 51.5411040957218
+    },
+    {
+      "shot": "p10-s03",
+      "action": "care",
+      "time": 156.66666666666666,
+      "rgb_stddev": 45.94177540075335
+    },
+    {
+      "shot": "p10-s04",
+      "action": "urgent_done",
+      "time": 162.0,
+      "rgb_stddev": 49.56579805562592
+    },
+    {
+      "shot": "p11-s01",
+      "action": "document_insert",
+      "time": 166.0,
+      "rgb_stddev": 47.47906396849708
+    },
+    {
+      "shot": "p11-s02",
+      "action": "write_note",
+      "time": 169.26666666666668,
+      "rgb_stddev": 61.87892710719691
+    },
+    {
+      "shot": "p11-s03",
+      "action": "close_laptop",
+      "time": 171.5,
+      "rgb_stddev": 44.00481058945786
+    },
+    {
+      "shot": "p11-s04",
+      "action": "pickup_snack",
+      "time": 172.46666666666667,
+      "rgb_stddev": 49.64623766952917
+    },
+    {
+      "shot": "p11-s05",
+      "action": "walk_snack",
+      "time": 173.66666666666666,
+      "rgb_stddev": 49.67065304851145
+    },
+    {
+      "shot": "p11-s06",
+      "action": "sit_play",
+      "time": 177.83333333333334,
+      "rgb_stddev": 49.31273329242695
+    },
+    {
+      "shot": "p12-s01",
+      "action": "keys",
+      "time": 182.7,
+      "rgb_stddev": 10.802644211085981
+    },
+    {
+      "shot": "p12-s02",
+      "action": "startle",
+      "time": 186.26666666666668,
+      "rgb_stddev": 49.400705522449584
+    },
+    {
+      "shot": "p12-s03",
+      "action": "hurry",
+      "time": 189.23333333333332,
+      "rgb_stddev": 49.41618833447211
+    },
+    {
+      "shot": "p12-s04",
+      "action": "wash",
+      "time": 194.06666666666666,
+      "rgb_stddev": 49.76288005047447
+    },
+    {
+      "shot": "p13-s01",
+      "action": "roommate_arrive",
+      "time": 198.26666666666668,
+      "rgb_stddev": 52.218897107999204
+    },
+    {
+      "shot": "p13-s02",
+      "action": "almost_excuse",
+      "time": 200.73333333333332,
+      "rgb_stddev": 64.16156220804403
+    },
+    {
+      "shot": "p13-s03",
+      "action": "faucet_off",
+      "time": 203.56666666666666,
+      "rgb_stddev": 51.82649790661461
+    },
+    {
+      "shot": "p13-s04",
+      "action": "honest",
+      "time": 209.36666666666667,
+      "rgb_stddev": 62.96347058002862
+    },
+    {
+      "shot": "p14-s01",
+      "action": "roommate_question",
+      "time": 214.73333333333332,
+      "rgb_stddev": 59.72859448877923
+    },
+    {
+      "shot": "p14-s02",
+      "action": "sit_back",
+      "time": 217.33333333333334,
+      "rgb_stddev": 49.31570846146422
+    },
+    {
+      "shot": "p14-s03",
+      "action": "snack_grab",
+      "time": 220.2,
+      "rgb_stddev": 53.44704073607178
+    },
+    {
+      "shot": "p14-s04",
+      "action": "find_place",
+      "time": 225.13333333333333,
+      "rgb_stddev": 50.3083755177802
+    },
+    {
+      "shot": "p15-s01",
+      "action": "still_guilty",
+      "time": 229.93333333333334,
+      "rgb_stddev": 56.49694374954672
+    },
+    {
+      "shot": "p15-s02",
+      "action": "stay",
+      "time": 233.96666666666667,
+      "rgb_stddev": 49.28824810609677
+    },
+    {
+      "shot": "p15-s03",
+      "action": "watch",
+      "time": 237.0,
+      "rgb_stddev": 56.43677174049021
+    },
+    {
+      "shot": "p15-s04",
+      "action": "rest_end",
+      "time": 242.03333333333333,
+      "rgb_stddev": 49.29189554996507
+    }
+  ],
+  "reference_comparisons": [
+    {
+      "shot": "p01-s01",
+      "mean_absolute_rgb_error": 1.5649204282407407
+    },
+    {
+      "shot": "p07-s02",
+      "mean_absolute_rgb_error": 2.0850730613425927
+    },
+    {
+      "shot": "p11-s03",
+      "mean_absolute_rgb_error": 2.262199797453704
+    },
+    {
+      "shot": "p11-s06",
+      "mean_absolute_rgb_error": 2.263650173611111
+    },
+    {
+      "shot": "p12-s04",
+      "mean_absolute_rgb_error": 1.3823444733796297
+    },
+    {
+      "shot": "p14-s03",
+      "mean_absolute_rgb_error": 2.4237369791666667
+    },
+    {
+      "shot": "p15-s04",
+      "mean_absolute_rgb_error": 2.2476497395833333
+    }
+  ],
+  "caption_cues": 131,
+  "approved_words": 637,
+  "script_sha256": "30f4fbc4dc8da1f6d4c4b99e42882a7da065e15018f4edd21e7b66a7196fa27d",
+  "new_paid_tts_calls": 1,
+  "model": "tts-1-hd",
+  "voice": "alloy",
+  "estimated_voice_usd": 0.11208,
+  "budget_usd": 0.2,
+  "invoice_accessed": false,
+  "other_paid_api_calls": 0,
+  "voice_time_stretch": false,
+  "maximum_bone_error": 1.4210854715202004e-13,
+  "maximum_grip_error": 0,
+  "maximum_world_stance_drift": 0,
+  "cast_inventory": {
+    "hero": [
+      "p01-s01",
+      "p01-s02",
+      "p01-s03",
+      "p01-s04",
+      "p02-s01",
+      "p02-s02",
+      "p02-s03",
+      "p03-s02",
+      "p03-s03",
+      "p03-s04",
+      "p04-s01",
+      "p04-s03",
+      "p05-s01",
+      "p05-s02",
+      "p05-s03",
+      "p05-s04",
+      "p06-s02",
+      "p06-s03",
+      "p07-s01",
+      "p07-s02",
+      "p07-s03",
+      "p08-s01",
+      "p08-s02",
+      "p08-s04",
+      "p09-s02",
+      "p09-s03",
+      "p10-s03",
+      "p10-s04",
+      "p11-s03",
+      "p11-s04",
+      "p11-s05",
+      "p11-s06",
+      "p12-s01",
+      "p12-s02",
+      "p12-s03",
+      "p12-s04",
+      "p13-s01",
+      "p13-s02",
+      "p13-s03",
+      "p13-s04",
+      "p14-s01",
+      "p14-s02",
+      "p14-s03",
+      "p14-s04",
+      "p15-s01",
+      "p15-s02",
+      "p15-s03",
+      "p15-s04"
+    ],
+    "friend": [
+      "p06-s01",
+      "p07-s04",
+      "p09-s01",
+      "p09-s03",
+      "p10-s01",
+      "p10-s02",
+      "p10-s03",
+      "p13-s01",
+      "p13-s02",
+      "p13-s03",
+      "p13-s04",
+      "p14-s01",
+      "p14-s03"
+    ]
+  },
+  "youtube_published": false,
+  "visual_status": "Completed primary-agent visual inspection of all 63 decoded shot samples and five full-size detail frames; see REVIEW.md",
+  "audio_review": "Measured, not human-auditioned",
+  "reference_scope": "Accepted channel-specific painted articulated extension; no claim of strict V44/35-subcheck equivalence"
+}

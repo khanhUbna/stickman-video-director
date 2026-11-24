@@ -1,0 +1,321 @@
+{
+  "frames": 7332,
+  "fps": 30,
+  "width": 1280,
+  "height": 720,
+  "parts": [
+    {
+      "file": "part-00.mp4",
+      "fingerprint": "d2718b7696539eb4aaa6d952682fe55dbbdabacc10b96a83e78421f77b2f4ed9",
+      "first_frame": 0,
+      "last_frame_exclusive": 600,
+      "frames": 600,
+      "maximum_bone_error": 1.1368683772161603e-13,
+      "maximum_grip_error": 0,
+      "maximum_world_stance_drift": 0,
+      "landings": [],
+      "seconds": 26.616333518999454
+    },
+    {
+      "file": "part-01.mp4",
+      "fingerprint": "d2718b7696539eb4aaa6d952682fe55dbbdabacc10b96a83e78421f77b2f4ed9",
+      "first_frame": 600,
+      "last_frame_exclusive": 1200,
+      "frames": 600,
+      "maximum_bone_error": 1.1368683772161603e-13,
+      "maximum_grip_error": 0,
+      "maximum_world_stance_drift": 0,
+      "landings": [],
+      "seconds": 24.76365587699911
+    },
+    {
+      "file": "part-02.mp4",
+      "fingerprint": "d2718b7696539eb4aaa6d952682fe55dbbdabacc10b96a83e78421f77b2f4ed9",
+      "first_frame": 1200,
+      "last_frame_exclusive": 1800,
+      "frames": 600,
+      "maximum_bone_error": 1.4210854715202004e-13,
+      "maximum_grip_error": 0,
+      "maximum_world_stance_drift": 0,
+      "landings": [
+        {
+          "time": 40.7,
+          "who": "hero",
+          "side": "left",
+          "shot": "p03-s04"
+        },
+        {
+          "time": 41.03333333333333,
+          "who": "hero",
+          "side": "right",
+          "shot": "p03-s04"
+        },
+        {
+          "time": 41.36666666666667,
+          "who": "hero",
+          "side": "left",
+          "shot": "p03-s04"
+        },
+        {
+          "time": 41.7,
+          "who": "hero",
+          "side": "right",
+          "shot": "p03-s04"
+        }
+      ],
+      "seconds": 23.96402888299781
+    },
+    {
+      "file": "part-03.mp4",
+      "fingerprint": "d2718b7696539eb4aaa6d952682fe55dbbdabacc10b96a83e78421f77b2f4ed9",
+      "first_frame": 1800,
+      "last_frame_exclusive": 2400,
+      "frames": 600,
+      "maximum_bone_error": 1.1368683772161603e-13,
+      "maximum_grip_error": 0,
+      "maximum_world_stance_drift": 0,
+      "landings": [],
+      "seconds": 28.81766037000125
+    },
+    {
+      "file": "part-04.mp4",
+      "fingerprint": "d2718b7696539eb4aaa6d952682fe55dbbdabacc10b96a83e78421f77b2f4ed9",
+      "first_frame": 2400,
+      "last_frame_exclusive": 3000,
+      "frames": 600,
+      "maximum_bone_error": 7.105427357601002e-14,
+      "maximum_grip_error": 0,
+      "maximum_world_stance_drift": 0,
+      "landings": [],
+      "seconds": 23.080704799998784
+    },
+    {
+      "file": "part-05.mp4",
+      "fingerprint": "d2718b7696539eb4aaa6d952682fe55dbbdabacc10b96a83e78421f77b2f4ed9",
+      "first_frame": 3000,
+      "last_frame_exclusive": 3600,
+      "frames": 600,
+      "maximum_bone_error": 9.947598300641403e-14,
+      "maximum_grip_error": 0,
+      "maximum_world_stance_drift": 0,
+      "landings": [],
+      "seconds": 29.759698024998215
+    },
+    {
+      "file": "part-06.mp4",
+      "fingerprint": "d2718b7696539eb4aaa6d952682fe55dbbdabacc10b96a83e78421f77b2f4ed9",
+      "first_frame": 3600,
+      "last_frame_exclusive": 4200,
+      "frames": 600,
+      "maximum_bone_error": 9.947598300641403e-14,
+      "maximum_grip_error": 0,
+      "maximum_world_stance_drift": 0,
+      "landings": [],
+      "seconds": 29.625710985001206
+    },
+    {
+      "file": "part-07.mp4",
+      "fingerprint": "d2718b7696539eb4aaa6d952682fe55dbbdabacc10b96a83e78421f77b2f4ed9",
+      "first_frame": 4200,
+      "last_frame_exclusive": 4800,
+      "frames": 600,
+      "maximum_bone_error": 9.947598300641403e-14,
+      "maximum_grip_error": 0,
+      "maximum_world_stance_drift": 0,
+      "landings": [
+        {
+          "time": 152.0,
+          "who": "friend",
+          "side": "left",
+          "shot": "p10-s02"
+        },
+        {
+          "time": 152.4,
+          "who": "friend",
+          "side": "right",
+          "shot": "p10-s02"
+        },
+        {
+          "time": 152.8,
+          "who": "friend",
+          "side": "left",
+          "shot": "p10-s02"
+        },
+        {
+          "time": 153.23333333333332,
+          "who": "friend",
+          "side": "right",
+          "shot": "p10-s02"
+        }
+      ],
+      "seconds": 24.88047786000243
+    },
+    {
+      "file": "part-08.mp4",
+      "fingerprint": "d2718b7696539eb4aaa6d952682fe55dbbdabacc10b96a83e78421f77b2f4ed9",
+      "first_frame": 4800,
+      "last_frame_exclusive": 5400,
+      "frames": 600,
+      "maximum_bone_error": 9.947598300641403e-14,
+      "maximum_grip_error": 0,
+      "maximum_world_stance_drift": 0,
+      "landings": [
+        {
+          "time": 173.0,
+          "who": "hero",
+          "side": "left",
+          "shot": "p11-s05"
+        },
+        {
+          "time": 173.23333333333332,
+          "who": "hero",
+          "side": "right",
+          "shot": "p11-s05"
+        },
+        {
+          "time": 173.5,
+          "who": "hero",
+          "side": "left",
+          "shot": "p11-s05"
+        },
+        {
+          "time": 173.73333333333332,
+          "who": "hero",
+          "side": "right",
+          "shot": "p11-s05"
+        },
+        {
+          "time": 174.0,
+          "who": "hero",
+          "side": "left",
+          "shot": "p11-s05"
+        },
+        {
+          "time": 174.23333333333332,
+          "who": "hero",
+          "side": "right",
+          "shot": "p11-s05"
+        }
+      ],
+      "seconds": 22.039852705001977
+    },
+    {
+      "file": "part-09.mp4",
+      "fingerprint": "d2718b7696539eb4aaa6d952682fe55dbbdabacc10b96a83e78421f77b2f4ed9",
+      "first_frame": 5400,
+      "last_frame_exclusive": 6000,
+      "frames": 600,
+      "maximum_bone_error": 1.2789769243681803e-13,
+      "maximum_grip_error": 0,
+      "maximum_world_stance_drift": 0,
+      "landings": [
+        {
+          "time": 187.73333333333332,
+          "who": "hero",
+          "side": "left",
+          "shot": "p12-s03"
+        },
+        {
+          "time": 188.06666666666666,
+          "who": "hero",
+          "side": "right",
+          "shot": "p12-s03"
+        },
+        {
+          "time": 188.36666666666667,
+          "who": "hero",
+          "side": "left",
+          "shot": "p12-s03"
+        },
+        {
+          "time": 188.7,
+          "who": "hero",
+          "side": "right",
+          "shot": "p12-s03"
+        },
+        {
+          "time": 196.56666666666666,
+          "who": "friend",
+          "side": "left",
+          "shot": "p13-s01"
+        },
+        {
+          "time": 196.8,
+          "who": "friend",
+          "side": "right",
+          "shot": "p13-s01"
+        },
+        {
+          "time": 197.06666666666666,
+          "who": "friend",
+          "side": "left",
+          "shot": "p13-s01"
+        },
+        {
+          "time": 197.3,
+          "who": "friend",
+          "side": "right",
+          "shot": "p13-s01"
+        }
+      ],
+      "seconds": 28.476274869997724
+    },
+    {
+      "file": "part-10.mp4",
+      "fingerprint": "d2718b7696539eb4aaa6d952682fe55dbbdabacc10b96a83e78421f77b2f4ed9",
+      "first_frame": 6000,
+      "last_frame_exclusive": 6600,
+      "frames": 600,
+      "maximum_bone_error": 1.1368683772161603e-13,
+      "maximum_grip_error": 0,
+      "maximum_world_stance_drift": 0,
+      "landings": [
+        {
+          "time": 219.36666666666667,
+          "who": "friend",
+          "side": "left",
+          "shot": "p14-s03"
+        },
+        {
+          "time": 219.7,
+          "who": "friend",
+          "side": "right",
+          "shot": "p14-s03"
+        }
+      ],
+      "seconds": 42.98882955099907
+    },
+    {
+      "file": "part-11.mp4",
+      "fingerprint": "d2718b7696539eb4aaa6d952682fe55dbbdabacc10b96a83e78421f77b2f4ed9",
+      "first_frame": 6600,
+      "last_frame_exclusive": 7200,
+      "frames": 600,
+      "maximum_bone_error": 1.1368683772161603e-13,
+      "maximum_grip_error": 0,
+      "maximum_world_stance_drift": 0,
+      "landings": [
+        {
+          "time": 220.33333333333334,
+          "who": "friend",
+          "side": "right",
+          "shot": "p14-s03"
+        }
+      ],
+      "seconds": 29.16285413800142
+    },
+    {
+      "file": "part-12.mp4",
+      "fingerprint": "d2718b7696539eb4aaa6d952682fe55dbbdabacc10b96a83e78421f77b2f4ed9",
+      "first_frame": 7200,
+      "last_frame_exclusive": 7332,
+      "frames": 132,
+      "maximum_bone_error": 1.2789769243681803e-13,
+      "maximum_grip_error": 0,
+      "maximum_world_stance_drift": 0,
+      "landings": [],
+      "seconds": 5.119949615000223
+    }
+  ],
+  "paid_render_calls": 0
+}

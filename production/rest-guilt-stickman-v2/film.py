@@ -11,7 +11,7 @@ P=Path(__file__).resolve().parent
 T=json.loads((P/'timeline.json').read_text());SHOTS=T['shots'];STARTS=[s['start'] for s in SHOTS]
 CUES=json.loads((P/'captions.json').read_text());CSTARTS=[s['start'] for s in CUES]
 CR=CaptionRenderer(P,'16:9',1280,720,T['caption_profile']);FONT=str(P/'fonts/ArchivoBlack.ttf')
-INK='#202936';REMOTE=np.array([762.,466.]);BOWL=np.array([915.,424.])
+INK='#202936';REMOTE=np.array([762.,466.]);BOWL=np.array([575.,500.])
 def on(t,a,b):return ease((t-a)/max(.001,b-a))
 def txt(g,xy,text,size=23,color='#304f47'):g.text(ip(xy),text,font=ImageFont.truetype(FONT,size),fill=color)
 def wrap(g,text,xy,width,size=23,color='#304f47'):
@@ -79,7 +79,7 @@ def rest(a):
 def carry(a,name,side,draw,offset=(0,0)):
  grip=a['wr'][side].copy();center=grip+offset;a['draws'].append(lambda im,c=center:draw(im,c));a['held'][name]={'arm':side,'point':grip}
 def walk_pose(start,end,t,duration=1.35):
- n=max(4,math.ceil(abs(end-start)/70));n+=n%2;dt=duration/n;feet={};plants={}
+ n=max(4,math.ceil(abs(end-start)/115));n+=n%2;dt=duration/n;feet={};plants={}
  for side in ['left','right']:
   offset=-25 if side=='left' else 28;x=start+offset;moving=False
   for i in range(n):
@@ -91,7 +91,8 @@ def walk_pose(start,end,t,duration=1.35):
   if not moving:feet[side]=np.array([float(x),590.])
   plants[side]=not moving
  x=(feet['left'][0]+feet['right'][0])/2;a=stand_pose(x);a['feet']=feet;a['plants']=plants
- a['hip'][1]=max(418.,max(f[1]-math.sqrt(174**2-(f[0]-(x+(-18 if s=='left' else 22)*rig.S))**2) for s,f in feet.items()))
+ view='three_quarter' if end>=start else 'front'
+ a['hip'][1]=max(418.,max(feet[side][1]-math.sqrt(174**2-(feet[side][0]-(x+spec['hip'][0]*rig.S))**2) for package in rig.PACKS.values() for side,spec in package['views'][view]['legs'].items()))
  a['view']='three_quarter' if end>=start else 'front';a['angle']=4*math.sin(math.pi*min(1,t/duration));swing=math.sin(t/dt*math.pi)
  for side in ['left','right']:hand(a,side,[-68+16*swing if side=='left' else 72-16*swing,-6+4*swing])
  return a
@@ -113,14 +114,14 @@ def scene(t,s):
   # A television on its own stand makes the movie action visible.
   tv=Image.new('RGBA',(1280,720));tg=ImageDraw.Draw(tv)
   tg.rounded_rectangle((1000,254,1253,420),8,fill='#344641',outline=INK,width=5);tg.rectangle((1012,267,1240,405),fill='#8dabb0')
-  poly(tg,[(1013,405),(1070,321),(1130,373),(1200,310),(1240,405)],'#657e76',None);playing=p==1 or p>=12 or (p==11 and a=='sit_play' and l>2.2);sunx=1170+(5*math.sin(t*.2) if playing else 0);tg.ellipse((sunx,281,sunx+24,305),fill='#eac787')
+  poly(tg,[(1013,405),(1070,321),(1130,373),(1200,310),(1240,405)],'#657e76',None);playing=p==1 or p>=12 or (p==11 and a=='sit_play' and l>.94);sunx=1170+(5*math.sin(t*.2) if playing else 0);tg.ellipse((sunx,281,sunx+24,305),fill='#eac787')
 
   if not playing:poly(tg,[(1118,316),(1118,357),(1152,336)],'#eee1b9','#536c61',2)
   line(tg,[(1120,422),(1120,486)],'#48594b',7);line(tg,[(1074,489),(1162,489)],'#48594b',7)
 
-  im.alpha_composite(tv,(-870,0))
-  if a in ['remote_insert','empty_movie','walk_snack','sit_back','snack_grab'] or a=='sit_play' and l<2.1 or a=='startle' and l>=.36:remote(im,REMOTE)
-  if (p>=11 and a!='walk_snack' and not(a=='sit_play' and l<.5)) or a=='uneasy_movie':bowl(im,BOWL)
+  im.alpha_composite(tv,(0,0))
+  if a in ['remote_insert','empty_movie','walk_snack','sit_back','snack_grab'] or a=='sit_play' and l<.8 or a=='startle' and l>=.36:remote(im,REMOTE)
+
  if desk:
   g.rounded_rectangle((563,352,684,493),10,fill='#9a9f82',outline='#62715c',width=4);g.rounded_rectangle((553,487,698,508),7,fill='#b2ac88',outline='#596e5e',width=4)
   for xx in [569,683]:line(g,[(xx,506),(xx,590)],'#5e6e59',6)
@@ -248,11 +249,16 @@ def scene(t,s):
  if a=='walk_snack':
   hero=walk_pose(350,850,l,1.5);rest(hero);hand(hero,'left',[-52,-27]);carry(hero,'bowl','left',bowl,[0,14])
  elif a=='sit_play':
-  if l<.6:
-   hero=stand_pose(850);rest(hero);hero['wr']['left']=mix([798,391],[915,420],on(l,.06,.48));carry(hero,'bowl','left',bowl,[0,14]) if l<.5 else None
-  elif l<1.65:hero=walk_pose(850,650,l-.6,1.05);rest(hero)
-  else:
-   hero=stand_pose();hero['hip'][1]=418+62*on(l,1.65,2.1);rest(hero);hand(hero,'right',[70,-20]);carry(hero,'remote','right',remote,[0,-10])
+  hero=stand_pose();hero['hip'][1]=418+62*on(l,.05,.45);rest(hero);hero['expr']='relieved'
+  hand(hero,'left',[-52,-27]);hand(hero,'right',[70,-20])
+  if l<.45:carry(hero,'bowl','left',bowl,[0,14])
+  elif l<.8:
+   hero['wr']['left']=mix(np.asarray(hero['hip'])+[-52,-27],BOWL-[0,14],on(l,.45,.78));carry(hero,'bowl','left',bowl,[0,14])
+  else:hand(hero,'left',mix([-75,6],[-90,-4],on(l,.8,1.2)))
+  if l>.45:
+   hero['wr']['right']=mix(np.asarray(hero['hip'])+[70,-20],REMOTE+[0,10],on(l,.45,.78))
+   if l>=.8:
+    hero['wr']['right']=mix(REMOTE+[0,10],np.asarray(hero['hip'])+[70,-20],on(l,.8,1.));carry(hero,'remote','right',remote,[0,-10])
  elif a=='startle':
   hero['expr']='worried';hero['wr']['right']=mix(np.asarray(hero['hip'])+[70,-20],REMOTE+[0,10],on(l,.05,.35));hero['hip'][1]=480-62*on(l,.4,.9);hero['head']=-12*on(l,.05,.28)
   if l<.36:carry(hero,'remote','right',remote,[0,-10])
@@ -260,10 +266,12 @@ def scene(t,s):
  elif a=='sit_back':
   hero=stand_pose();hero['hip'][1]=418+62*on(l,.05,.5);rest(hero);hero['expr']='relieved'
  elif a=='snack_grab':
-  buddy=stand_pose(840);rest(buddy);buddy['angle']=5;buddy['wr']['right']=mix([912,412],[915,410],on(l,.1,.4))
+  buddy=stand_pose(480);buddy['hip'][1]=418+62*on(l,.08,.35)*(1-on(l,.65,1.05));rest(buddy)
+  hand(buddy,'right',mix([72,-6],[95,6],on(l,.1,.35)))
   if l>.45:
-   if l>1.1:buddy=walk_pose(840,1160,l-1.1,1.3);rest(buddy)
-   hand(buddy,'right',[73,-25]);c=buddy['wr']['right']+[0,-6];buddy['draws'].append(lambda m,c=c:ImageDraw.Draw(m).ellipse((c[0]-7,c[1]-7,c[0]+7,c[1]+7),fill='#e1c18b',outline='#6e6954'))
+   hand(buddy,'right',mix([95,6],[73,-25],on(l,.5,.9)))
+   if l>1.1:buddy=walk_pose(480,100,l-1.1,1.3);rest(buddy);hand(buddy,'right',[73,-25])
+   c=buddy['wr']['right']+[0,-6];buddy['draws'].append(lambda m,c=c:ImageDraw.Draw(m).ellipse((c[0]-7,c[1]-7,c[0]+7,c[1]+7),fill='#e1c18b',outline='#6e6954'))
   rows.append(show_actor(im,buddy,'friend'))
  else:
   hand(hero,'right',[70,-20]);carry(hero,'remote','right',remote,[0,-10]);hero['expr']='worried' if a in ['couch_guilt','uneasy_movie','still_guilty'] else 'relieved' if a in ['watch','rest_end','stay'] else 'normal'
@@ -273,6 +281,9 @@ def scene(t,s):
   else:hand(hero,'left',[-90,-4]);hero['head']=-2+3*on(l,.1,.7)
  if a in ['rest_end','stay','watch']:hero['hip'][1]+=.8*math.sin(l*2)
  rows.append(show_actor(im,hero))
+ g=ImageDraw.Draw(im);poly(g,[(460,514),(710,514),(730,534),(444,534)],'#c7ad85','#6f6650',3)
+ for xx in [466,704]:line(g,[(xx,533),(xx,644)],'#75674d',6)
+ if (p>=11 and a!='walk_snack' and not(a=='sit_play' and l<.8)) or a=='uneasy_movie':bowl(im,BOWL)
  return im,rows,events
 def frame(t,caption=True):
  i=max(0,min(len(SHOTS)-1,bisect.bisect_right(STARTS,t)-1));s=SHOTS[i];im,rows,events=scene(t,s)

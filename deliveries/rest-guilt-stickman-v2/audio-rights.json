@@ -1,0 +1,9 @@
+{
+  "voice": "OpenAI tts-1-hd/alloy; one user-authorized recording, native speed1. See tts-request.json and authorization.json.",
+  "music": "Creator-owned original instrumental from earlier rest-guilt-long-v1; reused, level balanced and faded to this ending.",
+  "foley": "Creator-owned original locally synthesized/designed Foley from rest-guilt-long-v1 and long-evenings-v1, resynchronized to actual body contacts.",
+  "alarm": "Original local synthesized device sound; no music-generation service.",
+  "new_paid_voice_calls": 1,
+  "new_paid_image_music_video_transcription_calls": 0,
+  "ai_voice_disclosure": "Narration is an AI-generated voice."
+}

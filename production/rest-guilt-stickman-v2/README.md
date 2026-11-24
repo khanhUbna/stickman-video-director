@@ -14,3 +14,5 @@ python3 scripts/render.py
 ```
 
 Output/cache are ignored. The final delivery target is deliveries/rest-guilt-stickman-v2 on video-delivery-b1. Rendering and scientific/visual checks are separate from subjective human listening and creator acceptance. Nothing is published to YouTube.
+
+Completed delivery: `../../deliveries/rest-guilt-stickman-v2/`. See REVIEW.md for final technical and visual review scope. Rebuild the local audio mix with `python3 scripts/mix_audio.py`; package/check with `python3 scripts/finish.py` after rendering. These commands reuse the saved recording. Never rerun narrate.py to rerender.

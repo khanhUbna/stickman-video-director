@@ -1,0 +1,470 @@
+[
+  {
+    "time": 40.7,
+    "kind": "step",
+    "end": 40.82,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 41.03333,
+    "kind": "step",
+    "end": 41.15333,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 41.36667,
+    "kind": "step",
+    "end": 41.48667,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 41.7,
+    "kind": "step",
+    "end": 41.82,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 152.0,
+    "kind": "step",
+    "end": 152.12,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 152.4,
+    "kind": "step",
+    "end": 152.52,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 152.8,
+    "kind": "step",
+    "end": 152.92,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 153.23333,
+    "kind": "step",
+    "end": 153.35333,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 173.0,
+    "kind": "step",
+    "end": 173.12,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 173.23333,
+    "kind": "step",
+    "end": 173.35333,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 173.5,
+    "kind": "step",
+    "end": 173.62,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 173.73333,
+    "kind": "step",
+    "end": 173.85333,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 174.0,
+    "kind": "step",
+    "end": 174.12,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 174.23333,
+    "kind": "step",
+    "end": 174.35333,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 187.73333,
+    "kind": "step",
+    "end": 187.85333,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 188.06667,
+    "kind": "step",
+    "end": 188.18667,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 188.36667,
+    "kind": "step",
+    "end": 188.48667,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 188.7,
+    "kind": "step",
+    "end": 188.82,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 196.56667,
+    "kind": "step",
+    "end": 196.68667,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 196.8,
+    "kind": "step",
+    "end": 196.92,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 197.06667,
+    "kind": "step",
+    "end": 197.18667,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 197.3,
+    "kind": "step",
+    "end": 197.42,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 219.36667,
+    "kind": "step",
+    "end": 219.48667,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 219.7,
+    "kind": "step",
+    "end": 219.82,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 220.33333,
+    "kind": "step",
+    "end": 220.45333,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 3.86,
+    "kind": "key",
+    "end": 4.02,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 8.64,
+    "kind": "water",
+    "end": 10.04,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 9.94,
+    "kind": "water",
+    "end": 11.34,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 11.24,
+    "kind": "water",
+    "end": 12.64,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 12.54,
+    "kind": "water",
+    "end": 12.92,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 8.79,
+    "kind": "wash",
+    "end": 8.99,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 9.39,
+    "kind": "wash",
+    "end": 9.59,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 9.99,
+    "kind": "wash",
+    "end": 10.19,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 10.59,
+    "kind": "wash",
+    "end": 10.79,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 11.19,
+    "kind": "wash",
+    "end": 11.39,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 11.79,
+    "kind": "wash",
+    "end": 11.99,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 12.39,
+    "kind": "wash",
+    "end": 12.59,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 39.29,
+    "kind": "plate",
+    "end": 39.47,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 61.28,
+    "kind": "alarm",
+    "end": 61.4,
+    "source": "Locally synthesized device-alarm effect"
+  },
+  {
+    "time": 61.52,
+    "kind": "alarm",
+    "end": 61.64,
+    "source": "Locally synthesized device-alarm effect"
+  },
+  {
+    "time": 82.4,
+    "kind": "phone",
+    "end": 82.52,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 88.06,
+    "kind": "phone",
+    "end": 88.18,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 93.88,
+    "kind": "phone",
+    "end": 94.0,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 167.27,
+    "kind": "pen",
+    "end": 167.52,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 167.52,
+    "kind": "pen",
+    "end": 167.77,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 167.77,
+    "kind": "pen",
+    "end": 168.02,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 168.02,
+    "kind": "pen",
+    "end": 168.27,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 171.39,
+    "kind": "close",
+    "end": 171.57,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 174.69,
+    "kind": "seat",
+    "end": 174.87,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 175.04,
+    "kind": "plate",
+    "end": 175.22,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 175.18,
+    "kind": "phone",
+    "end": 175.3,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 180.14,
+    "kind": "key",
+    "end": 180.3,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 184.65,
+    "kind": "phone",
+    "end": 184.77,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 185.2,
+    "kind": "seat",
+    "end": 185.38,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 190.3,
+    "kind": "water",
+    "end": 191.7,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 191.6,
+    "kind": "water",
+    "end": 193.0,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 192.9,
+    "kind": "water",
+    "end": 194.3,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 194.2,
+    "kind": "water",
+    "end": 195.6,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 195.5,
+    "kind": "water",
+    "end": 196.3,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 190.45,
+    "kind": "wash",
+    "end": 190.65,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 191.05,
+    "kind": "wash",
+    "end": 191.25,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 191.65,
+    "kind": "wash",
+    "end": 191.85,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 192.25,
+    "kind": "wash",
+    "end": 192.45,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 192.85,
+    "kind": "wash",
+    "end": 193.05,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 193.45,
+    "kind": "wash",
+    "end": 193.65,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 194.05,
+    "kind": "wash",
+    "end": 194.25,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 194.65,
+    "kind": "wash",
+    "end": 194.85,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 195.25,
+    "kind": "wash",
+    "end": 195.45,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 195.85,
+    "kind": "wash",
+    "end": 196.05,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 196.3,
+    "kind": "water",
+    "end": 197.7,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 197.6,
+    "kind": "water",
+    "end": 199.0,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 198.9,
+    "kind": "water",
+    "end": 199.42,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 199.42,
+    "kind": "water",
+    "end": 200.82,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 200.72,
+    "kind": "water",
+    "end": 201.48,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 201.98,
+    "kind": "key",
+    "end": 202.14,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 202.7,
+    "kind": "plate",
+    "end": 202.88,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 201.48,
+    "kind": "water",
+    "end": 202.03,
+    "source": "Original designed Foley reused locally"
+  },
+  {
+    "time": 216.82,
+    "kind": "seat",
+    "end": 217.0,
+    "source": "Original designed Foley reused locally"
+  }
+]
