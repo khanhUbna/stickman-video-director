@@ -1,0 +1,224 @@
+{
+  "title": "Why You Feel Guilty When You Rest",
+  "duration_seconds": 250.233333,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "native_design": "16:9, separately staged landscape, not a crop/stretch of the Short",
+  "fps": 30,
+  "frames": 7507,
+  "full_decode": "pass",
+  "audio_video_duration_difference_seconds": 0.0003329999999834854,
+  "file_bytes": 17003684,
+  "sha256": "96abcb8dae456a58c03fa019a51620a3b18755241dfdfad49ff7de197e6df29f",
+  "source_fingerprint": "083b1daecb635bf61d4edb4c382715720cb25427b4eb4c25c4947e28640cc845",
+  "narrative": {
+    "chapters": 6,
+    "shots": 39,
+    "settings": [
+      "entry",
+      "hobby",
+      "kitchen",
+      "laundry",
+      "living",
+      "office",
+      "park",
+      "street"
+    ],
+    "action_families": 29,
+    "script_words": 682,
+    "copied_or_looped_short_footage": false
+  },
+  "motion": {
+    "renderer": "Project-local articulated extension, not a modified/certified installed B6 runtime",
+    "actor_frames_checked": 6386,
+    "four_chains_per_actor_frame": true,
+    "maximum_fixed_bone_error_pixels": 1.4210854715202004e-13,
+    "maximum_consecutive_planted_foot_drift_pixels": 2.2737367544323206e-13,
+    "contact_max_errors_pixels": {
+      "shirt_grip": 0,
+      "fabric_left": 0,
+      "fabric_fold": 0,
+      "plate_grip": 0,
+      "phone_grip": 0,
+      "bag_handle": 0,
+      "book_left": 0,
+      "book_right": 0,
+      "mug_handle": 0,
+      "kettle_handle": 0
+    },
+    "landed_walk_stop_actor_frames_checked": 35,
+    "unreachable_target_negative_test": true,
+    "cast_coverage": {
+      "01-01": [
+        "hero"
+      ],
+      "01-02": [
+        "hero"
+      ],
+      "01-03": [
+        "hero"
+      ],
+      "01-04": [
+        "hero"
+      ],
+      "01-05": [
+        "hero"
+      ],
+      "01-06": [],
+      "01-07": [
+        "hero"
+      ],
+      "02-01": [],
+      "02-02": [
+        "hero"
+      ],
+      "02-03": [
+        "hero"
+      ],
+      "02-04": [
+        "hero"
+      ],
+      "02-05": [
+        "hero"
+      ],
+      "02-06": [
+        "hero"
+      ],
+      "02-07": [
+        "hero"
+      ],
+      "03-01": [
+        "hero"
+      ],
+      "03-02": [
+        "hero"
+      ],
+      "03-03": [
+        "hero"
+      ],
+      "03-04": [
+        "hero"
+      ],
+      "03-05": [
+        "hero"
+      ],
+      "03-06": [
+        "hero"
+      ],
+      "03-07": [
+        "hero"
+      ],
+      "04-01": [
+        "hero"
+      ],
+      "04-02": [],
+      "04-03": [
+        "hero"
+      ],
+      "04-04": [],
+      "04-05": [
+        "hero"
+      ],
+      "04-06": [
+        "hero"
+      ],
+      "05-01": [
+        "hero"
+      ],
+      "05-02": [],
+      "05-03": [
+        "hero"
+      ],
+      "05-04": [
+        "hero"
+      ],
+      "05-05": [
+        "hero"
+      ],
+      "05-06": [
+        "hero"
+      ],
+      "05-07": [
+        "hero"
+      ],
+      "06-01": [
+        "hero"
+      ],
+      "06-02": [],
+      "06-03": [
+        "hero"
+      ],
+      "06-04": [
+        "hero"
+      ],
+      "06-05": [
+        "hero"
+      ]
+    }
+  },
+  "captions": {
+    "language": "English",
+    "cues": 103,
+    "single_line": true,
+    "word_coverage": "Exact normalized script coverage",
+    "alignment": "Offline acoustic PocketSphinx chapter words, actual audio offsets",
+    "profile": {
+      "font_family": "Archivo Black",
+      "font_file": "fonts/ArchivoBlack.ttf",
+      "font_sha256": "dd9a89a019b4849f66ab75455fe7bdf931311042cbb0f0f97acc061539703180",
+      "fill": "#ffffff",
+      "stroke_fill": "#171319",
+      "supersampling": 3,
+      "resample": "lanczos",
+      "anchor": "ms",
+      "switch": "hard_cut",
+      "autoshrink": false,
+      "pop": false,
+      "profile": "b6-landscape-native-archivo-black-v1",
+      "native_design": "16:9",
+      "font_size": 39,
+      "stroke": 3,
+      "side": 64,
+      "baseline": 677,
+      "band": [
+        624,
+        708
+      ],
+      "native_layout_reason": "Separately authored 1280x720 landscape stage: floor at 590, hands/props above 480, fixed one-line captions below all principal body/prop actions; native landscape framing, not a crop of the Short."
+    }
+  },
+  "sound": {
+    "narrator": "OpenAI tts-1 / alloy",
+    "native_voice_seconds": 244.7625,
+    "speed": 1,
+    "new_tts_requests": 6,
+    "estimated_tts_usd": 0.06045,
+    "billing_verified": false,
+    "new_paid_transcription_requests": 0,
+    "new_image_API_requests": 4,
+    "music_and_Foley": "Original local synthesis; footsteps tied to rendered contacts",
+    "loudness": {
+      "input_i": "-16.21",
+      "input_tp": "-4.06",
+      "input_lra": "4.50",
+      "input_thresh": "-27.20",
+      "output_i": "-16.01",
+      "output_tp": "-3.53",
+      "output_lra": "4.20",
+      "output_thresh": "-26.96",
+      "normalization_type": "dynamic",
+      "target_offset": "0.01"
+    }
+  },
+  "review": {
+    "technical_checks": "Complete decode, frame/stream checks, per-frame drawn-chain geometry, authored contact points, every cast/shot and landed stops",
+    "author_visual_review": "Native source action stills and separately decoded final frames, recorded in visual-review.md",
+    "independent_creative_review": "not available",
+    "real_time_audiovisual_listening_by_agent": "not performed; automated measurements are not listening approval",
+    "installed_B6_35_subcheck_reference_acceptance": "not claimed for the project-local action extension",
+    "user_approval": "pending actual user viewing"
+  },
+  "YouTube_upload": false
+}

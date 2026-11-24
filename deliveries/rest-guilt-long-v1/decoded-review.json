@@ -1,0 +1,452 @@
+{
+  "sha256": "96abcb8dae456a58c03fa019a51620a3b18755241dfdfad49ff7de197e6df29f",
+  "source_fingerprint": "083b1daecb635bf61d4edb4c382715720cb25427b4eb4c25c4947e28640cc845",
+  "decoded_samples": [
+    {
+      "shot": "01-01",
+      "action": "rest_sit",
+      "time": 1.119575
+    },
+    {
+      "shot": "01-02",
+      "action": "notice_shirt",
+      "time": 6.788825
+    },
+    {
+      "shot": "01-03",
+      "action": "shirt_pickup",
+      "time": 11.540524999999999
+    },
+    {
+      "shot": "01-04",
+      "action": "fold",
+      "time": 16.3302
+    },
+    {
+      "shot": "01-05",
+      "action": "wipe",
+      "time": 20.854474999999997
+    },
+    {
+      "shot": "01-06",
+      "action": "clock",
+      "time": 26.172299999999996
+    },
+    {
+      "shot": "01-07",
+      "action": "rest_still",
+      "time": 31.79735
+    },
+    {
+      "shot": "02-01",
+      "action": "list_insert",
+      "time": 39.331
+    },
+    {
+      "shot": "02-02",
+      "action": "dishes",
+      "time": 46.50965
+    },
+    {
+      "shot": "02-03",
+      "action": "email",
+      "time": 52.579350000000005
+    },
+    {
+      "shot": "02-04",
+      "action": "rest_alarm",
+      "time": 58.048375
+    },
+    {
+      "shot": "02-05",
+      "action": "fold",
+      "time": 63.956125
+    },
+    {
+      "shot": "02-06",
+      "action": "walk",
+      "time": 69.798025
+    },
+    {
+      "shot": "02-07",
+      "action": "rest_still",
+      "time": 75.77185
+    },
+    {
+      "shot": "03-01",
+      "action": "notebook",
+      "time": 82.78535000000001
+    },
+    {
+      "shot": "03-02",
+      "action": "close_laptop",
+      "time": 88.695075
+    },
+    {
+      "shot": "03-03",
+      "action": "walk",
+      "time": 95.939875
+    },
+    {
+      "shot": "03-04",
+      "action": "phone_pickup",
+      "time": 101.926575
+    },
+    {
+      "shot": "03-05",
+      "action": "comparison",
+      "time": 108.81160000000001
+    },
+    {
+      "shot": "03-06",
+      "action": "phone_place",
+      "time": 115.49292500000003
+    },
+    {
+      "shot": "03-07",
+      "action": "sit_bench",
+      "time": 122.42310000000002
+    },
+    {
+      "shot": "04-01",
+      "action": "cook",
+      "time": 129.52297500000003
+    },
+    {
+      "shot": "04-02",
+      "action": "deadline_insert",
+      "time": 136.21072500000002
+    },
+    {
+      "shot": "04-03",
+      "action": "bag",
+      "time": 143.48682500000004
+    },
+    {
+      "shot": "04-04",
+      "action": "shirt_insert",
+      "time": 149.62645000000003
+    },
+    {
+      "shot": "04-05",
+      "action": "rest_alarm",
+      "time": 155.01750000000004
+    },
+    {
+      "shot": "04-06",
+      "action": "book",
+      "time": 162.19815000000003
+    },
+    {
+      "shot": "05-01",
+      "action": "notebook",
+      "time": 168.80337500000005
+    },
+    {
+      "shot": "05-02",
+      "action": "plan_insert",
+      "time": 174.34507500000004
+    },
+    {
+      "shot": "05-03",
+      "action": "close_laptop",
+      "time": 180.39577500000004
+    },
+    {
+      "shot": "05-04",
+      "action": "phone_place",
+      "time": 186.80977500000003
+    },
+    {
+      "shot": "05-05",
+      "action": "pour",
+      "time": 195.36175000000006
+    },
+    {
+      "shot": "05-06",
+      "action": "rest_book",
+      "time": 203.12405000000004
+    },
+    {
+      "shot": "05-07",
+      "action": "reach_return",
+      "time": 210.82282500000005
+    },
+    {
+      "shot": "06-01",
+      "action": "rest_alarm",
+      "time": 218.74860000000004
+    },
+    {
+      "shot": "06-02",
+      "action": "shirt_insert",
+      "time": 224.13905000000005
+    },
+    {
+      "shot": "06-03",
+      "action": "rest_book",
+      "time": 230.45055000000005
+    },
+    {
+      "shot": "06-04",
+      "action": "rest_ending",
+      "time": 237.11822500000005
+    },
+    {
+      "shot": "06-05",
+      "action": "ending_insert",
+      "time": 244.18803333333335
+    },
+    {
+      "shot": "01-01",
+      "action": "rest_sit",
+      "time": 4.655075
+    },
+    {
+      "shot": "01-02",
+      "action": "notice_shirt",
+      "time": 9.619325
+    },
+    {
+      "shot": "01-03",
+      "action": "shirt_pickup",
+      "time": 14.479025
+    },
+    {
+      "shot": "01-04",
+      "action": "fold",
+      "time": 18.9282
+    },
+    {
+      "shot": "01-05",
+      "action": "wipe",
+      "time": 24.065974999999998
+    },
+    {
+      "shot": "01-06",
+      "action": "clock",
+      "time": 29.2743
+    },
+    {
+      "shot": "01-07",
+      "action": "rest_still",
+      "time": 36.33635
+    },
+    {
+      "shot": "02-01",
+      "action": "list_insert",
+      "time": 43.771
+    },
+    {
+      "shot": "02-02",
+      "action": "dishes",
+      "time": 50.25065
+    },
+    {
+      "shot": "02-03",
+      "action": "email",
+      "time": 55.798350000000006
+    },
+    {
+      "shot": "02-04",
+      "action": "rest_alarm",
+      "time": 61.595875
+    },
+    {
+      "shot": "02-05",
+      "action": "fold",
+      "time": 67.488625
+    },
+    {
+      "shot": "02-06",
+      "action": "walk",
+      "time": 73.186525
+    },
+    {
+      "shot": "02-07",
+      "action": "rest_still",
+      "time": 80.19085000000001
+    },
+    {
+      "shot": "03-01",
+      "action": "notebook",
+      "time": 86.09435
+    },
+    {
+      "shot": "03-02",
+      "action": "close_laptop",
+      "time": 93.250575
+    },
+    {
+      "shot": "03-03",
+      "action": "walk",
+      "time": 99.397375
+    },
+    {
+      "shot": "03-04",
+      "action": "phone_pickup",
+      "time": 106.09207500000001
+    },
+    {
+      "shot": "03-05",
+      "action": "comparison",
+      "time": 112.79560000000002
+    },
+    {
+      "shot": "03-06",
+      "action": "phone_place",
+      "time": 119.60742500000002
+    },
+    {
+      "shot": "03-07",
+      "action": "sit_bench",
+      "time": 126.76710000000003
+    },
+    {
+      "shot": "04-01",
+      "action": "cook",
+      "time": 133.42447500000003
+    },
+    {
+      "shot": "04-02",
+      "action": "deadline_insert",
+      "time": 140.69722500000003
+    },
+    {
+      "shot": "04-03",
+      "action": "bag",
+      "time": 147.33732500000002
+    },
+    {
+      "shot": "04-04",
+      "action": "shirt_insert",
+      "time": 152.59945000000005
+    },
+    {
+      "shot": "04-05",
+      "action": "rest_alarm",
+      "time": 159.3675
+    },
+    {
+      "shot": "04-06",
+      "action": "book",
+      "time": 166.32915000000003
+    },
+    {
+      "shot": "05-01",
+      "action": "notebook",
+      "time": 172.05087500000002
+    },
+    {
+      "shot": "05-02",
+      "action": "plan_insert",
+      "time": 178.00057500000003
+    },
+    {
+      "shot": "05-03",
+      "action": "close_laptop",
+      "time": 183.91927500000003
+    },
+    {
+      "shot": "05-04",
+      "action": "phone_place",
+      "time": 192.04327500000005
+    },
+    {
+      "shot": "05-05",
+      "action": "pour",
+      "time": 200.05675000000005
+    },
+    {
+      "shot": "05-06",
+      "action": "rest_book",
+      "time": 207.62105000000005
+    },
+    {
+      "shot": "05-07",
+      "action": "reach_return",
+      "time": 215.96332500000005
+    },
+    {
+      "shot": "06-01",
+      "action": "rest_alarm",
+      "time": 221.86260000000004
+    },
+    {
+      "shot": "06-02",
+      "action": "shirt_insert",
+      "time": 227.88605000000004
+    },
+    {
+      "shot": "06-03",
+      "action": "rest_book",
+      "time": 234.40755000000004
+    },
+    {
+      "shot": "06-04",
+      "action": "rest_ending",
+      "time": 241.30472500000005
+    },
+    {
+      "shot": "06-05",
+      "action": "ending_insert",
+      "time": 248.66603333333333
+    }
+  ],
+  "details": [
+    {
+      "shot": "01-02",
+      "time": 10.0439,
+      "name": "supported-rise"
+    },
+    {
+      "shot": "01-03",
+      "time": 13.009775,
+      "name": "shirt-acquisition"
+    },
+    {
+      "shot": "01-03",
+      "time": 15.01775,
+      "name": "shirt-lift"
+    },
+    {
+      "shot": "01-04",
+      "time": 18.755,
+      "name": "fold-contact"
+    },
+    {
+      "shot": "03-03",
+      "time": 100.377,
+      "name": "landed-walk"
+    },
+    {
+      "shot": "05-04",
+      "time": 191.43270000000004,
+      "name": "phone-placement"
+    },
+    {
+      "shot": "05-04",
+      "time": 192.04327500000005,
+      "name": "phone-release"
+    },
+    {
+      "shot": "05-07",
+      "time": 212.45065000000005,
+      "name": "tempted-reach"
+    },
+    {
+      "shot": "05-07",
+      "time": 216.90575000000004,
+      "name": "return-to-book"
+    },
+    {
+      "shot": "06-04",
+      "time": 241.23495000000003,
+      "name": "ending"
+    }
+  ],
+  "caption_order_and_coverage": "pass",
+  "caption_fit_and_non_overlap": "pass",
+  "native_thumbnail_bytes": 280602,
+  "review_scope": "Author source and exact encoded frame inspection plus technical signal/geometry checks. Independent creative review, continuous human watch and real-time agent AV listening are not claimed."
+}

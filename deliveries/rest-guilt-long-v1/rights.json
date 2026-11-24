@@ -1,0 +1,36 @@
+{
+  "narration": {
+    "provider": "OpenAI",
+    "model": "tts-1",
+    "voice": "alloy",
+    "speed": 1,
+    "new_requests": 6,
+    "estimated_usd": 0.06045,
+    "billing_verified": false,
+    "AI_generated": true
+  },
+  "images": {
+    "new_generation_calls": 4,
+    "scope": "Two 4-panel environment atlases, one fitted reading expression, one thumbnail",
+    "billing_verified": false
+  },
+  "identity": {
+    "source": "Established channel protagonist painted cutouts reused from prior authorized films",
+    "source_license": "LICENSE retained"
+  },
+  "music_and_foley": {
+    "source": "Original local seeded synthesis in sound.py, no downloaded song or recording",
+    "use": "Supplied for synchronization, editing and use with this film",
+    "events": "audio/sound-events.json"
+  },
+  "fonts": {
+    "name": "Archivo Black",
+    "license": "SIL Open Font License; notices in fonts/"
+  },
+  "motion": {
+    "source": "Previously delivered project-local articulated extension, newly directed actions, painted sets and native landscape camera plans",
+    "installed_B6_engine_modified": false,
+    "reference_equivalence_claimed": false
+  },
+  "YouTube_upload": false
+}

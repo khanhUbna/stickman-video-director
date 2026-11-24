@@ -1,0 +1,94 @@
+{
+  "decoded-review.json": {
+    "bytes": 8838,
+    "sha256": "ab8773189cf78b736fbc45b947f580361e30742c82a6cc81226086fca56af6a8"
+  },
+  "captions-en.vtt": {
+    "bytes": 7203,
+    "sha256": "3cf242794a1d55f6406b886f6b4de8db999dea48869a2dfc546739a751f3a760"
+  },
+  "QA.json": {
+    "bytes": 5471,
+    "sha256": "ce33770bb8727e7066ba2d7d381a6fc2a52469c0351827b4db921c786e44b8e9"
+  },
+  "script-vi.txt": {
+    "bytes": 6243,
+    "sha256": "634f39a78ce34136bfa8529063dfae19148df6f99d830136a1db3f2f25121165"
+  },
+  "chapters.txt": {
+    "bytes": 223,
+    "sha256": "551c5403303f43b45ed04e6e0f13d2d0f26fe2e6e05b34c64a7dc64e3b6e5d9a"
+  },
+  "upload-description.txt": {
+    "bytes": 997,
+    "sha256": "0b8f8334ce8cfd8fad79fe81f1f53abc5d3fc934581ca6b8028e829a52385089"
+  },
+  "rights.json": {
+    "bytes": 1175,
+    "sha256": "f01418f0d7924dc02acfa64963d925ed7c1241ef1cffffd2a48fa35fc82bf6a6"
+  },
+  "visual-review.md": {
+    "bytes": 2711,
+    "sha256": "dd500db0b2990bb0c0e79df38f04bd6607cf4b58e490fb4cefe17db83128de0d"
+  },
+  "upload-title.txt": {
+    "bytes": 34,
+    "sha256": "8281df5078d58b263bf3b47dc5dcd7a0a4072097533f17ddb7446407eec61f85"
+  },
+  "voice-presence-checks.json": {
+    "bytes": 5313,
+    "sha256": "41475b319b0c383aa8ebea410710aec2122ac6e5dfa05c052fd139375958d13c"
+  },
+  "repair-notes.md": {
+    "bytes": 1442,
+    "sha256": "e848c01be85f01c956dd5bb505619e3d3edbc8955b3db6be6f1bfbf268269ee4"
+  },
+  "script-en.txt": {
+    "bytes": 4292,
+    "sha256": "b48ece9bd3daba5a2eea87ef81a2f5f1f6b6c27df907f75e3819c2429d1a9722"
+  },
+  "editorial-notes.md": {
+    "bytes": 2595,
+    "sha256": "2c570e5e5028dc280525ea1abe42f916c34aeba310074cad29daeaad9fbffcc4"
+  },
+  "README.md": {
+    "bytes": 4141,
+    "sha256": "cc4be24b4197407846c4d1d45188ec419c594a421f51d377a9beb43aafb26764"
+  },
+  "action-preview.mp4": {
+    "bytes": 1596536,
+    "sha256": "c6b3bb3e5324cfa40dada4eaed3c1dcc685ce2e741dc3bfbf0b4b88c91c5eab9"
+  },
+  "why-you-feel-guilty-when-you-rest.mp4": {
+    "bytes": 17003684,
+    "sha256": "96abcb8dae456a58c03fa019a51620a3b18755241dfdfad49ff7de197e6df29f"
+  },
+  "captions-vi.srt": {
+    "bytes": 8531,
+    "sha256": "012831e4dc78a9470b319fc9ad2042fa9a5923d0c71f5d35930ab97fc9933a65"
+  },
+  "source-project.zip": {
+    "bytes": 50363778,
+    "sha256": "6b346bc45868ac667eb1857b441ec7a9eebf5684247bde36dfb8556a3b7ab99f"
+  },
+  "encoded-storyboard-1.jpg": {
+    "bytes": 1185841,
+    "sha256": "2eab43dca3045d3d85410b0e1c9856cf0d770d8f64b23da9b3c20a8b2420cb6c"
+  },
+  "upload-settings.txt": {
+    "bytes": 597,
+    "sha256": "23a6964465c8e2b63e09013068cdde5db014e040e8e1d56e296ca2d5498afbc0"
+  },
+  "thumbnail.jpg": {
+    "bytes": 280602,
+    "sha256": "763a88dce62210a60a1ad055d3a9f432eee1f33509a354f543cb0d186047f0c4"
+  },
+  "captions-en.srt": {
+    "bytes": 7499,
+    "sha256": "9511ee320f4b05be0595efece35dc405d63ff3a1ff96f5210efc7a442ddc6c69"
+  },
+  "encoded-storyboard-2.jpg": {
+    "bytes": 1181949,
+    "sha256": "32e4226a53e5db2a9ce7b60bcdf7e577a9ce5e9e7810cf5d9ad66b7e49afad6c"
+  }
+}

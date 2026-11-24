@@ -1,0 +1,203 @@
+{
+  "all_spoken_blocks_present": true,
+  "spoken_blocks": 39,
+  "minimum_correlation": 0.9533507212500459,
+  "segments": [
+    {
+      "shot": "01-01",
+      "correlation": 0.9881844976975354,
+      "voice_above_background_db": 19.055465564740405
+    },
+    {
+      "shot": "01-02",
+      "correlation": 0.9934695271374202,
+      "voice_above_background_db": 20.834372843040036
+    },
+    {
+      "shot": "01-03",
+      "correlation": 0.9892752504794975,
+      "voice_above_background_db": 18.743520152102768
+    },
+    {
+      "shot": "01-04",
+      "correlation": 0.9852884643510216,
+      "voice_above_background_db": 18.427074400661255
+    },
+    {
+      "shot": "01-05",
+      "correlation": 0.9882873521725504,
+      "voice_above_background_db": 18.32434101320953
+    },
+    {
+      "shot": "01-06",
+      "correlation": 0.9846500548938103,
+      "voice_above_background_db": 20.499034681820042
+    },
+    {
+      "shot": "01-07",
+      "correlation": 0.9806012332249919,
+      "voice_above_background_db": 19.317137381720112
+    },
+    {
+      "shot": "02-01",
+      "correlation": 0.9770783370999121,
+      "voice_above_background_db": 18.126936962412227
+    },
+    {
+      "shot": "02-02",
+      "correlation": 0.9838175698284328,
+      "voice_above_background_db": 19.989317807108282
+    },
+    {
+      "shot": "02-03",
+      "correlation": 0.9930342688641398,
+      "voice_above_background_db": 20.616537805928992
+    },
+    {
+      "shot": "02-04",
+      "correlation": 0.9909339029724877,
+      "voice_above_background_db": 20.20005060656622
+    },
+    {
+      "shot": "02-05",
+      "correlation": 0.9864798548642413,
+      "voice_above_background_db": 20.216496311421842
+    },
+    {
+      "shot": "02-06",
+      "correlation": 0.9895048135772614,
+      "voice_above_background_db": 17.47222278172962
+    },
+    {
+      "shot": "02-07",
+      "correlation": 0.987439295695065,
+      "voice_above_background_db": 20.577017872964504
+    },
+    {
+      "shot": "03-01",
+      "correlation": 0.9925675582475787,
+      "voice_above_background_db": 19.914143187322637
+    },
+    {
+      "shot": "03-02",
+      "correlation": 0.9898556067475452,
+      "voice_above_background_db": 19.5117488540564
+    },
+    {
+      "shot": "03-03",
+      "correlation": 0.9919886025146477,
+      "voice_above_background_db": 20.32602976374735
+    },
+    {
+      "shot": "03-04",
+      "correlation": 0.9896028906740917,
+      "voice_above_background_db": 20.40597404487154
+    },
+    {
+      "shot": "03-05",
+      "correlation": 0.994770508042026,
+      "voice_above_background_db": 21.618015608476313
+    },
+    {
+      "shot": "03-06",
+      "correlation": 0.9887206902602276,
+      "voice_above_background_db": 21.292083688912044
+    },
+    {
+      "shot": "03-07",
+      "correlation": 0.9884152654074846,
+      "voice_above_background_db": 19.0874860584179
+    },
+    {
+      "shot": "04-01",
+      "correlation": 0.9888853967341205,
+      "voice_above_background_db": 19.744652084961334
+    },
+    {
+      "shot": "04-02",
+      "correlation": 0.989479575461594,
+      "voice_above_background_db": 20.707826299554704
+    },
+    {
+      "shot": "04-03",
+      "correlation": 0.9876233119263002,
+      "voice_above_background_db": 18.408002526872682
+    },
+    {
+      "shot": "04-04",
+      "correlation": 0.990850258211006,
+      "voice_above_background_db": 21.087616558427584
+    },
+    {
+      "shot": "04-05",
+      "correlation": 0.9797153235517336,
+      "voice_above_background_db": 19.851080030852252
+    },
+    {
+      "shot": "04-06",
+      "correlation": 0.9701394866842367,
+      "voice_above_background_db": 19.162236946066862
+    },
+    {
+      "shot": "05-01",
+      "correlation": 0.9858280693247384,
+      "voice_above_background_db": 20.331705223975337
+    },
+    {
+      "shot": "05-02",
+      "correlation": 0.9860338876925818,
+      "voice_above_background_db": 20.491725282807675
+    },
+    {
+      "shot": "05-03",
+      "correlation": 0.9875657129772063,
+      "voice_above_background_db": 20.947020403350344
+    },
+    {
+      "shot": "05-04",
+      "correlation": 0.9774873151615379,
+      "voice_above_background_db": 16.960457246605085
+    },
+    {
+      "shot": "05-05",
+      "correlation": 0.9872210290162488,
+      "voice_above_background_db": 18.41119549921359
+    },
+    {
+      "shot": "05-06",
+      "correlation": 0.9901087289487734,
+      "voice_above_background_db": 19.90845157076658
+    },
+    {
+      "shot": "05-07",
+      "correlation": 0.9882949367573126,
+      "voice_above_background_db": 19.5265102651337
+    },
+    {
+      "shot": "06-01",
+      "correlation": 0.9877053159224859,
+      "voice_above_background_db": 19.75649216016595
+    },
+    {
+      "shot": "06-02",
+      "correlation": 0.9874994583465688,
+      "voice_above_background_db": 19.896466600288516
+    },
+    {
+      "shot": "06-03",
+      "correlation": 0.9882544311990197,
+      "voice_above_background_db": 19.51785559298329
+    },
+    {
+      "shot": "06-04",
+      "correlation": 0.9860089991045049,
+      "voice_above_background_db": 19.423692205066846
+    },
+    {
+      "shot": "06-05",
+      "correlation": 0.9533507212500459,
+      "voice_above_background_db": 19.402071440912625
+    }
+  ],
+  "scope": "Signal presence/mix checks, not subjective listening or intelligibility approval."
+}

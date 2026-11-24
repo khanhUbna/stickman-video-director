@@ -1,0 +1,13 @@
+# Author observations on the exact exported film
+
+The final movie is identified by QA.json and decoded-review.json, not by an earlier preview. The author inspected both actual-MP4 boards, covering all 39 shots at approximately 19% and 79% of each shot, plus the actual encoded shirt-acquisition detail and source/native stress frames. The full media also passed FFmpeg decoding. These are frame/source and technical checks, not a continuous human watch or real-time listening claim.
+
+- Opening: the same character lowers onto the sofa, perceives the dry shirt on the left, rises with fixed soles, bends/acquires it and stands with it. The garment remains visible in the hand. The following laundry shot places the story at a different destination and changes the action to folding.
+- The author rejected the earlier serrated limb contours. The final decoded body/reading and pickup frames have smooth, dark, heavier, pressure-varied silhouettes against the new warm set. No new narration was requested for the picture repair.
+- Household scenes change between living room, laundry, kitchen, entry, office and reading corner. The street has actual distance-driven walking and a separately moving car; the park has a seated pause and background birds. Native medium/detail/reaction cuts avoid an identical-wide treatment through the whole film.
+- List and tomorrow-plan inserts progress physically on the pictured paper rather than replacing the story with lecture cards. The phone comparison shows ordinary feed posts; it introduces no additional painted person/cast.
+- Later reading shots use the new fitted relaxed expression, with downward pupils and a restrained smile; the worry returns during the difficult first attempt. Hands remain visible around the book. Page progression, reach/recovery and a wider final callback distinguish the ending shots.
+- Caption cues are one line, white with dark outline, below the main contact field. Both decoded boards show readable complete phrases. Text coverage/order/non-overlap/fit are separately checked in code. Author sample viewing does not imply listening to every boundary.
+- Thumbnail: four readable words, the established gray-haired green-vest identity, tired expression, book and laundry. The title asks why rest produces guilt; the cover supplies the inner thought. Thumbnail is 1280x720 and below 2MB.
+
+Scope: the local renderer is not claimed to equal the installed B6 Sample 1 movie across its 35 detailed acceptance subchecks. The view cuts and uniform crops are not continuous turns or 3D camera travel. Independent creative/source comparison, real-time AV listening by the agent, and user approval remain unclaimed. No YouTube upload was performed.
