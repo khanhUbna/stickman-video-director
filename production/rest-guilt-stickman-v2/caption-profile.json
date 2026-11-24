@@ -1,0 +1,24 @@
+{
+  "font_family": "Archivo Black",
+  "font_file": "fonts/ArchivoBlack.ttf",
+  "font_sha256": "dd9a89a019b4849f66ab75455fe7bdf931311042cbb0f0f97acc061539703180",
+  "fill": "#ffffff",
+  "stroke_fill": "#171319",
+  "supersampling": 3,
+  "resample": "lanczos",
+  "anchor": "ms",
+  "switch": "hard_cut",
+  "autoshrink": false,
+  "pop": false,
+  "profile": "b6-landscape-native-archivo-black-v1",
+  "native_design": "16:9",
+  "font_size": 39,
+  "stroke": 3,
+  "side": 64,
+  "baseline": 677,
+  "band": [
+    624,
+    708
+  ],
+  "native_layout_reason": "Separately authored 1280x720 landscape stage: floor at 590, hands/props above 480, fixed one-line captions below all principal body/prop actions; native landscape framing, not a crop of the Short."
+}

@@ -1,0 +1,16 @@
+{
+  "user_approval": "Đồng ý, tối đa 0,20 USD",
+  "purpose": "New OpenAI Alloy recording for the approved 637-word V2 script and complete fast 2D rebuild",
+  "maximum_usd": 0.2,
+  "model": "tts-1-hd",
+  "voice": "alloy",
+  "native_speed": 1,
+  "pricing_usd_per_million_characters": 30,
+  "pricing_source": "https://developers.openai.com/api/docs/models/tts-1",
+  "pricing_evidence": "Official model page comparison shows TTS-1 HD $30 / 1M characters; TTS-1 $15 / 1M characters. Retrieved 2026-11-24.",
+  "characters": 3736,
+  "estimate_usd": 0.11208,
+  "billing_verified": false,
+  "automatic_retry": false,
+  "other_paid_services_authorized": false
+}

@@ -1,0 +1,5098 @@
+[
+  {
+    "text": "Why",
+    "start": 0.0,
+    "end": 0.14,
+    "basis": "local-asr",
+    "index": 0,
+    "paragraph": 1
+  },
+  {
+    "text": "does",
+    "start": 0.14,
+    "end": 0.26,
+    "basis": "local-asr",
+    "index": 1,
+    "paragraph": 1
+  },
+  {
+    "text": "resting",
+    "start": 0.26,
+    "end": 0.46,
+    "basis": "local-asr",
+    "index": 2,
+    "paragraph": 1
+  },
+  {
+    "text": "in",
+    "start": 0.46,
+    "end": 0.86,
+    "basis": "local-asr",
+    "index": 3,
+    "paragraph": 1
+  },
+  {
+    "text": "your",
+    "start": 0.86,
+    "end": 1.0,
+    "basis": "local-asr",
+    "index": 4,
+    "paragraph": 1
+  },
+  {
+    "text": "own",
+    "start": 1.0,
+    "end": 1.2,
+    "basis": "local-asr",
+    "index": 5,
+    "paragraph": 1
+  },
+  {
+    "text": "home",
+    "start": 1.2,
+    "end": 1.5,
+    "basis": "local-asr",
+    "index": 6,
+    "paragraph": 1
+  },
+  {
+    "text": "feel",
+    "start": 1.5,
+    "end": 2.04,
+    "basis": "local-asr",
+    "index": 7,
+    "paragraph": 1
+  },
+  {
+    "text": "like",
+    "start": 2.04,
+    "end": 2.22,
+    "basis": "local-asr",
+    "index": 8,
+    "paragraph": 1
+  },
+  {
+    "text": "getting",
+    "start": 2.22,
+    "end": 2.42,
+    "basis": "local-asr",
+    "index": 9,
+    "paragraph": 1
+  },
+  {
+    "text": "caught?",
+    "start": 2.42,
+    "end": 2.74,
+    "basis": "local-asr",
+    "index": 10,
+    "paragraph": 1
+  },
+  {
+    "text": "Picture",
+    "start": 3.68,
+    "end": 4.02,
+    "basis": "local-asr",
+    "index": 11,
+    "paragraph": 1
+  },
+  {
+    "text": "this.",
+    "start": 4.02,
+    "end": 4.24,
+    "basis": "local-asr",
+    "index": 12,
+    "paragraph": 1
+  },
+  {
+    "text": "You",
+    "start": 4.9,
+    "end": 4.94,
+    "basis": "local-asr",
+    "index": 13,
+    "paragraph": 1
+  },
+  {
+    "text": "hear",
+    "start": 4.94,
+    "end": 5.08,
+    "basis": "local-asr",
+    "index": 14,
+    "paragraph": 1
+  },
+  {
+    "text": "keys",
+    "start": 5.08,
+    "end": 5.36,
+    "basis": "local-asr",
+    "index": 15,
+    "paragraph": 1
+  },
+  {
+    "text": "at",
+    "start": 5.36,
+    "end": 5.52,
+    "basis": "local-asr",
+    "index": 16,
+    "paragraph": 1
+  },
+  {
+    "text": "the",
+    "start": 5.52,
+    "end": 5.62,
+    "basis": "local-asr",
+    "index": 17,
+    "paragraph": 1
+  },
+  {
+    "text": "front",
+    "start": 5.62,
+    "end": 5.8,
+    "basis": "local-asr",
+    "index": 18,
+    "paragraph": 1
+  },
+  {
+    "text": "door.",
+    "start": 5.8,
+    "end": 6.04,
+    "basis": "local-asr",
+    "index": 19,
+    "paragraph": 1
+  },
+  {
+    "text": "A",
+    "start": 6.58,
+    "end": 6.58,
+    "basis": "local-asr",
+    "index": 20,
+    "paragraph": 1
+  },
+  {
+    "text": "second",
+    "start": 6.58,
+    "end": 6.84,
+    "basis": "local-asr",
+    "index": 21,
+    "paragraph": 1
+  },
+  {
+    "text": "ago,",
+    "start": 6.84,
+    "end": 7.1,
+    "basis": "local-asr",
+    "index": 22,
+    "paragraph": 1
+  },
+  {
+    "text": "you",
+    "start": 7.1,
+    "end": 7.34,
+    "basis": "local-asr",
+    "index": 23,
+    "paragraph": 1
+  },
+  {
+    "text": "were",
+    "start": 7.34,
+    "end": 7.44,
+    "basis": "local-asr",
+    "index": 24,
+    "paragraph": 1
+  },
+  {
+    "text": "watching",
+    "start": 7.44,
+    "end": 7.68,
+    "basis": "local-asr",
+    "index": 25,
+    "paragraph": 1
+  },
+  {
+    "text": "a",
+    "start": 7.68,
+    "end": 7.82,
+    "basis": "local-asr",
+    "index": 26,
+    "paragraph": 1
+  },
+  {
+    "text": "movie.",
+    "start": 7.82,
+    "end": 8.08,
+    "basis": "local-asr",
+    "index": 27,
+    "paragraph": 1
+  },
+  {
+    "text": "Now",
+    "start": 8.64,
+    "end": 8.72,
+    "basis": "local-asr",
+    "index": 28,
+    "paragraph": 1
+  },
+  {
+    "text": "you're",
+    "start": 8.72,
+    "end": 8.9,
+    "basis": "local-asr",
+    "index": 29,
+    "paragraph": 1
+  },
+  {
+    "text": "washing",
+    "start": 8.9,
+    "end": 9.16,
+    "basis": "interpolated",
+    "index": 30,
+    "paragraph": 1
+  },
+  {
+    "text": "a",
+    "start": 9.16,
+    "end": 9.34,
+    "basis": "local-asr",
+    "index": 31,
+    "paragraph": 1
+  },
+  {
+    "text": "plate.",
+    "start": 9.34,
+    "end": 9.52,
+    "basis": "local-asr",
+    "index": 32,
+    "paragraph": 1
+  },
+  {
+    "text": "The",
+    "start": 10.16,
+    "end": 10.24,
+    "basis": "local-asr",
+    "index": 33,
+    "paragraph": 1
+  },
+  {
+    "text": "plate",
+    "start": 10.24,
+    "end": 10.44,
+    "basis": "local-asr",
+    "index": 34,
+    "paragraph": 1
+  },
+  {
+    "text": "was",
+    "start": 10.44,
+    "end": 10.64,
+    "basis": "local-asr",
+    "index": 35,
+    "paragraph": 1
+  },
+  {
+    "text": "already",
+    "start": 10.64,
+    "end": 10.86,
+    "basis": "local-asr",
+    "index": 36,
+    "paragraph": 1
+  },
+  {
+    "text": "clean.",
+    "start": 10.86,
+    "end": 11.18,
+    "basis": "local-asr",
+    "index": 37,
+    "paragraph": 1
+  },
+  {
+    "text": "An",
+    "start": 12.92,
+    "end": 12.92,
+    "basis": "local-asr",
+    "index": 38,
+    "paragraph": 2
+  },
+  {
+    "text": "hour",
+    "start": 12.92,
+    "end": 13.16,
+    "basis": "local-asr",
+    "index": 39,
+    "paragraph": 2
+  },
+  {
+    "text": "earlier,",
+    "start": 13.16,
+    "end": 13.6,
+    "basis": "local-asr",
+    "index": 40,
+    "paragraph": 2
+  },
+  {
+    "text": "this",
+    "start": 13.6,
+    "end": 13.94,
+    "basis": "local-asr",
+    "index": 41,
+    "paragraph": 2
+  },
+  {
+    "text": "evening",
+    "start": 13.94,
+    "end": 14.16,
+    "basis": "local-asr",
+    "index": 42,
+    "paragraph": 2
+  },
+  {
+    "text": "looked",
+    "start": 14.16,
+    "end": 14.4,
+    "basis": "local-asr",
+    "index": 43,
+    "paragraph": 2
+  },
+  {
+    "text": "different.",
+    "start": 14.4,
+    "end": 14.76,
+    "basis": "local-asr",
+    "index": 44,
+    "paragraph": 2
+  },
+  {
+    "text": "Dinner",
+    "start": 15.58,
+    "end": 15.78,
+    "basis": "local-asr",
+    "index": 45,
+    "paragraph": 2
+  },
+  {
+    "text": "was",
+    "start": 15.78,
+    "end": 16.02,
+    "basis": "local-asr",
+    "index": 46,
+    "paragraph": 2
+  },
+  {
+    "text": "done.",
+    "start": 16.02,
+    "end": 16.26,
+    "basis": "local-asr",
+    "index": 47,
+    "paragraph": 2
+  },
+  {
+    "text": "The",
+    "start": 16.66,
+    "end": 16.72,
+    "basis": "local-asr",
+    "index": 48,
+    "paragraph": 2
+  },
+  {
+    "text": "urgent",
+    "start": 16.72,
+    "end": 16.900000000000002,
+    "basis": "local-asr",
+    "index": 49,
+    "paragraph": 2
+  },
+  {
+    "text": "stuff",
+    "start": 16.900000000000002,
+    "end": 17.32,
+    "basis": "local-asr",
+    "index": 50,
+    "paragraph": 2
+  },
+  {
+    "text": "was",
+    "start": 17.32,
+    "end": 17.48,
+    "basis": "local-asr",
+    "index": 51,
+    "paragraph": 2
+  },
+  {
+    "text": "handled.",
+    "start": 17.48,
+    "end": 17.76,
+    "basis": "local-asr",
+    "index": 52,
+    "paragraph": 2
+  },
+  {
+    "text": "You",
+    "start": 18.5,
+    "end": 18.520000000000003,
+    "basis": "local-asr",
+    "index": 53,
+    "paragraph": 2
+  },
+  {
+    "text": "texted",
+    "start": 18.520000000000003,
+    "end": 18.720000000000002,
+    "basis": "local-asr",
+    "index": 54,
+    "paragraph": 2
+  },
+  {
+    "text": "a",
+    "start": 18.720000000000002,
+    "end": 18.96,
+    "basis": "local-asr",
+    "index": 55,
+    "paragraph": 2
+  },
+  {
+    "text": "friend:",
+    "start": 18.96,
+    "end": 19.200000000000003,
+    "basis": "local-asr",
+    "index": 56,
+    "paragraph": 2
+  },
+  {
+    "text": "finally,",
+    "start": 19.68,
+    "end": 20.060000000000002,
+    "basis": "local-asr",
+    "index": 57,
+    "paragraph": 2
+  },
+  {
+    "text": "movie",
+    "start": 20.44,
+    "end": 20.580000000000002,
+    "basis": "local-asr",
+    "index": 58,
+    "paragraph": 2
+  },
+  {
+    "text": "time.",
+    "start": 20.580000000000002,
+    "end": 20.880000000000003,
+    "basis": "local-asr",
+    "index": 59,
+    "paragraph": 2
+  },
+  {
+    "text": "You",
+    "start": 21.48,
+    "end": 21.580000000000002,
+    "basis": "local-asr",
+    "index": 60,
+    "paragraph": 2
+  },
+  {
+    "text": "made",
+    "start": 21.580000000000002,
+    "end": 21.700000000000003,
+    "basis": "local-asr",
+    "index": 61,
+    "paragraph": 2
+  },
+  {
+    "text": "a",
+    "start": 21.700000000000003,
+    "end": 21.82,
+    "basis": "local-asr",
+    "index": 62,
+    "paragraph": 2
+  },
+  {
+    "text": "snack,",
+    "start": 21.82,
+    "end": 22.040000000000003,
+    "basis": "local-asr",
+    "index": 63,
+    "paragraph": 2
+  },
+  {
+    "text": "found",
+    "start": 22.520000000000003,
+    "end": 22.720000000000002,
+    "basis": "local-asr",
+    "index": 64,
+    "paragraph": 2
+  },
+  {
+    "text": "the",
+    "start": 22.720000000000002,
+    "end": 22.900000000000002,
+    "basis": "local-asr",
+    "index": 65,
+    "paragraph": 2
+  },
+  {
+    "text": "remote,",
+    "start": 22.900000000000002,
+    "end": 23.080000000000002,
+    "basis": "local-asr",
+    "index": 66,
+    "paragraph": 2
+  },
+  {
+    "text": "and",
+    "start": 23.5,
+    "end": 23.66,
+    "basis": "local-asr",
+    "index": 67,
+    "paragraph": 2
+  },
+  {
+    "text": "gave",
+    "start": 23.66,
+    "end": 23.78,
+    "basis": "local-asr",
+    "index": 68,
+    "paragraph": 2
+  },
+  {
+    "text": "yourself",
+    "start": 23.78,
+    "end": 24.1,
+    "basis": "local-asr",
+    "index": 69,
+    "paragraph": 2
+  },
+  {
+    "text": "twenty",
+    "start": 24.1,
+    "end": 24.42,
+    "basis": "interpolated",
+    "index": 70,
+    "paragraph": 2
+  },
+  {
+    "text": "minutes.",
+    "start": 24.42,
+    "end": 24.700000000000003,
+    "basis": "local-asr",
+    "index": 71,
+    "paragraph": 2
+  },
+  {
+    "text": "Then",
+    "start": 25.76,
+    "end": 25.92,
+    "basis": "local-asr",
+    "index": 72,
+    "paragraph": 2
+  },
+  {
+    "text": "you",
+    "start": 25.92,
+    "end": 26.080000000000002,
+    "basis": "local-asr",
+    "index": 73,
+    "paragraph": 2
+  },
+  {
+    "text": "noticed",
+    "start": 26.080000000000002,
+    "end": 26.3,
+    "basis": "local-asr",
+    "index": 74,
+    "paragraph": 2
+  },
+  {
+    "text": "your",
+    "start": 26.3,
+    "end": 26.48,
+    "basis": "local-asr",
+    "index": 75,
+    "paragraph": 2
+  },
+  {
+    "text": "laptop",
+    "start": 26.48,
+    "end": 26.720000000000002,
+    "basis": "local-asr",
+    "index": 76,
+    "paragraph": 2
+  },
+  {
+    "text": "was",
+    "start": 26.720000000000002,
+    "end": 27.040000000000003,
+    "basis": "local-asr",
+    "index": 77,
+    "paragraph": 2
+  },
+  {
+    "text": "still",
+    "start": 27.040000000000003,
+    "end": 27.220000000000002,
+    "basis": "local-asr",
+    "index": 78,
+    "paragraph": 2
+  },
+  {
+    "text": "open.",
+    "start": 27.220000000000002,
+    "end": 27.5,
+    "basis": "local-asr",
+    "index": 79,
+    "paragraph": 2
+  },
+  {
+    "text": "One",
+    "start": 29.01,
+    "end": 29.11,
+    "basis": "local-asr",
+    "index": 80,
+    "paragraph": 3
+  },
+  {
+    "text": "unanswered",
+    "start": 29.11,
+    "end": 29.61,
+    "basis": "local-asr",
+    "index": 81,
+    "paragraph": 3
+  },
+  {
+    "text": "email.",
+    "start": 29.61,
+    "end": 30.03,
+    "basis": "local-asr",
+    "index": 82,
+    "paragraph": 3
+  },
+  {
+    "text": "It",
+    "start": 30.81,
+    "end": 30.99,
+    "basis": "local-asr",
+    "index": 83,
+    "paragraph": 3
+  },
+  {
+    "text": "could",
+    "start": 30.99,
+    "end": 31.13,
+    "basis": "local-asr",
+    "index": 84,
+    "paragraph": 3
+  },
+  {
+    "text": "wait",
+    "start": 31.13,
+    "end": 31.35,
+    "basis": "local-asr",
+    "index": 85,
+    "paragraph": 3
+  },
+  {
+    "text": "until",
+    "start": 31.35,
+    "end": 31.67,
+    "basis": "local-asr",
+    "index": 86,
+    "paragraph": 3
+  },
+  {
+    "text": "tomorrow.",
+    "start": 31.67,
+    "end": 32.129999999999995,
+    "basis": "local-asr",
+    "index": 87,
+    "paragraph": 3
+  },
+  {
+    "text": "You",
+    "start": 32.769999999999996,
+    "end": 32.989999999999995,
+    "basis": "local-asr",
+    "index": 88,
+    "paragraph": 3
+  },
+  {
+    "text": "knew",
+    "start": 32.989999999999995,
+    "end": 33.129999999999995,
+    "basis": "local-asr",
+    "index": 89,
+    "paragraph": 3
+  },
+  {
+    "text": "that.",
+    "start": 33.129999999999995,
+    "end": 33.41,
+    "basis": "local-asr",
+    "index": 90,
+    "paragraph": 3
+  },
+  {
+    "text": "But",
+    "start": 33.71,
+    "end": 33.89,
+    "basis": "local-asr",
+    "index": 91,
+    "paragraph": 3
+  },
+  {
+    "text": "answering",
+    "start": 33.89,
+    "end": 34.31,
+    "basis": "local-asr",
+    "index": 92,
+    "paragraph": 3
+  },
+  {
+    "text": "it",
+    "start": 34.31,
+    "end": 34.53,
+    "basis": "local-asr",
+    "index": 93,
+    "paragraph": 3
+  },
+  {
+    "text": "would",
+    "start": 34.53,
+    "end": 34.63,
+    "basis": "local-asr",
+    "index": 94,
+    "paragraph": 3
+  },
+  {
+    "text": "take",
+    "start": 34.63,
+    "end": 34.81,
+    "basis": "local-asr",
+    "index": 95,
+    "paragraph": 3
+  },
+  {
+    "text": "two",
+    "start": 34.81,
+    "end": 35.03,
+    "basis": "local-asr",
+    "index": 96,
+    "paragraph": 3
+  },
+  {
+    "text": "minutes.",
+    "start": 35.03,
+    "end": 35.23,
+    "basis": "local-asr",
+    "index": 97,
+    "paragraph": 3
+  },
+  {
+    "text": "Then",
+    "start": 35.85,
+    "end": 36.11,
+    "basis": "local-asr",
+    "index": 98,
+    "paragraph": 3
+  },
+  {
+    "text": "you",
+    "start": 36.11,
+    "end": 36.31,
+    "basis": "local-asr",
+    "index": 99,
+    "paragraph": 3
+  },
+  {
+    "text": "could",
+    "start": 36.31,
+    "end": 36.43,
+    "basis": "local-asr",
+    "index": 100,
+    "paragraph": 3
+  },
+  {
+    "text": "relax",
+    "start": 36.43,
+    "end": 36.75,
+    "basis": "local-asr",
+    "index": 101,
+    "paragraph": 3
+  },
+  {
+    "text": "without",
+    "start": 36.75,
+    "end": 37.09,
+    "basis": "local-asr",
+    "index": 102,
+    "paragraph": 3
+  },
+  {
+    "text": "it",
+    "start": 37.09,
+    "end": 37.33,
+    "basis": "local-asr",
+    "index": 103,
+    "paragraph": 3
+  },
+  {
+    "text": "hanging",
+    "start": 37.33,
+    "end": 37.55,
+    "basis": "local-asr",
+    "index": 104,
+    "paragraph": 3
+  },
+  {
+    "text": "over",
+    "start": 37.55,
+    "end": 37.97,
+    "basis": "local-asr",
+    "index": 105,
+    "paragraph": 3
+  },
+  {
+    "text": "you.",
+    "start": 37.97,
+    "end": 38.19,
+    "basis": "local-asr",
+    "index": 106,
+    "paragraph": 3
+  },
+  {
+    "text": "You",
+    "start": 38.79,
+    "end": 39.23,
+    "basis": "local-asr",
+    "index": 107,
+    "paragraph": 3
+  },
+  {
+    "text": "put",
+    "start": 39.23,
+    "end": 39.37,
+    "basis": "local-asr",
+    "index": 108,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 39.37,
+    "end": 39.51,
+    "basis": "local-asr",
+    "index": 109,
+    "paragraph": 3
+  },
+  {
+    "text": "snack",
+    "start": 39.51,
+    "end": 39.67,
+    "basis": "local-asr",
+    "index": 110,
+    "paragraph": 3
+  },
+  {
+    "text": "down,",
+    "start": 39.67,
+    "end": 40.13,
+    "basis": "local-asr",
+    "index": 111,
+    "paragraph": 3
+  },
+  {
+    "text": "crossed",
+    "start": 40.35,
+    "end": 40.55,
+    "basis": "local-asr",
+    "index": 112,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 40.55,
+    "end": 40.85,
+    "basis": "local-asr",
+    "index": 113,
+    "paragraph": 3
+  },
+  {
+    "text": "room,",
+    "start": 40.85,
+    "end": 41.07,
+    "basis": "local-asr",
+    "index": 114,
+    "paragraph": 3
+  },
+  {
+    "text": "and",
+    "start": 41.27,
+    "end": 41.41,
+    "basis": "local-asr",
+    "index": 115,
+    "paragraph": 3
+  },
+  {
+    "text": "pulled",
+    "start": 41.41,
+    "end": 41.59,
+    "basis": "local-asr",
+    "index": 116,
+    "paragraph": 3
+  },
+  {
+    "text": "the",
+    "start": 41.59,
+    "end": 41.75,
+    "basis": "local-asr",
+    "index": 117,
+    "paragraph": 3
+  },
+  {
+    "text": "chair",
+    "start": 41.75,
+    "end": 41.91,
+    "basis": "local-asr",
+    "index": 118,
+    "paragraph": 3
+  },
+  {
+    "text": "out.",
+    "start": 41.91,
+    "end": 42.25,
+    "basis": "local-asr",
+    "index": 119,
+    "paragraph": 3
+  },
+  {
+    "text": "You",
+    "start": 43.9,
+    "end": 44.1,
+    "basis": "local-asr",
+    "index": 120,
+    "paragraph": 4
+  },
+  {
+    "text": "sent",
+    "start": 44.1,
+    "end": 44.28,
+    "basis": "local-asr",
+    "index": 121,
+    "paragraph": 4
+  },
+  {
+    "text": "the",
+    "start": 44.28,
+    "end": 44.46,
+    "basis": "local-asr",
+    "index": 122,
+    "paragraph": 4
+  },
+  {
+    "text": "reply.",
+    "start": 44.46,
+    "end": 44.66,
+    "basis": "local-asr",
+    "index": 123,
+    "paragraph": 4
+  },
+  {
+    "text": "Another",
+    "start": 45.62,
+    "end": 45.98,
+    "basis": "local-asr",
+    "index": 124,
+    "paragraph": 4
+  },
+  {
+    "text": "message",
+    "start": 45.98,
+    "end": 46.38,
+    "basis": "local-asr",
+    "index": 125,
+    "paragraph": 4
+  },
+  {
+    "text": "arrived.",
+    "start": 46.38,
+    "end": 46.74,
+    "basis": "local-asr",
+    "index": 126,
+    "paragraph": 4
+  },
+  {
+    "text": "Apparently",
+    "start": 47.4,
+    "end": 47.78,
+    "basis": "local-asr",
+    "index": 127,
+    "paragraph": 4
+  },
+  {
+    "text": "your",
+    "start": 47.78,
+    "end": 48.06,
+    "basis": "local-asr",
+    "index": 128,
+    "paragraph": 4
+  },
+  {
+    "text": "inbox",
+    "start": 48.06,
+    "end": 48.36,
+    "basis": "local-asr",
+    "index": 129,
+    "paragraph": 4
+  },
+  {
+    "text": "had",
+    "start": 48.36,
+    "end": 48.68,
+    "basis": "local-asr",
+    "index": 130,
+    "paragraph": 4
+  },
+  {
+    "text": "learned",
+    "start": 48.68,
+    "end": 48.86,
+    "basis": "local-asr",
+    "index": 131,
+    "paragraph": 4
+  },
+  {
+    "text": "to",
+    "start": 48.86,
+    "end": 49.08,
+    "basis": "local-asr",
+    "index": 132,
+    "paragraph": 4
+  },
+  {
+    "text": "reproduce.",
+    "start": 49.08,
+    "end": 49.46,
+    "basis": "local-asr",
+    "index": 133,
+    "paragraph": 4
+  },
+  {
+    "text": "You",
+    "start": 50.08,
+    "end": 50.24,
+    "basis": "local-asr",
+    "index": 134,
+    "paragraph": 4
+  },
+  {
+    "text": "opened",
+    "start": 50.24,
+    "end": 50.44,
+    "basis": "local-asr",
+    "index": 135,
+    "paragraph": 4
+  },
+  {
+    "text": "that",
+    "start": 50.44,
+    "end": 50.66,
+    "basis": "local-asr",
+    "index": 136,
+    "paragraph": 4
+  },
+  {
+    "text": "one",
+    "start": 50.66,
+    "end": 50.84,
+    "basis": "local-asr",
+    "index": 137,
+    "paragraph": 4
+  },
+  {
+    "text": "too.",
+    "start": 50.98,
+    "end": 51.1,
+    "basis": "local-asr",
+    "index": 138,
+    "paragraph": 4
+  },
+  {
+    "text": "Now",
+    "start": 51.7,
+    "end": 52.0,
+    "basis": "local-asr",
+    "index": 139,
+    "paragraph": 4
+  },
+  {
+    "text": "you",
+    "start": 52.0,
+    "end": 52.32,
+    "basis": "local-asr",
+    "index": 140,
+    "paragraph": 4
+  },
+  {
+    "text": "needed",
+    "start": 52.32,
+    "end": 52.5,
+    "basis": "local-asr",
+    "index": 141,
+    "paragraph": 4
+  },
+  {
+    "text": "a",
+    "start": 52.5,
+    "end": 52.68,
+    "basis": "local-asr",
+    "index": 142,
+    "paragraph": 4
+  },
+  {
+    "text": "document.",
+    "start": 52.68,
+    "end": 53.0,
+    "basis": "local-asr",
+    "index": 143,
+    "paragraph": 4
+  },
+  {
+    "text": "The",
+    "start": 53.8,
+    "end": 54.06,
+    "basis": "local-asr",
+    "index": 144,
+    "paragraph": 4
+  },
+  {
+    "text": "document",
+    "start": 54.06,
+    "end": 54.4,
+    "basis": "local-asr",
+    "index": 145,
+    "paragraph": 4
+  },
+  {
+    "text": "needed",
+    "start": 54.4,
+    "end": 54.78,
+    "basis": "local-asr",
+    "index": 146,
+    "paragraph": 4
+  },
+  {
+    "text": "a",
+    "start": 54.78,
+    "end": 54.96,
+    "basis": "local-asr",
+    "index": 147,
+    "paragraph": 4
+  },
+  {
+    "text": "correction.",
+    "start": 54.96,
+    "end": 55.34,
+    "basis": "local-asr",
+    "index": 148,
+    "paragraph": 4
+  },
+  {
+    "text": "Your",
+    "start": 55.92,
+    "end": 56.1,
+    "basis": "local-asr",
+    "index": 149,
+    "paragraph": 4
+  },
+  {
+    "text": "movie",
+    "start": 56.1,
+    "end": 56.32,
+    "basis": "local-asr",
+    "index": 150,
+    "paragraph": 4
+  },
+  {
+    "text": "was",
+    "start": 56.32,
+    "end": 56.54,
+    "basis": "local-asr",
+    "index": 151,
+    "paragraph": 4
+  },
+  {
+    "text": "still",
+    "start": 56.54,
+    "end": 56.76,
+    "basis": "local-asr",
+    "index": 152,
+    "paragraph": 4
+  },
+  {
+    "text": "waiting",
+    "start": 56.76,
+    "end": 57.0,
+    "basis": "local-asr",
+    "index": 153,
+    "paragraph": 4
+  },
+  {
+    "text": "for",
+    "start": 57.0,
+    "end": 57.28,
+    "basis": "local-asr",
+    "index": 154,
+    "paragraph": 4
+  },
+  {
+    "text": "you",
+    "start": 57.28,
+    "end": 57.36,
+    "basis": "local-asr",
+    "index": 155,
+    "paragraph": 4
+  },
+  {
+    "text": "to",
+    "start": 57.36,
+    "end": 57.44,
+    "basis": "local-asr",
+    "index": 156,
+    "paragraph": 4
+  },
+  {
+    "text": "press",
+    "start": 57.44,
+    "end": 57.62,
+    "basis": "local-asr",
+    "index": 157,
+    "paragraph": 4
+  },
+  {
+    "text": "play.",
+    "start": 57.62,
+    "end": 57.96,
+    "basis": "local-asr",
+    "index": 158,
+    "paragraph": 4
+  },
+  {
+    "text": "The",
+    "start": 58.5,
+    "end": 58.94,
+    "basis": "local-asr",
+    "index": 159,
+    "paragraph": 4
+  },
+  {
+    "text": "snack",
+    "start": 58.94,
+    "end": 59.1,
+    "basis": "local-asr",
+    "index": 160,
+    "paragraph": 4
+  },
+  {
+    "text": "was",
+    "start": 59.1,
+    "end": 59.4,
+    "basis": "local-asr",
+    "index": 161,
+    "paragraph": 4
+  },
+  {
+    "text": "getting",
+    "start": 59.4,
+    "end": 59.64,
+    "basis": "local-asr",
+    "index": 162,
+    "paragraph": 4
+  },
+  {
+    "text": "cold.",
+    "start": 59.64,
+    "end": 59.92,
+    "basis": "local-asr",
+    "index": 163,
+    "paragraph": 4
+  },
+  {
+    "text": "Your",
+    "start": 61.1,
+    "end": 61.160000000000004,
+    "basis": "local-asr",
+    "index": 164,
+    "paragraph": 5
+  },
+  {
+    "text": "phone",
+    "start": 61.160000000000004,
+    "end": 61.440000000000005,
+    "basis": "local-asr",
+    "index": 165,
+    "paragraph": 5
+  },
+  {
+    "text": "rang.",
+    "start": 61.440000000000005,
+    "end": 61.68,
+    "basis": "local-asr",
+    "index": 166,
+    "paragraph": 5
+  },
+  {
+    "text": "The",
+    "start": 62.24,
+    "end": 62.28,
+    "basis": "local-asr",
+    "index": 167,
+    "paragraph": 5
+  },
+  {
+    "text": "timer.",
+    "start": 62.28,
+    "end": 62.5,
+    "basis": "local-asr",
+    "index": 168,
+    "paragraph": 5
+  },
+  {
+    "text": "Twenty",
+    "start": 62.5,
+    "end": 63.26,
+    "basis": "interpolated",
+    "index": 169,
+    "paragraph": 5
+  },
+  {
+    "text": "minutes",
+    "start": 63.26,
+    "end": 63.54,
+    "basis": "local-asr",
+    "index": 170,
+    "paragraph": 5
+  },
+  {
+    "text": "were",
+    "start": 63.54,
+    "end": 63.76,
+    "basis": "local-asr",
+    "index": 171,
+    "paragraph": 5
+  },
+  {
+    "text": "up.",
+    "start": 63.76,
+    "end": 63.940000000000005,
+    "basis": "local-asr",
+    "index": 172,
+    "paragraph": 5
+  },
+  {
+    "text": "You",
+    "start": 64.58,
+    "end": 64.67999999999999,
+    "basis": "local-asr",
+    "index": 173,
+    "paragraph": 5
+  },
+  {
+    "text": "had",
+    "start": 64.67999999999999,
+    "end": 64.78,
+    "basis": "local-asr",
+    "index": 174,
+    "paragraph": 5
+  },
+  {
+    "text": "successfully",
+    "start": 64.78,
+    "end": 65.12,
+    "basis": "local-asr",
+    "index": 175,
+    "paragraph": 5
+  },
+  {
+    "text": "completed",
+    "start": 65.12,
+    "end": 65.8,
+    "basis": "local-asr",
+    "index": 176,
+    "paragraph": 5
+  },
+  {
+    "text": "your",
+    "start": 65.8,
+    "end": 65.98,
+    "basis": "local-asr",
+    "index": 177,
+    "paragraph": 5
+  },
+  {
+    "text": "break",
+    "start": 65.98,
+    "end": 66.2,
+    "basis": "local-asr",
+    "index": 178,
+    "paragraph": 5
+  },
+  {
+    "text": "without",
+    "start": 66.2,
+    "end": 66.39999999999999,
+    "basis": "local-asr",
+    "index": 179,
+    "paragraph": 5
+  },
+  {
+    "text": "experiencing",
+    "start": 66.39999999999999,
+    "end": 67.03999999999999,
+    "basis": "local-asr",
+    "index": 180,
+    "paragraph": 5
+  },
+  {
+    "text": "any",
+    "start": 67.03999999999999,
+    "end": 67.5,
+    "basis": "local-asr",
+    "index": 181,
+    "paragraph": 5
+  },
+  {
+    "text": "of",
+    "start": 67.5,
+    "end": 67.66,
+    "basis": "local-asr",
+    "index": 182,
+    "paragraph": 5
+  },
+  {
+    "text": "it.",
+    "start": 67.66,
+    "end": 67.78,
+    "basis": "local-asr",
+    "index": 183,
+    "paragraph": 5
+  },
+  {
+    "text": "You",
+    "start": 68.52,
+    "end": 68.91999999999999,
+    "basis": "local-asr",
+    "index": 184,
+    "paragraph": 5
+  },
+  {
+    "text": "silenced",
+    "start": 68.91999999999999,
+    "end": 69.16,
+    "basis": "local-asr",
+    "index": 185,
+    "paragraph": 5
+  },
+  {
+    "text": "the",
+    "start": 69.16,
+    "end": 69.52,
+    "basis": "local-asr",
+    "index": 186,
+    "paragraph": 5
+  },
+  {
+    "text": "alarm",
+    "start": 69.52,
+    "end": 69.8,
+    "basis": "local-asr",
+    "index": 187,
+    "paragraph": 5
+  },
+  {
+    "text": "and",
+    "start": 69.8,
+    "end": 70.25999999999999,
+    "basis": "local-asr",
+    "index": 188,
+    "paragraph": 5
+  },
+  {
+    "text": "reached",
+    "start": 70.25999999999999,
+    "end": 70.44,
+    "basis": "local-asr",
+    "index": 189,
+    "paragraph": 5
+  },
+  {
+    "text": "for",
+    "start": 70.44,
+    "end": 70.67999999999999,
+    "basis": "local-asr",
+    "index": 190,
+    "paragraph": 5
+  },
+  {
+    "text": "the",
+    "start": 70.67999999999999,
+    "end": 70.75999999999999,
+    "basis": "local-asr",
+    "index": 191,
+    "paragraph": 5
+  },
+  {
+    "text": "laptop",
+    "start": 70.75999999999999,
+    "end": 70.97999999999999,
+    "basis": "local-asr",
+    "index": 192,
+    "paragraph": 5
+  },
+  {
+    "text": "again.",
+    "start": 70.97999999999999,
+    "end": 71.36,
+    "basis": "local-asr",
+    "index": 193,
+    "paragraph": 5
+  },
+  {
+    "text": "Just",
+    "start": 71.89999999999999,
+    "end": 72.1,
+    "basis": "local-asr",
+    "index": 194,
+    "paragraph": 5
+  },
+  {
+    "text": "finish",
+    "start": 72.1,
+    "end": 72.28,
+    "basis": "interpolated",
+    "index": 195,
+    "paragraph": 5
+  },
+  {
+    "text": "this.",
+    "start": 72.28,
+    "end": 72.66,
+    "basis": "local-asr",
+    "index": 196,
+    "paragraph": 5
+  },
+  {
+    "text": "Then",
+    "start": 73.38,
+    "end": 73.61999999999999,
+    "basis": "local-asr",
+    "index": 197,
+    "paragraph": 5
+  },
+  {
+    "text": "you",
+    "start": 73.61999999999999,
+    "end": 73.74,
+    "basis": "local-asr",
+    "index": 198,
+    "paragraph": 5
+  },
+  {
+    "text": "could",
+    "start": 73.74,
+    "end": 73.86,
+    "basis": "local-asr",
+    "index": 199,
+    "paragraph": 5
+  },
+  {
+    "text": "finally",
+    "start": 73.86,
+    "end": 74.1,
+    "basis": "local-asr",
+    "index": 200,
+    "paragraph": 5
+  },
+  {
+    "text": "stop",
+    "start": 74.1,
+    "end": 74.41999999999999,
+    "basis": "local-asr",
+    "index": 201,
+    "paragraph": 5
+  },
+  {
+    "text": "thinking",
+    "start": 74.41999999999999,
+    "end": 74.61999999999999,
+    "basis": "local-asr",
+    "index": 202,
+    "paragraph": 5
+  },
+  {
+    "text": "about",
+    "start": 74.61999999999999,
+    "end": 74.91999999999999,
+    "basis": "local-asr",
+    "index": 203,
+    "paragraph": 5
+  },
+  {
+    "text": "work.",
+    "start": 74.91999999999999,
+    "end": 75.14,
+    "basis": "local-asr",
+    "index": 204,
+    "paragraph": 5
+  },
+  {
+    "text": "Then",
+    "start": 77.03999999999999,
+    "end": 77.17999999999999,
+    "basis": "local-asr",
+    "index": 205,
+    "paragraph": 6
+  },
+  {
+    "text": "your",
+    "start": 77.17999999999999,
+    "end": 77.3,
+    "basis": "local-asr",
+    "index": 206,
+    "paragraph": 6
+  },
+  {
+    "text": "friend",
+    "start": 77.3,
+    "end": 77.53999999999999,
+    "basis": "local-asr",
+    "index": 207,
+    "paragraph": 6
+  },
+  {
+    "text": "texted.",
+    "start": 77.53999999999999,
+    "end": 77.82,
+    "basis": "local-asr",
+    "index": 208,
+    "paragraph": 6
+  },
+  {
+    "text": "They'd",
+    "start": 78.53999999999999,
+    "end": 78.72,
+    "basis": "local-asr",
+    "index": 209,
+    "paragraph": 6
+  },
+  {
+    "text": "spent",
+    "start": 78.72,
+    "end": 78.89999999999999,
+    "basis": "local-asr",
+    "index": 210,
+    "paragraph": 6
+  },
+  {
+    "text": "the",
+    "start": 78.89999999999999,
+    "end": 79.08,
+    "basis": "local-asr",
+    "index": 211,
+    "paragraph": 6
+  },
+  {
+    "text": "afternoon",
+    "start": 79.08,
+    "end": 79.41999999999999,
+    "basis": "local-asr",
+    "index": 212,
+    "paragraph": 6
+  },
+  {
+    "text": "lying",
+    "start": 79.41999999999999,
+    "end": 79.74,
+    "basis": "local-asr",
+    "index": 213,
+    "paragraph": 6
+  },
+  {
+    "text": "around",
+    "start": 79.74,
+    "end": 80.11999999999999,
+    "basis": "local-asr",
+    "index": 214,
+    "paragraph": 6
+  },
+  {
+    "text": "and",
+    "start": 80.11999999999999,
+    "end": 80.5,
+    "basis": "local-asr",
+    "index": 215,
+    "paragraph": 6
+  },
+  {
+    "text": "felt",
+    "start": 80.5,
+    "end": 80.67999999999999,
+    "basis": "local-asr",
+    "index": 216,
+    "paragraph": 6
+  },
+  {
+    "text": "terrible",
+    "start": 80.67999999999999,
+    "end": 81.05999999999999,
+    "basis": "local-asr",
+    "index": 217,
+    "paragraph": 6
+  },
+  {
+    "text": "about",
+    "start": 81.05999999999999,
+    "end": 81.39999999999999,
+    "basis": "local-asr",
+    "index": 218,
+    "paragraph": 6
+  },
+  {
+    "text": "it.",
+    "start": 81.39999999999999,
+    "end": 81.53999999999999,
+    "basis": "local-asr",
+    "index": 219,
+    "paragraph": 6
+  },
+  {
+    "text": "Your",
+    "start": 82.24,
+    "end": 82.41999999999999,
+    "basis": "local-asr",
+    "index": 220,
+    "paragraph": 6
+  },
+  {
+    "text": "reply",
+    "start": 82.41999999999999,
+    "end": 82.66,
+    "basis": "local-asr",
+    "index": 221,
+    "paragraph": 6
+  },
+  {
+    "text": "came",
+    "start": 82.66,
+    "end": 83.0,
+    "basis": "local-asr",
+    "index": 222,
+    "paragraph": 6
+  },
+  {
+    "text": "easily:",
+    "start": 83.0,
+    "end": 83.25999999999999,
+    "basis": "local-asr",
+    "index": 223,
+    "paragraph": 6
+  },
+  {
+    "text": "you",
+    "start": 83.78,
+    "end": 83.94,
+    "basis": "local-asr",
+    "index": 224,
+    "paragraph": 6
+  },
+  {
+    "text": "were",
+    "start": 83.94,
+    "end": 84.03999999999999,
+    "basis": "local-asr",
+    "index": 225,
+    "paragraph": 6
+  },
+  {
+    "text": "exhausted.",
+    "start": 84.03999999999999,
+    "end": 84.32,
+    "basis": "local-asr",
+    "index": 226,
+    "paragraph": 6
+  },
+  {
+    "text": "You",
+    "start": 85.17999999999999,
+    "end": 85.32,
+    "basis": "local-asr",
+    "index": 227,
+    "paragraph": 6
+  },
+  {
+    "text": "needed",
+    "start": 85.32,
+    "end": 85.47999999999999,
+    "basis": "local-asr",
+    "index": 228,
+    "paragraph": 6
+  },
+  {
+    "text": "a",
+    "start": 85.47999999999999,
+    "end": 85.64,
+    "basis": "local-asr",
+    "index": 229,
+    "paragraph": 6
+  },
+  {
+    "text": "break.",
+    "start": 85.64,
+    "end": 85.83999999999999,
+    "basis": "local-asr",
+    "index": 230,
+    "paragraph": 6
+  },
+  {
+    "text": "You",
+    "start": 86.64,
+    "end": 86.8,
+    "basis": "local-asr",
+    "index": 231,
+    "paragraph": 6
+  },
+  {
+    "text": "hit",
+    "start": 86.8,
+    "end": 86.91999999999999,
+    "basis": "local-asr",
+    "index": 232,
+    "paragraph": 6
+  },
+  {
+    "text": "send.",
+    "start": 86.91999999999999,
+    "end": 87.22,
+    "basis": "local-asr",
+    "index": 233,
+    "paragraph": 6
+  },
+  {
+    "text": "A",
+    "start": 87.89999999999999,
+    "end": 88.02,
+    "basis": "local-asr",
+    "index": 234,
+    "paragraph": 6
+  },
+  {
+    "text": "moment",
+    "start": 88.02,
+    "end": 88.24,
+    "basis": "local-asr",
+    "index": 235,
+    "paragraph": 6
+  },
+  {
+    "text": "later,",
+    "start": 88.24,
+    "end": 88.6,
+    "basis": "local-asr",
+    "index": 236,
+    "paragraph": 6
+  },
+  {
+    "text": "they",
+    "start": 88.82,
+    "end": 88.97999999999999,
+    "basis": "local-asr",
+    "index": 237,
+    "paragraph": 6
+  },
+  {
+    "text": "asked:",
+    "start": 89.22,
+    "end": 89.39999999999999,
+    "basis": "local-asr",
+    "index": 238,
+    "paragraph": 6
+  },
+  {
+    "text": "how's",
+    "start": 89.55999999999999,
+    "end": 89.86,
+    "basis": "local-asr",
+    "index": 239,
+    "paragraph": 6
+  },
+  {
+    "text": "the",
+    "start": 89.86,
+    "end": 89.94,
+    "basis": "local-asr",
+    "index": 240,
+    "paragraph": 6
+  },
+  {
+    "text": "movie?",
+    "start": 89.94,
+    "end": 90.16,
+    "basis": "local-asr",
+    "index": 241,
+    "paragraph": 6
+  },
+  {
+    "text": "You",
+    "start": 90.75999999999999,
+    "end": 90.89999999999999,
+    "basis": "local-asr",
+    "index": 242,
+    "paragraph": 6
+  },
+  {
+    "text": "looked",
+    "start": 90.89999999999999,
+    "end": 91.03999999999999,
+    "basis": "local-asr",
+    "index": 243,
+    "paragraph": 6
+  },
+  {
+    "text": "at",
+    "start": 91.03999999999999,
+    "end": 91.22,
+    "basis": "local-asr",
+    "index": 244,
+    "paragraph": 6
+  },
+  {
+    "text": "the",
+    "start": 91.22,
+    "end": 91.28,
+    "basis": "local-asr",
+    "index": 245,
+    "paragraph": 6
+  },
+  {
+    "text": "untouched",
+    "start": 91.28,
+    "end": 91.55999999999999,
+    "basis": "local-asr",
+    "index": 246,
+    "paragraph": 6
+  },
+  {
+    "text": "remote.",
+    "start": 91.55999999999999,
+    "end": 92.0,
+    "basis": "local-asr",
+    "index": 247,
+    "paragraph": 6
+  },
+  {
+    "text": "You",
+    "start": 93.72,
+    "end": 93.92,
+    "basis": "local-asr",
+    "index": 248,
+    "paragraph": 7
+  },
+  {
+    "text": "started",
+    "start": 93.92,
+    "end": 94.16000000000001,
+    "basis": "local-asr",
+    "index": 249,
+    "paragraph": 7
+  },
+  {
+    "text": "typing:",
+    "start": 94.16000000000001,
+    "end": 94.46000000000001,
+    "basis": "local-asr",
+    "index": 250,
+    "paragraph": 7
+  },
+  {
+    "text": "haven't",
+    "start": 94.96000000000001,
+    "end": 95.28,
+    "basis": "local-asr",
+    "index": 251,
+    "paragraph": 7
+  },
+  {
+    "text": "earned",
+    "start": 95.28,
+    "end": 95.44000000000001,
+    "basis": "local-asr",
+    "index": 252,
+    "paragraph": 7
+  },
+  {
+    "text": "it",
+    "start": 95.44000000000001,
+    "end": 95.60000000000001,
+    "basis": "local-asr",
+    "index": 253,
+    "paragraph": 7
+  },
+  {
+    "text": "yet.",
+    "start": 95.60000000000001,
+    "end": 95.78,
+    "basis": "local-asr",
+    "index": 254,
+    "paragraph": 7
+  },
+  {
+    "text": "Then",
+    "start": 96.30000000000001,
+    "end": 96.52000000000001,
+    "basis": "local-asr",
+    "index": 255,
+    "paragraph": 7
+  },
+  {
+    "text": "stopped.",
+    "start": 96.52000000000001,
+    "end": 96.78,
+    "basis": "local-asr",
+    "index": 256,
+    "paragraph": 7
+  },
+  {
+    "text": "You",
+    "start": 97.64,
+    "end": 97.86,
+    "basis": "local-asr",
+    "index": 257,
+    "paragraph": 7
+  },
+  {
+    "text": "wouldn't",
+    "start": 97.86,
+    "end": 98.10000000000001,
+    "basis": "local-asr",
+    "index": 258,
+    "paragraph": 7
+  },
+  {
+    "text": "actually",
+    "start": 98.10000000000001,
+    "end": 98.4,
+    "basis": "local-asr",
+    "index": 259,
+    "paragraph": 7
+  },
+  {
+    "text": "send",
+    "start": 98.4,
+    "end": 98.80000000000001,
+    "basis": "local-asr",
+    "index": 260,
+    "paragraph": 7
+  },
+  {
+    "text": "that.",
+    "start": 98.80000000000001,
+    "end": 99.10000000000001,
+    "basis": "local-asr",
+    "index": 261,
+    "paragraph": 7
+  },
+  {
+    "text": "It",
+    "start": 99.64,
+    "end": 99.84,
+    "basis": "local-asr",
+    "index": 262,
+    "paragraph": 7
+  },
+  {
+    "text": "sounded",
+    "start": 99.84,
+    "end": 100.04,
+    "basis": "local-asr",
+    "index": 263,
+    "paragraph": 7
+  },
+  {
+    "text": "ridiculous.",
+    "start": 100.04,
+    "end": 100.60000000000001,
+    "basis": "local-asr",
+    "index": 264,
+    "paragraph": 7
+  },
+  {
+    "text": "But",
+    "start": 101.30000000000001,
+    "end": 101.48,
+    "basis": "local-asr",
+    "index": 265,
+    "paragraph": 7
+  },
+  {
+    "text": "looking",
+    "start": 101.48,
+    "end": 101.66000000000001,
+    "basis": "local-asr",
+    "index": 266,
+    "paragraph": 7
+  },
+  {
+    "text": "at",
+    "start": 101.66000000000001,
+    "end": 101.92,
+    "basis": "local-asr",
+    "index": 267,
+    "paragraph": 7
+  },
+  {
+    "text": "your",
+    "start": 101.92,
+    "end": 102.02000000000001,
+    "basis": "local-asr",
+    "index": 268,
+    "paragraph": 7
+  },
+  {
+    "text": "evening,",
+    "start": 102.02000000000001,
+    "end": 102.32000000000001,
+    "basis": "local-asr",
+    "index": 269,
+    "paragraph": 7
+  },
+  {
+    "text": "wasn't",
+    "start": 102.32000000000001,
+    "end": 102.9,
+    "basis": "local-asr",
+    "index": 270,
+    "paragraph": 7
+  },
+  {
+    "text": "that",
+    "start": 102.9,
+    "end": 103.04,
+    "basis": "local-asr",
+    "index": 271,
+    "paragraph": 7
+  },
+  {
+    "text": "the",
+    "start": 103.04,
+    "end": 103.2,
+    "basis": "local-asr",
+    "index": 272,
+    "paragraph": 7
+  },
+  {
+    "text": "rule",
+    "start": 103.2,
+    "end": 103.42,
+    "basis": "local-asr",
+    "index": 273,
+    "paragraph": 7
+  },
+  {
+    "text": "you",
+    "start": 103.42,
+    "end": 103.64,
+    "basis": "local-asr",
+    "index": 274,
+    "paragraph": 7
+  },
+  {
+    "text": "were",
+    "start": 103.64,
+    "end": 103.74000000000001,
+    "basis": "local-asr",
+    "index": 275,
+    "paragraph": 7
+  },
+  {
+    "text": "following?",
+    "start": 103.74000000000001,
+    "end": 104.08000000000001,
+    "basis": "local-asr",
+    "index": 276,
+    "paragraph": 7
+  },
+  {
+    "text": "Your",
+    "start": 104.80000000000001,
+    "end": 105.04,
+    "basis": "local-asr",
+    "index": 277,
+    "paragraph": 7
+  },
+  {
+    "text": "friend",
+    "start": 105.04,
+    "end": 105.30000000000001,
+    "basis": "local-asr",
+    "index": 278,
+    "paragraph": 7
+  },
+  {
+    "text": "could",
+    "start": 105.30000000000001,
+    "end": 105.5,
+    "basis": "local-asr",
+    "index": 279,
+    "paragraph": 7
+  },
+  {
+    "text": "rest",
+    "start": 105.5,
+    "end": 105.74000000000001,
+    "basis": "local-asr",
+    "index": 280,
+    "paragraph": 7
+  },
+  {
+    "text": "because",
+    "start": 105.74000000000001,
+    "end": 106.14,
+    "basis": "local-asr",
+    "index": 281,
+    "paragraph": 7
+  },
+  {
+    "text": "they",
+    "start": 106.14,
+    "end": 106.34,
+    "basis": "local-asr",
+    "index": 282,
+    "paragraph": 7
+  },
+  {
+    "text": "were",
+    "start": 106.34,
+    "end": 106.46000000000001,
+    "basis": "local-asr",
+    "index": 283,
+    "paragraph": 7
+  },
+  {
+    "text": "tired.",
+    "start": 106.46000000000001,
+    "end": 106.74000000000001,
+    "basis": "local-asr",
+    "index": 284,
+    "paragraph": 7
+  },
+  {
+    "text": "You",
+    "start": 107.34,
+    "end": 107.64,
+    "basis": "local-asr",
+    "index": 285,
+    "paragraph": 7
+  },
+  {
+    "text": "needed",
+    "start": 107.64,
+    "end": 107.82000000000001,
+    "basis": "local-asr",
+    "index": 286,
+    "paragraph": 7
+  },
+  {
+    "text": "evidence",
+    "start": 107.82000000000001,
+    "end": 108.18,
+    "basis": "local-asr",
+    "index": 287,
+    "paragraph": 7
+  },
+  {
+    "text": "that",
+    "start": 108.18,
+    "end": 108.72,
+    "basis": "local-asr",
+    "index": 288,
+    "paragraph": 7
+  },
+  {
+    "text": "you'd",
+    "start": 108.72,
+    "end": 108.9,
+    "basis": "local-asr",
+    "index": 289,
+    "paragraph": 7
+  },
+  {
+    "text": "done",
+    "start": 108.9,
+    "end": 109.04,
+    "basis": "local-asr",
+    "index": 290,
+    "paragraph": 7
+  },
+  {
+    "text": "enough.",
+    "start": 109.04,
+    "end": 109.32000000000001,
+    "basis": "local-asr",
+    "index": 291,
+    "paragraph": 7
+  },
+  {
+    "text": "Maybe",
+    "start": 111.60000000000001,
+    "end": 111.88000000000001,
+    "basis": "local-asr",
+    "index": 292,
+    "paragraph": 8
+  },
+  {
+    "text": "that's",
+    "start": 111.88000000000001,
+    "end": 112.22,
+    "basis": "local-asr",
+    "index": 293,
+    "paragraph": 8
+  },
+  {
+    "text": "part",
+    "start": 112.22,
+    "end": 112.38000000000001,
+    "basis": "local-asr",
+    "index": 294,
+    "paragraph": 8
+  },
+  {
+    "text": "of",
+    "start": 112.38000000000001,
+    "end": 112.58000000000001,
+    "basis": "local-asr",
+    "index": 295,
+    "paragraph": 8
+  },
+  {
+    "text": "what",
+    "start": 112.58000000000001,
+    "end": 112.7,
+    "basis": "local-asr",
+    "index": 296,
+    "paragraph": 8
+  },
+  {
+    "text": "makes",
+    "start": 112.7,
+    "end": 112.96000000000001,
+    "basis": "local-asr",
+    "index": 297,
+    "paragraph": 8
+  },
+  {
+    "text": "rest",
+    "start": 112.96000000000001,
+    "end": 113.16000000000001,
+    "basis": "local-asr",
+    "index": 298,
+    "paragraph": 8
+  },
+  {
+    "text": "uncomfortable.",
+    "start": 113.16000000000001,
+    "end": 113.78,
+    "basis": "local-asr",
+    "index": 299,
+    "paragraph": 8
+  },
+  {
+    "text": "If",
+    "start": 114.66000000000001,
+    "end": 114.86,
+    "basis": "local-asr",
+    "index": 300,
+    "paragraph": 8
+  },
+  {
+    "text": "being",
+    "start": 114.86,
+    "end": 115.06,
+    "basis": "local-asr",
+    "index": 301,
+    "paragraph": 8
+  },
+  {
+    "text": "useful",
+    "start": 115.06,
+    "end": 115.48,
+    "basis": "local-asr",
+    "index": 302,
+    "paragraph": 8
+  },
+  {
+    "text": "has",
+    "start": 115.48,
+    "end": 115.94000000000001,
+    "basis": "local-asr",
+    "index": 303,
+    "paragraph": 8
+  },
+  {
+    "text": "become",
+    "start": 115.94000000000001,
+    "end": 116.18,
+    "basis": "local-asr",
+    "index": 304,
+    "paragraph": 8
+  },
+  {
+    "text": "a",
+    "start": 116.18,
+    "end": 116.32000000000001,
+    "basis": "local-asr",
+    "index": 305,
+    "paragraph": 8
+  },
+  {
+    "text": "condition",
+    "start": 116.32000000000001,
+    "end": 116.66000000000001,
+    "basis": "local-asr",
+    "index": 306,
+    "paragraph": 8
+  },
+  {
+    "text": "for",
+    "start": 116.66000000000001,
+    "end": 117.06,
+    "basis": "local-asr",
+    "index": 307,
+    "paragraph": 8
+  },
+  {
+    "text": "feeling",
+    "start": 117.06,
+    "end": 117.38000000000001,
+    "basis": "local-asr",
+    "index": 308,
+    "paragraph": 8
+  },
+  {
+    "text": "okay",
+    "start": 117.38000000000001,
+    "end": 117.78,
+    "basis": "local-asr",
+    "index": 309,
+    "paragraph": 8
+  },
+  {
+    "text": "about",
+    "start": 117.78,
+    "end": 118.10000000000001,
+    "basis": "local-asr",
+    "index": 310,
+    "paragraph": 8
+  },
+  {
+    "text": "yourself,",
+    "start": 118.10000000000001,
+    "end": 118.36,
+    "basis": "local-asr",
+    "index": 311,
+    "paragraph": 8
+  },
+  {
+    "text": "an",
+    "start": 119.2,
+    "end": 119.34,
+    "basis": "local-asr",
+    "index": 312,
+    "paragraph": 8
+  },
+  {
+    "text": "unfinished",
+    "start": 119.34,
+    "end": 119.72,
+    "basis": "local-asr",
+    "index": 313,
+    "paragraph": 8
+  },
+  {
+    "text": "task",
+    "start": 119.72,
+    "end": 120.26,
+    "basis": "local-asr",
+    "index": 314,
+    "paragraph": 8
+  },
+  {
+    "text": "can",
+    "start": 120.26,
+    "end": 120.78,
+    "basis": "local-asr",
+    "index": 315,
+    "paragraph": 8
+  },
+  {
+    "text": "feel",
+    "start": 120.78,
+    "end": 121.0,
+    "basis": "local-asr",
+    "index": 316,
+    "paragraph": 8
+  },
+  {
+    "text": "personal.",
+    "start": 121.0,
+    "end": 121.38000000000001,
+    "basis": "local-asr",
+    "index": 317,
+    "paragraph": 8
+  },
+  {
+    "text": "The",
+    "start": 122.36,
+    "end": 122.46000000000001,
+    "basis": "local-asr",
+    "index": 318,
+    "paragraph": 8
+  },
+  {
+    "text": "document",
+    "start": 122.46000000000001,
+    "end": 122.76,
+    "basis": "local-asr",
+    "index": 319,
+    "paragraph": 8
+  },
+  {
+    "text": "can",
+    "start": 122.76,
+    "end": 123.04,
+    "basis": "local-asr",
+    "index": 320,
+    "paragraph": 8
+  },
+  {
+    "text": "wait",
+    "start": 123.04,
+    "end": 123.24000000000001,
+    "basis": "local-asr",
+    "index": 321,
+    "paragraph": 8
+  },
+  {
+    "text": "until",
+    "start": 123.24000000000001,
+    "end": 123.5,
+    "basis": "local-asr",
+    "index": 322,
+    "paragraph": 8
+  },
+  {
+    "text": "morning.",
+    "start": 123.5,
+    "end": 123.78,
+    "basis": "local-asr",
+    "index": 323,
+    "paragraph": 8
+  },
+  {
+    "text": "But",
+    "start": 124.60000000000001,
+    "end": 124.78,
+    "basis": "local-asr",
+    "index": 324,
+    "paragraph": 8
+  },
+  {
+    "text": "can",
+    "start": 125.24000000000001,
+    "end": 125.38000000000001,
+    "basis": "local-asr",
+    "index": 325,
+    "paragraph": 8
+  },
+  {
+    "text": "you",
+    "start": 125.38000000000001,
+    "end": 125.5,
+    "basis": "local-asr",
+    "index": 326,
+    "paragraph": 8
+  },
+  {
+    "text": "feel",
+    "start": 125.5,
+    "end": 125.72,
+    "basis": "local-asr",
+    "index": 327,
+    "paragraph": 8
+  },
+  {
+    "text": "okay",
+    "start": 125.72,
+    "end": 126.04,
+    "basis": "local-asr",
+    "index": 328,
+    "paragraph": 8
+  },
+  {
+    "text": "about",
+    "start": 126.04,
+    "end": 126.32000000000001,
+    "basis": "local-asr",
+    "index": 329,
+    "paragraph": 8
+  },
+  {
+    "text": "yourself",
+    "start": 126.32000000000001,
+    "end": 126.7,
+    "basis": "local-asr",
+    "index": 330,
+    "paragraph": 8
+  },
+  {
+    "text": "while",
+    "start": 126.7,
+    "end": 126.98,
+    "basis": "local-asr",
+    "index": 331,
+    "paragraph": 8
+  },
+  {
+    "text": "it",
+    "start": 126.98,
+    "end": 127.12,
+    "basis": "local-asr",
+    "index": 332,
+    "paragraph": 8
+  },
+  {
+    "text": "waits?",
+    "start": 127.12,
+    "end": 127.30000000000001,
+    "basis": "local-asr",
+    "index": 333,
+    "paragraph": 8
+  },
+  {
+    "text": "Research",
+    "start": 128.62,
+    "end": 128.95999999999998,
+    "basis": "local-asr",
+    "index": 334,
+    "paragraph": 9
+  },
+  {
+    "text": "has",
+    "start": 128.95999999999998,
+    "end": 129.2,
+    "basis": "local-asr",
+    "index": 335,
+    "paragraph": 9
+  },
+  {
+    "text": "linked",
+    "start": 129.2,
+    "end": 129.42000000000002,
+    "basis": "local-asr",
+    "index": 336,
+    "paragraph": 9
+  },
+  {
+    "text": "seeing",
+    "start": 129.42000000000002,
+    "end": 129.84,
+    "basis": "local-asr",
+    "index": 337,
+    "paragraph": 9
+  },
+  {
+    "text": "leisure",
+    "start": 129.84,
+    "end": 130.24,
+    "basis": "local-asr",
+    "index": 338,
+    "paragraph": 9
+  },
+  {
+    "text": "as",
+    "start": 130.24,
+    "end": 130.57999999999998,
+    "basis": "local-asr",
+    "index": 339,
+    "paragraph": 9
+  },
+  {
+    "text": "wasted",
+    "start": 130.57999999999998,
+    "end": 130.84,
+    "basis": "local-asr",
+    "index": 340,
+    "paragraph": 9
+  },
+  {
+    "text": "time",
+    "start": 130.84,
+    "end": 131.34,
+    "basis": "local-asr",
+    "index": 341,
+    "paragraph": 9
+  },
+  {
+    "text": "with",
+    "start": 131.34,
+    "end": 131.76,
+    "basis": "local-asr",
+    "index": 342,
+    "paragraph": 9
+  },
+  {
+    "text": "enjoying",
+    "start": 131.76,
+    "end": 132.07999999999998,
+    "basis": "local-asr",
+    "index": 343,
+    "paragraph": 9
+  },
+  {
+    "text": "it",
+    "start": 132.07999999999998,
+    "end": 132.38,
+    "basis": "local-asr",
+    "index": 344,
+    "paragraph": 9
+  },
+  {
+    "text": "less.",
+    "start": 132.38,
+    "end": 132.57999999999998,
+    "basis": "local-asr",
+    "index": 345,
+    "paragraph": 9
+  },
+  {
+    "text": "That",
+    "start": 133.54000000000002,
+    "end": 133.86,
+    "basis": "local-asr",
+    "index": 346,
+    "paragraph": 9
+  },
+  {
+    "text": "doesn't",
+    "start": 133.86,
+    "end": 134.18,
+    "basis": "local-asr",
+    "index": 347,
+    "paragraph": 9
+  },
+  {
+    "text": "explain",
+    "start": 134.18,
+    "end": 134.51999999999998,
+    "basis": "local-asr",
+    "index": 348,
+    "paragraph": 9
+  },
+  {
+    "text": "everyone's",
+    "start": 134.51999999999998,
+    "end": 135.1,
+    "basis": "local-asr",
+    "index": 349,
+    "paragraph": 9
+  },
+  {
+    "text": "guilt.",
+    "start": 135.1,
+    "end": 135.28,
+    "basis": "local-asr",
+    "index": 350,
+    "paragraph": 9
+  },
+  {
+    "text": "In",
+    "start": 135.9,
+    "end": 135.98,
+    "basis": "local-asr",
+    "index": 351,
+    "paragraph": 9
+  },
+  {
+    "text": "this",
+    "start": 135.98,
+    "end": 136.1,
+    "basis": "local-asr",
+    "index": 352,
+    "paragraph": 9
+  },
+  {
+    "text": "story,",
+    "start": 136.1,
+    "end": 136.42,
+    "basis": "local-asr",
+    "index": 353,
+    "paragraph": 9
+  },
+  {
+    "text": "though,",
+    "start": 136.46,
+    "end": 136.7,
+    "basis": "local-asr",
+    "index": 354,
+    "paragraph": 9
+  },
+  {
+    "text": "every",
+    "start": 136.94,
+    "end": 137.16,
+    "basis": "local-asr",
+    "index": 355,
+    "paragraph": 9
+  },
+  {
+    "text": "attempt",
+    "start": 137.16,
+    "end": 137.48,
+    "basis": "local-asr",
+    "index": 356,
+    "paragraph": 9
+  },
+  {
+    "text": "to",
+    "start": 137.48,
+    "end": 137.7,
+    "basis": "local-asr",
+    "index": 357,
+    "paragraph": 9
+  },
+  {
+    "text": "relax",
+    "start": 137.7,
+    "end": 137.98,
+    "basis": "local-asr",
+    "index": 358,
+    "paragraph": 9
+  },
+  {
+    "text": "comes",
+    "start": 137.98,
+    "end": 138.44,
+    "basis": "local-asr",
+    "index": 359,
+    "paragraph": 9
+  },
+  {
+    "text": "with",
+    "start": 138.44,
+    "end": 138.6,
+    "basis": "local-asr",
+    "index": 360,
+    "paragraph": 9
+  },
+  {
+    "text": "an",
+    "start": 138.6,
+    "end": 138.7,
+    "basis": "local-asr",
+    "index": 361,
+    "paragraph": 9
+  },
+  {
+    "text": "inspection:",
+    "start": 138.7,
+    "end": 139.02,
+    "basis": "local-asr",
+    "index": 362,
+    "paragraph": 9
+  },
+  {
+    "text": "have",
+    "start": 139.82,
+    "end": 139.98,
+    "basis": "local-asr",
+    "index": 363,
+    "paragraph": 9
+  },
+  {
+    "text": "I",
+    "start": 139.98,
+    "end": 140.1,
+    "basis": "local-asr",
+    "index": 364,
+    "paragraph": 9
+  },
+  {
+    "text": "justified",
+    "start": 140.1,
+    "end": 140.36,
+    "basis": "local-asr",
+    "index": 365,
+    "paragraph": 9
+  },
+  {
+    "text": "this",
+    "start": 140.36,
+    "end": 140.82,
+    "basis": "local-asr",
+    "index": 366,
+    "paragraph": 9
+  },
+  {
+    "text": "yet?",
+    "start": 140.82,
+    "end": 140.98,
+    "basis": "local-asr",
+    "index": 367,
+    "paragraph": 9
+  },
+  {
+    "text": "Imagine",
+    "start": 141.6,
+    "end": 142.0,
+    "basis": "local-asr",
+    "index": 368,
+    "paragraph": 9
+  },
+  {
+    "text": "watching",
+    "start": 142.0,
+    "end": 142.36,
+    "basis": "local-asr",
+    "index": 369,
+    "paragraph": 9
+  },
+  {
+    "text": "a",
+    "start": 142.36,
+    "end": 142.6,
+    "basis": "local-asr",
+    "index": 370,
+    "paragraph": 9
+  },
+  {
+    "text": "movie",
+    "start": 142.6,
+    "end": 142.84,
+    "basis": "local-asr",
+    "index": 371,
+    "paragraph": 9
+  },
+  {
+    "text": "while",
+    "start": 142.84,
+    "end": 143.08,
+    "basis": "local-asr",
+    "index": 372,
+    "paragraph": 9
+  },
+  {
+    "text": "somebody",
+    "start": 143.08,
+    "end": 143.3,
+    "basis": "local-asr",
+    "index": 373,
+    "paragraph": 9
+  },
+  {
+    "text": "keeps",
+    "start": 143.3,
+    "end": 143.64,
+    "basis": "local-asr",
+    "index": 374,
+    "paragraph": 9
+  },
+  {
+    "text": "asking",
+    "start": 143.64,
+    "end": 144.02,
+    "basis": "local-asr",
+    "index": 375,
+    "paragraph": 9
+  },
+  {
+    "text": "for",
+    "start": 144.02,
+    "end": 144.34,
+    "basis": "local-asr",
+    "index": 376,
+    "paragraph": 9
+  },
+  {
+    "text": "your",
+    "start": 144.34,
+    "end": 144.5,
+    "basis": "local-asr",
+    "index": 377,
+    "paragraph": 9
+  },
+  {
+    "text": "receipt.",
+    "start": 144.5,
+    "end": 144.8,
+    "basis": "local-asr",
+    "index": 378,
+    "paragraph": 9
+  },
+  {
+    "text": "Sometimes",
+    "start": 146.76,
+    "end": 147.12,
+    "basis": "local-asr",
+    "index": 379,
+    "paragraph": 10
+  },
+  {
+    "text": "the",
+    "start": 147.38,
+    "end": 147.38,
+    "basis": "local-asr",
+    "index": 380,
+    "paragraph": 10
+  },
+  {
+    "text": "pressure",
+    "start": 147.38,
+    "end": 147.56,
+    "basis": "local-asr",
+    "index": 381,
+    "paragraph": 10
+  },
+  {
+    "text": "comes",
+    "start": 147.56,
+    "end": 147.9,
+    "basis": "local-asr",
+    "index": 382,
+    "paragraph": 10
+  },
+  {
+    "text": "from",
+    "start": 147.9,
+    "end": 148.07999999999998,
+    "basis": "local-asr",
+    "index": 383,
+    "paragraph": 10
+  },
+  {
+    "text": "outside.",
+    "start": 148.07999999999998,
+    "end": 148.35999999999999,
+    "basis": "local-asr",
+    "index": 384,
+    "paragraph": 10
+  },
+  {
+    "text": "A",
+    "start": 149.34,
+    "end": 149.35999999999999,
+    "basis": "local-asr",
+    "index": 385,
+    "paragraph": 10
+  },
+  {
+    "text": "boss",
+    "start": 149.35999999999999,
+    "end": 149.57999999999998,
+    "basis": "local-asr",
+    "index": 386,
+    "paragraph": 10
+  },
+  {
+    "text": "expects",
+    "start": 149.57999999999998,
+    "end": 149.94,
+    "basis": "local-asr",
+    "index": 387,
+    "paragraph": 10
+  },
+  {
+    "text": "evening",
+    "start": 149.94,
+    "end": 150.35999999999999,
+    "basis": "local-asr",
+    "index": 388,
+    "paragraph": 10
+  },
+  {
+    "text": "replies.",
+    "start": 150.35999999999999,
+    "end": 150.79999999999998,
+    "basis": "local-asr",
+    "index": 389,
+    "paragraph": 10
+  },
+  {
+    "text": "Housework",
+    "start": 151.6,
+    "end": 152.01999999999998,
+    "basis": "local-asr",
+    "index": 390,
+    "paragraph": 10
+  },
+  {
+    "text": "isn't",
+    "start": 152.01999999999998,
+    "end": 152.32,
+    "basis": "local-asr",
+    "index": 391,
+    "paragraph": 10
+  },
+  {
+    "text": "shared",
+    "start": 152.32,
+    "end": 152.5,
+    "basis": "local-asr",
+    "index": 392,
+    "paragraph": 10
+  },
+  {
+    "text": "fairly.",
+    "start": 152.5,
+    "end": 152.78,
+    "basis": "local-asr",
+    "index": 393,
+    "paragraph": 10
+  },
+  {
+    "text": "Someone",
+    "start": 153.62,
+    "end": 153.88,
+    "basis": "local-asr",
+    "index": 394,
+    "paragraph": 10
+  },
+  {
+    "text": "depends",
+    "start": 153.88,
+    "end": 154.12,
+    "basis": "local-asr",
+    "index": 395,
+    "paragraph": 10
+  },
+  {
+    "text": "on",
+    "start": 154.12,
+    "end": 154.54,
+    "basis": "local-asr",
+    "index": 396,
+    "paragraph": 10
+  },
+  {
+    "text": "you.",
+    "start": 154.54,
+    "end": 154.72,
+    "basis": "local-asr",
+    "index": 397,
+    "paragraph": 10
+  },
+  {
+    "text": "Those",
+    "start": 155.1,
+    "end": 155.22,
+    "basis": "local-asr",
+    "index": 398,
+    "paragraph": 10
+  },
+  {
+    "text": "situations",
+    "start": 155.22,
+    "end": 155.56,
+    "basis": "local-asr",
+    "index": 399,
+    "paragraph": 10
+  },
+  {
+    "text": "may",
+    "start": 155.56,
+    "end": 156.22,
+    "basis": "local-asr",
+    "index": 400,
+    "paragraph": 10
+  },
+  {
+    "text": "need",
+    "start": 156.22,
+    "end": 156.46,
+    "basis": "local-asr",
+    "index": 401,
+    "paragraph": 10
+  },
+  {
+    "text": "practical",
+    "start": 156.46,
+    "end": 156.72,
+    "basis": "local-asr",
+    "index": 402,
+    "paragraph": 10
+  },
+  {
+    "text": "help",
+    "start": 156.72,
+    "end": 157.28,
+    "basis": "local-asr",
+    "index": 403,
+    "paragraph": 10
+  },
+  {
+    "text": "or",
+    "start": 157.28,
+    "end": 157.51999999999998,
+    "basis": "local-asr",
+    "index": 404,
+    "paragraph": 10
+  },
+  {
+    "text": "boundaries.",
+    "start": 157.51999999999998,
+    "end": 157.82,
+    "basis": "local-asr",
+    "index": 405,
+    "paragraph": 10
+  },
+  {
+    "text": "But",
+    "start": 158.46,
+    "end": 158.62,
+    "basis": "local-asr",
+    "index": 406,
+    "paragraph": 10
+  },
+  {
+    "text": "tonight,",
+    "start": 158.62,
+    "end": 158.88,
+    "basis": "local-asr",
+    "index": 407,
+    "paragraph": 10
+  },
+  {
+    "text": "the",
+    "start": 158.88,
+    "end": 159.38,
+    "basis": "local-asr",
+    "index": 408,
+    "paragraph": 10
+  },
+  {
+    "text": "urgent",
+    "start": 159.38,
+    "end": 159.57999999999998,
+    "basis": "local-asr",
+    "index": 409,
+    "paragraph": 10
+  },
+  {
+    "text": "work",
+    "start": 159.57999999999998,
+    "end": 159.92,
+    "basis": "local-asr",
+    "index": 410,
+    "paragraph": 10
+  },
+  {
+    "text": "is",
+    "start": 159.92,
+    "end": 160.1,
+    "basis": "local-asr",
+    "index": 411,
+    "paragraph": 10
+  },
+  {
+    "text": "done.",
+    "start": 160.1,
+    "end": 160.35999999999999,
+    "basis": "local-asr",
+    "index": 412,
+    "paragraph": 10
+  },
+  {
+    "text": "Nobody",
+    "start": 161.0,
+    "end": 161.26,
+    "basis": "local-asr",
+    "index": 413,
+    "paragraph": 10
+  },
+  {
+    "text": "has",
+    "start": 161.26,
+    "end": 161.48,
+    "basis": "local-asr",
+    "index": 414,
+    "paragraph": 10
+  },
+  {
+    "text": "asked",
+    "start": 161.48,
+    "end": 161.7,
+    "basis": "local-asr",
+    "index": 415,
+    "paragraph": 10
+  },
+  {
+    "text": "you",
+    "start": 161.7,
+    "end": 161.94,
+    "basis": "local-asr",
+    "index": 416,
+    "paragraph": 10
+  },
+  {
+    "text": "to",
+    "start": 161.94,
+    "end": 162.0,
+    "basis": "local-asr",
+    "index": 417,
+    "paragraph": 10
+  },
+  {
+    "text": "open",
+    "start": 162.0,
+    "end": 162.2,
+    "basis": "local-asr",
+    "index": 418,
+    "paragraph": 10
+  },
+  {
+    "text": "that",
+    "start": 162.2,
+    "end": 162.38,
+    "basis": "local-asr",
+    "index": 419,
+    "paragraph": 10
+  },
+  {
+    "text": "laptop",
+    "start": 162.38,
+    "end": 162.62,
+    "basis": "local-asr",
+    "index": 420,
+    "paragraph": 10
+  },
+  {
+    "text": "again.",
+    "start": 162.62,
+    "end": 163.01999999999998,
+    "basis": "local-asr",
+    "index": 421,
+    "paragraph": 10
+  },
+  {
+    "text": "You",
+    "start": 164.07999999999998,
+    "end": 164.17999999999998,
+    "basis": "local-asr",
+    "index": 422,
+    "paragraph": 11
+  },
+  {
+    "text": "look",
+    "start": 164.17999999999998,
+    "end": 164.32,
+    "basis": "local-asr",
+    "index": 423,
+    "paragraph": 11
+  },
+  {
+    "text": "at",
+    "start": 164.32,
+    "end": 164.42,
+    "basis": "local-asr",
+    "index": 424,
+    "paragraph": 11
+  },
+  {
+    "text": "the",
+    "start": 164.42,
+    "end": 164.5,
+    "basis": "local-asr",
+    "index": 425,
+    "paragraph": 11
+  },
+  {
+    "text": "document.",
+    "start": 164.5,
+    "end": 164.88,
+    "basis": "local-asr",
+    "index": 426,
+    "paragraph": 11
+  },
+  {
+    "text": "One",
+    "start": 165.56,
+    "end": 165.73999999999998,
+    "basis": "local-asr",
+    "index": 427,
+    "paragraph": 11
+  },
+  {
+    "text": "correction",
+    "start": 165.73999999999998,
+    "end": 166.06,
+    "basis": "local-asr",
+    "index": 428,
+    "paragraph": 11
+  },
+  {
+    "text": "can",
+    "start": 166.06,
+    "end": 166.39999999999998,
+    "basis": "local-asr",
+    "index": 429,
+    "paragraph": 11
+  },
+  {
+    "text": "wait.",
+    "start": 166.39999999999998,
+    "end": 166.64,
+    "basis": "local-asr",
+    "index": 430,
+    "paragraph": 11
+  },
+  {
+    "text": "You",
+    "start": 167.11999999999998,
+    "end": 167.17999999999998,
+    "basis": "local-asr",
+    "index": 431,
+    "paragraph": 11
+  },
+  {
+    "text": "write",
+    "start": 167.17999999999998,
+    "end": 167.32,
+    "basis": "local-asr",
+    "index": 432,
+    "paragraph": 11
+  },
+  {
+    "text": "yourself",
+    "start": 167.32,
+    "end": 167.56,
+    "basis": "local-asr",
+    "index": 433,
+    "paragraph": 11
+  },
+  {
+    "text": "a",
+    "start": 167.56,
+    "end": 167.82,
+    "basis": "local-asr",
+    "index": 434,
+    "paragraph": 11
+  },
+  {
+    "text": "note:",
+    "start": 167.82,
+    "end": 168.06,
+    "basis": "local-asr",
+    "index": 435,
+    "paragraph": 11
+  },
+  {
+    "text": "fix",
+    "start": 168.26,
+    "end": 168.44,
+    "basis": "local-asr",
+    "index": 436,
+    "paragraph": 11
+  },
+  {
+    "text": "this",
+    "start": 168.44,
+    "end": 168.67999999999998,
+    "basis": "local-asr",
+    "index": 437,
+    "paragraph": 11
+  },
+  {
+    "text": "tomorrow",
+    "start": 168.67999999999998,
+    "end": 169.0,
+    "basis": "local-asr",
+    "index": 438,
+    "paragraph": 11
+  },
+  {
+    "text": "after",
+    "start": 169.0,
+    "end": 169.33999999999997,
+    "basis": "local-asr",
+    "index": 439,
+    "paragraph": 11
+  },
+  {
+    "text": "breakfast.",
+    "start": 169.33999999999997,
+    "end": 169.61999999999998,
+    "basis": "local-asr",
+    "index": 440,
+    "paragraph": 11
+  },
+  {
+    "text": "Then",
+    "start": 170.54,
+    "end": 170.57999999999998,
+    "basis": "local-asr",
+    "index": 441,
+    "paragraph": 11
+  },
+  {
+    "text": "you",
+    "start": 170.57999999999998,
+    "end": 170.7,
+    "basis": "local-asr",
+    "index": 442,
+    "paragraph": 11
+  },
+  {
+    "text": "close",
+    "start": 170.7,
+    "end": 170.85999999999999,
+    "basis": "local-asr",
+    "index": 443,
+    "paragraph": 11
+  },
+  {
+    "text": "the",
+    "start": 170.85999999999999,
+    "end": 171.07999999999998,
+    "basis": "local-asr",
+    "index": 444,
+    "paragraph": 11
+  },
+  {
+    "text": "laptop.",
+    "start": 171.07999999999998,
+    "end": 171.29999999999998,
+    "basis": "local-asr",
+    "index": 445,
+    "paragraph": 11
+  },
+  {
+    "text": "You",
+    "start": 172.07999999999998,
+    "end": 172.14,
+    "basis": "local-asr",
+    "index": 446,
+    "paragraph": 11
+  },
+  {
+    "text": "take",
+    "start": 172.14,
+    "end": 172.29999999999998,
+    "basis": "local-asr",
+    "index": 447,
+    "paragraph": 11
+  },
+  {
+    "text": "the",
+    "start": 172.29999999999998,
+    "end": 172.5,
+    "basis": "local-asr",
+    "index": 448,
+    "paragraph": 11
+  },
+  {
+    "text": "snack",
+    "start": 172.5,
+    "end": 172.72,
+    "basis": "local-asr",
+    "index": 449,
+    "paragraph": 11
+  },
+  {
+    "text": "back",
+    "start": 172.72,
+    "end": 172.98,
+    "basis": "local-asr",
+    "index": 450,
+    "paragraph": 11
+  },
+  {
+    "text": "to",
+    "start": 172.98,
+    "end": 173.16,
+    "basis": "local-asr",
+    "index": 451,
+    "paragraph": 11
+  },
+  {
+    "text": "the",
+    "start": 173.16,
+    "end": 173.26,
+    "basis": "local-asr",
+    "index": 452,
+    "paragraph": 11
+  },
+  {
+    "text": "couch.",
+    "start": 173.26,
+    "end": 173.45999999999998,
+    "basis": "local-asr",
+    "index": 453,
+    "paragraph": 11
+  },
+  {
+    "text": "This",
+    "start": 174.23999999999998,
+    "end": 174.42,
+    "basis": "local-asr",
+    "index": 454,
+    "paragraph": 11
+  },
+  {
+    "text": "time,",
+    "start": 174.42,
+    "end": 174.7,
+    "basis": "local-asr",
+    "index": 455,
+    "paragraph": 11
+  },
+  {
+    "text": "you",
+    "start": 174.7,
+    "end": 174.95999999999998,
+    "basis": "local-asr",
+    "index": 456,
+    "paragraph": 11
+  },
+  {
+    "text": "press",
+    "start": 174.95999999999998,
+    "end": 175.17999999999998,
+    "basis": "local-asr",
+    "index": 457,
+    "paragraph": 11
+  },
+  {
+    "text": "play",
+    "start": 175.17999999999998,
+    "end": 175.51999999999998,
+    "basis": "local-asr",
+    "index": 458,
+    "paragraph": 11
+  },
+  {
+    "text": "before",
+    "start": 175.51999999999998,
+    "end": 175.95999999999998,
+    "basis": "local-asr",
+    "index": 459,
+    "paragraph": 11
+  },
+  {
+    "text": "finding",
+    "start": 175.95999999999998,
+    "end": 176.33999999999997,
+    "basis": "local-asr",
+    "index": 460,
+    "paragraph": 11
+  },
+  {
+    "text": "another",
+    "start": 176.33999999999997,
+    "end": 176.64,
+    "basis": "local-asr",
+    "index": 461,
+    "paragraph": 11
+  },
+  {
+    "text": "reason",
+    "start": 176.64,
+    "end": 176.94,
+    "basis": "local-asr",
+    "index": 462,
+    "paragraph": 11
+  },
+  {
+    "text": "to",
+    "start": 176.94,
+    "end": 177.22,
+    "basis": "local-asr",
+    "index": 463,
+    "paragraph": 11
+  },
+  {
+    "text": "leave.",
+    "start": 177.22,
+    "end": 177.45999999999998,
+    "basis": "local-asr",
+    "index": 464,
+    "paragraph": 11
+  },
+  {
+    "text": "And",
+    "start": 179.96,
+    "end": 180.01999999999998,
+    "basis": "local-asr",
+    "index": 465,
+    "paragraph": 12
+  },
+  {
+    "text": "right",
+    "start": 180.01999999999998,
+    "end": 180.18,
+    "basis": "local-asr",
+    "index": 466,
+    "paragraph": 12
+  },
+  {
+    "text": "then,",
+    "start": 180.18,
+    "end": 180.51999999999998,
+    "basis": "local-asr",
+    "index": 467,
+    "paragraph": 12
+  },
+  {
+    "text": "keys",
+    "start": 180.92,
+    "end": 181.16,
+    "basis": "local-asr",
+    "index": 468,
+    "paragraph": 12
+  },
+  {
+    "text": "turn",
+    "start": 181.16,
+    "end": 181.46,
+    "basis": "local-asr",
+    "index": 469,
+    "paragraph": 12
+  },
+  {
+    "text": "in",
+    "start": 181.46,
+    "end": 181.6,
+    "basis": "local-asr",
+    "index": 470,
+    "paragraph": 12
+  },
+  {
+    "text": "the",
+    "start": 181.6,
+    "end": 181.66,
+    "basis": "local-asr",
+    "index": 471,
+    "paragraph": 12
+  },
+  {
+    "text": "door.",
+    "start": 181.66,
+    "end": 181.88,
+    "basis": "local-asr",
+    "index": 472,
+    "paragraph": 12
+  },
+  {
+    "text": "Your",
+    "start": 182.76,
+    "end": 182.85999999999999,
+    "basis": "local-asr",
+    "index": 473,
+    "paragraph": 12
+  },
+  {
+    "text": "shoulders",
+    "start": 182.85999999999999,
+    "end": 183.18,
+    "basis": "local-asr",
+    "index": 474,
+    "paragraph": 12
+  },
+  {
+    "text": "tighten.",
+    "start": 183.18,
+    "end": 183.5,
+    "basis": "local-asr",
+    "index": 475,
+    "paragraph": 12
+  },
+  {
+    "text": "The",
+    "start": 184.29999999999998,
+    "end": 184.35999999999999,
+    "basis": "local-asr",
+    "index": 476,
+    "paragraph": 12
+  },
+  {
+    "text": "familiar",
+    "start": 184.35999999999999,
+    "end": 184.68,
+    "basis": "local-asr",
+    "index": 477,
+    "paragraph": 12
+  },
+  {
+    "text": "thought",
+    "start": 184.68,
+    "end": 185.07999999999998,
+    "basis": "local-asr",
+    "index": 478,
+    "paragraph": 12
+  },
+  {
+    "text": "arrives:",
+    "start": 185.07999999999998,
+    "end": 185.48,
+    "basis": "local-asr",
+    "index": 479,
+    "paragraph": 12
+  },
+  {
+    "text": "look",
+    "start": 186.48,
+    "end": 186.66,
+    "basis": "local-asr",
+    "index": 480,
+    "paragraph": 12
+  },
+  {
+    "text": "busy.",
+    "start": 186.66,
+    "end": 186.88,
+    "basis": "local-asr",
+    "index": 481,
+    "paragraph": 12
+  },
+  {
+    "text": "You",
+    "start": 187.42,
+    "end": 187.54,
+    "basis": "local-asr",
+    "index": 482,
+    "paragraph": 12
+  },
+  {
+    "text": "hurry",
+    "start": 187.54,
+    "end": 187.72,
+    "basis": "local-asr",
+    "index": 483,
+    "paragraph": 12
+  },
+  {
+    "text": "to",
+    "start": 187.72,
+    "end": 187.94,
+    "basis": "local-asr",
+    "index": 484,
+    "paragraph": 12
+  },
+  {
+    "text": "the",
+    "start": 187.94,
+    "end": 188.04,
+    "basis": "local-asr",
+    "index": 485,
+    "paragraph": 12
+  },
+  {
+    "text": "sink",
+    "start": 188.04,
+    "end": 188.23999999999998,
+    "basis": "local-asr",
+    "index": 486,
+    "paragraph": 12
+  },
+  {
+    "text": "and",
+    "start": 188.23999999999998,
+    "end": 188.5,
+    "basis": "local-asr",
+    "index": 487,
+    "paragraph": 12
+  },
+  {
+    "text": "grab",
+    "start": 188.5,
+    "end": 188.7,
+    "basis": "local-asr",
+    "index": 488,
+    "paragraph": 12
+  },
+  {
+    "text": "a",
+    "start": 188.7,
+    "end": 188.82,
+    "basis": "local-asr",
+    "index": 489,
+    "paragraph": 12
+  },
+  {
+    "text": "plate",
+    "start": 188.82,
+    "end": 189.01999999999998,
+    "basis": "local-asr",
+    "index": 490,
+    "paragraph": 12
+  },
+  {
+    "text": "from",
+    "start": 189.01999999999998,
+    "end": 189.23999999999998,
+    "basis": "local-asr",
+    "index": 491,
+    "paragraph": 12
+  },
+  {
+    "text": "the",
+    "start": 189.23999999999998,
+    "end": 189.35999999999999,
+    "basis": "local-asr",
+    "index": 492,
+    "paragraph": 12
+  },
+  {
+    "text": "drying",
+    "start": 189.35999999999999,
+    "end": 189.57999999999998,
+    "basis": "local-asr",
+    "index": 493,
+    "paragraph": 12
+  },
+  {
+    "text": "rack.",
+    "start": 189.57999999999998,
+    "end": 189.85999999999999,
+    "basis": "local-asr",
+    "index": 494,
+    "paragraph": 12
+  },
+  {
+    "text": "Under",
+    "start": 190.29999999999998,
+    "end": 190.51999999999998,
+    "basis": "local-asr",
+    "index": 495,
+    "paragraph": 12
+  },
+  {
+    "text": "the",
+    "start": 190.51999999999998,
+    "end": 190.64,
+    "basis": "local-asr",
+    "index": 496,
+    "paragraph": 12
+  },
+  {
+    "text": "running",
+    "start": 190.64,
+    "end": 190.82,
+    "basis": "local-asr",
+    "index": 497,
+    "paragraph": 12
+  },
+  {
+    "text": "water,",
+    "start": 190.82,
+    "end": 191.1,
+    "basis": "local-asr",
+    "index": 498,
+    "paragraph": 12
+  },
+  {
+    "text": "you",
+    "start": 191.4,
+    "end": 191.56,
+    "basis": "local-asr",
+    "index": 499,
+    "paragraph": 12
+  },
+  {
+    "text": "notice",
+    "start": 191.56,
+    "end": 191.78,
+    "basis": "local-asr",
+    "index": 500,
+    "paragraph": 12
+  },
+  {
+    "text": "it.",
+    "start": 191.78,
+    "end": 192.04,
+    "basis": "local-asr",
+    "index": 501,
+    "paragraph": 12
+  },
+  {
+    "text": "This",
+    "start": 192.46,
+    "end": 192.57999999999998,
+    "basis": "local-asr",
+    "index": 502,
+    "paragraph": 12
+  },
+  {
+    "text": "plate",
+    "start": 192.57999999999998,
+    "end": 192.85999999999999,
+    "basis": "local-asr",
+    "index": 503,
+    "paragraph": 12
+  },
+  {
+    "text": "was",
+    "start": 192.85999999999999,
+    "end": 193.16,
+    "basis": "local-asr",
+    "index": 504,
+    "paragraph": 12
+  },
+  {
+    "text": "already",
+    "start": 193.16,
+    "end": 193.46,
+    "basis": "local-asr",
+    "index": 505,
+    "paragraph": 12
+  },
+  {
+    "text": "clean.",
+    "start": 193.46,
+    "end": 193.78,
+    "basis": "local-asr",
+    "index": 506,
+    "paragraph": 12
+  },
+  {
+    "text": "Your",
+    "start": 196.3,
+    "end": 196.36,
+    "basis": "local-asr",
+    "index": 507,
+    "paragraph": 13
+  },
+  {
+    "text": "roommate",
+    "start": 196.36,
+    "end": 196.6,
+    "basis": "local-asr",
+    "index": 508,
+    "paragraph": 13
+  },
+  {
+    "text": "walks",
+    "start": 196.6,
+    "end": 196.9,
+    "basis": "local-asr",
+    "index": 509,
+    "paragraph": 13
+  },
+  {
+    "text": "in.",
+    "start": 196.9,
+    "end": 197.18,
+    "basis": "local-asr",
+    "index": 510,
+    "paragraph": 13
+  },
+  {
+    "text": "Hey.",
+    "start": 197.56,
+    "end": 197.70000000000002,
+    "basis": "local-asr",
+    "index": 511,
+    "paragraph": 13
+  },
+  {
+    "text": "How",
+    "start": 198.20000000000002,
+    "end": 198.4,
+    "basis": "local-asr",
+    "index": 512,
+    "paragraph": 13
+  },
+  {
+    "text": "was",
+    "start": 198.4,
+    "end": 198.54,
+    "basis": "local-asr",
+    "index": 513,
+    "paragraph": 13
+  },
+  {
+    "text": "your",
+    "start": 198.54,
+    "end": 198.64000000000001,
+    "basis": "local-asr",
+    "index": 514,
+    "paragraph": 13
+  },
+  {
+    "text": "night?",
+    "start": 198.64000000000001,
+    "end": 198.82,
+    "basis": "local-asr",
+    "index": 515,
+    "paragraph": 13
+  },
+  {
+    "text": "You",
+    "start": 199.42000000000002,
+    "end": 199.68,
+    "basis": "local-asr",
+    "index": 516,
+    "paragraph": 13
+  },
+  {
+    "text": "almost",
+    "start": 199.68,
+    "end": 199.82,
+    "basis": "local-asr",
+    "index": 517,
+    "paragraph": 13
+  },
+  {
+    "text": "say",
+    "start": 199.82,
+    "end": 200.14000000000001,
+    "basis": "local-asr",
+    "index": 518,
+    "paragraph": 13
+  },
+  {
+    "text": "you",
+    "start": 200.14000000000001,
+    "end": 200.3,
+    "basis": "local-asr",
+    "index": 519,
+    "paragraph": 13
+  },
+  {
+    "text": "were",
+    "start": 200.3,
+    "end": 200.38,
+    "basis": "local-asr",
+    "index": 520,
+    "paragraph": 13
+  },
+  {
+    "text": "just",
+    "start": 200.38,
+    "end": 200.56,
+    "basis": "local-asr",
+    "index": 521,
+    "paragraph": 13
+  },
+  {
+    "text": "cleaning",
+    "start": 200.56,
+    "end": 200.78,
+    "basis": "local-asr",
+    "index": 522,
+    "paragraph": 13
+  },
+  {
+    "text": "up.",
+    "start": 200.78,
+    "end": 201.08,
+    "basis": "local-asr",
+    "index": 523,
+    "paragraph": 13
+  },
+  {
+    "text": "Instead,",
+    "start": 201.48000000000002,
+    "end": 201.8,
+    "basis": "local-asr",
+    "index": 524,
+    "paragraph": 13
+  },
+  {
+    "text": "you",
+    "start": 201.88,
+    "end": 202.18,
+    "basis": "local-asr",
+    "index": 525,
+    "paragraph": 13
+  },
+  {
+    "text": "turn",
+    "start": 202.18,
+    "end": 202.36,
+    "basis": "local-asr",
+    "index": 526,
+    "paragraph": 13
+  },
+  {
+    "text": "off",
+    "start": 202.36,
+    "end": 202.52,
+    "basis": "local-asr",
+    "index": 527,
+    "paragraph": 13
+  },
+  {
+    "text": "the",
+    "start": 202.52,
+    "end": 202.68,
+    "basis": "local-asr",
+    "index": 528,
+    "paragraph": 13
+  },
+  {
+    "text": "faucet.",
+    "start": 202.68,
+    "end": 203.1,
+    "basis": "local-asr",
+    "index": 529,
+    "paragraph": 13
+  },
+  {
+    "text": "Set",
+    "start": 203.5,
+    "end": 203.70000000000002,
+    "basis": "local-asr",
+    "index": 530,
+    "paragraph": 13
+  },
+  {
+    "text": "the",
+    "start": 203.70000000000002,
+    "end": 203.86,
+    "basis": "local-asr",
+    "index": 531,
+    "paragraph": 13
+  },
+  {
+    "text": "plate",
+    "start": 203.86,
+    "end": 204.04,
+    "basis": "local-asr",
+    "index": 532,
+    "paragraph": 13
+  },
+  {
+    "text": "down.",
+    "start": 204.04,
+    "end": 204.36,
+    "basis": "local-asr",
+    "index": 533,
+    "paragraph": 13
+  },
+  {
+    "text": "Your",
+    "start": 204.8,
+    "end": 204.84,
+    "basis": "local-asr",
+    "index": 534,
+    "paragraph": 13
+  },
+  {
+    "text": "mouth",
+    "start": 204.84,
+    "end": 205.06,
+    "basis": "local-asr",
+    "index": 535,
+    "paragraph": 13
+  },
+  {
+    "text": "starts",
+    "start": 205.06,
+    "end": 205.44,
+    "basis": "local-asr",
+    "index": 536,
+    "paragraph": 13
+  },
+  {
+    "text": "forming",
+    "start": 205.44,
+    "end": 205.84,
+    "basis": "local-asr",
+    "index": 537,
+    "paragraph": 13
+  },
+  {
+    "text": "an",
+    "start": 205.84,
+    "end": 206.08,
+    "basis": "local-asr",
+    "index": 538,
+    "paragraph": 13
+  },
+  {
+    "text": "explanation.",
+    "start": 206.08,
+    "end": 206.36,
+    "basis": "local-asr",
+    "index": 539,
+    "paragraph": 13
+  },
+  {
+    "text": "You",
+    "start": 207.26000000000002,
+    "end": 207.44,
+    "basis": "local-asr",
+    "index": 540,
+    "paragraph": 13
+  },
+  {
+    "text": "let",
+    "start": 207.44,
+    "end": 207.6,
+    "basis": "local-asr",
+    "index": 541,
+    "paragraph": 13
+  },
+  {
+    "text": "that",
+    "start": 207.6,
+    "end": 207.78,
+    "basis": "local-asr",
+    "index": 542,
+    "paragraph": 13
+  },
+  {
+    "text": "go",
+    "start": 207.78,
+    "end": 208.02,
+    "basis": "local-asr",
+    "index": 543,
+    "paragraph": 13
+  },
+  {
+    "text": "too.",
+    "start": 208.02,
+    "end": 208.28,
+    "basis": "local-asr",
+    "index": 544,
+    "paragraph": 13
+  },
+  {
+    "text": "I",
+    "start": 208.94,
+    "end": 209.06,
+    "basis": "local-asr",
+    "index": 545,
+    "paragraph": 13
+  },
+  {
+    "text": "was",
+    "start": 209.06,
+    "end": 209.18,
+    "basis": "local-asr",
+    "index": 546,
+    "paragraph": 13
+  },
+  {
+    "text": "watching",
+    "start": 209.18,
+    "end": 209.56,
+    "basis": "local-asr",
+    "index": 547,
+    "paragraph": 13
+  },
+  {
+    "text": "a",
+    "start": 209.56,
+    "end": 209.70000000000002,
+    "basis": "local-asr",
+    "index": 548,
+    "paragraph": 13
+  },
+  {
+    "text": "movie.",
+    "start": 209.70000000000002,
+    "end": 209.92000000000002,
+    "basis": "local-asr",
+    "index": 549,
+    "paragraph": 13
+  },
+  {
+    "text": "Any",
+    "start": 212.06,
+    "end": 212.23999999999998,
+    "basis": "local-asr",
+    "index": 550,
+    "paragraph": 14
+  },
+  {
+    "text": "good?",
+    "start": 212.23999999999998,
+    "end": 212.5,
+    "basis": "local-asr",
+    "index": 551,
+    "paragraph": 14
+  },
+  {
+    "text": "You",
+    "start": 212.92,
+    "end": 213.07999999999998,
+    "basis": "local-asr",
+    "index": 552,
+    "paragraph": 14
+  },
+  {
+    "text": "shake",
+    "start": 213.07999999999998,
+    "end": 213.23999999999998,
+    "basis": "local-asr",
+    "index": 553,
+    "paragraph": 14
+  },
+  {
+    "text": "your",
+    "start": 213.23999999999998,
+    "end": 213.45999999999998,
+    "basis": "local-asr",
+    "index": 554,
+    "paragraph": 14
+  },
+  {
+    "text": "head.",
+    "start": 213.45999999999998,
+    "end": 213.67999999999998,
+    "basis": "local-asr",
+    "index": 555,
+    "paragraph": 14
+  },
+  {
+    "text": "You",
+    "start": 214.07999999999998,
+    "end": 214.17999999999998,
+    "basis": "local-asr",
+    "index": 556,
+    "paragraph": 14
+  },
+  {
+    "text": "don't",
+    "start": 214.17999999999998,
+    "end": 214.39999999999998,
+    "basis": "local-asr",
+    "index": 557,
+    "paragraph": 14
+  },
+  {
+    "text": "know",
+    "start": 214.39999999999998,
+    "end": 214.54,
+    "basis": "local-asr",
+    "index": 558,
+    "paragraph": 14
+  },
+  {
+    "text": "yet.",
+    "start": 214.54,
+    "end": 214.73999999999998,
+    "basis": "local-asr",
+    "index": 559,
+    "paragraph": 14
+  },
+  {
+    "text": "You've",
+    "start": 215.01999999999998,
+    "end": 215.28,
+    "basis": "local-asr",
+    "index": 560,
+    "paragraph": 14
+  },
+  {
+    "text": "barely",
+    "start": 215.28,
+    "end": 215.48,
+    "basis": "local-asr",
+    "index": 561,
+    "paragraph": 14
+  },
+  {
+    "text": "started.",
+    "start": 215.48,
+    "end": 215.85999999999999,
+    "basis": "local-asr",
+    "index": 562,
+    "paragraph": 14
+  },
+  {
+    "text": "You",
+    "start": 216.32,
+    "end": 216.45999999999998,
+    "basis": "local-asr",
+    "index": 563,
+    "paragraph": 14
+  },
+  {
+    "text": "sit",
+    "start": 216.45999999999998,
+    "end": 216.61999999999998,
+    "basis": "local-asr",
+    "index": 564,
+    "paragraph": 14
+  },
+  {
+    "text": "back",
+    "start": 216.61999999999998,
+    "end": 216.85999999999999,
+    "basis": "local-asr",
+    "index": 565,
+    "paragraph": 14
+  },
+  {
+    "text": "down.",
+    "start": 216.85999999999999,
+    "end": 217.2,
+    "basis": "local-asr",
+    "index": 566,
+    "paragraph": 14
+  },
+  {
+    "text": "Your",
+    "start": 217.92,
+    "end": 218.07999999999998,
+    "basis": "local-asr",
+    "index": 567,
+    "paragraph": 14
+  },
+  {
+    "text": "roommate",
+    "start": 218.07999999999998,
+    "end": 218.33999999999997,
+    "basis": "local-asr",
+    "index": 568,
+    "paragraph": 14
+  },
+  {
+    "text": "takes",
+    "start": 218.33999999999997,
+    "end": 218.67999999999998,
+    "basis": "local-asr",
+    "index": 569,
+    "paragraph": 14
+  },
+  {
+    "text": "a",
+    "start": 218.67999999999998,
+    "end": 218.82,
+    "basis": "local-asr",
+    "index": 570,
+    "paragraph": 14
+  },
+  {
+    "text": "piece",
+    "start": 218.82,
+    "end": 219.0,
+    "basis": "local-asr",
+    "index": 571,
+    "paragraph": 14
+  },
+  {
+    "text": "of",
+    "start": 219.0,
+    "end": 219.16,
+    "basis": "local-asr",
+    "index": 572,
+    "paragraph": 14
+  },
+  {
+    "text": "your",
+    "start": 219.16,
+    "end": 219.26,
+    "basis": "local-asr",
+    "index": 573,
+    "paragraph": 14
+  },
+  {
+    "text": "snack",
+    "start": 219.26,
+    "end": 219.54,
+    "basis": "local-asr",
+    "index": 574,
+    "paragraph": 14
+  },
+  {
+    "text": "and",
+    "start": 219.54,
+    "end": 220.01999999999998,
+    "basis": "local-asr",
+    "index": 575,
+    "paragraph": 14
+  },
+  {
+    "text": "heads",
+    "start": 220.01999999999998,
+    "end": 220.22,
+    "basis": "local-asr",
+    "index": 576,
+    "paragraph": 14
+  },
+  {
+    "text": "down",
+    "start": 220.22,
+    "end": 220.5,
+    "basis": "local-asr",
+    "index": 577,
+    "paragraph": 14
+  },
+  {
+    "text": "the",
+    "start": 220.5,
+    "end": 220.64,
+    "basis": "local-asr",
+    "index": 578,
+    "paragraph": 14
+  },
+  {
+    "text": "hall.",
+    "start": 220.64,
+    "end": 220.88,
+    "basis": "local-asr",
+    "index": 579,
+    "paragraph": 14
+  },
+  {
+    "text": "That's",
+    "start": 221.51999999999998,
+    "end": 221.85999999999999,
+    "basis": "local-asr",
+    "index": 580,
+    "paragraph": 14
+  },
+  {
+    "text": "it.",
+    "start": 221.85999999999999,
+    "end": 221.98,
+    "basis": "local-asr",
+    "index": 581,
+    "paragraph": 14
+  },
+  {
+    "text": "No",
+    "start": 222.5,
+    "end": 222.67999999999998,
+    "basis": "local-asr",
+    "index": 582,
+    "paragraph": 14
+  },
+  {
+    "text": "inspection.",
+    "start": 222.67999999999998,
+    "end": 222.98,
+    "basis": "local-asr",
+    "index": 583,
+    "paragraph": 14
+  },
+  {
+    "text": "You",
+    "start": 223.64,
+    "end": 223.82,
+    "basis": "local-asr",
+    "index": 584,
+    "paragraph": 14
+  },
+  {
+    "text": "pick",
+    "start": 223.82,
+    "end": 223.95999999999998,
+    "basis": "local-asr",
+    "index": 585,
+    "paragraph": 14
+  },
+  {
+    "text": "up",
+    "start": 223.95999999999998,
+    "end": 224.14,
+    "basis": "local-asr",
+    "index": 586,
+    "paragraph": 14
+  },
+  {
+    "text": "the",
+    "start": 224.14,
+    "end": 224.28,
+    "basis": "local-asr",
+    "index": 587,
+    "paragraph": 14
+  },
+  {
+    "text": "remote",
+    "start": 224.28,
+    "end": 224.51999999999998,
+    "basis": "local-asr",
+    "index": 588,
+    "paragraph": 14
+  },
+  {
+    "text": "and",
+    "start": 224.51999999999998,
+    "end": 224.73999999999998,
+    "basis": "local-asr",
+    "index": 589,
+    "paragraph": 14
+  },
+  {
+    "text": "find",
+    "start": 224.73999999999998,
+    "end": 224.94,
+    "basis": "local-asr",
+    "index": 590,
+    "paragraph": 14
+  },
+  {
+    "text": "your",
+    "start": 224.94,
+    "end": 225.1,
+    "basis": "local-asr",
+    "index": 591,
+    "paragraph": 14
+  },
+  {
+    "text": "place.",
+    "start": 225.1,
+    "end": 225.38,
+    "basis": "local-asr",
+    "index": 592,
+    "paragraph": 14
+  },
+  {
+    "text": "The",
+    "start": 227.23999999999998,
+    "end": 227.38,
+    "basis": "local-asr",
+    "index": 593,
+    "paragraph": 15
+  },
+  {
+    "text": "guilt",
+    "start": 227.38,
+    "end": 227.6,
+    "basis": "local-asr",
+    "index": 594,
+    "paragraph": 15
+  },
+  {
+    "text": "hasn't",
+    "start": 227.6,
+    "end": 228.0,
+    "basis": "local-asr",
+    "index": 595,
+    "paragraph": 15
+  },
+  {
+    "text": "magically",
+    "start": 228.0,
+    "end": 228.38,
+    "basis": "local-asr",
+    "index": 596,
+    "paragraph": 15
+  },
+  {
+    "text": "disappeared.",
+    "start": 228.38,
+    "end": 228.94,
+    "basis": "local-asr",
+    "index": 597,
+    "paragraph": 15
+  },
+  {
+    "text": "Neither",
+    "start": 229.7,
+    "end": 229.85999999999999,
+    "basis": "local-asr",
+    "index": 598,
+    "paragraph": 15
+  },
+  {
+    "text": "has",
+    "start": 229.85999999999999,
+    "end": 230.14,
+    "basis": "local-asr",
+    "index": 599,
+    "paragraph": 15
+  },
+  {
+    "text": "tomorrow's",
+    "start": 230.14,
+    "end": 230.67999999999998,
+    "basis": "local-asr",
+    "index": 600,
+    "paragraph": 15
+  },
+  {
+    "text": "work.",
+    "start": 230.67999999999998,
+    "end": 230.89999999999998,
+    "basis": "local-asr",
+    "index": 601,
+    "paragraph": 15
+  },
+  {
+    "text": "But",
+    "start": 231.5,
+    "end": 231.7,
+    "basis": "local-asr",
+    "index": 602,
+    "paragraph": 15
+  },
+  {
+    "text": "this",
+    "start": 231.7,
+    "end": 231.88,
+    "basis": "local-asr",
+    "index": 603,
+    "paragraph": 15
+  },
+  {
+    "text": "time,",
+    "start": 231.88,
+    "end": 232.17999999999998,
+    "basis": "local-asr",
+    "index": 604,
+    "paragraph": 15
+  },
+  {
+    "text": "you",
+    "start": 232.54,
+    "end": 232.73999999999998,
+    "basis": "local-asr",
+    "index": 605,
+    "paragraph": 15
+  },
+  {
+    "text": "stay",
+    "start": 232.73999999999998,
+    "end": 232.98,
+    "basis": "local-asr",
+    "index": 606,
+    "paragraph": 15
+  },
+  {
+    "text": "for",
+    "start": 232.98,
+    "end": 233.22,
+    "basis": "local-asr",
+    "index": 607,
+    "paragraph": 15
+  },
+  {
+    "text": "the",
+    "start": 233.22,
+    "end": 233.33999999999997,
+    "basis": "local-asr",
+    "index": 608,
+    "paragraph": 15
+  },
+  {
+    "text": "next",
+    "start": 233.33999999999997,
+    "end": 233.48,
+    "basis": "local-asr",
+    "index": 609,
+    "paragraph": 15
+  },
+  {
+    "text": "scene.",
+    "start": 233.48,
+    "end": 233.82,
+    "basis": "local-asr",
+    "index": 610,
+    "paragraph": 15
+  },
+  {
+    "text": "Then",
+    "start": 234.35999999999999,
+    "end": 234.51999999999998,
+    "basis": "local-asr",
+    "index": 611,
+    "paragraph": 15
+  },
+  {
+    "text": "the",
+    "start": 234.51999999999998,
+    "end": 234.67999999999998,
+    "basis": "local-asr",
+    "index": 612,
+    "paragraph": 15
+  },
+  {
+    "text": "next.",
+    "start": 234.67999999999998,
+    "end": 234.85999999999999,
+    "basis": "local-asr",
+    "index": 613,
+    "paragraph": 15
+  },
+  {
+    "text": "You",
+    "start": 235.39999999999998,
+    "end": 235.64,
+    "basis": "local-asr",
+    "index": 614,
+    "paragraph": 15
+  },
+  {
+    "text": "let",
+    "start": 235.64,
+    "end": 235.78,
+    "basis": "local-asr",
+    "index": 615,
+    "paragraph": 15
+  },
+  {
+    "text": "the",
+    "start": 235.78,
+    "end": 235.94,
+    "basis": "local-asr",
+    "index": 616,
+    "paragraph": 15
+  },
+  {
+    "text": "movie",
+    "start": 235.94,
+    "end": 236.2,
+    "basis": "local-asr",
+    "index": 617,
+    "paragraph": 15
+  },
+  {
+    "text": "hold",
+    "start": 236.2,
+    "end": 236.38,
+    "basis": "local-asr",
+    "index": 618,
+    "paragraph": 15
+  },
+  {
+    "text": "your",
+    "start": 236.56,
+    "end": 236.64,
+    "basis": "local-asr",
+    "index": 619,
+    "paragraph": 15
+  },
+  {
+    "text": "attention.",
+    "start": 236.64,
+    "end": 236.95999999999998,
+    "basis": "local-asr",
+    "index": 620,
+    "paragraph": 15
+  },
+  {
+    "text": "And",
+    "start": 237.95999999999998,
+    "end": 238.2,
+    "basis": "local-asr",
+    "index": 621,
+    "paragraph": 15
+  },
+  {
+    "text": "you",
+    "start": 238.2,
+    "end": 238.29999999999998,
+    "basis": "local-asr",
+    "index": 622,
+    "paragraph": 15
+  },
+  {
+    "text": "let",
+    "start": 238.29999999999998,
+    "end": 238.48,
+    "basis": "local-asr",
+    "index": 623,
+    "paragraph": 15
+  },
+  {
+    "text": "someone",
+    "start": 238.48,
+    "end": 238.76,
+    "basis": "local-asr",
+    "index": 624,
+    "paragraph": 15
+  },
+  {
+    "text": "see",
+    "start": 238.76,
+    "end": 239.11999999999998,
+    "basis": "local-asr",
+    "index": 625,
+    "paragraph": 15
+  },
+  {
+    "text": "you",
+    "start": 239.11999999999998,
+    "end": 239.29999999999998,
+    "basis": "local-asr",
+    "index": 626,
+    "paragraph": 15
+  },
+  {
+    "text": "resting,",
+    "start": 239.29999999999998,
+    "end": 239.61999999999998,
+    "basis": "local-asr",
+    "index": 627,
+    "paragraph": 15
+  },
+  {
+    "text": "without",
+    "start": 239.61999999999998,
+    "end": 239.92,
+    "basis": "local-asr",
+    "index": 628,
+    "paragraph": 15
+  },
+  {
+    "text": "trying",
+    "start": 239.92,
+    "end": 240.32,
+    "basis": "local-asr",
+    "index": 629,
+    "paragraph": 15
+  },
+  {
+    "text": "to",
+    "start": 240.32,
+    "end": 240.5,
+    "basis": "local-asr",
+    "index": 630,
+    "paragraph": 15
+  },
+  {
+    "text": "make",
+    "start": 240.5,
+    "end": 240.66,
+    "basis": "local-asr",
+    "index": 631,
+    "paragraph": 15
+  },
+  {
+    "text": "it",
+    "start": 240.66,
+    "end": 240.78,
+    "basis": "local-asr",
+    "index": 632,
+    "paragraph": 15
+  },
+  {
+    "text": "look",
+    "start": 240.78,
+    "end": 240.92,
+    "basis": "local-asr",
+    "index": 633,
+    "paragraph": 15
+  },
+  {
+    "text": "like",
+    "start": 240.92,
+    "end": 241.11999999999998,
+    "basis": "local-asr",
+    "index": 634,
+    "paragraph": 15
+  },
+  {
+    "text": "something",
+    "start": 241.11999999999998,
+    "end": 241.42,
+    "basis": "local-asr",
+    "index": 635,
+    "paragraph": 15
+  },
+  {
+    "text": "else.",
+    "start": 241.42,
+    "end": 241.7,
+    "basis": "local-asr",
+    "index": 636,
+    "paragraph": 15
+  }
+]

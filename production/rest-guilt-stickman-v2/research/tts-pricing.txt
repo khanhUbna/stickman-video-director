@@ -1,0 +1,2 @@
+https://platform.openai.com/docs/models/tts-1
+Cost / 1M characters $15.00 Quick comparison Cost TTS-1 HD $ 30.00 TTS-1 $ 15.00 Modalities Text Input only Image Not supported Audio Output only Video Not supported Endpoints Live v1/live/sessions Chat Completions v1/chat/completions Respo
