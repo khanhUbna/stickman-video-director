@@ -1,0 +1,26 @@
+[
+  {
+    "id": "leisure-paper",
+    "url": "https://doi.org/10.1016/j.jesp.2021.104198",
+    "access_status": "blocked",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "leisure-institution",
+    "url": "https://news.osu.edu/think-leisure-is-a-waste-that-may-not-bode-well-for-your-mental-health/",
+    "access_status": "blocked",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "planning-pubmed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21688924/",
+    "access_status": "blocked",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "self-worth-paper",
+    "url": "https://doi.org/10.1037/0033-295X.108.3.593",
+    "access_status": "blocked",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]

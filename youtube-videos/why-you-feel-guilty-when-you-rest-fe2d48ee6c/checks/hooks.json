@@ -1,0 +1,67 @@
+[
+  {
+    "hook": "You finally stop working. Why do three minutes on the couch feel like something you need to hide?",
+    "properties": {
+      "SPECIFICITY": 57,
+      "ADDRESS": 96,
+      "STAKES": 62,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 68,
+    "band": "WORKABLE",
+    "formula": "The Mistake"
+  },
+  {
+    "hook": "Imagine this. You stop working, sit down, and hear someone coming. Why does resting for three minutes feel like getting caught?",
+    "properties": {
+      "SPECIFICITY": 63,
+      "ADDRESS": 76,
+      "STAKES": 62,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 67,
+    "band": "WORKABLE",
+    "formula": "The Mistake"
+  },
+  {
+    "hook": "You're trying to rest. So why are you hunting for a job nobody asked you to do?",
+    "properties": {
+      "SPECIFICITY": 35,
+      "ADDRESS": 100,
+      "STAKES": 22,
+      "CURIOSITY": 76,
+      "BREVITY": 100
+    },
+    "verdict": 49,
+    "band": "WEAK",
+    "formula": "The Question"
+  },
+  {
+    "hook": "Someone comes home and you grab a clean plate. Why does your break need an alibi?",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 96,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 47,
+    "band": "WEAK",
+    "formula": "The Question"
+  },
+  {
+    "hook": "You finish the chores, sit down, and feel guilty again. What exactly were those chores supposed to prove?",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 76,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 44,
+    "band": "WEAK",
+    "formula": "The Question"
+  }
+]

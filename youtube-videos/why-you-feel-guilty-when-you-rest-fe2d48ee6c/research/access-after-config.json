@@ -1,0 +1,34 @@
+[
+  {
+    "id": "leisure-institution",
+    "url": "https://news.osu.edu/think-leisure-is-a-waste-that-may-not-bode-well-for-your-mental-health/",
+    "status": "retrieved-not-yet-read",
+    "http_status": 200,
+    "bytes": 94241,
+    "final_url": "https://news.osu.edu/think-leisure-is-a-waste-that-may-not-bode-well-for-your-mental-health/"
+  },
+  {
+    "id": "planning-pubmed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21688924/",
+    "status": "retrieved-not-yet-read",
+    "http_status": 203,
+    "bytes": 5590,
+    "final_url": "https://pubmed.ncbi.nlm.nih.gov/21688924/"
+  },
+  {
+    "id": "leisure-search",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Viewing+leisure+as+wasteful+undermines+enjoyment",
+    "status": "retrieved-not-yet-read",
+    "http_status": 200,
+    "bytes": 200653,
+    "final_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Viewing+leisure+as+wasteful+undermines+enjoyment"
+  },
+  {
+    "id": "self-worth-search",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Contingencies+of+self-worth+Crocker+Wolfe+2001",
+    "status": "retrieved-not-yet-read",
+    "http_status": 200,
+    "bytes": 221889,
+    "final_url": "https://pubmed.ncbi.nlm.nih.gov/?term=Contingencies+of+self-worth+Crocker+Wolfe+2001"
+  }
+]
