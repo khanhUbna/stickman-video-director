@@ -64,4 +64,3 @@
     x  no-number    no figure - if there is a real number, name or date for this, use it
     ok              41 characters, inside the 60-character desktop cut
     ok              thumbnail and title carry different words
-

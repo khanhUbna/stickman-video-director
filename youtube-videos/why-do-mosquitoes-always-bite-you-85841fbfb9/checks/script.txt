@@ -3,4 +3,3 @@
 
     x  paragraph 13: 25 words (keep 30-75: one breath-group, one take)
     x  opening scores 48 on hookscore.py (need 60): 'Five people at a barbecue. Four are eating dinner. You are becoming di'
-
