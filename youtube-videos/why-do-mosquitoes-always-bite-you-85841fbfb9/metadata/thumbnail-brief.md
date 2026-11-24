@@ -1,0 +1,1 @@
+Two adult cartoon guests at barbecue, hero swarmed and incredulous, friend calm. Three-word-or-less text WHY ME? Mosquito close to arm, no gore. Warm party vs dark mosquito silhouettes. Does not show chemical answer. No character/image generated in this draft.

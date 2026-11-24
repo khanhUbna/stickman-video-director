@@ -1,0 +1,67 @@
+
+  "Why Do Mosquitoes Always Bite You?"
+  34 chars   score 98/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              34 characters, inside the 60-character desktop cut
+    ok              open question in the title
+    ok              thumbnail and title carry different words
+
+  "Why Do Mosquitoes Pick You?"
+  27 chars   score 98/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              27 characters, inside the 60-character desktop cut
+    ok              open question in the title
+    ok              thumbnail and title carry different words
+
+  "What Makes You a Mosquito Magnet?"
+  33 chars   score 98/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              33 characters, inside the 60-character desktop cut
+    ok              open question in the title
+    ok              thumbnail and title carry different words
+
+  "Why Do Mosquitoes Love Some People?"
+  35 chars   score 98/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              35 characters, inside the 60-character desktop cut
+    ok              open question in the title
+    ok              thumbnail and title carry different words
+
+  "How Mosquitoes Choose Their Next Meal"
+  37 chars   score 94/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              37 characters, inside the 60-character desktop cut
+    ok              thumbnail and title carry different words
+
+  "What Mosquitoes Smell on Your Skin"
+  34 chars   score 94/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              34 characters, inside the 60-character desktop cut
+    ok              thumbnail and title carry different words
+
+  "Why Mosquitoes Keep Finding You"
+  31 chars   score 94/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              31 characters, inside the 60-character desktop cut
+    ok              thumbnail and title carry different words
+
+  "Why You Became the Mosquito Buffet"
+  34 chars   score 94/100
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              34 characters, inside the 60-character desktop cut
+    ok              thumbnail and title carry different words
+
+  "Why You Get Bitten More Than Your Friends"
+  41 chars   score 80/100
+    x  mobile       a mobile feed shows about "Why You Get Bitten More Than Your..." - check the subject survives
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              41 characters, inside the 60-character desktop cut
+    ok              thumbnail and title carry different words
+
+  "Why Your Friend Gets Fewer Mosquito Bites"
+  41 chars   score 80/100
+    x  mobile       a mobile feed shows about "Why Your Friend Gets Fewer Mosquito..." - check the subject survives
+    x  no-number    no figure - if there is a real number, name or date for this, use it
+    ok              41 characters, inside the 60-character desktop cut
+    ok              thumbnail and title carry different words
+

@@ -1,0 +1,265 @@
+{
+  "directory": "/workspace/stickman-video-director/youtube-videos/why-do-mosquitoes-always-bite-you-85841fbfb9",
+  "spoken_words": 598,
+  "estimated_spoken_seconds_at_planning_rate": 256.3,
+  "blockers": [],
+  "warnings": [
+    "Upstream scriptcheck findings require editorial review; scores are not acceptance"
+  ],
+  "tool_reports": {
+    "hooks.json": {
+      "returncode": 0,
+      "result": [
+        {
+          "hook": "Five people at a barbecue. Four are eating dinner. You are becoming dinner. Why is it always me?",
+          "properties": {
+            "SPECIFICITY": 96,
+            "ADDRESS": 46,
+            "STAKES": 36,
+            "CURIOSITY": 59,
+            "BREVITY": 100
+          },
+          "verdict": 55,
+          "band": "WORKABLE",
+          "formula": "The Question"
+        },
+        {
+          "hook": "Your friend has bare ankles and no bites. You have repellent and a personal mosquito fan club. Why you?",
+          "properties": {
+            "SPECIFICITY": 46,
+            "ADDRESS": 100,
+            "STAKES": 22,
+            "CURIOSITY": 59,
+            "BREVITY": 100
+          },
+          "verdict": 48,
+          "band": "WEAK",
+          "formula": "The Question"
+        },
+        {
+          "hook": "You move your chair to escape the mosquitoes. They follow. What exactly are you carrying with you?",
+          "properties": {
+            "SPECIFICITY": 46,
+            "ADDRESS": 100,
+            "STAKES": 22,
+            "CURIOSITY": 59,
+            "BREVITY": 100
+          },
+          "verdict": 48,
+          "band": "WEAK",
+          "formula": "The Question"
+        },
+        {
+          "hook": "A mosquito ignores everyone at the party and lands on you. What did she notice that you missed?",
+          "properties": {
+            "SPECIFICITY": 40,
+            "ADDRESS": 66,
+            "STAKES": 22,
+            "CURIOSITY": 59,
+            "BREVITY": 100
+          },
+          "verdict": 43,
+          "band": "WEAK",
+          "formula": "The Question"
+        },
+        {
+          "hook": "Scientists offered mosquitoes a choice between used nylon sleeves. Their choices help explain why you keep getting bitten.",
+          "properties": {
+            "SPECIFICITY": 40,
+            "ADDRESS": 46,
+            "STAKES": 22,
+            "CURIOSITY": 41,
+            "BREVITY": 100
+          },
+          "verdict": 39,
+          "band": "WEAK",
+          "formula": "Unclassified"
+        }
+      ]
+    },
+    "scriptcheck.json": {
+      "returncode": 1,
+      "result": {
+        "words": 598,
+        "paragraphs": 14,
+        "errors": [
+          "paragraph 13: 25 words (keep 30-75: one breath-group, one take)",
+          "opening scores 48 on hookscore.py (need 60): 'Five people at a barbecue. Four are eating dinner. You are becoming di'"
+        ],
+        "warnings": []
+      }
+    },
+    "titles.json": {
+      "returncode": 0,
+      "result": [
+        {
+          "title": "Why Do Mosquitoes Always Bite You?",
+          "chars": 34,
+          "score": 98,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "34 characters, inside the 60-character desktop cut",
+            "open question in the title",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Why Do Mosquitoes Pick You?",
+          "chars": 27,
+          "score": 98,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "27 characters, inside the 60-character desktop cut",
+            "open question in the title",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "What Makes You a Mosquito Magnet?",
+          "chars": 33,
+          "score": 98,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "33 characters, inside the 60-character desktop cut",
+            "open question in the title",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Why Do Mosquitoes Love Some People?",
+          "chars": 35,
+          "score": 98,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "35 characters, inside the 60-character desktop cut",
+            "open question in the title",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "How Mosquitoes Choose Their Next Meal",
+          "chars": 37,
+          "score": 94,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "37 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "What Mosquitoes Smell on Your Skin",
+          "chars": 34,
+          "score": 94,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "34 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Why Mosquitoes Keep Finding You",
+          "chars": 31,
+          "score": 94,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "31 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Why You Became the Mosquito Buffet",
+          "chars": 34,
+          "score": 94,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "34 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Why You Get Bitten More Than Your Friends",
+          "chars": 41,
+          "score": 80,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"Why You Get Bitten More Than Your...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "41 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Why Your Friend Gets Fewer Mosquito Bites",
+          "chars": 41,
+          "score": 80,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"Why Your Friend Gets Fewer Mosquito...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "41 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        }
+      ]
+    }
+  },
+  "draft_bundle_complete": true,
+  "scientific_truth_verified_by_cli": false,
+  "script_approved": false,
+  "paid_API_calls": 0,
+  "note": "Evidence-field checks and editorial lint only; actual source reading, fact-checking and creator review remain necessary."
+}

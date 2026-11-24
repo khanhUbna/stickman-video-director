@@ -1,0 +1,7 @@
+# Editorial review, not measured retention
+
+598 words, estimated 4:00–4:30 with natural delivery and short visual reactions; no audio exists and these are not actual timestamps. The early question is why one person is selected despite a nearby alternative. Chair movement turns explanation into a failed tactic. Around the middle, shift into the real nylon experiment; visual choices carry the chemistry explanation. Return to the barbecue, debunk the proposed sweet-blood explanation without claiming blood properties never matter. Saliva explains itch; distinguish reactions from actual preference. Egg-supply gag leads into supported protection and burger callback.
+
+Do not have an insect or narrator stand lecturing for a whole paragraph. Wide barbecue, breath view, low mosquito tracking shot, chair move, lab split choice, fabric macro, scent visualization, skin cutaway and protective action vary the picture. Skin compounds should appear as a mixture, not a single villain or poison. Repeat the same two-shot only at purposeful callbacks. No guarantee of views or retention.
+
+Local scriptcheck warnings reviewed: the final 25-word paragraph is intentionally a short comic ending; do not pad it to 30. Opening below tool threshold is an accepted editorial exception, not a scientific or safety failure. Aedes name list warning fixed. Personification, five diners and three bumps are fictional narrative staging. No TTS, image generation, rendering or publication authorized in this drafting step.

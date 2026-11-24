@@ -1,0 +1,67 @@
+[
+  {
+    "hook": "Five people at a barbecue. Four are eating dinner. You are becoming dinner. Why is it always me?",
+    "properties": {
+      "SPECIFICITY": 96,
+      "ADDRESS": 46,
+      "STAKES": 36,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 55,
+    "band": "WORKABLE",
+    "formula": "The Question"
+  },
+  {
+    "hook": "Your friend has bare ankles and no bites. You have repellent and a personal mosquito fan club. Why you?",
+    "properties": {
+      "SPECIFICITY": 46,
+      "ADDRESS": 100,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 48,
+    "band": "WEAK",
+    "formula": "The Question"
+  },
+  {
+    "hook": "You move your chair to escape the mosquitoes. They follow. What exactly are you carrying with you?",
+    "properties": {
+      "SPECIFICITY": 46,
+      "ADDRESS": 100,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 48,
+    "band": "WEAK",
+    "formula": "The Question"
+  },
+  {
+    "hook": "A mosquito ignores everyone at the party and lands on you. What did she notice that you missed?",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 66,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 43,
+    "band": "WEAK",
+    "formula": "The Question"
+  },
+  {
+    "hook": "Scientists offered mosquitoes a choice between used nylon sleeves. Their choices help explain why you keep getting bitten.",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 46,
+      "STAKES": 22,
+      "CURIOSITY": 41,
+      "BREVITY": 100
+    },
+    "verdict": 39,
+    "band": "WEAK",
+    "formula": "Unclassified"
+  }
+]

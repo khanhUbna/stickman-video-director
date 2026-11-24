@@ -1,0 +1,160 @@
+[
+  {
+    "id": "C01",
+    "paragraph": 2,
+    "claim": "Mosquito host choice responds to cues from a person's body; the character may not notice those cues.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S3"
+    ],
+    "evidence_locator": "source-3.txt:115\u2013116,121,130",
+    "evidence_excerpt": "using sensory cues including exhaled CO2, body heat, and skin odor",
+    "limitations": "General cue use is supported; human awareness was not measured. Final wording is 'may not notice', replacing the earlier absolute 'can't even notice'."
+  },
+  {
+    "id": "C02",
+    "paragraph": 3,
+    "claim": "Exhaled breath contains carbon dioxide that mosquitoes use as a host-finding cue.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1",
+      "S3"
+    ],
+    "evidence_locator": "source-1.txt:89; source-3.txt:115",
+    "evidence_excerpt": "detect carbon dioxide from a person's breath",
+    "limitations": "A cue, not proof that CO2 alone explains individual preference. 'First' introduces this fictional episode, not a compulsory biological sequence."
+  },
+  {
+    "id": "C03",
+    "paragraph": 4,
+    "claim": "Body heat and skin odor also guide host seeking; several cues are used rather than a neat mandatory checklist.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S3"
+    ],
+    "evidence_locator": "source-3.txt:115,121,130,309",
+    "evidence_excerpt": "a mixture of air and carbon dioxide (CO2) was passed over each stimulus to convey volatile odors to mosquitoes downwind",
+    "limitations": "Supports broad use of multiple cues. The source does not establish the script's approach sequence or a universal distance threshold; those are staging. No quantified sensory synergy is claimed."
+  },
+  {
+    "id": "C04",
+    "paragraph": 5,
+    "claim": "A person's skin-odor blend may contribute to their relative attractiveness.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S3"
+    ],
+    "evidence_locator": "source-3.txt:116,129\u2013131",
+    "evidence_excerpt": "temperature and CO2 cues were held constant in all nylon experiments",
+    "limitations": "The barbecue choice is fictional; controlled odor preference does not predict every real-world encounter."
+  },
+  {
+    "id": "C05",
+    "paragraph": 6,
+    "claim": "Researchers collected forearm odor on worn nylon sleeves and offered mosquitoes choices between people's samples.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S3"
+    ],
+    "evidence_locator": "source-3.txt:118,121,129\u2013131,308\u2013309",
+    "evidence_excerpt": "collected human forearm odor on nylon sleeves",
+    "limitations": "Laboratory attraction assay with controlled conditions, not a bite-count trial or a barbecue experiment."
+  },
+  {
+    "id": "C06",
+    "paragraph": 7,
+    "claim": "Samples differed substantially in attractiveness to Aedes aegypti, a species capable of transmitting dengue.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S3"
+    ],
+    "evidence_locator": "source-3.txt:115,121,130\u2013131",
+    "evidence_excerpt": "there were remarkable differences in the attractiveness of the 8 subjects",
+    "limitations": "Species identity and dengue capability are stated in line115; not every individual mosquito is infected. Odor attraction, not a numerical real-world bite multiplier."
+  },
+  {
+    "id": "C07",
+    "paragraph": 7,
+    "claim": "Highly attractive participants had higher levels of certain skin-derived carboxylic acids.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S3"
+    ],
+    "evidence_locator": "source-3.txt:109,174,189\u2013190,198,205\u2013206",
+    "evidence_excerpt": "we documented an association between high levels of skin carboxylic acids and attractiveness to mosquitoes",
+    "limitations": "Group-level association with exceptions, including low-attractor Subject90. The study expressly does not establish that these acids directly cause high attraction."
+  },
+  {
+    "id": "C08",
+    "paragraph": 8,
+    "claim": "Carboxylic acids are components of skin chemistry; odor is a mixture, no single sufficient cause was established, and results should not be assumed to apply identically across species.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S3"
+    ],
+    "evidence_locator": "source-3.txt:116,204\u2013206,269",
+    "evidence_excerpt": "Human skin odor is a complex blend of several classes of chemical compounds",
+    "limitations": "'Skin chemistry' refers to compounds on skin, including contributions from sebum and microbiota, not dirt or an acid-removal treatment. The species sentence is a scope caution: this study tested Aedes aegypti, not a direct comparison proving different preferences in other species. The identified acids are not especially volatile; no long-distance acid trail is established."
+  },
+  {
+    "id": "C09",
+    "paragraph": 9,
+    "claim": "Mosquitoes can prefer a person's odor before contacting or tasting blood; the friend's 'sweet blood' explanation is not established by this story.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S3"
+    ],
+    "evidence_locator": "source-3.txt:115,121,129\u2013131,309",
+    "evidence_excerpt": "mosquitoes cannot contact or taste the nylon in our assays due to the presence of a mesh barrier",
+    "limitations": "Demonstrates precontact olfactory preference, not that blood traits can never matter. The paper describes contradictory blood-type evidence; the script does not rank blood types."
+  },
+  {
+    "id": "C10",
+    "paragraph": 10,
+    "claim": "Feeding mosquitoes inject saliva that provokes itching and bumps; reactions differ, so visible bumps and comfort do not conclusively count or exclude bites.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S4"
+    ],
+    "evidence_locator": "source-4.txt:71\u201374,79\u201380",
+    "evidence_excerpt": "Your body reacts to the saliva resulting in a bump and itching.",
+    "limitations": "Variable reaction and delayed appearance are directly described. The imperfect-counter/comfortable-friend statements are cautious inferences from those facts, not a measured counting-error rate or proof this friend was bitten."
+  },
+  {
+    "id": "C11",
+    "paragraph": 11,
+    "claim": "Female mosquitoes use blood meals for egg production; males do not bite people; both sexes can consume nectar.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1",
+      "S4"
+    ],
+    "evidence_locator": "source-1.txt:81,92\u201394; source-4.txt:68\u201370",
+    "evidence_excerpt": "Both female and male mosquitoes use the proboscis to feed on flower nectar and fruit juices.",
+    "limitations": "'Use a blood meal to help produce eggs' is general biology, not a claim that every mosquito species always requires blood; S4 explicitly says most female mosquitoes."
+  },
+  {
+    "id": "C12",
+    "paragraph": 12,
+    "claim": "Loose long clothing and EPA-registered repellent containing DEET or picaridin, used according to its label, are recommended protection.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S2"
+    ],
+    "evidence_locator": "source-2.txt:70\u201371,77\u201380,97\u2013100,106\u2013108",
+    "evidence_excerpt": "Wear loose-fitting, long-sleeved shirts and pants.",
+    "limitations": "CDC also names DEET and picaridin at lines79\u201380 and directs label-following at line98. Protection is not a guarantee of zero bites; label directions govern application and reapplication."
+  },
+  {
+    "id": "C13",
+    "paragraph": 13,
+    "claim": "People can differ in mosquito attractiveness; skin odor is an important cue, and attraction alone is not proof of poor hygiene.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S3"
+    ],
+    "evidence_locator": "source-3.txt:115\u2013116,130\u2013131,204,268,308",
+    "evidence_excerpt": "Human subjects washed their forearms with Dove unscented soap and water",
+    "limitations": "The hygiene point is a bounded inference: odor differences occurred after standardized washing, and skin acids have physiological/microbial origins. The study did not test whether hygiene practices have no influence; it explicitly did not investigate personal-care factors."
+  }
+]

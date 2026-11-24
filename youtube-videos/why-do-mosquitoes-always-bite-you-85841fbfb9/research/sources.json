@@ -1,0 +1,38 @@
+[
+  {
+    "id": "S1",
+    "title": "About Mosquitoes",
+    "url": "https://www.cdc.gov/mosquitoes/about/index.html",
+    "kind": "CDC public health guidance",
+    "access_status": "read",
+    "sections_read": "Facts and adult anatomy; saved source-1.txt lines 76\u201395",
+    "limitations": "General educational context, not an individual-attraction experiment."
+  },
+  {
+    "id": "S2",
+    "title": "Preventing Mosquito Bites",
+    "url": "https://www.cdc.gov/mosquitoes/prevention/index.html",
+    "kind": "CDC prevention guidance",
+    "access_status": "read",
+    "sections_read": "source-2.txt lines 67\u2013113, 121\u2013125",
+    "limitations": "Follow product labels; reduces risk, no guarantee of zero bites."
+  },
+  {
+    "id": "S3",
+    "title": "Differential mosquito attraction to humans is associated with skin-derived carboxylic acid levels",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10069481/",
+    "kind": "Peer-reviewed primary research, De Obaldia et al., Cell (2022)",
+    "access_status": "read",
+    "sections_read": "source-3.txt Summary, Introduction, Results on nylon assays, Discussion; lines 108\u2013131 and relevant discussion passages",
+    "limitations": "Aedes aegypti, laboratory odor choice, association with acid levels; not all species, not a single sufficient causal ingredient. Sensory context in Introduction is synthesis of earlier work."
+  },
+  {
+    "id": "S4",
+    "title": "About Mosquito Bites",
+    "url": "https://www.cdc.gov/mosquitoes/about/about-mosquito-bites.html",
+    "kind": "CDC bite reaction guidance",
+    "access_status": "read",
+    "sections_read": "source-4.txt lines 66\u201395",
+    "limitations": "Visible bump count inference is qualified; no diagnosis or treatment claim."
+  }
+]

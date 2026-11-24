@@ -1,0 +1,6 @@
+
+  youtube-videos/why-do-mosquitoes-always-bite-you-85841fbfb9/script/script.json: 598 words, 14 paragraphs, 2 errors, 0 warnings
+
+    x  paragraph 13: 25 words (keep 30-75: one breath-group, one take)
+    x  opening scores 48 on hookscore.py (need 60): 'Five people at a barbecue. Four are eating dinner. You are becoming di'
+

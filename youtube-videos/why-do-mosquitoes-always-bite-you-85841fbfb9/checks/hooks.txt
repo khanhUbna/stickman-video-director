@@ -1,0 +1,58 @@
+
+  Five people at a barbecue. Four are eating dinner. You are becoming dinner. Why is it always me?
+  ------------------------------------------------------------------------
+    SPECIFICITY   96  ###################
+    ADDRESS       46  #########
+    STAKES        36  #######
+    CURIOSITY     59  ###########
+    BREVITY      100  ####################
+    VERDICT       55  WORKABLE
+    formula      The Question  (1 pattern matched)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  Your friend has bare ankles and no bites. You have repellent and a personal mosquito fan club. Why you?
+  ------------------------------------------------------------------------
+    SPECIFICITY   46  #########
+    ADDRESS      100  ####################
+    STAKES        22  ####
+    CURIOSITY     59  ###########
+    BREVITY      100  ####################
+    VERDICT       48  WEAK
+    formula      The Question  (1 pattern matched)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  You move your chair to escape the mosquitoes. They follow. What exactly are you carrying with you?
+  ------------------------------------------------------------------------
+    SPECIFICITY   46  #########
+    ADDRESS      100  ####################
+    STAKES        22  ####
+    CURIOSITY     59  ###########
+    BREVITY      100  ####################
+    VERDICT       48  WEAK
+    formula      The Question  (1 pattern matched)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  A mosquito ignores everyone at the party and lands on you. What did she notice that you missed?
+  ------------------------------------------------------------------------
+    SPECIFICITY   40  ########
+    ADDRESS       66  #############
+    STAKES        22  ####
+    CURIOSITY     59  ###########
+    BREVITY      100  ####################
+    VERDICT       43  WEAK
+    formula      The Question  (1 pattern matched)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  Scientists offered mosquitoes a choice between used nylon sleeves. Their choices help explain why you keep getting bitten.
+  ------------------------------------------------------------------------
+    SPECIFICITY   40  ########
+    ADDRESS       46  #########
+    STAKES        22  ####
+    CURIOSITY     41  ########
+    BREVITY      100  ####################
+    VERDICT       39  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  winner: Five people at a barbecue. Four are eating dinner. You are becoming dinner. Why is it always me?  (55, WORKABLE)
+
