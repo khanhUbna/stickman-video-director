@@ -1,0 +1,110 @@
+{
+  "ok": true,
+  "source": "https://github.com/utillayer/youtube-agent-skill.git",
+  "commit": "e0ac1e7476e71bed780a6e2ae19a929e40146c87",
+  "skills_checked": 12,
+  "tools_checked": 9,
+  "hook_formulas": 21,
+  "dependencies_checked": 31,
+  "upstream_files_unchanged": true,
+  "tools": [
+    {
+      "path": "yt-chapters/chapters.py",
+      "imports": [
+        "argparse",
+        "deadair",
+        "json",
+        "os",
+        "re",
+        "sys"
+      ]
+    },
+    {
+      "path": "yt-edit/deadair.py",
+      "imports": [
+        "argparse",
+        "json",
+        "os",
+        "re",
+        "sys"
+      ]
+    },
+    {
+      "path": "yt-package/title.py",
+      "imports": [
+        "argparse",
+        "json",
+        "os",
+        "re",
+        "sys"
+      ]
+    },
+    {
+      "path": "yt-research/sourcekit.py",
+      "imports": [
+        "argparse",
+        "json",
+        "os",
+        "re",
+        "sys"
+      ]
+    },
+    {
+      "path": "yt-retention/retention.py",
+      "imports": [
+        "argparse",
+        "csv",
+        "deadair",
+        "json",
+        "os",
+        "sys"
+      ]
+    },
+    {
+      "path": "yt-script/hookscore.py",
+      "imports": [
+        "argparse",
+        "json",
+        "os",
+        "re",
+        "sys"
+      ]
+    },
+    {
+      "path": "yt-script/scriptcheck.py",
+      "imports": [
+        "argparse",
+        "hookscore",
+        "json",
+        "os",
+        "re",
+        "sys"
+      ]
+    },
+    {
+      "path": "yt-shorts/shorts.py",
+      "imports": [
+        "argparse",
+        "deadair",
+        "hookscore",
+        "json",
+        "os",
+        "re",
+        "sys"
+      ]
+    },
+    {
+      "path": "yt-viral/swipe.py",
+      "imports": [
+        "argparse",
+        "hookscore",
+        "json",
+        "os",
+        "statistics",
+        "sys"
+      ]
+    }
+  ],
+  "errors": [],
+  "paid_API_calls": 0
+}

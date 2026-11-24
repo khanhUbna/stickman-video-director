@@ -1,0 +1,53 @@
+{
+  "repository": "https://github.com/utillayer/youtube-agent-skill.git",
+  "commit": "e0ac1e7476e71bed780a6e2ae19a929e40146c87",
+  "installed_on": "2026-11-24",
+  "license": "MIT",
+  "skills": [
+    "yt-audit",
+    "yt-chapters",
+    "yt-comment",
+    "yt-edit",
+    "yt-package",
+    "yt-plan",
+    "yt-research",
+    "yt-retention",
+    "yt-script",
+    "yt-seo",
+    "yt-shorts",
+    "yt-viral"
+  ],
+  "upstream_patches": [],
+  "files": {
+    "yt-audit/SKILL.md": "75bb009f0d9a60146b0f73c9e520e6dae707d4c378f13ab040963c59e1e4dbf0",
+    "yt-chapters/SKILL.md": "0aafecdd21c3192e167d954b7e0cb5ec589be3b2f299f535af673bf143cbc255",
+    "yt-chapters/chapters.py": "0af6fec2b10fc6a56e7c1255365091b25e1e969863f4b237fe998b4d50f6bf47",
+    "yt-comment/SKILL.md": "eac9a9cc1d8fb6e39a23b958e0fe8a8d08a1948e1c984bfa2ec5db8752de5974",
+    "yt-edit/SKILL.md": "3381a15a9d820f0a33f849385d4be4a0a862676c1936df412bf617ce573efb1a",
+    "yt-edit/deadair.py": "99b3cf9b621fdf01880ea4de247259d9efbe7b03814504a50874fd860bcb99b0",
+    "yt-package/SKILL.md": "e7f5fc2561517e0705de35de83d4fb14099d2cc1d8aab15f442e69006bceb2af",
+    "yt-package/title.py": "e95c56d850028a3c4304dc851153672109f1b97ee87afc73a5e138abababcf69",
+    "yt-plan/SKILL.md": "4b023e63a72d468d57795d60de577e5a8f7d502937b460d74852b687ee92e577",
+    "yt-research/SKILL.md": "3fe4eb74aee12043beb62e8784e49cb8eab04b54073ebe8dcd9edca0618afa80",
+    "yt-research/sourcekit.py": "caef391fae56d4f16e586c711eaf3d46382b1d849a0a64e7f7cf48e71c99dc45",
+    "yt-retention/SKILL.md": "3cd2cbf08784d8b15c92a4fe25e11edd8a2ed6814dba61aacf84d2fb265fafd0",
+    "yt-retention/retention.py": "15df74ec8dcc63ce57d1a6e02e7d3d168868a514b94df1244db1f120e015982a",
+    "yt-script/SKILL.md": "ced46a19d07d13545e0c3798830b769461631f9002836bd78280e2506cd6975e",
+    "yt-script/hooks.json": "148c47bb8f54d1ae3cf395e0beb2205087b5294092fead0340f95e954c7fb902",
+    "yt-script/hookscore.py": "bca38eed1475dd81cffb94f9581767f74d44560fc928674a343ce6c023326f73",
+    "yt-script/scriptcheck.py": "d7139562032fe2014a9493f859bef24bc5d7a0cfbddd97e4ae1788be9d7cf9bd",
+    "yt-seo/SKILL.md": "52815a20d4063c18c54d5b06bafc9d8e3bc1b15749b9303b4f3e749f9f0c995e",
+    "yt-shorts/SKILL.md": "45dd940307a7a491ecaaf5ce84572cfc391bef2d3a38791deeb75bf50eb94edf",
+    "yt-shorts/shorts.py": "dd8371bcb681fdfe818e42b29d242bff793387048d5d0cb2f0fe65b4111e1651",
+    "yt-viral/SKILL.md": "e58d8af0ecab34b57cda171241978906b6ab58b26b4b4b3f13e000e8972aa399",
+    "yt-viral/swipe.py": "71c642dd56bb3395ee4c0e658b89bc4cbb55565ab6159bcb239e3c6e653d8f91"
+  },
+  "support_files": {
+    "tests/fixtures/auto.vtt": "3ddced8cad41a438aaac0c46b3e04d7d5d587aa6e5479d9d90a3a73c45f5b292",
+    "tests/fixtures/retention_pct.csv": "d6ba68cf1c337e38eec751feaf8ed91edfa3e2b39cebf4b9f6e9264ac7d0d96b",
+    "tests/fixtures/retention_seconds.csv": "f1f6e0d9f0107695100464561bd95c8a85ded5e418d0a70f7ea54e33870b5fea",
+    "tests/fixtures/talk.srt": "bba587ec02c4f0bf09a89159a2fe290e70e2f6dabbc67141847da30273c6059a",
+    "tests/test_tools.py": "84a229b9f5bc1ca8018de9d886d78412dfcfc0764f96ffc9c5004f52b71a11b6",
+    "templates/voice.md": "82d42ca6892ab39ad08666063361eb741e84dee57e58c6cb563e4e1d06090445"
+  }
+}
