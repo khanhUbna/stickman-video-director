@@ -1,7 +1,7 @@
 {
   "title": "Why You Feel Guilty When You Rest",
   "version": "v2",
-  "status": "in-production",
+  "status": "completed",
   "script_approved": true,
   "spoken_english_words": 637,
   "paragraphs": 15,
@@ -9,7 +9,7 @@
   "audio_generated": true,
   "paid_api_calls": 0,
   "published": false,
-  "duration": "Measured 4:37.167, including intentional pauses and tail",
+  "duration": "Measured 4:37.167 MP4",
   "source_review_scope": "University research communication and PubMed abstracts only; reused actual retrieved text from v1.",
   "repository_configuration_changed": false,
   "independent_review": "completed for exact narration hash; no required corrections",
@@ -19,12 +19,16 @@
   "project": "engines/hyperframes-clay3d/films/rest-guilt-v1",
   "tts_provider": "Local Kokoro ONNX, public Apache-2.0 weights; no service API",
   "voice_id": "am_michael",
-  "duration_seconds": 277.1666666666667,
+  "duration_seconds": 277.166667,
   "shots": 63,
   "capture_fps": 12,
   "delivery_fps": 30,
   "post_speech_time_stretch": false,
   "captions": 130,
   "voice_alignment_exact_normalized_anchors": 636,
-  "voice_alignment_total_words": 637
+  "voice_alignment_total_words": 637,
+  "delivery": "deliveries/rest-guilt-clay-v1",
+  "mp4_sha256": "2e41fadea350af07c371a81d9204b4d2b6d3208e72a17b5c14de043efb85e32d",
+  "repository_branch": "video-delivery-b1",
+  "quality_report": "deliveries/rest-guilt-clay-v1/reports/QA.json"
 }

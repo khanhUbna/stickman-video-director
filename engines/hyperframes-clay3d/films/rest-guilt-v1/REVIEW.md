@@ -17,3 +17,11 @@ The local synthetic voice is retained at native recording speed; no external TTS
 ## Deliberate limits
 
 The native clay pose cadence is 12Hz, with 30fps delivery repeating frames. Faces convey expression and gaze; phoneme lip sync is not implemented. The imagined receipt close-up is the most literal illustrative shot; it is clearly introduced as an imaginary scenario. The ending deliberately settles into rest. The completed-film technical results belong in the delivery QA report; source checks alone are not evidence that an MP4 passed.
+
+## Actual delivery verification
+
+The 277.166667s native1080p MP4 contains 8315 frames at 30fps and AAC 48kHz mono audio. Full FFmpeg decode found no errors. All 63 decoded shot midpoint images were inspected in three sheets. Detailed encoded frames confirm the unobstructed unsent draft, completed reminder and faucet closure. Six encoded frames match independent browser references with mean absolute RGB differences of approximately 1.3–2.8/255; differences reflect color/compression and sample rounding. The caption sidecar preserves all 637 approved words across 130 cues.
+
+Actual encoded audio: -16.57 LUFS integrated, -1.85 dBTP; measured, not human-auditioned. All 3326 authored pose states pass the reach/contact audit. Core engine tests: 6 passed. HyperFrames stable preflight and final lint: no errors or warnings; craft/motion heuristics remain explicitly disabled. Existing-tool preservation: 763 baseline files unchanged. No paid API calls; no YouTube publication.
+
+The paper insert is the weakest reading shot while the hand writes; it becomes fully unobstructed at its end, with the reminder also spoken and captioned. A future pacing revision could leave the hand clear sooner. No phoneme lip sync or real-time human audiovisual acceptance is claimed. The exported file and current source remain the delivered approved-story version.

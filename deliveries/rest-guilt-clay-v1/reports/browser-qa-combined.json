@@ -1,0 +1,4091 @@
+{
+  "ok": true,
+  "pageErrors": [],
+  "externalRequests": [],
+  "motion": {
+    "samples": 3326,
+    "errors": [],
+    "landings": [
+      {
+        "time": 47.61666666666667,
+        "who": "hero",
+        "side": "left",
+        "shot": "p03-s04"
+      },
+      {
+        "time": 47.949999999999996,
+        "who": "hero",
+        "side": "right",
+        "shot": "p03-s04"
+      },
+      {
+        "time": 48.28333333333333,
+        "who": "hero",
+        "side": "left",
+        "shot": "p03-s04"
+      },
+      {
+        "time": 48.53333333333333,
+        "who": "hero",
+        "side": "right",
+        "shot": "p03-s04"
+      },
+      {
+        "time": 48.86666666666667,
+        "who": "hero",
+        "side": "left",
+        "shot": "p03-s04"
+      },
+      {
+        "time": 49.199999999999996,
+        "who": "hero",
+        "side": "right",
+        "shot": "p03-s04"
+      },
+      {
+        "time": 172.03333333333333,
+        "who": "buddy",
+        "side": "left",
+        "shot": "p10-s02"
+      },
+      {
+        "time": 172.53333333333333,
+        "who": "buddy",
+        "side": "right",
+        "shot": "p10-s02"
+      },
+      {
+        "time": 172.95,
+        "who": "buddy",
+        "side": "left",
+        "shot": "p10-s02"
+      },
+      {
+        "time": 173.45,
+        "who": "buddy",
+        "side": "right",
+        "shot": "p10-s02"
+      },
+      {
+        "time": 173.95,
+        "who": "buddy",
+        "side": "left",
+        "shot": "p10-s02"
+      },
+      {
+        "time": 174.36666666666667,
+        "who": "buddy",
+        "side": "right",
+        "shot": "p10-s02"
+      },
+      {
+        "time": 199.61666666666667,
+        "who": "hero",
+        "side": "left",
+        "shot": "p11-s05"
+      },
+      {
+        "time": 199.95,
+        "who": "hero",
+        "side": "right",
+        "shot": "p11-s05"
+      },
+      {
+        "time": 200.28333333333333,
+        "who": "hero",
+        "side": "left",
+        "shot": "p11-s05"
+      },
+      {
+        "time": 200.53333333333333,
+        "who": "hero",
+        "side": "right",
+        "shot": "p11-s05"
+      },
+      {
+        "time": 200.86666666666667,
+        "who": "hero",
+        "side": "left",
+        "shot": "p11-s05"
+      },
+      {
+        "time": 201.2,
+        "who": "hero",
+        "side": "right",
+        "shot": "p11-s05"
+      },
+      {
+        "time": 202.7,
+        "who": "hero",
+        "side": "left",
+        "shot": "p11-s06"
+      },
+      {
+        "time": 202.86666666666667,
+        "who": "hero",
+        "side": "right",
+        "shot": "p11-s06"
+      },
+      {
+        "time": 203.11666666666667,
+        "who": "hero",
+        "side": "left",
+        "shot": "p11-s06"
+      },
+      {
+        "time": 203.28333333333333,
+        "who": "hero",
+        "side": "right",
+        "shot": "p11-s06"
+      },
+      {
+        "time": 203.53333333333333,
+        "who": "hero",
+        "side": "left",
+        "shot": "p11-s06"
+      },
+      {
+        "time": 203.7,
+        "who": "hero",
+        "side": "right",
+        "shot": "p11-s06"
+      },
+      {
+        "time": 214.53333333333333,
+        "who": "hero",
+        "side": "left",
+        "shot": "p12-s03"
+      },
+      {
+        "time": 214.86666666666667,
+        "who": "hero",
+        "side": "right",
+        "shot": "p12-s03"
+      },
+      {
+        "time": 215.11666666666667,
+        "who": "hero",
+        "side": "left",
+        "shot": "p12-s03"
+      },
+      {
+        "time": 215.45,
+        "who": "hero",
+        "side": "right",
+        "shot": "p12-s03"
+      },
+      {
+        "time": 215.7,
+        "who": "hero",
+        "side": "left",
+        "shot": "p12-s03"
+      },
+      {
+        "time": 215.95,
+        "who": "hero",
+        "side": "right",
+        "shot": "p12-s03"
+      },
+      {
+        "time": 224.28333333333333,
+        "who": "buddy",
+        "side": "left",
+        "shot": "p13-s01"
+      },
+      {
+        "time": 224.78333333333333,
+        "who": "buddy",
+        "side": "right",
+        "shot": "p13-s01"
+      },
+      {
+        "time": 225.36666666666667,
+        "who": "buddy",
+        "side": "left",
+        "shot": "p13-s01"
+      },
+      {
+        "time": 225.86666666666667,
+        "who": "buddy",
+        "side": "right",
+        "shot": "p13-s01"
+      },
+      {
+        "time": 226.36666666666667,
+        "who": "buddy",
+        "side": "left",
+        "shot": "p13-s01"
+      },
+      {
+        "time": 226.95,
+        "who": "buddy",
+        "side": "right",
+        "shot": "p13-s01"
+      },
+      {
+        "time": 250.61666666666667,
+        "who": "buddy",
+        "side": "left",
+        "shot": "p14-s03"
+      },
+      {
+        "time": 250.86666666666667,
+        "who": "buddy",
+        "side": "right",
+        "shot": "p14-s03"
+      },
+      {
+        "time": 251.11666666666667,
+        "who": "buddy",
+        "side": "left",
+        "shot": "p14-s03"
+      },
+      {
+        "time": 251.36666666666667,
+        "who": "buddy",
+        "side": "right",
+        "shot": "p14-s03"
+      },
+      {
+        "time": 251.7,
+        "who": "buddy",
+        "side": "left",
+        "shot": "p14-s03"
+      }
+    ]
+  },
+  "shots": 63,
+  "frames": [
+    {
+      "shot": "p01-s01",
+      "time": 2.1517999999999997,
+      "action": "couch_guilt",
+      "camera": "face",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 5.551115123125783e-17,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            1,
+            0.9,
+            0.82
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null,
+          "visible": false
+        },
+        "remote": {
+          "position": [
+            2.0199999999999996,
+            1.05,
+            0.32
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0,
+            0.01,
+            0.02
+          ]
+        }
+      },
+      "projected": {
+        "head": [
+          -0.025936210043683013,
+          0.5754518546314142,
+          -0.8975673408213548
+        ],
+        "leftShoulder": [
+          -0.13287119539037107,
+          -0.18630435346536986,
+          -0.8904548860743836
+        ],
+        "rightShoulder": [
+          0.1376761947474431,
+          -0.23792889349417082,
+          -0.8954668504454409
+        ]
+      }
+    },
+    {
+      "shot": "p01-s02",
+      "time": 5.8328,
+      "action": "keys",
+      "camera": "key",
+      "reachable": [],
+      "props": {
+        "key": {
+          "position": [
+            0.5,
+            1.2,
+            -1.28
+          ],
+          "rotation": [
+            0,
+            0,
+            0.39351918062940655
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -2.2330747827757484,
+          -0.6046397403212441,
+          -0.9763579462487446
+        ],
+        "rightHand": [
+          -1.2754888950229537,
+          -0.7100034370449096,
+          -0.9812548011162008
+        ],
+        "head": [
+          -1.6847317790664695,
+          2.3443218904718774,
+          -0.980347229033347
+        ]
+      }
+    },
+    {
+      "shot": "p01-s03",
+      "time": 9.0868,
+      "action": "couch_movie",
+      "camera": "living",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 5.551115123125783e-17,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            1,
+            0.9,
+            0.82
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null,
+          "visible": false
+        },
+        "remote": {
+          "position": [
+            2.0199999999999996,
+            1.05,
+            0.32
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0,
+            0.01,
+            0.02
+          ]
+        }
+      },
+      "projected": {
+        "leftHand": [
+          0.31478518454047055,
+          -0.16378454115337673,
+          -0.7920880909562341
+        ],
+        "rightHand": [
+          0.4325212504625848,
+          -0.20604628852480783,
+          -0.7970611307285657
+        ],
+        "head": [
+          0.4041298589440295,
+          0.24164902285698397,
+          -0.7956232250470952
+        ]
+      }
+    },
+    {
+      "shot": "p01-s04",
+      "time": 13.51536,
+      "action": "wash",
+      "camera": "sink",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            -1.35,
+            1.2,
+            1.12
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null,
+          "visible": false
+        },
+        "plate": {
+          "position": [
+            -0.12000000000000002,
+            1.22,
+            1.12
+          ],
+          "rotation": [
+            1.0471975511965976,
+            0,
+            0.1
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0.16,
+            0.02,
+            0
+          ]
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.017795654267697067,
+          -0.10860006218288534,
+          -0.9028543821160048
+        ],
+        "rightHand": [
+          0.08167100385534047,
+          -0.05814805705540775,
+          -0.9017283458890513
+        ],
+        "head": [
+          -0.07073051368488309,
+          0.8148436249366068,
+          -0.9060114117598168
+        ]
+      }
+    },
+    {
+      "shot": "p02-s01",
+      "time": 19.9864,
+      "action": "dinner_done",
+      "camera": "kitchen",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            -1.35,
+            1.2,
+            1.12
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null,
+          "visible": true
+        },
+        "plate": {
+          "position": [
+            -1.2,
+            1.06,
+            1.3
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.3500983980540168,
+          0.09087267183794095,
+          -0.813508158010459
+        ],
+        "rightHand": [
+          -0.21814473762061398,
+          0.16748597116958275,
+          -0.8173071186765578
+        ],
+        "head": [
+          -0.27621898339804696,
+          0.7208743070274525,
+          -0.8199777938298275
+        ]
+      }
+    },
+    {
+      "shot": "p02-s02",
+      "time": 25.0204,
+      "action": "phone_movie",
+      "camera": "phone",
+      "reachable": [],
+      "props": {
+        "bowl": {
+          "position": [
+            1,
+            0.9,
+            0.82
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null,
+          "visible": false
+        },
+        "remote": {
+          "position": [
+            1.62,
+            0.84,
+            0.7
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        },
+        "phone": {
+          "position": [
+            0,
+            1.54,
+            2.5
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          3.4909090909090907,
+          -1.5515151515151515,
+          -0.9029029029029029
+        ],
+        "rightHand": [
+          4.872727272727272,
+          -1.5515151515151515,
+          -0.9029029029029029
+        ],
+        "head": [
+          4.181818181818182,
+          2.067632187375061,
+          -0.8997104190519108
+        ]
+      }
+    },
+    {
+      "shot": "p02-s03",
+      "time": 29.1616,
+      "action": "prepare_snack",
+      "camera": "kitchen",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            -1.3864762907322314,
+            1.2948383559038013,
+            1.06163793482843
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0,
+            0.16,
+            0
+          ]
+        },
+        "plate": {
+          "position": [
+            -0.85,
+            1.28,
+            1.19
+          ],
+          "rotation": [
+            1.5707963267948966,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.3545259951560843,
+          0.1168935554674415,
+          -0.8130709501826892
+        ],
+        "rightHand": [
+          -0.2271866694915743,
+          0.19826604619759997,
+          -0.8165917180682629
+        ],
+        "head": [
+          -0.27621898339804696,
+          0.7208743070274525,
+          -0.8199777938298275
+        ]
+      }
+    },
+    {
+      "shot": "p02-s04",
+      "time": 32.90154686,
+      "action": "email_insert",
+      "camera": "laptop",
+      "reachable": [],
+      "props": {},
+      "projected": {
+        "leftHand": [
+          0.543332110964179,
+          -0.6585425344742489,
+          -0.9387672116629231
+        ],
+        "rightHand": [
+          -0.09522315346794899,
+          -0.7181900457902202,
+          -0.9426107492284197
+        ],
+        "head": [
+          0.2597832294901476,
+          0.9616653272621304,
+          -0.9481299560083842
+        ]
+      }
+    },
+    {
+      "shot": "p03-s01",
+      "time": 37.475867,
+      "action": "email_insert",
+      "camera": "laptop",
+      "reachable": [],
+      "props": {},
+      "projected": {
+        "leftHand": [
+          0.543332110964179,
+          -0.6585425344742489,
+          -0.9387672116629231
+        ],
+        "rightHand": [
+          -0.09522315346794899,
+          -0.7181900457902202,
+          -0.9426107492284197
+        ],
+        "head": [
+          0.2597832294901476,
+          0.9616653272621304,
+          -0.9481299560083842
+        ]
+      }
+    },
+    {
+      "shot": "p03-s02",
+      "time": 43.173867,
+      "action": "hesitate",
+      "camera": "face",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 5.551115123125783e-17,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {},
+      "projected": {
+        "head": [
+          -0.017041948987458064,
+          0.5866974100874204,
+          -0.8970686654279177
+        ],
+        "leftShoulder": [
+          -0.12401717880291828,
+          -0.17751401697878935,
+          -0.8899496556298245
+        ],
+        "rightShoulder": [
+          0.14653021133489594,
+          -0.22913855700759053,
+          -0.8949616200008819
+        ]
+      }
+    },
+    {
+      "shot": "p03-s03",
+      "time": 46.535867,
+      "action": "set_snack",
+      "camera": "kitchen",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            -1.3678128616606644,
+            1.2463134403177274,
+            1.091499421342937
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0,
+            0.16,
+            0
+          ]
+        },
+        "plate": {
+          "position": [
+            -0.85,
+            1.28,
+            1.19
+          ],
+          "rotation": [
+            1.5707963267948966,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.35578861092809394,
+          0.08955623727868708,
+          -0.8134377831121553
+        ],
+        "rightHand": [
+          -0.1742686005921051,
+          0.14362869447319665,
+          -0.8151714644247444
+        ],
+        "head": [
+          -0.27621898339804696,
+          0.7208743070274525,
+          -0.8199777938298275
+        ]
+      }
+    },
+    {
+      "shot": "p03-s04",
+      "time": 48.88733327999999,
+      "action": "walk_pull",
+      "camera": "work",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 1.3877787807814457e-17,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {},
+      "projected": {
+        "leftHand": [
+          0.3348527272445233,
+          0.271555455380204,
+          -0.8369899145046804
+        ],
+        "rightHand": [
+          0.13805909953457282,
+          0.19610428131941243,
+          -0.8447310247224763
+        ],
+        "head": [
+          0.24607848317653866,
+          0.8699348123545452,
+          -0.8502009356218364
+        ]
+      }
+    },
+    {
+      "shot": "p04-s01",
+      "time": 52.353333,
+      "action": "typing_reply",
+      "camera": "work",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {},
+      "projected": {
+        "leftHand": [
+          -0.10958223492301132,
+          -0.0019966131741573777,
+          -0.8580367053459133
+        ],
+        "rightHand": [
+          -0.013619378338754904,
+          -0.05401594635185366,
+          -0.8633368367881964
+        ],
+        "head": [
+          0.06872941501726375,
+          0.5815883061259003,
+          -0.8583461956372982
+        ]
+      }
+    },
+    {
+      "shot": "p04-s02",
+      "time": 57.227733,
+      "action": "inbox_overflow",
+      "camera": "laptop",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {},
+      "projected": {
+        "leftHand": [
+          0.22181393396063387,
+          -0.33545157034133205,
+          -0.925559772110542
+        ],
+        "rightHand": [
+          -0.1310718700676474,
+          -0.39331061463129713,
+          -0.9276190346458075
+        ],
+        "head": [
+          0.1979530398478815,
+          0.9835077193814161,
+          -0.9427418719233249
+        ]
+      }
+    },
+    {
+      "shot": "p04-s03",
+      "time": 62.181333,
+      "action": "file_check",
+      "camera": "work_ots",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 1.1102230246251565e-16,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 1.1102230246251565e-16,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {},
+      "projected": {
+        "leftHand": [
+          0.0384264649880213,
+          -0.014549736437966409,
+          -0.8913539231233747
+        ],
+        "rightHand": [
+          -0.21190246272380087,
+          -0.14105849811094223,
+          -0.8995746020873362
+        ],
+        "head": [
+          0.11668191780010388,
+          0.5641361977937542,
+          -0.9109845851047336
+        ]
+      }
+    },
+    {
+      "shot": "p04-s04",
+      "time": 65.996933,
+      "action": "empty_movie",
+      "camera": "empty",
+      "reachable": [],
+      "props": {
+        "bowl": {
+          "position": [
+            -1.35,
+            1.2,
+            1.12
+          ],
+          "visible": false
+        },
+        "remote": {
+          "position": [
+            1.62,
+            0.84,
+            0.7
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.04777235514356996,
+          0.0065940358793833784,
+          -0.8505645620384282
+        ],
+        "rightHand": [
+          0.18297713385178604,
+          -0.05460650544322726,
+          -0.8564942116561036
+        ],
+        "head": [
+          0.08954101316530028,
+          0.6308490256062267,
+          -0.8581639497282864
+        ]
+      }
+    },
+    {
+      "shot": "p04-s05",
+      "time": 68.78642672000001,
+      "action": "snack_cooling",
+      "camera": "snack",
+      "reachable": [],
+      "props": {
+        "bowl": {
+          "position": [
+            -1.35,
+            1.2,
+            1.12
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        },
+        "plate": {
+          "position": [
+            -0.85,
+            1.28,
+            1.19
+          ],
+          "rotation": [
+            1.5707963267948966,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          1.031862582655526,
+          0.035410909925790324,
+          -0.9513579258809602
+        ],
+        "rightHand": [
+          1.8143476496524822,
+          -0.23695406981006478,
+          -0.9582428103932935
+        ],
+        "head": [
+          1.5138790533836886,
+          2.466470387842267,
+          -0.9611182346331002
+        ]
+      }
+    },
+    {
+      "shot": "p05-s01",
+      "time": 72.534267,
+      "action": "timer_insert",
+      "camera": "timer",
+      "reachable": [],
+      "props": {
+        "phone": {
+          "position": [
+            0.7,
+            0.99,
+            0.55
+          ],
+          "rotation": [
+            -1.5707963267948966,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.4190297888712957,
+          3.248880223429448,
+          -0.9470448978742779
+        ],
+        "rightHand": [
+          0.4655886543014403,
+          1.6949502840788337,
+          -0.9536775682268784
+        ],
+        "head": [
+          0.246014114085432,
+          4.797290275480594,
+          -0.9676589937179941
+        ]
+      }
+    },
+    {
+      "shot": "p05-s02",
+      "time": 77.138267,
+      "action": "missed_break",
+      "camera": "face",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 5.551115123125783e-17,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {},
+      "projected": {
+        "head": [
+          -0.017041948987458064,
+          0.5866974100874204,
+          -0.8970686654279177
+        ],
+        "leftShoulder": [
+          -0.12401717880291828,
+          -0.17751401697878935,
+          -0.8899496556298245
+        ],
+        "rightShoulder": [
+          0.14653021133489594,
+          -0.22913855700759053,
+          -0.8949616200008819
+        ]
+      }
+    },
+    {
+      "shot": "p05-s03",
+      "time": 81.27546699999999,
+      "action": "alarm_off",
+      "camera": "work_ots",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "phone": {
+          "position": [
+            0.7,
+            0.99,
+            0.55
+          ],
+          "rotation": [
+            -1.5707963267948966,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          0.03842646498802132,
+          -0.00768191273333366,
+          -0.8914206318814741
+        ],
+        "rightHand": [
+          -0.26963497775411366,
+          -0.22622912635681028,
+          -0.9024884741885348
+        ],
+        "head": [
+          0.11668191780010388,
+          0.5641361977937542,
+          -0.9109845851047336
+        ]
+      }
+    },
+    {
+      "shot": "p05-s04",
+      "time": 85.93741327999999,
+      "action": "reach_work",
+      "camera": "work",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {},
+      "projected": {
+        "leftHand": [
+          -0.10958223492301132,
+          -0.010575517046166842,
+          -0.8579247008791038
+        ],
+        "rightHand": [
+          -0.013619378338754904,
+          -0.05107143330693112,
+          -0.863375279766289
+        ],
+        "head": [
+          0.06872941501726375,
+          0.5815883061259003,
+          -0.8583461956372982
+        ]
+      }
+    },
+    {
+      "shot": "p06-s01",
+      "time": 91.944133,
+      "action": "friend_rest",
+      "camera": "friend",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "buddy"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "buddy"
+        }
+      ],
+      "props": {
+        "phone": {
+          "position": [
+            0.3,
+            1.3,
+            0.37
+          ],
+          "rotation": [
+            0,
+            3.141592653589793,
+            0
+          ],
+          "owner": "buddy.right",
+          "offset": [
+            0,
+            0.1,
+            0
+          ]
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.07768872836140153,
+          -0.0054631645202666045,
+          -0.8596414055077382
+        ],
+        "rightHand": [
+          0.02966296901071818,
+          0.00013937348233017502,
+          -0.8645084532536347
+        ],
+        "head": [
+          0.042101636726732346,
+          0.6205149522392873,
+          -0.8589347168109119
+        ]
+      }
+    },
+    {
+      "shot": "p06-s02",
+      "time": 98.515733,
+      "action": "phone_reply",
+      "camera": "face",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 2.7755575615628914e-17,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "phone": {
+          "position": [
+            0.3,
+            1.28,
+            0.15000000000000002
+          ],
+          "rotation": [
+            0,
+            3.141592653589793,
+            0
+          ],
+          "owner": "hero.right",
+          "offset": [
+            0,
+            0.1,
+            0
+          ]
+        }
+      },
+      "projected": {
+        "head": [
+          -0.02476620279399598,
+          0.5788217714793897,
+          -0.8975086706289563
+        ],
+        "leftShoulder": [
+          -0.1270499259743097,
+          -0.18031508289509618,
+          -0.8901234802533575
+        ],
+        "rightShoulder": [
+          0.14349746416350453,
+          -0.23193962292389736,
+          -0.8951354446244149
+        ]
+      }
+    },
+    {
+      "shot": "p06-s03",
+      "time": 103.228133,
+      "action": "phone_question",
+      "camera": "phone",
+      "reachable": [],
+      "props": {
+        "phone": {
+          "position": [
+            0,
+            1.54,
+            2.5
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.6909090909090909,
+          -1.5838383838383838,
+          -0.8988988988988988
+        ],
+        "rightHand": [
+          0.6909090909090909,
+          -1.5838383838383838,
+          -0.8988988988988988
+        ],
+        "head": [
+          1.166995792929852e-18,
+          2.035308955051828,
+          -0.8957064150479068
+        ]
+      }
+    },
+    {
+      "shot": "p06-s04",
+      "time": 106.12722672,
+      "action": "remote_insert",
+      "camera": "remote",
+      "reachable": [],
+      "props": {
+        "bowl": {
+          "position": [
+            -1.35,
+            1.2,
+            1.12
+          ],
+          "visible": false
+        },
+        "remote": {
+          "position": [
+            1.62,
+            0.84,
+            0.7
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          0.7259936036559783,
+          1.0260358816563038,
+          -0.9475429798591458
+        ],
+        "rightHand": [
+          1.946948073028941,
+          0.7842995356106596,
+          -0.9512497117328635
+        ],
+        "head": [
+          1.4072261058339763,
+          4.12469715836958,
+          -0.9556191746895892
+        ]
+      }
+    },
+    {
+      "shot": "p07-s01",
+      "time": 108.933067,
+      "action": "unsent_insert",
+      "camera": "phone",
+      "reachable": [],
+      "props": {
+        "phone": {
+          "position": [
+            0,
+            1.54,
+            2.5
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.6909090909090909,
+          -1.5838383838383838,
+          -0.8988988988988988
+        ],
+        "rightHand": [
+          0.6909090909090909,
+          -1.5838383838383838,
+          -0.8988988988988988
+        ],
+        "head": [
+          0,
+          2.035308955051828,
+          -0.8957064150479068
+        ]
+      }
+    },
+    {
+      "shot": "p07-s02",
+      "time": 113.247067,
+      "action": "thumb_stop",
+      "camera": "phone",
+      "reachable": [],
+      "props": {
+        "phone": {
+          "position": [
+            0,
+            1.54,
+            2.5
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.6909090909090909,
+          -1.5838383838383838,
+          -0.8988988988988988
+        ],
+        "rightHand": [
+          0.6909090909090909,
+          -1.5838383838383838,
+          -0.8988988988988988
+        ],
+        "head": [
+          0,
+          2.035308955051828,
+          -0.8957064150479068
+        ]
+      }
+    },
+    {
+      "shot": "p07-s03",
+      "time": 117.796267,
+      "action": "realize",
+      "camera": "face",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 2.7755575615628914e-17,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "phone": {
+          "position": [
+            0.3,
+            1.28,
+            0.15000000000000002
+          ],
+          "rotation": [
+            0,
+            3.141592653589793,
+            0
+          ],
+          "owner": "hero.right",
+          "offset": [
+            0,
+            0.1,
+            0
+          ]
+        }
+      },
+      "projected": {
+        "head": [
+          -0.02476620279399598,
+          0.5788217714793897,
+          -0.8975086706289563
+        ],
+        "leftShoulder": [
+          -0.1270499259743097,
+          -0.18031508289509618,
+          -0.8901234802533575
+        ],
+        "rightShoulder": [
+          0.14349746416350453,
+          -0.23193962292389736,
+          -0.8951354446244149
+        ]
+      }
+    },
+    {
+      "shot": "p07-s04",
+      "time": 123.161867,
+      "action": "friend_kindness",
+      "camera": "friend",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "buddy"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 5.551115123125783e-17,
+          "footError": 0,
+          "who": "buddy"
+        }
+      ],
+      "props": {
+        "phone": {
+          "position": [
+            0.3,
+            1.3,
+            0.37
+          ],
+          "rotation": [
+            0,
+            3.141592653589793,
+            0
+          ],
+          "owner": "buddy.right",
+          "offset": [
+            0,
+            0.1,
+            0
+          ]
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.07768872836140153,
+          -0.0054631645202666045,
+          -0.8596414055077382
+        ],
+        "rightHand": [
+          0.02966296901071817,
+          0.00013937348233017502,
+          -0.8645084532536347
+        ],
+        "head": [
+          -0.002642995730835385,
+          0.5835103384034143,
+          -0.8626175220995046
+        ]
+      }
+    },
+    {
+      "shot": "p08-s01",
+      "time": 128.028667,
+      "action": "leave_desk",
+      "camera": "work",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {},
+      "projected": {
+        "leftHand": [
+          0.14027063677185242,
+          0.3318483872095236,
+          -0.8410376333676246
+        ],
+        "rightHand": [
+          0.24586561948384703,
+          0.09125164382541634,
+          -0.8567844311929564
+        ],
+        "head": [
+          0.1810119346694734,
+          0.80737020787958,
+          -0.8582278155274874
+        ]
+      }
+    },
+    {
+      "shot": "p08-s02",
+      "time": 134.58946699999998,
+      "action": "useful_pause",
+      "camera": "face",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {},
+      "projected": {
+        "head": [
+          -0.049853749761084046,
+          0.5489113106146509,
+          -0.8989218871162332
+        ],
+        "leftShoulder": [
+          -0.1393024784716179,
+          -0.19386998049547643,
+          -0.8908175431256299
+        ],
+        "rightShoulder": [
+          0.13124491166619634,
+          -0.2454945205242776,
+          -0.8958295074966872
+        ]
+      }
+    },
+    {
+      "shot": "p08-s03",
+      "time": 139.820267,
+      "action": "document_insert",
+      "camera": "laptop",
+      "reachable": [],
+      "props": {},
+      "projected": {
+        "leftHand": [
+          0.543332110964179,
+          -0.6585425344742489,
+          -0.9387672116629231
+        ],
+        "rightHand": [
+          -0.09522315346794899,
+          -0.7181900457902202,
+          -0.9426107492284197
+        ],
+        "head": [
+          0.2597832294901476,
+          0.9616653272621304,
+          -0.9481299560083842
+        ]
+      }
+    },
+    {
+      "shot": "p08-s04",
+      "time": 143.27053328000002,
+      "action": "hover_couch",
+      "camera": "work",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {},
+      "projected": {
+        "leftHand": [
+          0.14027063677185242,
+          0.3163921147379547,
+          -0.8408358393409203
+        ],
+        "rightHand": [
+          0.2230173202971193,
+          0.05430246233247874,
+          -0.8548783905973717
+        ],
+        "head": [
+          0.17622880142903316,
+          0.7451834396979898,
+          -0.8554222926179915
+        ]
+      }
+    },
+    {
+      "shot": "p09-s01",
+      "time": 148.37973300000002,
+      "action": "leisure",
+      "camera": "friend",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "buddy"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 5.551115123125783e-17,
+          "footError": 0,
+          "who": "buddy"
+        }
+      ],
+      "props": {
+        "phone": {
+          "position": [
+            0.3,
+            1.3,
+            0.37
+          ],
+          "rotation": [
+            0,
+            3.141592653589793,
+            0
+          ],
+          "owner": "buddy.right",
+          "offset": [
+            0,
+            0.1,
+            0
+          ]
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.07768872836140153,
+          -0.0054631645202666045,
+          -0.8596414055077382
+        ],
+        "rightHand": [
+          0.02966296901071817,
+          0.00013937348233017502,
+          -0.8645084532536347
+        ],
+        "head": [
+          -0.002642995730835385,
+          0.5835103384034143,
+          -0.8626175220995046
+        ]
+      }
+    },
+    {
+      "shot": "p09-s02",
+      "time": 152.596533,
+      "action": "uneasy_movie",
+      "camera": "face",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 5.551115123125783e-17,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            1,
+            0.9,
+            0.82
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        },
+        "remote": {
+          "position": [
+            2.0199999999999996,
+            1.05,
+            0.32
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0,
+            0.01,
+            0.02
+          ]
+        }
+      },
+      "projected": {
+        "head": [
+          -0.025690123723335265,
+          0.5757260797497318,
+          -0.8975534081827083
+        ],
+        "leftShoulder": [
+          -0.13275813271730494,
+          -0.18618030478694397,
+          -0.8904484777013594
+        ],
+        "rightShoulder": [
+          0.13778925742050924,
+          -0.23780484481574496,
+          -0.8954604420724167
+        ]
+      }
+    },
+    {
+      "shot": "p09-s03",
+      "time": 158.529333,
+      "action": "inspection",
+      "camera": "inspection",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "left",
+          "arm": false,
+          "leg": true,
+          "armError": 0.012689336728370802,
+          "footError": 0,
+          "who": "buddy"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "buddy"
+        }
+      ],
+      "props": {
+        "receipt": {
+          "position": [
+            0.05,
+            1.32,
+            0.87
+          ],
+          "rotation": [
+            0,
+            -0.06,
+            0
+          ],
+          "owner": null
+        },
+        "remote": {
+          "position": [
+            -1.37,
+            1.43,
+            0.95
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.3672240181867315,
+          0.22782265807399352,
+          -0.8402845908078249
+        ],
+        "rightHand": [
+          -0.08866154099270006,
+          0.0879729445300958,
+          -0.8515015093251025
+        ],
+        "head": [
+          -0.2445650552374044,
+          0.7665100068644638,
+          -0.8456292657031578
+        ]
+      }
+    },
+    {
+      "shot": "p09-s04",
+      "time": 164.49106672,
+      "action": "receipt",
+      "camera": "receipt",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "left",
+          "arm": false,
+          "leg": true,
+          "armError": 0.012689336728370802,
+          "footError": 0,
+          "who": "buddy"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "buddy"
+        }
+      ],
+      "props": {
+        "receipt": {
+          "position": [
+            0.05,
+            1.32,
+            0.87
+          ],
+          "rotation": [
+            0,
+            -0.06,
+            0
+          ],
+          "owner": null
+        },
+        "remote": {
+          "position": [
+            -1.37,
+            1.43,
+            0.95
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -1.22846799454873,
+          0.2921954110254519,
+          -0.9286507879778582
+        ],
+        "rightHand": [
+          -0.258514711147681,
+          0.04001664111381665,
+          -0.9325545257045623
+        ],
+        "head": [
+          -0.8897299863528838,
+          1.961942722214484,
+          -0.9305307397691672
+        ]
+      }
+    },
+    {
+      "shot": "p10-s01",
+      "time": 169.349067,
+      "action": "boss",
+      "camera": "work_ots",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "buddy"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 5.551115123125783e-17,
+          "footError": 0,
+          "who": "buddy"
+        }
+      ],
+      "props": {
+        "phone": {
+          "position": [
+            0.3,
+            1.29,
+            0.16999999999999998
+          ],
+          "rotation": [
+            0,
+            3.141592653589793,
+            0
+          ],
+          "owner": "buddy.right",
+          "offset": [
+            0,
+            0.1,
+            0
+          ]
+        }
+      },
+      "projected": {
+        "leftHand": [
+          0.1302230202371842,
+          -0.13198572728928415,
+          -0.9011951960537552
+        ],
+        "rightHand": [
+          -0.023854109908023384,
+          -0.13443884490996627,
+          -0.9057380353170659
+        ],
+        "head": [
+          0.18073759415022028,
+          0.5268181598164677,
+          -0.9154590194096821
+        ]
+      }
+    },
+    {
+      "shot": "p10-s02",
+      "time": 173.554667,
+      "action": "laundry",
+      "camera": "living",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 8.505453752507596e-17,
+          "who": "buddy"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "buddy"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            1,
+            0.9,
+            0.82
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null,
+          "visible": false
+        },
+        "remote": {
+          "position": [
+            1.62,
+            0.84,
+            0.7
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        },
+        "basket": {
+          "position": [
+            0.5623201404266032,
+            1.4022642747237999,
+            0.5
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          0.000493576836283442,
+          0.005141673751741095,
+          -0.78596705516992
+        ],
+        "rightHand": [
+          0.06776606860788711,
+          0.05509939083504205,
+          -0.7767071464135157
+        ],
+        "head": [
+          -0.020564318230022575,
+          0.4268154750431588,
+          -0.7839780834354724
+        ]
+      }
+    },
+    {
+      "shot": "p10-s03",
+      "time": 178.73666699999998,
+      "action": "care",
+      "camera": "friend",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "buddy"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 5.551115123125783e-17,
+          "footError": 1.1102230246251565e-16,
+          "who": "buddy"
+        }
+      ],
+      "props": {
+        "cup": {
+          "position": [
+            -0.039335944204330286,
+            1.2564453147347767,
+            0.7529296885158077
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": "buddy.right",
+          "offset": [
+            0,
+            0.1,
+            0
+          ]
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.3894324074407018,
+          0.0951304513142095,
+          -0.8551665599592676
+        ],
+        "rightHand": [
+          -0.1335273199395972,
+          -0.04426833256655382,
+          -0.8665245252348659
+        ],
+        "head": [
+          -0.2577285991083465,
+          0.7823667919849812,
+          -0.8642176990797337
+        ]
+      }
+    },
+    {
+      "shot": "p10-s04",
+      "time": 185.208587,
+      "action": "urgent_done",
+      "camera": "work",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 5.551115123125783e-17,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {},
+      "projected": {
+        "leftHand": [
+          -0.0055552727434392294,
+          0.058706201748154,
+          -0.8464188074130696
+        ],
+        "rightHand": [
+          0.17593234467554933,
+          0.294388565937249,
+          -0.8541069053040141
+        ],
+        "head": [
+          0.10547243746273834,
+          0.6226517403601572,
+          -0.8560681717293438
+        ]
+      }
+    },
+    {
+      "shot": "p11-s01",
+      "time": 190.291867,
+      "action": "document_insert",
+      "camera": "laptop",
+      "reachable": [],
+      "props": {},
+      "projected": {
+        "leftHand": [
+          0.543332110964179,
+          -0.6585425344742489,
+          -0.9387672116629231
+        ],
+        "rightHand": [
+          -0.09522315346794899,
+          -0.7181900457902202,
+          -0.9426107492284197
+        ],
+        "head": [
+          0.2597832294901476,
+          0.9616653272621304,
+          -0.9481299560083842
+        ]
+      }
+    },
+    {
+      "shot": "p11-s02",
+      "time": 194.51746699999998,
+      "action": "write_note",
+      "camera": "note",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 2.7755575615628914e-17,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 1.1102230246251565e-16,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "paper": {
+          "position": [
+            0.92,
+            0.925,
+            0.57
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null,
+          "scale": 0.75
+        },
+        "pen": {
+          "position": [
+            0.867165366972477,
+            1.06,
+            0.63
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": "hero.right",
+          "offset": [
+            0,
+            -0.02,
+            0
+          ]
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -1.5538461538461537,
+          1.4217101660346172,
+          -0.959189131032808
+        ],
+        "rightHand": [
+          -0.08128405081157385,
+          -0.09746856589829593,
+          -0.9631919138426035
+        ],
+        "head": [
+          -1.0307692307692307,
+          1.5529373342063295,
+          -0.9810737602525271
+        ]
+      }
+    },
+    {
+      "shot": "p11-s03",
+      "time": 197.555067,
+      "action": "close_laptop",
+      "camera": "work_ots",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        }
+      ],
+      "props": {},
+      "projected": {
+        "leftHand": [
+          0.09569122359112749,
+          0.10361027461775665,
+          -0.8968257621294475
+        ],
+        "rightHand": [
+          -0.05035351994203349,
+          -0.1122003298451857,
+          -0.9059781937935362
+        ],
+        "head": [
+          -0.0217680729329639,
+          0.7615651451796395,
+          -0.9024477503404965
+        ]
+      }
+    },
+    {
+      "shot": "p11-s04",
+      "time": 198.92746699999998,
+      "action": "pickup_snack",
+      "camera": "kitchen",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            -1.387994209390643,
+            1.2987849444156716,
+            1.0592092649749714
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0,
+            0.16,
+            0
+          ]
+        },
+        "plate": {
+          "position": [
+            -0.85,
+            1.28,
+            1.19
+          ],
+          "rotation": [
+            1.5707963267948966,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.3544233051288985,
+          0.11911693173932185,
+          -0.8130411152286718
+        ],
+        "rightHand": [
+          -0.2271866694915743,
+          0.19826604619759997,
+          -0.8165917180682629
+        ],
+        "head": [
+          -0.27621898339804696,
+          0.7208743070274525,
+          -0.8199777938298275
+        ]
+      }
+    },
+    {
+      "shot": "p11-s05",
+      "time": 200.425467,
+      "action": "walk_snack",
+      "camera": "living",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            1.1906940803700694,
+            1.5442214843204962,
+            0.658435717896795
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0,
+            0.16,
+            0
+          ]
+        },
+        "remote": {
+          "position": [
+            1.62,
+            0.84,
+            0.7
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          0.12969155738835692,
+          -0.024392538808941287,
+          -0.7908662302900208
+        ],
+        "rightHand": [
+          0.1337072113770379,
+          -0.009949521065238408,
+          -0.7753174218310911
+        ],
+        "head": [
+          0.12001423936709328,
+          0.3944926591877335,
+          -0.7898004126705658
+        ]
+      }
+    },
+    {
+      "shot": "p11-s06",
+      "time": 204.023387,
+      "action": "sit_play",
+      "camera": "living",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            1,
+            0.9,
+            0.82
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        },
+        "remote": {
+          "position": [
+            1.62,
+            0.84,
+            0.7
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          0.2582216802752272,
+          -0.08788027374073908,
+          -0.8017325937587484
+        ],
+        "rightHand": [
+          0.3898393714835454,
+          -0.12017191400889413,
+          -0.8062878166649621
+        ],
+        "head": [
+          0.3399517208177907,
+          0.3113531417902663,
+          -0.8063072680083645
+        ]
+      }
+    },
+    {
+      "shot": "p12-s01",
+      "time": 208.863067,
+      "action": "keys",
+      "camera": "key",
+      "reachable": [],
+      "props": {
+        "key": {
+          "position": [
+            0.5,
+            1.2,
+            -1.28
+          ],
+          "rotation": [
+            0,
+            0,
+            0.3892663024866039
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -2.2330747827757484,
+          -0.6046397403212441,
+          -0.9763579462487446
+        ],
+        "rightHand": [
+          -1.2754888950229537,
+          -0.7100034370449096,
+          -0.9812548011162008
+        ],
+        "head": [
+          -1.6847317790664695,
+          2.3443218904718774,
+          -0.980347229033347
+        ]
+      }
+    },
+    {
+      "shot": "p12-s02",
+      "time": 212.826667,
+      "action": "startle",
+      "camera": "living",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 2.482534153247273e-16,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 2.482534153247273e-16,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            1,
+            0.9,
+            0.82
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        },
+        "remote": {
+          "position": [
+            1.62,
+            0.84,
+            0.7
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          0.30004363803073547,
+          -0.1670381620685808,
+          -0.7901181979261098
+        ],
+        "rightHand": [
+          0.42866039432970193,
+          -0.1722670120340961,
+          -0.7996685403577426
+        ],
+        "head": [
+          0.33251698645574446,
+          0.19270749041164623,
+          -0.8055474057124161
+        ]
+      }
+    },
+    {
+      "shot": "p12-s03",
+      "time": 216.67186700000002,
+      "action": "hurry",
+      "camera": "kitchen",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            -1.35,
+            1.2,
+            1.12
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null,
+          "visible": false
+        },
+        "plate": {
+          "position": [
+            -0.85,
+            1.28,
+            1.19
+          ],
+          "rotation": [
+            1.5707963267948966,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.2821661057890093,
+          0.13284002503418785,
+          -0.8205988980095995
+        ],
+        "rightHand": [
+          0.03389098204870773,
+          0.049562240015809195,
+          -0.8273241029630857
+        ],
+        "head": [
+          -0.062370011032641476,
+          0.6343172417977813,
+          -0.8316966282049869
+        ]
+      }
+    },
+    {
+      "shot": "p12-s04",
+      "time": 221.50424013999998,
+      "action": "wash",
+      "camera": "plate",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            -1.35,
+            1.2,
+            1.12
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null,
+          "visible": false
+        },
+        "plate": {
+          "position": [
+            -0.12000000000000002,
+            1.22,
+            1.12
+          ],
+          "rotation": [
+            1.0471975511965976,
+            0,
+            0.1
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0.16,
+            0.02,
+            0
+          ]
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.14879371522782925,
+          0.008212902370182067,
+          -0.9404045968483559
+        ],
+        "rightHand": [
+          0.07809728438090652,
+          -0.04418427312182121,
+          -0.9440936376072634
+        ],
+        "head": [
+          0.04381597003905047,
+          2.2335088438234205,
+          -0.9451979919139392
+        ]
+      }
+    },
+    {
+      "shot": "p13-s01",
+      "time": 226.0804,
+      "action": "roommate_arrive",
+      "camera": "kitchen",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 2.0816681711721685e-17,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "buddy"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1443916996305594e-16,
+          "who": "buddy"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            -1.35,
+            1.2,
+            1.12
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null,
+          "visible": false
+        },
+        "plate": {
+          "position": [
+            -0.12000000000000002,
+            1.22,
+            1.12
+          ],
+          "rotation": [
+            1.0471975511965976,
+            0,
+            0.1
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0.16,
+            0.02,
+            0
+          ]
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.13426293080332397,
+          0.03597942545004597,
+          -0.8277744384742046
+        ],
+        "rightHand": [
+          -0.09959029653980478,
+          0.02461235076644897,
+          -0.8321780006876538
+        ],
+        "head": [
+          -0.06218438096030198,
+          0.6345626795469452,
+          -0.8316824800190774
+        ]
+      }
+    },
+    {
+      "shot": "p13-s02",
+      "time": 229.2324,
+      "action": "almost_excuse",
+      "camera": "face",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 6.938893903907228e-18,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "buddy"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "buddy"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            -1.35,
+            1.2,
+            1.12
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null,
+          "visible": false
+        },
+        "plate": {
+          "position": [
+            -0.12000000000000002,
+            1.22,
+            1.12
+          ],
+          "rotation": [
+            1.0471975511965976,
+            0,
+            0.1
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0.16,
+            0.02,
+            0
+          ]
+        }
+      },
+      "projected": {
+        "head": [
+          -0.06396848706226758,
+          0.52988726602276,
+          -0.8997089425856054
+        ],
+        "leftShoulder": [
+          -0.14209829749469755,
+          -0.19747441133803947,
+          -0.8909740418515286
+        ],
+        "rightShoulder": [
+          0.12844909264311666,
+          -0.24909895136684065,
+          -0.8959860062225858
+        ]
+      }
+    },
+    {
+      "shot": "p13-s03",
+      "time": 232.7564,
+      "action": "faucet_off",
+      "camera": "sink",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "buddy"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "buddy"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            -1.35,
+            1.2,
+            1.12
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null,
+          "visible": false
+        },
+        "plate": {
+          "position": [
+            -0.2841790946796098,
+            1.1437739917558956,
+            1.12
+          ],
+          "rotation": [
+            0.433169172960306,
+            0,
+            0
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0.16,
+            0.02,
+            0
+          ]
+        }
+      },
+      "projected": {
+        "leftHand": [
+          -0.07130306346386563,
+          -0.18579009892334641,
+          -0.904161612497596
+        ],
+        "rightHand": [
+          0.2355078955049211,
+          -0.01280097595347293,
+          -0.8919598602533523
+        ],
+        "head": [
+          -0.07073051368488309,
+          0.8148436249366068,
+          -0.9060114117598168
+        ]
+      }
+    },
+    {
+      "shot": "p13-s04",
+      "time": 238.64570686,
+      "action": "honest",
+      "camera": "face",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "buddy"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "buddy"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            -1.35,
+            1.2,
+            1.12
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null,
+          "visible": false
+        },
+        "plate": {
+          "position": [
+            -0.4,
+            1.06,
+            1.12
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "head": [
+          0.007680887908161581,
+          0.6080560813814754,
+          -0.895646246396952
+        ],
+        "leftShoulder": [
+          -0.11489459774275543,
+          -0.17039334200029546,
+          -0.8894220041235678
+        ],
+        "rightShoulder": [
+          0.15565279239505878,
+          -0.2220178820290966,
+          -0.8944339684946251
+        ]
+      }
+    },
+    {
+      "shot": "p14-s01",
+      "time": 244.137467,
+      "action": "roommate_question",
+      "camera": "buddy_face",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "hero"
+        },
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "buddy"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 1.1102230246251565e-16,
+          "who": "buddy"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            -1.35,
+            1.2,
+            1.12
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null,
+          "visible": false
+        },
+        "plate": {
+          "position": [
+            -0.4,
+            1.06,
+            1.12
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "head": [
+          -1.013278846655937,
+          0.39701817565627473,
+          -0.9187116268132544
+        ],
+        "leftShoulder": [
+          -1.1655617595931245,
+          -0.4306415948795611,
+          -0.9175124594559125
+        ],
+        "rightShoulder": [
+          -0.8821202494317927,
+          -0.39438287266917127,
+          -0.9133210702404774
+        ]
+      }
+    },
+    {
+      "shot": "p14-s02",
+      "time": 247.01266700000002,
+      "action": "sit_back",
+      "camera": "living",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            1,
+            0.9,
+            0.82
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        },
+        "remote": {
+          "position": [
+            1.62,
+            0.84,
+            0.7
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        }
+      },
+      "projected": {
+        "leftHand": [
+          0.29911133404397106,
+          -0.13104608280797736,
+          -0.7911993760899921
+        ],
+        "rightHand": [
+          0.430636972034211,
+          -0.17491944109756738,
+          -0.7993315189963868
+        ],
+        "head": [
+          0.36244254858135755,
+          0.23667865388519066,
+          -0.8017710418953492
+        ]
+      }
+    },
+    {
+      "shot": "p14-s03",
+      "time": 250.135067,
+      "action": "snack_grab",
+      "camera": "living",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "buddy"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "buddy"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            1,
+            0.9,
+            0.82
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        },
+        "remote": {
+          "position": [
+            1.62,
+            0.84,
+            0.7
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        },
+        "snack": {
+          "position": [
+            0.8823291990992562,
+            1.484129053454126,
+            0.8400000000000001
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": "buddy.right",
+          "offset": [
+            0,
+            0.02,
+            0.02
+          ]
+        }
+      },
+      "projected": {
+        "leftHand": [
+          0.31487723775854887,
+          -0.15220282313194183,
+          -0.7885111709560529
+        ],
+        "rightHand": [
+          0.4464028757487888,
+          -0.19607618142153183,
+          -0.7966433138624477
+        ],
+        "head": [
+          0.39913588237894837,
+          0.23770652722444782,
+          -0.7963069480059308
+        ]
+      }
+    },
+    {
+      "shot": "p14-s04",
+      "time": 255.16085328,
+      "action": "find_place",
+      "camera": "remote",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            1,
+            0.9,
+            0.82
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        },
+        "remote": {
+          "position": [
+            1.9693529881462881,
+            1.0221441434804588,
+            0.37064701185371146
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0,
+            0.01,
+            0.02
+          ]
+        }
+      },
+      "projected": {
+        "leftHand": [
+          0.716251984506834,
+          0.757962929974131,
+          -0.951263518096155
+        ],
+        "rightHand": [
+          1.946948073028941,
+          0.7842995356106596,
+          -0.9512497117328635
+        ],
+        "head": [
+          1.2029698864961094,
+          3.307172853865715,
+          -0.9628928051012885
+        ]
+      }
+    },
+    {
+      "shot": "p15-s01",
+      "time": 260.80733299999997,
+      "action": "still_guilty",
+      "camera": "face",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            1,
+            0.9,
+            0.82
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        },
+        "remote": {
+          "position": [
+            2.0199999999999996,
+            1.05,
+            0.32
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0,
+            0.01,
+            0.02
+          ]
+        }
+      },
+      "projected": {
+        "head": [
+          -0.02579739996312008,
+          0.5756066127405418,
+          -0.8975594821058941
+        ],
+        "leftShoulder": [
+          -0.132807420035307,
+          -0.1862343434248837,
+          -0.890451271436668
+        ],
+        "rightShoulder": [
+          0.13773997010250708,
+          -0.23785888345368467,
+          -0.8954632358077252
+        ]
+      }
+    },
+    {
+      "shot": "p15-s02",
+      "time": 265.641733,
+      "action": "stay",
+      "camera": "living",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            1,
+            0.9,
+            0.82
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        },
+        "remote": {
+          "position": [
+            2.0199999999999996,
+            1.05,
+            0.32
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0,
+            0.01,
+            0.02
+          ]
+        }
+      },
+      "projected": {
+        "leftHand": [
+          0.31478518454047055,
+          -0.16378454115337673,
+          -0.7920880909562341
+        ],
+        "rightHand": [
+          0.4325212504625848,
+          -0.20604628852480783,
+          -0.7970611307285657
+        ],
+        "head": [
+          0.4039754468122284,
+          0.24153482152171862,
+          -0.795644486907304
+        ]
+      }
+    },
+    {
+      "shot": "p15-s03",
+      "time": 269.063333,
+      "action": "watch",
+      "camera": "face",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 5.551115123125783e-17,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 5.551115123125783e-17,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            1,
+            0.9,
+            0.82
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        },
+        "remote": {
+          "position": [
+            2.0199999999999996,
+            1.05,
+            0.32
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0,
+            0.01,
+            0.02
+          ]
+        }
+      },
+      "projected": {
+        "head": [
+          0.02348709704713727,
+          0.6187864141032315,
+          -0.8947261224197092
+        ],
+        "leftShoulder": [
+          -0.1079419778482202,
+          -0.16627456956341488,
+          -0.8890150694598846
+        ],
+        "rightShoulder": [
+          0.16260541228959371,
+          -0.21789910959221584,
+          -0.894027033830942
+        ]
+      }
+    },
+    {
+      "shot": "p15-s04",
+      "time": 274.25718672,
+      "action": "rest_end",
+      "camera": "living",
+      "reachable": [
+        {
+          "side": "left",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        },
+        {
+          "side": "right",
+          "arm": true,
+          "leg": true,
+          "armError": 0,
+          "footError": 0,
+          "who": "hero"
+        }
+      ],
+      "props": {
+        "bowl": {
+          "position": [
+            1,
+            0.9,
+            0.82
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": null
+        },
+        "remote": {
+          "position": [
+            2.0199999999999996,
+            1.05,
+            0.32
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "owner": "hero.left",
+          "offset": [
+            0,
+            0.01,
+            0.02
+          ]
+        }
+      },
+      "projected": {
+        "leftHand": [
+          0.31478518454047055,
+          -0.16378454115337673,
+          -0.7920880909562341
+        ],
+        "rightHand": [
+          0.4325212504625848,
+          -0.20604628852480783,
+          -0.7970611307285657
+        ],
+        "head": [
+          0.40413149630233774,
+          0.24165023108982542,
+          -0.7956229995470245
+        ]
+      }
+    }
+  ],
+  "captionOverflow": [],
+  "deterministicImage": true,
+  "diagnostics": {
+    "webgl": "WebGL 2.0 (OpenGL ES 3.0 Chromium)",
+    "width": 1920,
+    "height": 1080,
+    "calls": 67
+  },
+  "followup": "Latest six changed shots rechecked; unchanged 57 frames retained. All 3326 current motion samples audited."
+}

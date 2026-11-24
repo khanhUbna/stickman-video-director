@@ -1,0 +1,114 @@
+{
+  "method": "Local faster-whisper base.en on isolated paragraph recordings; exact script retained; unmatched words interpolated between recognized anchors.",
+  "word_count": 637,
+  "exact_anchors": 636,
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "script_words": 38,
+      "recognized_words": 38,
+      "exact_normalized_anchors": 38,
+      "ratio": 1.0
+    },
+    {
+      "paragraph": 2,
+      "script_words": 42,
+      "recognized_words": 43,
+      "exact_normalized_anchors": 42,
+      "ratio": 1.0
+    },
+    {
+      "paragraph": 3,
+      "script_words": 40,
+      "recognized_words": 40,
+      "exact_normalized_anchors": 40,
+      "ratio": 1.0
+    },
+    {
+      "paragraph": 4,
+      "script_words": 44,
+      "recognized_words": 45,
+      "exact_normalized_anchors": 44,
+      "ratio": 1.0
+    },
+    {
+      "paragraph": 5,
+      "script_words": 41,
+      "recognized_words": 42,
+      "exact_normalized_anchors": 41,
+      "ratio": 1.0
+    },
+    {
+      "paragraph": 6,
+      "script_words": 43,
+      "recognized_words": 43,
+      "exact_normalized_anchors": 43,
+      "ratio": 1.0
+    },
+    {
+      "paragraph": 7,
+      "script_words": 44,
+      "recognized_words": 50,
+      "exact_normalized_anchors": 44,
+      "ratio": 1.0
+    },
+    {
+      "paragraph": 8,
+      "script_words": 42,
+      "recognized_words": 43,
+      "exact_normalized_anchors": 42,
+      "ratio": 1.0
+    },
+    {
+      "paragraph": 9,
+      "script_words": 45,
+      "recognized_words": 46,
+      "exact_normalized_anchors": 45,
+      "ratio": 1.0
+    },
+    {
+      "paragraph": 10,
+      "script_words": 43,
+      "recognized_words": 45,
+      "exact_normalized_anchors": 42,
+      "ratio": 0.9767441860465116
+    },
+    {
+      "paragraph": 11,
+      "script_words": 43,
+      "recognized_words": 43,
+      "exact_normalized_anchors": 43,
+      "ratio": 1.0
+    },
+    {
+      "paragraph": 12,
+      "script_words": 42,
+      "recognized_words": 42,
+      "exact_normalized_anchors": 42,
+      "ratio": 1.0
+    },
+    {
+      "paragraph": 13,
+      "script_words": 43,
+      "recognized_words": 50,
+      "exact_normalized_anchors": 43,
+      "ratio": 1.0
+    },
+    {
+      "paragraph": 14,
+      "script_words": 43,
+      "recognized_words": 43,
+      "exact_normalized_anchors": 43,
+      "ratio": 1.0
+    },
+    {
+      "paragraph": 15,
+      "script_words": 44,
+      "recognized_words": 44,
+      "exact_normalized_anchors": 44,
+      "ratio": 1.0
+    }
+  ],
+  "caption_cues": 130,
+  "paid_api_calls": 0
+}

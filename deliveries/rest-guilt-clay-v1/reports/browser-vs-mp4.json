@@ -1,0 +1,30 @@
+{
+  "comparison": "Six independent browser references versus corresponding decoded delivery frames",
+  "measurements": [
+    {
+      "shot": "p01-s01",
+      "mean_absolute_rgb_error": 2.812437467849794
+    },
+    {
+      "shot": "p07-s02",
+      "mean_absolute_rgb_error": 1.2747690007716048
+    },
+    {
+      "shot": "p11-s02",
+      "mean_absolute_rgb_error": 1.716575038580247
+    },
+    {
+      "shot": "p12-s04",
+      "mean_absolute_rgb_error": 2.0291433577674898
+    },
+    {
+      "shot": "p13-s03",
+      "mean_absolute_rgb_error": 2.2392357896090536
+    },
+    {
+      "shot": "p15-s04",
+      "mean_absolute_rgb_error": 2.180646701388889
+    }
+  ],
+  "interpretation": "Small color/compression and 12-to-30fps sample rounding differences are expected; actual scene sheets were inspected separately."
+}

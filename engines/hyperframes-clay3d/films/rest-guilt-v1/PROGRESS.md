@@ -1,9 +1,9 @@
-# Production checkpoint
+# Completed production
 
-Approved V2 script SHA256: 30f4fbc4dc8da1f6d4c4b99e42882a7da065e15018f4edd21e7b66a7196fa27d (637 words). Full production authorized.
+Why You Feel Guilty When You Rest — approved V2, 637 words; script SHA256 30f4fbc4dc8da1f6d4c4b99e42882a7da065e15018f4edd21e7b66a7196fa27d.
 
-Completed: native local Kokoro narration (277.035s), Whisper alignment and 130 captions; 63 action shots/6 sets; all 3326 pose/contact samples pass; browser seeks deterministic; no external browser requests or page errors. Music/Foley reused locally; audio master created. No paid API calls. Previous voice, script and assets preserved on resume.
+Full local HyperFrames/Three.js film delivered to deliveries/rest-guilt-clay-v1: 277.166667s, 1920×1080, 30fps/8315 frames, native12Hz clay poses, H.264/AAC. 63 shots, 130 English caption cues, complete English/Vietnamese reading scripts, upload metadata and rights. Local Kokoro narration and original music/Foley master are committed assets; do not regenerate TTS for rerenders.
 
-In progress: independent visual review, HyperFrames runtime/layout preflight, hardest-action encoded sample, full native1080p capture and final30fps export. Final MP4/sidecars/report to deliveries/rest-guilt-clay-v1, then commit and push video-delivery-b1. Do not publish YouTube or environment config.
+Final full MP4 decode, all-shot decoded-frame inspection, caption preservation and audio measurements passed. All 3326 pose states pass; actual AAC -16.57 LUFS, -1.85 dBTP. Sound measured, not human-auditioned; review scope and remaining limits in REVIEW.md. No paid API calls or YouTube/environment publication. Existing Stickman/B6 and skills preserved. Source/render delivery saved on video-delivery-b1.
 
-Stable final HyperFrames preflight passed (0 runtime/layout/lint/contrast errors or warnings). Encoded 10s native1080p hard-action sample passed full decode. Full render is now running; use output/render.log and output/render-execution.json to resume, then scripts/finish.py. Keep the existing audio and all scene assets.
+Use scripts/build.mjs, browser-qa.mjs, render.mjs and finish.py to rerender. Current workspace keeps ignored output/cache evidence. models/venv are optional for reproducing narration; existing committed FLAC assets are sufficient to rerender the film.

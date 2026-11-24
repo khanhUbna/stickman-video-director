@@ -55,3 +55,9 @@ Nine original HyperFrames skills live in `.agents/skills/`. Their provider/credi
 ## Quality evidence
 
 `browser-qa.mjs` blocks outbound composition requests, checks page errors, samples visible poses and audits all 450 frame states for limb reach and framing. It also checks repeat-seek image/joint determinism. `verify.mjs` fully decodes the MP4, checks duration/codec/resolution/frame count/audio and compares decoded frames with independent browser captures. Inspect the actual decoded contact sheet too. Neither these checks nor a linter guarantees artistic approval.
+
+## Full narrated film
+
+[Why You Feel Guilty When You Rest](films/rest-guilt-v1/README.md) extends the rig into a complete 4:37 English clay film: 63 shots across six sets, a supporting character, authored household/work actions, locally recorded narration and 130 caption cues. The [delivery and actual QA](../../deliveries/rest-guilt-clay-v1/) contain the native1080p MP4, scripts, captions, metadata and review. Its poses advance at 12Hz and are delivered at 30fps; expression and gaze are authored without phoneme lip sync. The original 15-second demo remains a separate example.
+
+The source can also be edited in the [HyperFrames desktop app](https://hyperframes.studio/studio/download?os=linux&src=cli). The repository’s pinned local CLI and committed audio remain sufficient for rerendering.

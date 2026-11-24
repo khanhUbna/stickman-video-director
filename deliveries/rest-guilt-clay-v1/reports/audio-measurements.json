@@ -1,0 +1,33 @@
+{
+  "pre_master": {
+    "input_i": "-23.48",
+    "input_tp": "-1.26",
+    "input_lra": "2.80",
+    "input_thresh": "-34.14",
+    "output_i": "-17.16",
+    "output_tp": "-2.00",
+    "output_lra": "2.30",
+    "output_thresh": "-27.82",
+    "normalization_type": "dynamic",
+    "target_offset": "1.16"
+  },
+  "master": {
+    "input_i": "-23.48",
+    "input_tp": "-1.26",
+    "input_lra": "2.80",
+    "input_thresh": "-34.14",
+    "output_i": "-16.55",
+    "output_tp": "-2.00",
+    "output_lra": "2.20",
+    "output_thresh": "-27.21",
+    "normalization_type": "dynamic",
+    "target_offset": "0.55"
+  },
+  "voice_rms": 0.06323300302028656,
+  "music_ratio_target": 0.085,
+  "motion_landings": 41,
+  "effects": 91,
+  "music_original_sha256": "1bc28f860041fe91801b4d793f545fa12b2dfb1836f35fb731a879684c78f6bc",
+  "measurement_only_not_human_audition": true,
+  "paid_api_calls": 0
+}

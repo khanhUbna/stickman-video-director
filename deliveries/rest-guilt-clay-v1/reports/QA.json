@@ -1,0 +1,351 @@
+{
+  "ok": true,
+  "file": "why-you-feel-guilty-when-you-rest-1080p.mp4",
+  "bytes": 21609207,
+  "sha256": "2e41fadea350af07c371a81d9204b4d2b6d3208e72a17b5c14de043efb85e32d",
+  "duration_seconds": 277.166667,
+  "width": 1920,
+  "height": 1080,
+  "codec": "h264",
+  "pixel_format": "yuv420p",
+  "fps": "30/1",
+  "frames": 8315,
+  "native_clay_pose_hz": 12,
+  "audio_codec": "aac",
+  "audio_sample_rate": "48000",
+  "audio_channels": 1,
+  "integrated_lufs": -16.57,
+  "true_peak_dbtp": -1.85,
+  "full_decode_errors": "",
+  "decoded_shots": [
+    {
+      "shot": "p01-s01",
+      "time": 2.1,
+      "rgb_stddev": 48.51958765129343
+    },
+    {
+      "shot": "p01-s02",
+      "time": 5.733333333333333,
+      "rgb_stddev": 38.1791559547106
+    },
+    {
+      "shot": "p01-s03",
+      "time": 9.066666666666666,
+      "rgb_stddev": 45.66764774433335
+    },
+    {
+      "shot": "p01-s04",
+      "time": 13.5,
+      "rgb_stddev": 39.28880681137615
+    },
+    {
+      "shot": "p02-s01",
+      "time": 19.933333333333334,
+      "rgb_stddev": 37.78268571106184
+    },
+    {
+      "shot": "p02-s02",
+      "time": 25.0,
+      "rgb_stddev": 43.766445254122964
+    },
+    {
+      "shot": "p02-s03",
+      "time": 29.066666666666666,
+      "rgb_stddev": 39.184902640780315
+    },
+    {
+      "shot": "p02-s04",
+      "time": 32.833333333333336,
+      "rgb_stddev": 43.57729386798972
+    },
+    {
+      "shot": "p03-s01",
+      "time": 37.4,
+      "rgb_stddev": 42.51428967590423
+    },
+    {
+      "shot": "p03-s02",
+      "time": 43.166666666666664,
+      "rgb_stddev": 48.338890840546675
+    },
+    {
+      "shot": "p03-s03",
+      "time": 46.5,
+      "rgb_stddev": 39.36624595450211
+    },
+    {
+      "shot": "p03-s04",
+      "time": 48.833333333333336,
+      "rgb_stddev": 44.473398469088174
+    },
+    {
+      "shot": "p04-s01",
+      "time": 52.333333333333336,
+      "rgb_stddev": 42.925804079937016
+    },
+    {
+      "shot": "p04-s02",
+      "time": 57.166666666666664,
+      "rgb_stddev": 39.59900794082215
+    },
+    {
+      "shot": "p04-s03",
+      "time": 62.166666666666664,
+      "rgb_stddev": 41.62340823084722
+    },
+    {
+      "shot": "p04-s04",
+      "time": 65.93333333333334,
+      "rgb_stddev": 41.48902631386229
+    },
+    {
+      "shot": "p04-s05",
+      "time": 68.73333333333333,
+      "rgb_stddev": 45.62193024529865
+    },
+    {
+      "shot": "p05-s01",
+      "time": 72.5,
+      "rgb_stddev": 50.1025914909423
+    },
+    {
+      "shot": "p05-s02",
+      "time": 77.06666666666666,
+      "rgb_stddev": 46.05411410590326
+    },
+    {
+      "shot": "p05-s03",
+      "time": 81.26666666666667,
+      "rgb_stddev": 42.191794130187496
+    },
+    {
+      "shot": "p05-s04",
+      "time": 85.93333333333334,
+      "rgb_stddev": 45.15895459237089
+    },
+    {
+      "shot": "p06-s01",
+      "time": 91.93333333333334,
+      "rgb_stddev": 41.372298124154696
+    },
+    {
+      "shot": "p06-s02",
+      "time": 98.5,
+      "rgb_stddev": 46.16607562237615
+    },
+    {
+      "shot": "p06-s03",
+      "time": 103.16666666666667,
+      "rgb_stddev": 50.532488395762726
+    },
+    {
+      "shot": "p06-s04",
+      "time": 106.06666666666666,
+      "rgb_stddev": 48.32850376052769
+    },
+    {
+      "shot": "p07-s01",
+      "time": 108.93333333333334,
+      "rgb_stddev": 54.48772055892815
+    },
+    {
+      "shot": "p07-s02",
+      "time": 113.16666666666667,
+      "rgb_stddev": 50.80992449412134
+    },
+    {
+      "shot": "p07-s03",
+      "time": 117.73333333333333,
+      "rgb_stddev": 47.23151943345974
+    },
+    {
+      "shot": "p07-s04",
+      "time": 123.06666666666666,
+      "rgb_stddev": 41.51345832285316
+    },
+    {
+      "shot": "p08-s01",
+      "time": 128.0,
+      "rgb_stddev": 40.9916675720494
+    },
+    {
+      "shot": "p08-s02",
+      "time": 134.6,
+      "rgb_stddev": 41.48332784000261
+    },
+    {
+      "shot": "p08-s03",
+      "time": 139.73333333333332,
+      "rgb_stddev": 43.471338131950766
+    },
+    {
+      "shot": "p08-s04",
+      "time": 143.26666666666668,
+      "rgb_stddev": 40.787761512591
+    },
+    {
+      "shot": "p09-s01",
+      "time": 148.33333333333334,
+      "rgb_stddev": 38.64730298994717
+    },
+    {
+      "shot": "p09-s02",
+      "time": 152.6,
+      "rgb_stddev": 48.72237065102998
+    },
+    {
+      "shot": "p09-s03",
+      "time": 158.5,
+      "rgb_stddev": 38.74382479656069
+    },
+    {
+      "shot": "p09-s04",
+      "time": 164.4,
+      "rgb_stddev": 56.26760352670296
+    },
+    {
+      "shot": "p10-s01",
+      "time": 169.33333333333334,
+      "rgb_stddev": 39.04312127781615
+    },
+    {
+      "shot": "p10-s02",
+      "time": 173.5,
+      "rgb_stddev": 44.2283092625137
+    },
+    {
+      "shot": "p10-s03",
+      "time": 178.66666666666666,
+      "rgb_stddev": 44.749895729626324
+    },
+    {
+      "shot": "p10-s04",
+      "time": 185.16666666666666,
+      "rgb_stddev": 44.472803989606376
+    },
+    {
+      "shot": "p11-s01",
+      "time": 190.26666666666668,
+      "rgb_stddev": 41.9329600326542
+    },
+    {
+      "shot": "p11-s02",
+      "time": 194.5,
+      "rgb_stddev": 46.10478173468159
+    },
+    {
+      "shot": "p11-s03",
+      "time": 197.5,
+      "rgb_stddev": 40.62136558218241
+    },
+    {
+      "shot": "p11-s04",
+      "time": 198.93333333333334,
+      "rgb_stddev": 38.61143321184108
+    },
+    {
+      "shot": "p11-s05",
+      "time": 200.4,
+      "rgb_stddev": 40.96824643153921
+    },
+    {
+      "shot": "p11-s06",
+      "time": 204.0,
+      "rgb_stddev": 44.45127127790067
+    },
+    {
+      "shot": "p12-s01",
+      "time": 208.83333333333334,
+      "rgb_stddev": 33.13199135887741
+    },
+    {
+      "shot": "p12-s02",
+      "time": 212.73333333333332,
+      "rgb_stddev": 40.067796246425274
+    },
+    {
+      "shot": "p12-s03",
+      "time": 216.66666666666666,
+      "rgb_stddev": 39.39578342754811
+    },
+    {
+      "shot": "p12-s04",
+      "time": 221.5,
+      "rgb_stddev": 52.12817426929835
+    },
+    {
+      "shot": "p13-s01",
+      "time": 226.0,
+      "rgb_stddev": 43.42368908339597
+    },
+    {
+      "shot": "p13-s02",
+      "time": 229.16666666666666,
+      "rgb_stddev": 46.11449335916274
+    },
+    {
+      "shot": "p13-s03",
+      "time": 232.73333333333332,
+      "rgb_stddev": 37.52513737879266
+    },
+    {
+      "shot": "p13-s04",
+      "time": 238.6,
+      "rgb_stddev": 46.036254890799604
+    },
+    {
+      "shot": "p14-s01",
+      "time": 244.06666666666666,
+      "rgb_stddev": 47.58422914265835
+    },
+    {
+      "shot": "p14-s02",
+      "time": 247.0,
+      "rgb_stddev": 43.39117685603639
+    },
+    {
+      "shot": "p14-s03",
+      "time": 250.06666666666666,
+      "rgb_stddev": 47.59936259166474
+    },
+    {
+      "shot": "p14-s04",
+      "time": 255.06666666666666,
+      "rgb_stddev": 54.47799533183066
+    },
+    {
+      "shot": "p15-s01",
+      "time": 260.73333333333335,
+      "rgb_stddev": 45.67902970621544
+    },
+    {
+      "shot": "p15-s02",
+      "time": 265.56666666666666,
+      "rgb_stddev": 40.31618538328826
+    },
+    {
+      "shot": "p15-s03",
+      "time": 269.0,
+      "rgb_stddev": 49.52797464947133
+    },
+    {
+      "shot": "p15-s04",
+      "time": 274.26666666666665,
+      "rgb_stddev": 42.9713261720949
+    }
+  ],
+  "caption_cues": 130,
+  "caption_text_equals_approved_script": true,
+  "script_sha256": "30f4fbc4dc8da1f6d4c4b99e42882a7da065e15018f4edd21e7b66a7196fa27d",
+  "voice_sha256": "dbe7362871d156c9a96de32babe2318634aca7e51f5b8a9a7a0c9f60fd420db4",
+  "mix_sha256": "fce29d8517ba4c4319a21018ff78a5b20221917911191299f6395b9240fb0b32",
+  "no_post_production_speech_time_stretch": true,
+  "motion_samples": 3326,
+  "motion_contact_errors": 0,
+  "paid_api_calls": 0,
+  "youtube_published": false,
+  "sound_review_scope": "Measured, not human-auditioned",
+  "craft_scope": "HyperFrames craft heuristic disabled; full local pose audit and separate visual review are documented in REVIEW.md",
+  "visual_inspection_status": "All three decoded sheets covering all 63 shots inspected; native-size phone draft, completed paper reminder and faucet-off frames also inspected. No remaining P0 found in these views. This is not a claim of human real-time viewing/listening.",
+  "independent_visual_review": "Fresh reviewer assessed STORYBOARD and all 63 midpoint stills before render; phone/key readability and two action-read notes were fixed. Reviewer did not assess continuous playback or audio."
+}

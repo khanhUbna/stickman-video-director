@@ -1,0 +1,32 @@
+{
+  "command": [
+    "hyperframes",
+    "render",
+    "/workspace/stickman-video-director/engines/hyperframes-clay3d/films/rest-guilt-v1",
+    "--fps",
+    "12",
+    "--workers",
+    "1",
+    "--no-browser-gpu",
+    "--quality",
+    "delivery",
+    "--strict",
+    "--output",
+    "/workspace/stickman-video-director/engines/hyperframes-clay3d/films/rest-guilt-v1/output/base-12fps.mp4"
+  ],
+  "environment": {
+    "PRODUCER_FORCE_SCREENSHOT": "true",
+    "PRODUCER_EXPERIMENTAL_FAST_CAPTURE": "false",
+    "HYPERFRAMES_CHROME_SANDBOX": "0"
+  },
+  "exitCode": 0,
+  "wallSeconds": 1580.583,
+  "nativePixels": [
+    1920,
+    1080
+  ],
+  "captureFps": 12,
+  "deliveryFps": 30,
+  "paidApiCalls": 0,
+  "localOnly": true
+}

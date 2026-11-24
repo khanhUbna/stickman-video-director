@@ -1,0 +1,252 @@
+{
+  "samples": 3326,
+  "errors": [],
+  "landings": [
+    {
+      "time": 47.61666666666667,
+      "who": "hero",
+      "side": "left",
+      "shot": "p03-s04"
+    },
+    {
+      "time": 47.949999999999996,
+      "who": "hero",
+      "side": "right",
+      "shot": "p03-s04"
+    },
+    {
+      "time": 48.28333333333333,
+      "who": "hero",
+      "side": "left",
+      "shot": "p03-s04"
+    },
+    {
+      "time": 48.53333333333333,
+      "who": "hero",
+      "side": "right",
+      "shot": "p03-s04"
+    },
+    {
+      "time": 48.86666666666667,
+      "who": "hero",
+      "side": "left",
+      "shot": "p03-s04"
+    },
+    {
+      "time": 49.199999999999996,
+      "who": "hero",
+      "side": "right",
+      "shot": "p03-s04"
+    },
+    {
+      "time": 172.03333333333333,
+      "who": "buddy",
+      "side": "left",
+      "shot": "p10-s02"
+    },
+    {
+      "time": 172.53333333333333,
+      "who": "buddy",
+      "side": "right",
+      "shot": "p10-s02"
+    },
+    {
+      "time": 172.95,
+      "who": "buddy",
+      "side": "left",
+      "shot": "p10-s02"
+    },
+    {
+      "time": 173.45,
+      "who": "buddy",
+      "side": "right",
+      "shot": "p10-s02"
+    },
+    {
+      "time": 173.95,
+      "who": "buddy",
+      "side": "left",
+      "shot": "p10-s02"
+    },
+    {
+      "time": 174.36666666666667,
+      "who": "buddy",
+      "side": "right",
+      "shot": "p10-s02"
+    },
+    {
+      "time": 199.61666666666667,
+      "who": "hero",
+      "side": "left",
+      "shot": "p11-s05"
+    },
+    {
+      "time": 199.95,
+      "who": "hero",
+      "side": "right",
+      "shot": "p11-s05"
+    },
+    {
+      "time": 200.28333333333333,
+      "who": "hero",
+      "side": "left",
+      "shot": "p11-s05"
+    },
+    {
+      "time": 200.53333333333333,
+      "who": "hero",
+      "side": "right",
+      "shot": "p11-s05"
+    },
+    {
+      "time": 200.86666666666667,
+      "who": "hero",
+      "side": "left",
+      "shot": "p11-s05"
+    },
+    {
+      "time": 201.2,
+      "who": "hero",
+      "side": "right",
+      "shot": "p11-s05"
+    },
+    {
+      "time": 202.7,
+      "who": "hero",
+      "side": "left",
+      "shot": "p11-s06"
+    },
+    {
+      "time": 202.86666666666667,
+      "who": "hero",
+      "side": "right",
+      "shot": "p11-s06"
+    },
+    {
+      "time": 203.11666666666667,
+      "who": "hero",
+      "side": "left",
+      "shot": "p11-s06"
+    },
+    {
+      "time": 203.28333333333333,
+      "who": "hero",
+      "side": "right",
+      "shot": "p11-s06"
+    },
+    {
+      "time": 203.53333333333333,
+      "who": "hero",
+      "side": "left",
+      "shot": "p11-s06"
+    },
+    {
+      "time": 203.7,
+      "who": "hero",
+      "side": "right",
+      "shot": "p11-s06"
+    },
+    {
+      "time": 214.53333333333333,
+      "who": "hero",
+      "side": "left",
+      "shot": "p12-s03"
+    },
+    {
+      "time": 214.86666666666667,
+      "who": "hero",
+      "side": "right",
+      "shot": "p12-s03"
+    },
+    {
+      "time": 215.11666666666667,
+      "who": "hero",
+      "side": "left",
+      "shot": "p12-s03"
+    },
+    {
+      "time": 215.45,
+      "who": "hero",
+      "side": "right",
+      "shot": "p12-s03"
+    },
+    {
+      "time": 215.7,
+      "who": "hero",
+      "side": "left",
+      "shot": "p12-s03"
+    },
+    {
+      "time": 215.95,
+      "who": "hero",
+      "side": "right",
+      "shot": "p12-s03"
+    },
+    {
+      "time": 224.28333333333333,
+      "who": "buddy",
+      "side": "left",
+      "shot": "p13-s01"
+    },
+    {
+      "time": 224.78333333333333,
+      "who": "buddy",
+      "side": "right",
+      "shot": "p13-s01"
+    },
+    {
+      "time": 225.36666666666667,
+      "who": "buddy",
+      "side": "left",
+      "shot": "p13-s01"
+    },
+    {
+      "time": 225.86666666666667,
+      "who": "buddy",
+      "side": "right",
+      "shot": "p13-s01"
+    },
+    {
+      "time": 226.36666666666667,
+      "who": "buddy",
+      "side": "left",
+      "shot": "p13-s01"
+    },
+    {
+      "time": 226.95,
+      "who": "buddy",
+      "side": "right",
+      "shot": "p13-s01"
+    },
+    {
+      "time": 250.61666666666667,
+      "who": "buddy",
+      "side": "left",
+      "shot": "p14-s03"
+    },
+    {
+      "time": 250.86666666666667,
+      "who": "buddy",
+      "side": "right",
+      "shot": "p14-s03"
+    },
+    {
+      "time": 251.11666666666667,
+      "who": "buddy",
+      "side": "left",
+      "shot": "p14-s03"
+    },
+    {
+      "time": 251.36666666666667,
+      "who": "buddy",
+      "side": "right",
+      "shot": "p14-s03"
+    },
+    {
+      "time": 251.7,
+      "who": "buddy",
+      "side": "left",
+      "shot": "p14-s03"
+    }
+  ]
+}

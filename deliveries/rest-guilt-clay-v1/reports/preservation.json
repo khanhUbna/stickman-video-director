@@ -1,0 +1,16 @@
+{
+  "baseline_files": 763,
+  "changed": [],
+  "unchanged_installed_skills": true,
+  "parent_engine_change": "Only additive reusable scene handles; original demo behavior retained",
+  "core_engine_tests": {
+    "command": "npm test (in engines/hyperframes-clay3d)",
+    "exit_code": 0,
+    "tests": 6
+  },
+  "preview": {
+    "local_url": "http://127.0.0.1:4321/#project/rest-guilt-v1",
+    "http_status_checked": 200,
+    "public_portal": false
+  }
+}

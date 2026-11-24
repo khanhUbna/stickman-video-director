@@ -1,0 +1,21 @@
+{
+  "paid_api_calls_this_film": 0,
+  "music": {
+    "source": "Creator-owned original instrumental from earlier rest-guilt project",
+    "file_at_production": "/workspace/scratch/rest-guilt-long-v1/audio/music-original.wav",
+    "sha256": "1bc28f860041fe91801b4d793f545fa12b2dfb1836f35fb731a879684c78f6bc",
+    "use": "Reused unmodified composition; level balanced and ends naturally, no song-service call"
+  },
+  "foley": {
+    "source": "Creator-owned locally synthesized original Foley from rest-guilt-long-v1 and long-evenings-v1",
+    "use": "Isolated contacts resynchronized to actual animation, ledger in assets/sound-events.json"
+  },
+  "voice": {
+    "engine": "Local Kokoro-82M ONNX",
+    "voice": "am_michael",
+    "license": "Apache-2.0 model card",
+    "speed": 0.86,
+    "post_time_stretch": false
+  },
+  "note": "No earlier paid narration assets were reused; historical project API calls were not repeated."
+}
