@@ -1,0 +1,46 @@
+{
+  "QA.json": {
+    "bytes": 2188,
+    "sha256": "71089356fba13b6a6a6a0a09277638940bf97ab74468c39b320967eff06983af"
+  },
+  "rights.json": {
+    "bytes": 621,
+    "sha256": "d2e652ddca7a0b2bbfbb69e1c68cbd535f37f027f27e899010ad794b6589d708"
+  },
+  "agile-motion-15s.mp4": {
+    "bytes": 5764710,
+    "sha256": "54071b2bf2b7d11de1532dbe023247895c8de059c946f815b481d120dda2e16c"
+  },
+  "motion-checks.json": {
+    "bytes": 318,
+    "sha256": "7fe49bed361d203ca71072d582aaf026d81b221a19de61e7846de6da9fecd99d"
+  },
+  "repair-notes.md": {
+    "bytes": 1031,
+    "sha256": "00d541988c939e7d0fc5fee4f5bfdcb422154cf7eaf10848d1c9c0bce9662038"
+  },
+  "decoded-motion-board.jpg": {
+    "bytes": 525354,
+    "sha256": "a4bd401fe1cc3752898906579ed1cb2e610e35a6f9222b6492f15a0690773c33"
+  },
+  "previous-vs-new-15s.mp4": {
+    "bytes": 2030680,
+    "sha256": "625ae3e6381d44b009b21f0f41245382ebbf917e6845a0663be55ffd28ba033d"
+  },
+  "README.md": {
+    "bytes": 3791,
+    "sha256": "ac23720c66f603bab2ece3602728d206216b7be90cc8c7ac6e57797afa118b4d"
+  },
+  "source-project.zip": {
+    "bytes": 13111085,
+    "sha256": "855a28477664b09872517e19acf9875d60dc936a6138cab7f34fa183f7a9679b"
+  },
+  "voice-reuse.json": {
+    "bytes": 335,
+    "sha256": "9bd108b841be6d2b67edb149c1f22387738d1ec270517c2175029af57250dcf0"
+  },
+  "captions-en.srt": {
+    "bytes": 448,
+    "sha256": "73a905cb7a2dc4d83213a81b427f045ec779dbe7578d44493ee1de372cdc6121"
+  }
+}

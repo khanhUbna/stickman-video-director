@@ -1,0 +1,72 @@
+{
+  "title": "Psychology Facts: faster authored motion trial",
+  "duration_seconds": 15.019,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "frames": 450,
+  "fps": 30,
+  "full_decode": "pass",
+  "audio_video_duration_difference_seconds": 0.019000000000000128,
+  "sha256": "54071b2bf2b7d11de1532dbe023247895c8de059c946f815b481d120dda2e16c",
+  "compositor": "Remotion 4.0.546, system Chromium",
+  "performance": "New 450-pose physical choreography, rendered from the established articulated painted identity; not a replay of the old actions",
+  "motion": {
+    "frames": 450,
+    "maximum_bone_error": 9.947598300641403e-14,
+    "maximum_world_stance_drift": 0.0,
+    "maximum_shirt_grip_error": 0.0,
+    "sit_seconds": 0.41,
+    "rise_seconds": 0.55,
+    "pickup_bend_seconds": 0.53,
+    "pickup_rise_seconds": 0.6,
+    "footsteps": 14,
+    "new_API_calls": 0,
+    "voice_time_stretch": false
+  },
+  "voice": {
+    "source": "Previously accepted rest-guilt-long-v1 chapter-01 native alloy WAV",
+    "source_sha256": "2fd5ea3f40628257c92d83109718a930c7211a383064678ac7f0c371873a9bed",
+    "native_trim_start_seconds": 5.62,
+    "native_trim_duration_seconds": 14.02,
+    "new_TTS_calls": 0,
+    "speed": 1,
+    "pitch_change": false,
+    "paid_image_calls": 0
+  },
+  "decoded_voice_correlation": 0.989461081991829,
+  "loudness": {
+    "input_i": "-16.54",
+    "input_tp": "-4.48",
+    "input_lra": "2.60",
+    "input_thresh": "-27.40",
+    "output_i": "-16.64",
+    "output_tp": "-4.31",
+    "output_lra": "2.60",
+    "output_thresh": "-27.54",
+    "normalization_type": "dynamic",
+    "target_offset": "0.64"
+  },
+  "decoded_review_samples": [
+    0.15,
+    0.48,
+    0.8,
+    1.35,
+    2.15,
+    2.85,
+    3.55,
+    3.93,
+    4.58,
+    5.65,
+    7.55,
+    8.85,
+    9.7,
+    10.4,
+    11.2,
+    14.2
+  ],
+  "comparison": "Same narration excerpt; new soundtrack only; previous picture held for final 0.98s to match the 15s trial. Neither performance nor voice is globally sped up.",
+  "review_scope": "Author source/decoded-frame and mechanical/signal checks. Independent creative review and real-time AV listening are not claimed. User trial approval is pending.",
+  "YouTube_upload": false
+}

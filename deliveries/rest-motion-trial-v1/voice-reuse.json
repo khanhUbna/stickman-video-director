@@ -1,0 +1,10 @@
+{
+  "source": "Previously accepted rest-guilt-long-v1 chapter-01 native alloy WAV",
+  "source_sha256": "2fd5ea3f40628257c92d83109718a930c7211a383064678ac7f0c371873a9bed",
+  "native_trim_start_seconds": 5.62,
+  "native_trim_duration_seconds": 14.02,
+  "new_TTS_calls": 0,
+  "speed": 1,
+  "pitch_change": false,
+  "paid_image_calls": 0
+}

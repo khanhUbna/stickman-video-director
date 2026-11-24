@@ -1,0 +1,13 @@
+{
+  "frames": 450,
+  "maximum_bone_error": 9.947598300641403e-14,
+  "maximum_world_stance_drift": 0.0,
+  "maximum_shirt_grip_error": 0.0,
+  "sit_seconds": 0.41,
+  "rise_seconds": 0.55,
+  "pickup_bend_seconds": 0.53,
+  "pickup_rise_seconds": 0.6,
+  "footsteps": 14,
+  "new_API_calls": 0,
+  "voice_time_stretch": false
+}
