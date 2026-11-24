@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "title": "Why You Feel Guilty When You Rest",
+  "status": "awaiting-creator-content-review",
+  "profile": {
+    "schema_version": 1,
+    "channel": "Psychology Facts",
+    "niches": [
+      "Psychology Facts",
+      "Human Behavior"
+    ],
+    "spoken_language": "Natural American English",
+    "review_language": "Vietnamese",
+    "duration_seconds": {
+      "min": 240,
+      "max": 300
+    },
+    "spoken_words": {
+      "min": 550,
+      "max": 650
+    },
+    "word_count_method": "Whitespace-separated words in spoken text only, matching upstream scriptcheck.py",
+    "planning_words_per_minute": 140,
+    "style": [
+      "Emotional Storytelling",
+      "Curiosity Gap",
+      "Psychological Insights"
+    ],
+    "framework": [
+      "Hook",
+      "Open Loop",
+      "Setup",
+      "Build-up",
+      "Climax",
+      "Payoff",
+      "Emotional Ending"
+    ],
+    "automatic_skills": [
+      "yt-research",
+      "yt-script",
+      "yt-package",
+      "yt-seo"
+    ],
+    "output_root": "youtube-videos",
+    "paid_apis_allowed": false,
+    "publication_allowed": false,
+    "script_approval_before_full_production": true,
+    "require_credible_scientific_sources": true,
+    "invent_research_or_statistics": false
+  },
+  "stages": {
+    "yt-research": "independent limited-source review completed; C2/C3 are not established efficacy findings",
+    "yt-script": "603-word English draft and full Vietnamese translation ready for content review",
+    "yt-package": "ten titles checked; supplied title retained; thumbnail text brief only",
+    "yt-seo": "draft description, tags and three queries prepared"
+  },
+  "script_approved": false,
+  "audio_generated": false,
+  "published": false,
+  "content_review_ready": true,
+  "spoken_words": 603,
+  "paid_API_calls": 0,
+  "source_access": "university article plus PubMed abstracts; full papers not retrieved",
+  "research_clearance": "limited: association supported; hypothetical interpretation and non-efficacy recommendation explicitly distinguished",
+  "script_sha256": "04bf801bef41dbefe28e0859e1ad64cb7c8d6ca288e925f9c885c8a4b508411d",
+  "independent_review": "completed: content review ready, limited evidence scope; specific mechanism/efficacy not verified",
+  "local_lint": "word count/text checks pass; conservative evidence flags for C2/C3 retained with editorial disposition"
+}

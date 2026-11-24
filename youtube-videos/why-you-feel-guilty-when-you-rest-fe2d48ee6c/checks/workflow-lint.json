@@ -1,0 +1,303 @@
+{
+  "directory": "/workspace/stickman-video-director/youtube-videos/why-you-feel-guilty-when-you-rest-fe2d48ee6c",
+  "spoken_words": 603,
+  "estimated_spoken_seconds_at_planning_rate": 258.4,
+  "blockers": [
+    "Unresolved/incomplete evidence for claim C2",
+    "Unresolved/incomplete evidence for claim C3"
+  ],
+  "warnings": [],
+  "tool_reports": {
+    "hooks.json": {
+      "returncode": 0,
+      "result": [
+        {
+          "hook": "You finally stop working. Why do three minutes on the couch feel like something you need to hide?",
+          "properties": {
+            "SPECIFICITY": 57,
+            "ADDRESS": 96,
+            "STAKES": 62,
+            "CURIOSITY": 59,
+            "BREVITY": 100
+          },
+          "verdict": 68,
+          "band": "WORKABLE",
+          "formula": "The Mistake"
+        },
+        {
+          "hook": "Imagine this. You stop working, sit down, and hear someone coming. Why does resting for three minutes feel like getting caught?",
+          "properties": {
+            "SPECIFICITY": 63,
+            "ADDRESS": 76,
+            "STAKES": 62,
+            "CURIOSITY": 59,
+            "BREVITY": 100
+          },
+          "verdict": 67,
+          "band": "WORKABLE",
+          "formula": "The Mistake"
+        },
+        {
+          "hook": "You're trying to rest. So why are you hunting for a job nobody asked you to do?",
+          "properties": {
+            "SPECIFICITY": 35,
+            "ADDRESS": 100,
+            "STAKES": 22,
+            "CURIOSITY": 76,
+            "BREVITY": 100
+          },
+          "verdict": 49,
+          "band": "WEAK",
+          "formula": "The Question"
+        },
+        {
+          "hook": "Someone comes home and you grab a clean plate. Why does your break need an alibi?",
+          "properties": {
+            "SPECIFICITY": 40,
+            "ADDRESS": 96,
+            "STAKES": 22,
+            "CURIOSITY": 59,
+            "BREVITY": 100
+          },
+          "verdict": 47,
+          "band": "WEAK",
+          "formula": "The Question"
+        },
+        {
+          "hook": "You finish the chores, sit down, and feel guilty again. What exactly were those chores supposed to prove?",
+          "properties": {
+            "SPECIFICITY": 40,
+            "ADDRESS": 76,
+            "STAKES": 22,
+            "CURIOSITY": 59,
+            "BREVITY": 100
+          },
+          "verdict": 44,
+          "band": "WEAK",
+          "formula": "The Question"
+        }
+      ]
+    },
+    "scriptcheck.json": {
+      "returncode": 0,
+      "result": {
+        "words": 603,
+        "paragraphs": 15,
+        "errors": [],
+        "warnings": []
+      }
+    },
+    "titles.json": {
+      "returncode": 0,
+      "result": [
+        {
+          "title": "Why You Feel Guilty When You Rest",
+          "chars": 33,
+          "score": 80,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "thumb-length",
+              "5 words on the thumbnail - three is the ceiling at feed size"
+            ]
+          ],
+          "good": [
+            "33 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Why Rest Feels Like Getting Caught",
+          "chars": 34,
+          "score": 80,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "thumb-length",
+              "5 words on the thumbnail - three is the ceiling at feed size"
+            ]
+          ],
+          "good": [
+            "34 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Why You Keep Trying to Earn a Break",
+          "chars": 35,
+          "score": 80,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "thumb-length",
+              "5 words on the thumbnail - three is the ceiling at feed size"
+            ]
+          ],
+          "good": [
+            "35 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Why Doing Nothing Feels Wrong",
+          "chars": 29,
+          "score": 80,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "thumb-length",
+              "5 words on the thumbnail - three is the ceiling at feed size"
+            ]
+          ],
+          "good": [
+            "29 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Why Your Break Never Feels Like a Break",
+          "chars": 39,
+          "score": 80,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "thumb-length",
+              "5 words on the thumbnail - three is the ceiling at feed size"
+            ]
+          ],
+          "good": [
+            "39 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Why You Need an Excuse to Rest",
+          "chars": 30,
+          "score": 80,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "thumb-length",
+              "5 words on the thumbnail - three is the ceiling at feed size"
+            ]
+          ],
+          "good": [
+            "30 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "The Guilt That Won't Let You Rest",
+          "chars": 33,
+          "score": 80,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "thumb-length",
+              "5 words on the thumbnail - three is the ceiling at feed size"
+            ]
+          ],
+          "good": [
+            "33 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Why You Can't Relax Without Feeling Guilty",
+          "chars": 42,
+          "score": 66,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"Why You Can't Relax Without Feeling...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "thumb-length",
+              "5 words on the thumbnail - three is the ceiling at feed size"
+            ]
+          ],
+          "good": [
+            "42 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "You Sat Down. Why Do You Feel Guilty?",
+          "chars": 37,
+          "score": 66,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "duplicate",
+              "thumbnail repeats the title on down, sat - the thumbnail should say what the title does not"
+            ],
+            [
+              "thumb-length",
+              "5 words on the thumbnail - three is the ceiling at feed size"
+            ]
+          ],
+          "good": [
+            "37 characters, inside the 60-character desktop cut",
+            "open question in the title"
+          ]
+        },
+        {
+          "title": "Why One More Chore Never Feels Like Enough",
+          "chars": 42,
+          "score": 66,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"Why One More Chore Never Feels Like...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "thumb-length",
+              "5 words on the thumbnail - three is the ceiling at feed size"
+            ]
+          ],
+          "good": [
+            "42 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        }
+      ]
+    }
+  },
+  "draft_bundle_complete": false,
+  "scientific_truth_verified_by_cli": false,
+  "script_approved": false,
+  "paid_API_calls": 0,
+  "note": "Evidence-field checks and editorial lint only; actual source reading, fact-checking and creator review remain necessary."
+}

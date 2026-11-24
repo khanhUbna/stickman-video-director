@@ -1,0 +1,204 @@
+[
+  {
+    "title": "Why You Feel Guilty When You Rest",
+    "chars": 33,
+    "score": 80,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "thumb-length",
+        "5 words on the thumbnail - three is the ceiling at feed size"
+      ]
+    ],
+    "good": [
+      "33 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "Why Rest Feels Like Getting Caught",
+    "chars": 34,
+    "score": 80,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "thumb-length",
+        "5 words on the thumbnail - three is the ceiling at feed size"
+      ]
+    ],
+    "good": [
+      "34 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "Why You Keep Trying to Earn a Break",
+    "chars": 35,
+    "score": 80,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "thumb-length",
+        "5 words on the thumbnail - three is the ceiling at feed size"
+      ]
+    ],
+    "good": [
+      "35 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "Why Doing Nothing Feels Wrong",
+    "chars": 29,
+    "score": 80,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "thumb-length",
+        "5 words on the thumbnail - three is the ceiling at feed size"
+      ]
+    ],
+    "good": [
+      "29 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "Why Your Break Never Feels Like a Break",
+    "chars": 39,
+    "score": 80,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "thumb-length",
+        "5 words on the thumbnail - three is the ceiling at feed size"
+      ]
+    ],
+    "good": [
+      "39 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "Why You Need an Excuse to Rest",
+    "chars": 30,
+    "score": 80,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "thumb-length",
+        "5 words on the thumbnail - three is the ceiling at feed size"
+      ]
+    ],
+    "good": [
+      "30 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "The Guilt That Won't Let You Rest",
+    "chars": 33,
+    "score": 80,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "thumb-length",
+        "5 words on the thumbnail - three is the ceiling at feed size"
+      ]
+    ],
+    "good": [
+      "33 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "Why You Can't Relax Without Feeling Guilty",
+    "chars": 42,
+    "score": 66,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Why You Can't Relax Without Feeling...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "thumb-length",
+        "5 words on the thumbnail - three is the ceiling at feed size"
+      ]
+    ],
+    "good": [
+      "42 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "You Sat Down. Why Do You Feel Guilty?",
+    "chars": 37,
+    "score": 66,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on down, sat - the thumbnail should say what the title does not"
+      ],
+      [
+        "thumb-length",
+        "5 words on the thumbnail - three is the ceiling at feed size"
+      ]
+    ],
+    "good": [
+      "37 characters, inside the 60-character desktop cut",
+      "open question in the title"
+    ]
+  },
+  {
+    "title": "Why One More Chore Never Feels Like Enough",
+    "chars": 42,
+    "score": 66,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Why One More Chore Never Feels Like...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "thumb-length",
+        "5 words on the thumbnail - three is the ceiling at feed size"
+      ]
+    ],
+    "good": [
+      "42 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  }
+]

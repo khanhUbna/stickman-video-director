@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C1",
+    "paragraph": 6,
+    "claim": "Research has linked seeing leisure as wasted time with enjoying it less.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "source-excerpts.md S1; university article Results paragraph, local source lines38\u201342",
+    "evidence_excerpt": "the more the participants believed leisure to be wasteful, the less they enjoyed leisure activities.",
+    "limitations": "Independent reviewer supports association only, at university-summary level. Full journal paper not read."
+  },
+  {
+    "id": "C2",
+    "paragraph": 6,
+    "claim": "The fictional character may condition feeling okay about themselves on usefulness.",
+    "verdict": "UNVERIFIED",
+    "source_ids": [
+      "S2"
+    ],
+    "evidence_locator": "source-excerpts.md S2; abstract, local extracted source line8",
+    "evidence_excerpt": "self-esteem rises and falls around its typical level in response to successes and failures in domains on which one has staked self-worth.",
+    "limitations": "Independent reviewer: specific rest-guilt mechanism remains unverified; narration presents a qualified fictional application of a general model. Not a diagnosed or universal cause."
+  },
+  {
+    "id": "C3",
+    "paragraph": 11,
+    "claim": "A specific task reminder and return time are offered as an experiment, not a claim that plans cure guilt.",
+    "verdict": "UNVERIFIED",
+    "source_ids": [
+      "S3"
+    ],
+    "evidence_locator": "source-excerpts.md S3; abstract, local extracted source line9",
+    "evidence_excerpt": "Allowing participants to formulate specific plans for their unfulfilled goals eliminated the various activation and interference effects.",
+    "limitations": "Independent reviewer: acceptable normative recommendation; cognitive-task abstract does not establish guilt relief. Narration makes no efficacy promise."
+  }
+]

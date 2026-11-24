@@ -1,0 +1,21 @@
+# Action-led storyboard
+
+Planning only. Fifteen sections at approximately eighteen seconds each = 4:30 including short action/reaction holds. At 140 wpm, 601 spoken words estimate about4:18. Actual speech/scene timing must be measured after approval; these are not SRT timestamps.
+
+| Paragraph / estimated range | Stage | New information | Action and visible result | Camera / views | Contacts and limitations |
+| --- | --- | --- | --- | --- | --- |
+| 1 / 0:00–0:18 | Hook | Rest interrupted | Drop work bag, sit briskly, hear the door; hand starts toward plate. | Context → door detail → hand/face reaction | Plate remains on table until actually acquired. |
+| 2 / 0:18–0:36 | Open Loop | The alibi | Greet an offscreen arrival, pretend to clean, reveal that plate is clean. | Two-person context without a new featured face → plate detail → embarrassed reaction | Plate remains the same physical prop; offscreen greeting is narrated. |
+| 3 / 0:36–0:54 | Setup | The detour | Wash cup, carry bag to outside bin, return and open forgotten drawer. | Kitchen contact → outdoor travel/result → drawer reveal | Show cup/bag/drawer contacts and releases; no prop disappearance. |
+| 4 / 0:54–1:12 | Build-up | A moment of relief | Finish one drawer section, step back, relax shoulders briefly, notice another task. | Hand detail → supported retreat → gaze/reaction | Relief is this fictional character's experience, not a medical diagram. |
+| 5 / 1:12–1:30 | Build-up | Moving finish | One newly used cup joins clean counter; character follows it then pauses. | Counter consequence → room-wide action → reaction | Retirement line is a joke, not a silent time-stretched montage. |
+| 6 / 1:30–1:48 | Climax | The condition | Look from chores to chair; glance at imagined checklist for being allowed to sit. | Domestic action → brief clearly imagined application insert → face | No brain scan or literal clinical explanation; metaphor stays explicit. |
+| 7 / 1:48–2:06 | Climax | Friend standard | Read friend message; reply warmly that the friend needed a break. | Phone contact → readable message detail → empathetic expression | Use existing authorized assets for any supporting cast; no new paid art. |
+| 8 / 2:06–2:24 | Climax | The double standard | Compare easy reply with own elaborate mental application; reconsider. | Phone/own-note comparison → reaction → return to chair destination | Midpoint turn introduces a new insight, not another summary card. |
+| 9 / 2:24–2:42 | Payoff | Real needs | Serve a meal, check an actual deadline, discuss sharing a chore. | Practical task and result → calendar → conversational context | Responsibility examples are illustrative; do not abandon a dependent or show unsafe cooking. |
+| 10 / 2:42–3:00 | Payoff | What changes tonight | Check genuinely time-sensitive task; set a discretionary dry chore aside. | Task detail → distinction shown by choice → calm preparation | No magic urgency gauge; no claim that guilt is always inaccurate. |
+| 11 / 3:00–3:18 | Payoff | A specific reminder | Write tomorrow at nine, reply to the email; place reminder visibly for morning. | Hand/paper contact → readable plan → placement/release | Digits may appear on props; spoken numbers stay written as words. |
+| 12 / 3:18–3:36 | Payoff | Choose leisure | Close productivity tab, choose a silly show or book, sit with original-speed acting. | Choice insert → whole-body transition → chosen activity | The break need not be instrumental; this is a values choice, not a tested superior treatment. |
+| 13 / 3:36–3:54 | Payoff | Imperfect comfort | Begin to rise at a thought, check nothing urgent changed, settle back. | Anticipation → check → supported recovery | Fixed feet and actual seat support; avoid repeated slow wrist-only gestures. |
+| 14 / 3:54–4:12 | Emotional Ending | Door callback | Repeat the opening door cue and hand route, then stop before taking the plate. | Matched opening composition → hand recovery → plain answer | Plate stays on table; no excuse-list overlay or lecture card. |
+| 15 / 4:12–4:30 | Emotional Ending | An evening allowed | Keep reminder and imperfect drawer in wider frame while chosen break continues. | Reaction landing → wider consequence → short earned hold | Do not present an instantly cured person. The changed action is enough. |
