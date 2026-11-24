@@ -1,0 +1,20 @@
+{
+  "command": [
+    "hyperframes",
+    "render",
+    "--quality",
+    "delivery",
+    "--fps",
+    "30",
+    "--workers",
+    "1",
+    "--no-browser-gpu",
+    "--strict",
+    "--output",
+    "/workspace/stickman-video-director/engines/hyperframes-clay3d/output/clay-animation-15s.mp4"
+  ],
+  "exitCode": 0,
+  "wallSeconds": 219.105,
+  "localOnly": true,
+  "paidApiCalls": 0
+}

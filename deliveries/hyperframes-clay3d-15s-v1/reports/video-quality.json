@@ -1,0 +1,41 @@
+{
+  "duration": 15,
+  "width": 1920,
+  "height": 1080,
+  "fps": "30/1",
+  "frames": 450,
+  "codec": "h264",
+  "pixelFormat": "yuv420p",
+  "audioCodec": "aac",
+  "audioRms": 0.07257667562604725,
+  "audioPeak": 0.9591436386108398,
+  "fullDecodeErrors": 0,
+  "fidelity": [
+    {
+      "time": 2.5,
+      "meanAbsoluteRgbError": 2.190702160493827
+    },
+    {
+      "time": 7.5,
+      "meanAbsoluteRgbError": 2.121854423868313
+    },
+    {
+      "time": 14.6,
+      "meanAbsoluteRgbError": 2.186496913580247
+    }
+  ],
+  "wideShotPixelChange": 4.673392489711934,
+  "browserMotionAudit": {
+    "frames": 450,
+    "unreachable": [],
+    "clipped": []
+  },
+  "browserPageErrors": [],
+  "browserExternalRequests": [],
+  "notes": [
+    "Decoded MP4 frames compared against independent browser captures.",
+    "Wide-shot camera is fixed; changing joint poses and planted feet are audited separately from pixel changes.",
+    "Movement is authored at twelve poses per second for a clay stop-motion cadence in a thirty-fps file."
+  ],
+  "ok": true
+}

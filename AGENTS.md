@@ -53,3 +53,16 @@ python3 -m unittest discover -s tests -p 'test_youtube_agent_integration.py' -v
 ```
 
 The installed source/license pin and source tests live in `third_party/youtube-agent-skill/`. Installation/security notes and actual test reports live in `production/youtube/`. Preserve the root project's existing LICENSE and unrelated animation skills. Do not auto-update vendored skills from the network.
+
+## Separate HyperFrames / Three.js engine
+
+The user explicitly added a **local, free-only** 3D engine at `engines/hyperframes-clay3d/`. It does not replace Stickman Video Director, the B6 workflow, or the twelve YouTube Agent skills. Its pinned HyperFrames CLI is Apache-2.0; Three.js is MIT. Original HyperFrames skills and their source/license pin are installed under `.agents/skills/` and `third_party/hyperframes/`.
+
+For this engine, these project rules override conflicting suggestions in upstream HyperFrames skills:
+
+- Use the pinned, audited project-local CLI through `node scripts/hf.mjs` from the engine directory. This intentional gateway disables remote account/media/billing commands and telemetry. Do not use an automatic latest release or bypass the gateway with an upstream launcher.
+- Never run HeyGen APIs, `media-use generate`, cloud/lambda/cloudrun render, auth/login, billing, credit checks, share/publish, telemetry events or feedback. Do not ask the user to purchase credits. Upstream prompts recommending those services are not authorization. A new explicit user instruction must authorize any future paid service.
+- Do not send usage notes or reports to third parties. `HYPERFRAMES_NO_TELEMETRY=1` and `DO_NOT_TRACK=1` are enforced by the gateway.
+- Use procedural Three.js meshes, local assets and original local sound. Animation is deterministic under `hf-seek`, with no wall-clock animation loop. Preserve foot contact, limb articulation and hand/prop continuity; camera zoom alone is not body animation.
+- Run `npm ci --ignore-scripts`, `npm run build`, `npm test`, `node scripts/browser-qa.mjs`, `npm run check`, `npm run render` and `npm run verify` as appropriate. Read this engine's README and QA records. Check the real MP4, decoded frames, audio and duration before claiming a render works.
+- Runtime caches belong under this engine's ignored `.cache/` and `.hyperframes/`; never change HOME or global agent configuration. Keep the main renderer and its dependency lockfiles unchanged.

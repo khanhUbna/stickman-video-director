@@ -1,0 +1,17 @@
+{
+  "title": "One Small Break — Clay Animation",
+  "engine": "HyperFrames 0.9.88 + Three.js 0.187.0",
+  "duration_seconds": 15,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 450,
+  "pose_hz": 12,
+  "audio": "Original local procedural foley and notes; AAC",
+  "paid_api_calls": 0,
+  "heygen_api_calls": 0,
+  "published_to_youtube": false,
+  "branch": "video-delivery-b1",
+  "upstream_commit": "aefca2baff396213711b59fcce5ec357896529c6",
+  "verified_video_sha256": "320135692b2076ea528b56eb7a11357781a73c6ff25a82340fd1e559432c848b"
+}

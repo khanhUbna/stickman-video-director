@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=1920, height=1080">
+    <title>One Small Break — Clay Animation</title>
+    <style>
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+      html, body { width: 1920px; height: 1080px; overflow: hidden; background: #e9dccc; }
+      #clay-room { position: relative; width: 1920px; height: 1080px; overflow: hidden; }
+      #clay-stage { display: block; width: 1920px; height: 1080px; }
+    </style>
+  </head>
+  <body>
+    <div id="clay-room" data-composition-id="clay-room" data-start="0" data-duration="15" data-width="1920" data-height="1080" data-fps="30" data-no-timeline>
+      <canvas id="clay-stage" class="clip" data-start="0" data-duration="15" data-track-index="1" data-layout-allow-overflow></canvas>
+      <audio id="clay-sound" class="clip" data-start="0" data-duration="15" data-track-index="2" src="assets/clay-sound.wav"></audio>
+    </div>
+    <script type="importmap">{"imports":{"three":"./assets/vendor/three.min.js"}}</script>
+    <script type="module" src="assets/clay-scene.js"></script>
+  </body>
+</html>

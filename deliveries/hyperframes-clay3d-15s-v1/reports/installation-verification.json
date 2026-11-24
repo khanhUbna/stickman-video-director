@@ -1,0 +1,63 @@
+{
+  "existing_tools_checked": 763,
+  "changed_existing_tools": [],
+  "hyperframes_files_checked": 333,
+  "changed_upstream_skill_files": [],
+  "skills": [
+    {
+      "skill": "figma",
+      "has_name": true,
+      "has_description": true,
+      "apache_license": true
+    },
+    {
+      "skill": "hyperframes",
+      "has_name": true,
+      "has_description": true,
+      "apache_license": true
+    },
+    {
+      "skill": "hyperframes-cli",
+      "has_name": true,
+      "has_description": true,
+      "apache_license": true
+    },
+    {
+      "skill": "hyperframes-registry",
+      "has_name": true,
+      "has_description": true,
+      "apache_license": true
+    },
+    {
+      "skill": "media-use",
+      "has_name": true,
+      "has_description": true,
+      "apache_license": true
+    },
+    {
+      "skill": "remotion-to-hyperframes",
+      "has_name": true,
+      "has_description": true,
+      "apache_license": true
+    },
+    {
+      "skill": "reverse-any-video",
+      "has_name": true,
+      "has_description": true,
+      "apache_license": true
+    },
+    {
+      "skill": "slideshow",
+      "has_name": true,
+      "has_description": true,
+      "apache_license": true
+    },
+    {
+      "skill": "style-sampling",
+      "has_name": true,
+      "has_description": true,
+      "apache_license": true
+    }
+  ],
+  "ok": true
+}
