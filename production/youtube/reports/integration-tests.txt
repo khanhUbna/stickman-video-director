@@ -1,0 +1,18 @@
+test_channel_constraints_and_no_paid_api_defaults (test_youtube_agent_integration.YouTubeAgentIntegration.test_channel_constraints_and_no_paid_api_defaults) ... ok
+test_each_video_has_the_complete_pending_artifact_layout (test_youtube_agent_integration.YouTubeAgentIntegration.test_each_video_has_the_complete_pending_artifact_layout) ... ok
+test_empty_scaffold_cannot_pass_as_completed_research_or_script (test_youtube_agent_integration.YouTubeAgentIntegration.test_empty_scaffold_cannot_pass_as_completed_research_or_script) ... ok
+test_installed_files_and_all_skill_dependencies_are_intact (test_youtube_agent_integration.YouTubeAgentIntegration.test_installed_files_and_all_skill_dependencies_are_intact) ... ok
+test_lint_refuses_to_read_an_external_manifest_symlink (test_youtube_agent_integration.YouTubeAgentIntegration.test_lint_refuses_to_read_an_external_manifest_symlink) ... ok
+test_modified_installed_code_is_detected_before_running_tools (test_youtube_agent_integration.YouTubeAgentIntegration.test_modified_installed_code_is_detected_before_running_tools) ... ok
+test_output_symlink_is_rejected (test_youtube_agent_integration.YouTubeAgentIntegration.test_output_symlink_is_rejected) ... ok
+test_path_traversal_and_control_characters_are_rejected (test_youtube_agent_integration.YouTubeAgentIntegration.test_path_traversal_and_control_characters_are_rejected) ... ok
+test_resume_preserves_existing_script_and_manifest (test_youtube_agent_integration.YouTubeAgentIntegration.test_resume_preserves_existing_script_and_manifest) ... ok
+test_same_slug_cannot_overwrite_a_different_video (test_youtube_agent_integration.YouTubeAgentIntegration.test_same_slug_cannot_overwrite_a_different_video) ... ok
+test_title_is_data_not_a_shell_command_in_the_real_cli (test_youtube_agent_integration.YouTubeAgentIntegration.test_title_is_data_not_a_shell_command_in_the_real_cli) ... ok
+test_unread_source_cannot_support_a_claim_by_label_alone (test_youtube_agent_integration.YouTubeAgentIntegration.test_unread_source_cannot_support_a_claim_by_label_alone) ... ok
+test_word_limits_are_the_channel_limits_not_upstream_defaults (test_youtube_agent_integration.YouTubeAgentIntegration.test_word_limits_are_the_channel_limits_not_upstream_defaults) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.420s
+
+OK

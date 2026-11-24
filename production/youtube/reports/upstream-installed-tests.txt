@@ -1,0 +1,57 @@
+Python 3.12.14
+Unmodified upstream tests; isolated copies of installed skills.
+Temporary root paths normalized for reproducible logs.
+
+Exception ignored in: <_io.FileIO name='<installed-test-root>/skills/yt-script/hooks.json' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "<installed-test-root>/skills/yt-script/hookscore.py", line 24, in <module>
+    FORMULAS = json.load(open(os.path.join(HERE, "hooks.json"), encoding="utf-8"))["hooks"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ResourceWarning: unclosed file <_io.TextIOWrapper name='<installed-test-root>/skills/yt-script/hooks.json' mode='r' encoding='utf-8'>
+test_hour_labels (test_tools.Chapters.test_hour_labels) ... ok
+test_unicode_keywords (test_tools.Chapters.test_unicode_keywords) ... ok
+test_valid_and_on_section_breaks (test_tools.Chapters.test_valid_and_on_section_breaks) ... ok
+test_caption_annotations_are_not_speech (test_tools.DeadAir.test_caption_annotations_are_not_speech) ... ok
+test_cli_json (test_tools.DeadAir.test_cli_json) ... ok
+test_finds_each_kind (test_tools.DeadAir.test_finds_each_kind) ... ok
+test_hindi_and_nepali_fillers (test_tools.DeadAir.test_hindi_and_nepali_fillers) ... ok
+test_overlapping_cuts_counted_once (test_tools.DeadAir.test_overlapping_cuts_counted_once) ... ok
+test_restart_cuts_the_first_take (test_tools.DeadAir.test_restart_cuts_the_first_take) ... ok
+test_shorter_abandoned_take_is_a_restart (test_tools.DeadAir.test_shorter_abandoned_take_is_a_restart) ... ok
+test_unicode_norm (test_tools.DeadAir.test_unicode_norm) ... ok
+test_whisper_json_list_and_dict (test_tools.DeadAir.test_whisper_json_list_and_dict) ... ok
+test_youtube_auto_captions_are_clean (test_tools.DeadAir.test_youtube_auto_captions_are_clean) ... ok
+test_bad_hook_below_good_hook (test_tools.HookScore.test_bad_hook_below_good_hook) ... ok
+test_classify_tie_goes_to_first_listed (test_tools.HookScore.test_classify_tie_goes_to_first_listed) ... ok
+test_cli_missing_file_fails (test_tools.HookScore.test_cli_missing_file_fails) ... ok
+test_twenty_one_formulas (test_tools.HookScore.test_twenty_one_formulas) ... ok
+test_units_stay_with_figures (test_tools.HookScore.test_units_stay_with_figures) ... ok
+test_cli_flag_order_does_not_matter (test_tools.Retention.test_cli_flag_order_does_not_matter) ... ok
+test_header_says_seconds (test_tools.Retention.test_header_says_seconds) ... ok
+test_percent_with_duration (test_tools.Retention.test_percent_with_duration) ... ok
+test_ratio_export_scaled (test_tools.Retention.test_ratio_export_scaled) ... ok
+test_clean_script_passes (test_tools.ScriptCheck.test_clean_script_passes) ... ok
+test_errors (test_tools.ScriptCheck.test_errors) ... ok
+test_cli_rejects_long_max (test_tools.Shorts.test_cli_rejects_long_max) ... ok
+test_finds_self_contained_spans (test_tools.Shorts.test_finds_self_contained_spans) ... ok
+test_question_section_found (test_tools.Shorts.test_question_section_found) ... ok
+test_unpunctuated_transcript_flagged (test_tools.Shorts.test_unpunctuated_transcript_flagged) ... ok
+test_frontmatter_and_scripts (test_tools.Skills.test_frontmatter_and_scripts) ... ok
+test_find_reports_the_starting_line (test_tools.SourceKit.test_find_reports_the_starting_line) ... ok
+test_sections_skip_the_contents (test_tools.SourceKit.test_sections_skip_the_contents) ... ok
+test_show_a_section_in_a_book (test_tools.SourceKit.test_show_a_section_in_a_book) ... ok
+test_same_label_as_hookscore (test_tools.Swipe.test_same_label_as_hookscore) ... ok
+test_shorts_medianed_apart (test_tools.Swipe.test_shorts_medianed_apart) ... ok
+test_thin_channel_skipped (test_tools.Swipe.test_thin_channel_skipped) ... ok
+test_ytdlp_shape_and_missing_views (test_tools.Swipe.test_ytdlp_shape_and_missing_views) ... ok
+test_arabic (test_tools.Title.test_arabic) ... ok
+test_cli_unicode_json (test_tools.Title.test_cli_unicode_json) ... ok
+test_duplicate_words (test_tools.Title.test_duplicate_words) ... ok
+test_four_word_thumbnail_flagged (test_tools.Title.test_four_word_thumbnail_flagged) ... ok
+test_length_bands (test_tools.Title.test_length_bands) ... ok
+test_three_word_thumbnail_ok (test_tools.Title.test_three_word_thumbnail_ok) ... ok
+
+----------------------------------------------------------------------
+Ran 42 tests in 0.168s
+
+OK
