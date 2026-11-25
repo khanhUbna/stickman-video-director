@@ -1,0 +1,29 @@
+{
+  "source": {
+    "input_i": "-24.54",
+    "input_tp": "-3.27",
+    "input_lra": "3.90",
+    "input_thresh": "-35.32",
+    "output_i": "-17.10",
+    "output_tp": "-2.00",
+    "output_lra": "3.10",
+    "output_thresh": "-27.84",
+    "normalization_type": "dynamic",
+    "target_offset": "1.10"
+  },
+  "master": {
+    "input_i": "-24.54",
+    "input_tp": "-3.27",
+    "input_lra": "3.90",
+    "input_thresh": "-35.32",
+    "output_i": "-16.52",
+    "output_tp": "-2.00",
+    "output_lra": "3.00",
+    "output_thresh": "-27.21",
+    "normalization_type": "dynamic",
+    "target_offset": "0.52"
+  },
+  "sound_events": 24,
+  "music_original": true,
+  "human_auditioned": false
+}

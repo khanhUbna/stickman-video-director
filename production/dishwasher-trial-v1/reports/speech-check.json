@@ -1,0 +1,46 @@
+{
+  "assembled_audio_sha256": "5bf36a8219b4185c6540ab3ee4716c632a3344f517600418c3df64fbf73ea1d4",
+  "local_model": "Whisperbase.en, CPU",
+  "canonical_words": 556,
+  "asr_words": 556,
+  "exact_normalized_word_matches": 550,
+  "exact_match_fraction": 0.9892086330935251,
+  "differences": [
+    {
+      "kind": "replace",
+      "script": "plead?",
+      "asr": "please?"
+    },
+    {
+      "kind": "delete",
+      "script": "The",
+      "asr": ""
+    },
+    {
+      "kind": "insert",
+      "script": "",
+      "asr": "It's"
+    },
+    {
+      "kind": "replace",
+      "script": "starts.",
+      "asr": "start."
+    },
+    {
+      "kind": "replace",
+      "script": "bowls",
+      "asr": "bulls"
+    },
+    {
+      "kind": "replace",
+      "script": "bowl",
+      "asr": "bull"
+    },
+    {
+      "kind": "replace",
+      "script": "bowl.",
+      "asr": "bull,"
+    }
+  ],
+  "scope": "Local ASR content check of assembled multi-role speech, not human listening or pronunciation certification."
+}

@@ -1,0 +1,14 @@
+{
+  "duration": 194.9,
+  "fps": 30,
+  "speech_speed_changed": false,
+  "word_count": 556,
+  "exact_asr_anchors": 553,
+  "voices": {
+    "NARRATOR": "nova",
+    "SAM": "echo",
+    "DISHWASHER": "alloy",
+    "JUDGE": "onyx"
+  },
+  "segmentation": "Word-aligned excerpts from each native role recording, original speech samples/rate retained; brief action gaps between turns."
+}

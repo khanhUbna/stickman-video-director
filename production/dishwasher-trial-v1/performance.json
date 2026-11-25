@@ -1,0 +1,194 @@
+[
+  {
+    "scene": "The complaint",
+    "lines": [
+      {
+        "speaker": "NARRATOR",
+        "text": "Sam has put this bowl through the dishwasher twice. It still looks like dinner is in progress."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You had one job."
+      },
+      {
+        "speaker": "DISHWASHER",
+        "text": "And you gave me an obstacle course."
+      },
+      {
+        "speaker": "JUDGE",
+        "text": "Two charges. Wasting water. Failing to wash. How do you plead?"
+      },
+      {
+        "speaker": "DISHWASHER",
+        "text": "I'd like to question the loader."
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "Sam bought a machine to get out of washing dishes. Now he's doing it before the cycle and after. Tonight, he's demanding a refund."
+      }
+    ]
+  },
+  {
+    "scene": "The first exhibit",
+    "lines": [
+      {
+        "speaker": "NARRATOR",
+        "text": "The dishwasher requests footage from last night. Sam stands at the sink, rinsing a plate. Then another. The faucet keeps running. By the time each plate enters the machine, Sam has practically washed it."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I'm helping."
+      },
+      {
+        "speaker": "DISHWASHER",
+        "text": "You hired a dishwasher and then did its shift."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I thought I had to get the food off first."
+      },
+      {
+        "speaker": "DISHWASHER",
+        "text": "Big scraps, yes. The actual washing was my part. Check my instructions. We have a whole section on this."
+      },
+      {
+        "speaker": "JUDGE",
+        "text": "A document this court suspects has never been opened."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You run for hours. How is that saving water?"
+      }
+    ]
+  },
+  {
+    "scene": "Inside the defendant",
+    "lines": [
+      {
+        "speaker": "DISHWASHER",
+        "text": "Because I'm not a faucet running for hours. Water collects at the bottom. A pump sends it through the spray arms. The water entering those arms is filtered. Hot water, detergent, and moving jets do the cleaning. Later, the dirty water drains away and fresh water rinses the dishes."
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "The court watches a cutaway. This machine doesn't fill to the roof like a bathtub. And rinsing every plate at the sink adds water use before its cycle even starts."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Fine. Then explain the dirty bowl."
+      }
+    ]
+  },
+  {
+    "scene": "The unreachable bowl",
+    "lines": [
+      {
+        "speaker": "NARRATOR",
+        "text": "The rack rolls forward. Two bowls are tucked tightly together. The dirty one is hiding inside the other."
+      },
+      {
+        "speaker": "DISHWASHER",
+        "text": "How was the spray supposed to reach that surface?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I was saving space."
+      },
+      {
+        "speaker": "DISHWASHER",
+        "text": "You also saved that bowl from being washed."
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "Sam separates them. For the first time, the inside of the bowl has an open path toward the spray."
+      }
+    ]
+  },
+  {
+    "scene": "The obstacle course",
+    "lines": [
+      {
+        "speaker": "JUDGE",
+        "text": "And the obstacle course?"
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "With the machine off, Sam gently turns the lower spray arm. It bumps into a long utensil hanging below the rack. Sam moves it. The arm turns freely."
+      },
+      {
+        "speaker": "DISHWASHER",
+        "text": "That thing is supposed to move. You gave it a parking brake."
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "The dishwasher looks ready to collect damages. Then Sam points beneath the rack."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Hold on. What's in your filter?"
+      }
+    ]
+  },
+  {
+    "scene": "The defendant gets inspected",
+    "lines": [
+      {
+        "speaker": "NARRATOR",
+        "text": "Following the manual, Sam removes this model's filter. It has caught food debris from earlier meals."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You were going to mention this when?"
+      },
+      {
+        "speaker": "DISHWASHER",
+        "text": "I... could use a cleaning."
+      },
+      {
+        "speaker": "JUDGE",
+        "text": "Then we'll test the evidence instead of the attitude."
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "Poor loading isn't the only possible problem. This machine also needs care. And if cleaning stays poor after the recommended checks, a real fault may need investigation. A dirty bowl alone doesn't settle that."
+      }
+    ]
+  },
+  {
+    "scene": "A fair test",
+    "lines": [
+      {
+        "speaker": "NARRATOR",
+        "text": "Sam checks the manual, cleans the filter as directed, and locks it back in place. This time, food scraps go in the trash. Ordinary leftovers don't get a full sink wash. Stubborn or starchy messes get the pretreatment the manual calls for."
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "The bowls sit apart, with their insides facing the spray. Nothing obstructs the arms. Sam adds detergent made for dishwashers and chooses the appropriate cycle."
+      },
+      {
+        "speaker": "JUDGE",
+        "text": "Court is in recess. Let the defendant work."
+      }
+    ]
+  },
+  {
+    "scene": "The verdict",
+    "lines": [
+      {
+        "speaker": "NARRATOR",
+        "text": "After the cycle, Sam opens the door. The bowl comes out clean. The judge checks it against the original photo. Same bowl. A very different assignment."
+      },
+      {
+        "speaker": "JUDGE",
+        "text": "For this load, the complaint is dismissed."
+      },
+      {
+        "speaker": "SAM",
+        "text": "So you actually can wash dishes?"
+      },
+      {
+        "speaker": "DISHWASHER",
+        "text": "It's literally my name."
+      }
+    ]
+  }
+]

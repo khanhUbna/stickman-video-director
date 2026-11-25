@@ -1,0 +1,4450 @@
+[
+  {
+    "text": "Sam",
+    "start": 0.0,
+    "end": 0.24,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "has",
+    "start": 0.24,
+    "end": 0.44,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "put",
+    "start": 0.44,
+    "end": 0.7,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "this",
+    "start": 0.7,
+    "end": 0.98,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "bowl",
+    "start": 0.98,
+    "end": 1.2,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "through",
+    "start": 1.2,
+    "end": 1.5,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "the",
+    "start": 1.5,
+    "end": 1.62,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "dishwasher",
+    "start": 1.62,
+    "end": 2.0,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "twice.",
+    "start": 2.0,
+    "end": 2.4,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "It",
+    "start": 3.28,
+    "end": 3.42,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "still",
+    "start": 3.42,
+    "end": 3.7,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "looks",
+    "start": 3.7,
+    "end": 4.04,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "like",
+    "start": 4.04,
+    "end": 4.28,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "dinner",
+    "start": 4.28,
+    "end": 4.52,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "is",
+    "start": 4.52,
+    "end": 4.82,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "in",
+    "start": 4.82,
+    "end": 4.92,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "progress.",
+    "start": 4.92,
+    "end": 5.28,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "You",
+    "start": 5.74,
+    "end": 5.86,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s01-l02"
+  },
+  {
+    "text": "had",
+    "start": 5.86,
+    "end": 6.04,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s01-l02"
+  },
+  {
+    "text": "one",
+    "start": 6.04,
+    "end": 6.300000000000001,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s01-l02"
+  },
+  {
+    "text": "job.",
+    "start": 6.300000000000001,
+    "end": 6.68,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s01-l02"
+  },
+  {
+    "text": "And",
+    "start": 7.14,
+    "end": 7.22,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s01-l03"
+  },
+  {
+    "text": "you",
+    "start": 7.22,
+    "end": 7.319999999999999,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s01-l03"
+  },
+  {
+    "text": "gave",
+    "start": 7.319999999999999,
+    "end": 7.52,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s01-l03"
+  },
+  {
+    "text": "me",
+    "start": 7.52,
+    "end": 7.699999999999999,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s01-l03"
+  },
+  {
+    "text": "an",
+    "start": 7.699999999999999,
+    "end": 7.8,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s01-l03"
+  },
+  {
+    "text": "obstacle",
+    "start": 7.8,
+    "end": 8.08,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s01-l03"
+  },
+  {
+    "text": "course.",
+    "start": 8.08,
+    "end": 8.52,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s01-l03"
+  },
+  {
+    "text": "Two",
+    "start": 9.02,
+    "end": 9.12,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "charges.",
+    "start": 9.12,
+    "end": 9.42,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "Wasting",
+    "start": 9.94,
+    "end": 10.2,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "water.",
+    "start": 10.2,
+    "end": 10.719999999999999,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "Failing",
+    "start": 11.2,
+    "end": 11.5,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "to",
+    "start": 11.5,
+    "end": 11.719999999999999,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "wash.",
+    "start": 11.719999999999999,
+    "end": 11.959999999999999,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "How",
+    "start": 12.559999999999999,
+    "end": 12.6,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "do",
+    "start": 12.6,
+    "end": 12.68,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "you",
+    "start": 12.68,
+    "end": 12.78,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "plead?",
+    "start": 12.78,
+    "end": 13.0,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "I'd",
+    "start": 13.6,
+    "end": 13.72,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s01-l05"
+  },
+  {
+    "text": "like",
+    "start": 13.72,
+    "end": 13.82,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s01-l05"
+  },
+  {
+    "text": "to",
+    "start": 13.82,
+    "end": 13.94,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s01-l05"
+  },
+  {
+    "text": "question",
+    "start": 13.94,
+    "end": 14.18,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s01-l05"
+  },
+  {
+    "text": "the",
+    "start": 14.18,
+    "end": 14.399999999999999,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s01-l05"
+  },
+  {
+    "text": "loader.",
+    "start": 14.399999999999999,
+    "end": 14.579999999999998,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s01-l05"
+  },
+  {
+    "text": "Sam",
+    "start": 15.18,
+    "end": 15.540000000000003,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "bought",
+    "start": 15.540000000000003,
+    "end": 15.780000000000001,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "a",
+    "start": 15.780000000000001,
+    "end": 15.82,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "machine",
+    "start": 15.82,
+    "end": 16.12,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "to",
+    "start": 16.12,
+    "end": 16.32,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "get",
+    "start": 16.32,
+    "end": 16.44,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "out",
+    "start": 16.44,
+    "end": 16.56,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "of",
+    "start": 16.56,
+    "end": 16.66,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "washing",
+    "start": 16.66,
+    "end": 16.82,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "dishes.",
+    "start": 16.82,
+    "end": 17.16,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "Now",
+    "start": 17.76,
+    "end": 17.900000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "he's",
+    "start": 17.900000000000002,
+    "end": 18.24,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "doing",
+    "start": 18.24,
+    "end": 18.400000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "it",
+    "start": 18.400000000000002,
+    "end": 18.599999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "before",
+    "start": 18.599999999999998,
+    "end": 18.84,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "the",
+    "start": 18.84,
+    "end": 19.12,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "cycle",
+    "start": 19.12,
+    "end": 19.5,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "and",
+    "start": 19.5,
+    "end": 19.76,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "after.",
+    "start": 19.76,
+    "end": 20.099999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "Tonight,",
+    "start": 20.599999999999998,
+    "end": 20.900000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "he's",
+    "start": 21.18,
+    "end": 21.32,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "demanding",
+    "start": 21.32,
+    "end": 21.52,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "a",
+    "start": 21.52,
+    "end": 21.84,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "refund.",
+    "start": 21.84,
+    "end": 21.96,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "The",
+    "start": 23.27,
+    "end": 23.350000000000005,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "dishwasher",
+    "start": 23.350000000000005,
+    "end": 23.710000000000004,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "requests",
+    "start": 23.710000000000004,
+    "end": 24.110000000000003,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "footage",
+    "start": 24.110000000000003,
+    "end": 24.55,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "from",
+    "start": 24.55,
+    "end": 24.87,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "last",
+    "start": 24.87,
+    "end": 25.030000000000005,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "night.",
+    "start": 25.030000000000005,
+    "end": 25.37,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "Sam",
+    "start": 25.970000000000002,
+    "end": 26.150000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "stands",
+    "start": 26.150000000000002,
+    "end": 26.430000000000003,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "at",
+    "start": 26.430000000000003,
+    "end": 26.709999999999997,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "the",
+    "start": 26.709999999999997,
+    "end": 26.830000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "sink,",
+    "start": 26.830000000000002,
+    "end": 27.05,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "rinsing",
+    "start": 27.37,
+    "end": 27.650000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "a",
+    "start": 27.650000000000002,
+    "end": 27.750000000000004,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "plate.",
+    "start": 27.750000000000004,
+    "end": 27.930000000000003,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "Then",
+    "start": 28.310000000000006,
+    "end": 28.41,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "another.",
+    "start": 28.41,
+    "end": 28.670000000000005,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "The",
+    "start": 29.290000000000003,
+    "end": 29.37,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "faucet",
+    "start": 29.37,
+    "end": 29.709999999999997,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "keeps",
+    "start": 29.709999999999997,
+    "end": 29.849999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "running.",
+    "start": 29.849999999999998,
+    "end": 30.19,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "By",
+    "start": 30.51,
+    "end": 30.530000000000005,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "the",
+    "start": 30.530000000000005,
+    "end": 30.670000000000005,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "time",
+    "start": 30.670000000000005,
+    "end": 30.87,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "each",
+    "start": 30.87,
+    "end": 31.150000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "plate",
+    "start": 31.150000000000002,
+    "end": 31.470000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "enters",
+    "start": 31.470000000000002,
+    "end": 31.810000000000006,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "the",
+    "start": 31.810000000000006,
+    "end": 32.03,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "machine,",
+    "start": 32.03,
+    "end": 32.269999999999996,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "Sam",
+    "start": 32.67,
+    "end": 32.81,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "has",
+    "start": 32.81,
+    "end": 33.010000000000005,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "practically",
+    "start": 33.010000000000005,
+    "end": 33.33,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "washed",
+    "start": 33.33,
+    "end": 33.730000000000004,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "it.",
+    "start": 33.730000000000004,
+    "end": 34.03,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "I'm",
+    "start": 34.59,
+    "end": 34.790000000000006,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l02"
+  },
+  {
+    "text": "helping.",
+    "start": 34.790000000000006,
+    "end": 34.970000000000006,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l02"
+  },
+  {
+    "text": "You",
+    "start": 35.57,
+    "end": 35.61,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l03"
+  },
+  {
+    "text": "hired",
+    "start": 35.61,
+    "end": 35.830000000000005,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l03"
+  },
+  {
+    "text": "a",
+    "start": 35.830000000000005,
+    "end": 36.01,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l03"
+  },
+  {
+    "text": "dishwasher",
+    "start": 36.01,
+    "end": 36.43,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l03"
+  },
+  {
+    "text": "and",
+    "start": 36.43,
+    "end": 37.01,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l03"
+  },
+  {
+    "text": "then",
+    "start": 37.01,
+    "end": 37.15,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l03"
+  },
+  {
+    "text": "did",
+    "start": 37.15,
+    "end": 37.330000000000005,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l03"
+  },
+  {
+    "text": "its",
+    "start": 37.330000000000005,
+    "end": 37.49,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l03"
+  },
+  {
+    "text": "shift.",
+    "start": 37.49,
+    "end": 37.79,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l03"
+  },
+  {
+    "text": "I",
+    "start": 38.39,
+    "end": 38.41,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l04"
+  },
+  {
+    "text": "thought",
+    "start": 38.41,
+    "end": 38.57,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l04"
+  },
+  {
+    "text": "I",
+    "start": 38.57,
+    "end": 38.71,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l04"
+  },
+  {
+    "text": "had",
+    "start": 38.71,
+    "end": 38.83,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l04"
+  },
+  {
+    "text": "to",
+    "start": 38.83,
+    "end": 38.93,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l04"
+  },
+  {
+    "text": "get",
+    "start": 38.93,
+    "end": 39.03,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l04"
+  },
+  {
+    "text": "the",
+    "start": 39.03,
+    "end": 39.15,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l04"
+  },
+  {
+    "text": "food",
+    "start": 39.15,
+    "end": 39.41,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l04"
+  },
+  {
+    "text": "off",
+    "start": 39.41,
+    "end": 39.61,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l04"
+  },
+  {
+    "text": "first.",
+    "start": 39.61,
+    "end": 39.89,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l04"
+  },
+  {
+    "text": "Big",
+    "start": 40.489999999999995,
+    "end": 40.61,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "scraps,",
+    "start": 40.61,
+    "end": 40.89,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "yes.",
+    "start": 41.45,
+    "end": 41.650000000000006,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "The",
+    "start": 41.650000000000006,
+    "end": 42.03,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "actual",
+    "start": 42.03,
+    "end": 42.25,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "washing",
+    "start": 42.25,
+    "end": 42.59,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "was",
+    "start": 42.59,
+    "end": 42.89,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "my",
+    "start": 42.89,
+    "end": 43.05,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "part.",
+    "start": 43.05,
+    "end": 43.349999999999994,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "Check",
+    "start": 43.629999999999995,
+    "end": 43.790000000000006,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "my",
+    "start": 43.790000000000006,
+    "end": 43.989999999999995,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "instructions.",
+    "start": 43.989999999999995,
+    "end": 44.47,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "We",
+    "start": 45.11,
+    "end": 45.230000000000004,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "have",
+    "start": 45.230000000000004,
+    "end": 45.31,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "a",
+    "start": 45.31,
+    "end": 45.39,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "whole",
+    "start": 45.39,
+    "end": 45.53,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "section",
+    "start": 45.53,
+    "end": 45.83,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "on",
+    "start": 45.83,
+    "end": 46.11,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "this.",
+    "start": 46.11,
+    "end": 46.31,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "A",
+    "start": 46.75,
+    "end": 46.77,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s02-l06"
+  },
+  {
+    "text": "document",
+    "start": 46.77,
+    "end": 47.089999999999996,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s02-l06"
+  },
+  {
+    "text": "this",
+    "start": 47.089999999999996,
+    "end": 47.39,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s02-l06"
+  },
+  {
+    "text": "court",
+    "start": 47.39,
+    "end": 47.63,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s02-l06"
+  },
+  {
+    "text": "suspects",
+    "start": 47.63,
+    "end": 47.949999999999996,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s02-l06"
+  },
+  {
+    "text": "has",
+    "start": 47.949999999999996,
+    "end": 48.37,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s02-l06"
+  },
+  {
+    "text": "never",
+    "start": 48.37,
+    "end": 48.57,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s02-l06"
+  },
+  {
+    "text": "been",
+    "start": 48.57,
+    "end": 48.81,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s02-l06"
+  },
+  {
+    "text": "opened.",
+    "start": 48.81,
+    "end": 49.07,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s02-l06"
+  },
+  {
+    "text": "You",
+    "start": 49.67,
+    "end": 49.69,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l07"
+  },
+  {
+    "text": "run",
+    "start": 49.69,
+    "end": 49.849999999999994,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l07"
+  },
+  {
+    "text": "for",
+    "start": 49.849999999999994,
+    "end": 50.05,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l07"
+  },
+  {
+    "text": "hours.",
+    "start": 50.05,
+    "end": 50.349999999999994,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l07"
+  },
+  {
+    "text": "How",
+    "start": 50.870000000000005,
+    "end": 50.91,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l07"
+  },
+  {
+    "text": "is",
+    "start": 50.91,
+    "end": 51.09,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l07"
+  },
+  {
+    "text": "that",
+    "start": 51.09,
+    "end": 51.209999999999994,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l07"
+  },
+  {
+    "text": "saving",
+    "start": 51.209999999999994,
+    "end": 51.56999999999999,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l07"
+  },
+  {
+    "text": "water?",
+    "start": 51.56999999999999,
+    "end": 51.870000000000005,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s02-l07"
+  },
+  {
+    "text": "Because",
+    "start": 53.08,
+    "end": 53.519999999999996,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "I'm",
+    "start": 53.519999999999996,
+    "end": 53.760000000000005,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "not",
+    "start": 53.760000000000005,
+    "end": 54.0,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "a",
+    "start": 54.0,
+    "end": 54.120000000000005,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "faucet",
+    "start": 54.120000000000005,
+    "end": 54.620000000000005,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "running",
+    "start": 54.620000000000005,
+    "end": 54.86,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "for",
+    "start": 54.86,
+    "end": 55.14,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "hours.",
+    "start": 55.14,
+    "end": 55.44,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "Water",
+    "start": 56.099999999999994,
+    "end": 56.42,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "collects",
+    "start": 56.42,
+    "end": 56.739999999999995,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "at",
+    "start": 56.739999999999995,
+    "end": 57.019999999999996,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "the",
+    "start": 57.019999999999996,
+    "end": 57.08,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "bottom.",
+    "start": 57.08,
+    "end": 57.379999999999995,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "A",
+    "start": 58.120000000000005,
+    "end": 58.14,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "pump",
+    "start": 58.14,
+    "end": 58.32000000000001,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "sends",
+    "start": 58.32000000000001,
+    "end": 58.7,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "it",
+    "start": 58.7,
+    "end": 58.92,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "through",
+    "start": 58.92,
+    "end": 59.08,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "the",
+    "start": 59.08,
+    "end": 59.22,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "spray",
+    "start": 59.22,
+    "end": 59.42,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "arms.",
+    "start": 59.42,
+    "end": 59.739999999999995,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "The",
+    "start": 60.67999999999999,
+    "end": 60.72,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "water",
+    "start": 60.72,
+    "end": 60.980000000000004,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "entering",
+    "start": 60.980000000000004,
+    "end": 61.34,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "those",
+    "start": 61.34,
+    "end": 61.739999999999995,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "arms",
+    "start": 61.739999999999995,
+    "end": 62.14,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "is",
+    "start": 62.14,
+    "end": 62.519999999999996,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "filtered.",
+    "start": 62.519999999999996,
+    "end": 62.78,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "Hot",
+    "start": 63.519999999999996,
+    "end": 63.56,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "water,",
+    "start": 63.56,
+    "end": 63.84,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "detergent,",
+    "start": 64.34,
+    "end": 64.76,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "and",
+    "start": 64.76,
+    "end": 65.06,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "moving",
+    "start": 65.06,
+    "end": 65.32000000000001,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "jets",
+    "start": 65.32000000000001,
+    "end": 65.66,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "do",
+    "start": 65.66,
+    "end": 65.98,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "the",
+    "start": 65.98,
+    "end": 66.08,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "cleaning.",
+    "start": 66.08,
+    "end": 66.36,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "Later,",
+    "start": 67.16,
+    "end": 67.56,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "the",
+    "start": 67.86,
+    "end": 67.98,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "dirty",
+    "start": 67.98,
+    "end": 68.16,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "water",
+    "start": 68.16,
+    "end": 68.5,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "drains",
+    "start": 68.5,
+    "end": 68.76,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "away",
+    "start": 68.76,
+    "end": 69.64,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "and",
+    "start": 69.64,
+    "end": 69.7,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "fresh",
+    "start": 69.7,
+    "end": 69.92,
+    "basis": "interpolated",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "water",
+    "start": 69.92,
+    "end": 70.14,
+    "basis": "interpolated",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "rinses",
+    "start": 70.14,
+    "end": 70.7,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "the",
+    "start": 70.7,
+    "end": 70.86,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "dishes.",
+    "start": 70.86,
+    "end": 71.02,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "The",
+    "start": 71.61999999999999,
+    "end": 71.71999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "court",
+    "start": 71.71999999999998,
+    "end": 71.92,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "watches",
+    "start": 71.92,
+    "end": 72.16,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "a",
+    "start": 72.16,
+    "end": 72.46,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "cutaway.",
+    "start": 72.46,
+    "end": 72.82,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "This",
+    "start": 72.82,
+    "end": 73.67999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "machine",
+    "start": 73.67999999999999,
+    "end": 73.99999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "doesn't",
+    "start": 73.99999999999999,
+    "end": 74.38,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "fill",
+    "start": 74.38,
+    "end": 74.53999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "to",
+    "start": 74.53999999999999,
+    "end": 74.74,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "the",
+    "start": 74.74,
+    "end": 74.83999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "roof",
+    "start": 74.83999999999999,
+    "end": 75.05999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "like",
+    "start": 75.05999999999999,
+    "end": 75.3,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "a",
+    "start": 75.3,
+    "end": 75.44,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "bathtub.",
+    "start": 75.44,
+    "end": 75.92,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "And",
+    "start": 76.39999999999999,
+    "end": 76.52,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "rinsing",
+    "start": 76.52,
+    "end": 76.89999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "every",
+    "start": 76.89999999999999,
+    "end": 77.1,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "plate",
+    "start": 77.1,
+    "end": 77.42,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "at",
+    "start": 77.42,
+    "end": 77.53999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "the",
+    "start": 77.53999999999999,
+    "end": 77.64,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "sink",
+    "start": 77.64,
+    "end": 77.88,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "adds",
+    "start": 77.88,
+    "end": 78.25999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "water",
+    "start": 78.25999999999999,
+    "end": 78.61999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "use",
+    "start": 78.61999999999999,
+    "end": 78.86,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "before",
+    "start": 78.86,
+    "end": 79.2,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "its",
+    "start": 79.2,
+    "end": 79.36,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "cycle",
+    "start": 79.36,
+    "end": 79.71999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "even",
+    "start": 79.71999999999998,
+    "end": 79.99999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "starts.",
+    "start": 79.99999999999999,
+    "end": 80.36,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "Fine.",
+    "start": 80.91999999999999,
+    "end": 81.07999999999998,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s03-l03"
+  },
+  {
+    "text": "Then",
+    "start": 81.52,
+    "end": 81.61999999999999,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s03-l03"
+  },
+  {
+    "text": "explain",
+    "start": 81.61999999999999,
+    "end": 81.93999999999998,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s03-l03"
+  },
+  {
+    "text": "the",
+    "start": 81.93999999999998,
+    "end": 82.21999999999998,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s03-l03"
+  },
+  {
+    "text": "dirty",
+    "start": 82.21999999999998,
+    "end": 82.35999999999999,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s03-l03"
+  },
+  {
+    "text": "bowl.",
+    "start": 82.35999999999999,
+    "end": 82.74,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s03-l03"
+  },
+  {
+    "text": "The",
+    "start": 84.05,
+    "end": 84.17,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "rack",
+    "start": 84.17,
+    "end": 84.35,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "rolls",
+    "start": 84.35,
+    "end": 84.69,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "forward.",
+    "start": 84.69,
+    "end": 85.19,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "Two",
+    "start": 85.67,
+    "end": 85.85,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "bowls",
+    "start": 85.85,
+    "end": 86.07,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "are",
+    "start": 86.07,
+    "end": 86.35,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "tucked",
+    "start": 86.35,
+    "end": 86.47,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "tightly",
+    "start": 86.47,
+    "end": 86.85,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "together.",
+    "start": 86.85,
+    "end": 87.27000000000001,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "The",
+    "start": 87.87,
+    "end": 87.97,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "dirty",
+    "start": 87.97,
+    "end": 88.11,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "one",
+    "start": 88.11,
+    "end": 88.43,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "is",
+    "start": 88.43,
+    "end": 88.63,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "hiding",
+    "start": 88.63,
+    "end": 88.85,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "inside",
+    "start": 88.85,
+    "end": 89.21000000000001,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "the",
+    "start": 89.21000000000001,
+    "end": 89.49000000000001,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "other.",
+    "start": 89.49000000000001,
+    "end": 89.67,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "How",
+    "start": 90.23,
+    "end": 90.28999999999999,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s04-l02"
+  },
+  {
+    "text": "was",
+    "start": 90.28999999999999,
+    "end": 90.41,
+    "basis": "interpolated",
+    "role": "DISHWASHER",
+    "turn": "s04-l02"
+  },
+  {
+    "text": "the",
+    "start": 90.41,
+    "end": 90.55,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s04-l02"
+  },
+  {
+    "text": "spray",
+    "start": 90.55,
+    "end": 90.83,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s04-l02"
+  },
+  {
+    "text": "supposed",
+    "start": 90.83,
+    "end": 91.17,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s04-l02"
+  },
+  {
+    "text": "to",
+    "start": 91.17,
+    "end": 91.51,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s04-l02"
+  },
+  {
+    "text": "reach",
+    "start": 91.51,
+    "end": 91.63,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s04-l02"
+  },
+  {
+    "text": "that",
+    "start": 91.63,
+    "end": 91.89,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s04-l02"
+  },
+  {
+    "text": "surface?",
+    "start": 91.89,
+    "end": 92.30999999999999,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s04-l02"
+  },
+  {
+    "text": "I",
+    "start": 92.91,
+    "end": 92.93,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s04-l03"
+  },
+  {
+    "text": "was",
+    "start": 92.93,
+    "end": 93.01,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s04-l03"
+  },
+  {
+    "text": "saving",
+    "start": 93.01,
+    "end": 93.21000000000001,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s04-l03"
+  },
+  {
+    "text": "space.",
+    "start": 93.21000000000001,
+    "end": 93.55000000000001,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s04-l03"
+  },
+  {
+    "text": "You",
+    "start": 94.15,
+    "end": 94.41,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s04-l04"
+  },
+  {
+    "text": "also",
+    "start": 94.41,
+    "end": 94.57,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s04-l04"
+  },
+  {
+    "text": "saved",
+    "start": 94.57,
+    "end": 94.98999999999998,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s04-l04"
+  },
+  {
+    "text": "that",
+    "start": 94.98999999999998,
+    "end": 95.21000000000001,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s04-l04"
+  },
+  {
+    "text": "bowl",
+    "start": 95.21000000000001,
+    "end": 95.41,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s04-l04"
+  },
+  {
+    "text": "from",
+    "start": 95.41,
+    "end": 95.63,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s04-l04"
+  },
+  {
+    "text": "being",
+    "start": 95.63,
+    "end": 95.78999999999999,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s04-l04"
+  },
+  {
+    "text": "washed.",
+    "start": 95.78999999999999,
+    "end": 96.07,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s04-l04"
+  },
+  {
+    "text": "Sam",
+    "start": 96.67,
+    "end": 96.67,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "separates",
+    "start": 96.67,
+    "end": 97.02999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "them.",
+    "start": 97.02999999999999,
+    "end": 97.51,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "For",
+    "start": 98.24999999999999,
+    "end": 98.39,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "the",
+    "start": 98.39,
+    "end": 98.49,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "first",
+    "start": 98.49,
+    "end": 98.68999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "time,",
+    "start": 98.68999999999998,
+    "end": 99.01,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "the",
+    "start": 99.01,
+    "end": 99.28999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "inside",
+    "start": 99.28999999999998,
+    "end": 99.49,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "of",
+    "start": 99.49,
+    "end": 99.77,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "the",
+    "start": 99.77,
+    "end": 99.89,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "bowl",
+    "start": 99.89,
+    "end": 100.08999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "has",
+    "start": 100.08999999999999,
+    "end": 100.45,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "an",
+    "start": 100.45,
+    "end": 100.57000000000001,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "open",
+    "start": 100.57000000000001,
+    "end": 100.78999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "path",
+    "start": 100.78999999999998,
+    "end": 101.18999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "toward",
+    "start": 101.18999999999998,
+    "end": 101.51,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "the",
+    "start": 101.51,
+    "end": 101.68999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "spray.",
+    "start": 101.68999999999998,
+    "end": 101.95,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "And",
+    "start": 103.01,
+    "end": 103.03,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s05-l01"
+  },
+  {
+    "text": "the",
+    "start": 103.03,
+    "end": 103.13,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s05-l01"
+  },
+  {
+    "text": "obstacle",
+    "start": 103.13,
+    "end": 103.35,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s05-l01"
+  },
+  {
+    "text": "course?",
+    "start": 103.35,
+    "end": 103.87,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s05-l01"
+  },
+  {
+    "text": "With",
+    "start": 104.47,
+    "end": 104.93,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "the",
+    "start": 104.93,
+    "end": 105.05000000000001,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "machine",
+    "start": 105.05000000000001,
+    "end": 105.31,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "off,",
+    "start": 105.31,
+    "end": 105.60999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "Sam",
+    "start": 105.93,
+    "end": 106.09,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "gently",
+    "start": 106.09,
+    "end": 106.49000000000001,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "turns",
+    "start": 106.49000000000001,
+    "end": 106.82999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "the",
+    "start": 106.82999999999998,
+    "end": 107.09,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "lower",
+    "start": 107.09,
+    "end": 107.31,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "spray",
+    "start": 107.31,
+    "end": 107.65,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "arm.",
+    "start": 107.65,
+    "end": 107.94999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "It",
+    "start": 108.43,
+    "end": 108.55000000000001,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "bumps",
+    "start": 108.55000000000001,
+    "end": 108.72999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "into",
+    "start": 108.72999999999999,
+    "end": 109.09,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "a",
+    "start": 109.09,
+    "end": 109.28999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "long",
+    "start": 109.28999999999999,
+    "end": 109.50999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "utensil",
+    "start": 109.50999999999999,
+    "end": 110.13,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "hanging",
+    "start": 110.13,
+    "end": 110.37,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "below",
+    "start": 110.37,
+    "end": 110.69,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "the",
+    "start": 110.69,
+    "end": 110.93,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "rack.",
+    "start": 110.93,
+    "end": 111.09,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "Sam",
+    "start": 111.72999999999999,
+    "end": 111.87,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "moves",
+    "start": 111.87,
+    "end": 112.09,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "it.",
+    "start": 112.09,
+    "end": 112.28999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "The",
+    "start": 112.28999999999999,
+    "end": 112.88999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "arm",
+    "start": 112.88999999999999,
+    "end": 113.10999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "turns",
+    "start": 113.10999999999999,
+    "end": 113.37,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "freely.",
+    "start": 113.37,
+    "end": 113.76999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "That",
+    "start": 114.83,
+    "end": 114.85000000000001,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s05-l03"
+  },
+  {
+    "text": "thing",
+    "start": 114.85000000000001,
+    "end": 115.05,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s05-l03"
+  },
+  {
+    "text": "is",
+    "start": 115.05,
+    "end": 115.17,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s05-l03"
+  },
+  {
+    "text": "supposed",
+    "start": 115.17,
+    "end": 115.37000000000002,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s05-l03"
+  },
+  {
+    "text": "to",
+    "start": 115.37000000000002,
+    "end": 115.61,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s05-l03"
+  },
+  {
+    "text": "move.",
+    "start": 115.61,
+    "end": 115.81000000000002,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s05-l03"
+  },
+  {
+    "text": "You",
+    "start": 116.25000000000001,
+    "end": 116.29,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s05-l03"
+  },
+  {
+    "text": "gave",
+    "start": 116.29,
+    "end": 116.43000000000002,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s05-l03"
+  },
+  {
+    "text": "it",
+    "start": 116.43000000000002,
+    "end": 116.61,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s05-l03"
+  },
+  {
+    "text": "a",
+    "start": 116.61,
+    "end": 116.61,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s05-l03"
+  },
+  {
+    "text": "parking",
+    "start": 116.61,
+    "end": 116.81000000000002,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s05-l03"
+  },
+  {
+    "text": "brake.",
+    "start": 116.81000000000002,
+    "end": 117.21,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s05-l03"
+  },
+  {
+    "text": "The",
+    "start": 117.80999999999997,
+    "end": 117.88999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l04"
+  },
+  {
+    "text": "dishwasher",
+    "start": 117.88999999999999,
+    "end": 118.26999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l04"
+  },
+  {
+    "text": "looks",
+    "start": 118.26999999999998,
+    "end": 118.60999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l04"
+  },
+  {
+    "text": "ready",
+    "start": 118.60999999999999,
+    "end": 118.91,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l04"
+  },
+  {
+    "text": "to",
+    "start": 118.91,
+    "end": 119.04999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l04"
+  },
+  {
+    "text": "collect",
+    "start": 119.04999999999998,
+    "end": 119.28999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l04"
+  },
+  {
+    "text": "damages.",
+    "start": 119.28999999999999,
+    "end": 119.66999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l04"
+  },
+  {
+    "text": "Then",
+    "start": 120.38999999999999,
+    "end": 120.57,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l04"
+  },
+  {
+    "text": "Sam",
+    "start": 120.57,
+    "end": 120.82999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l04"
+  },
+  {
+    "text": "points",
+    "start": 120.82999999999998,
+    "end": 121.13,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l04"
+  },
+  {
+    "text": "beneath",
+    "start": 121.13,
+    "end": 121.53,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l04"
+  },
+  {
+    "text": "the",
+    "start": 121.53,
+    "end": 121.72999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l04"
+  },
+  {
+    "text": "rack.",
+    "start": 121.72999999999999,
+    "end": 121.92999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s05-l04"
+  },
+  {
+    "text": "Hold",
+    "start": 122.49,
+    "end": 122.51,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s05-l05"
+  },
+  {
+    "text": "on.",
+    "start": 122.51,
+    "end": 122.64999999999999,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s05-l05"
+  },
+  {
+    "text": "What's",
+    "start": 122.83,
+    "end": 123.05,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s05-l05"
+  },
+  {
+    "text": "in",
+    "start": 123.05,
+    "end": 123.13000000000001,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s05-l05"
+  },
+  {
+    "text": "your",
+    "start": 123.13000000000001,
+    "end": 123.27,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s05-l05"
+  },
+  {
+    "text": "filter?",
+    "start": 123.27,
+    "end": 123.51,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s05-l05"
+  },
+  {
+    "text": "Following",
+    "start": 124.82000000000001,
+    "end": 125.2,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "the",
+    "start": 125.2,
+    "end": 125.39999999999999,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "manual,",
+    "start": 125.39999999999999,
+    "end": 125.7,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "Sam",
+    "start": 126.06000000000002,
+    "end": 126.3,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "removes",
+    "start": 126.3,
+    "end": 126.60000000000001,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "this",
+    "start": 126.60000000000001,
+    "end": 126.92,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "model's",
+    "start": 126.92,
+    "end": 127.38000000000001,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "filter.",
+    "start": 127.38000000000001,
+    "end": 127.56000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "It",
+    "start": 128.21999999999997,
+    "end": 128.38,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "has",
+    "start": 128.38,
+    "end": 128.5,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "caught",
+    "start": 128.5,
+    "end": 128.74,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "food",
+    "start": 128.74,
+    "end": 129.07999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "debris",
+    "start": 129.07999999999998,
+    "end": 129.38,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "from",
+    "start": 129.38,
+    "end": 129.68,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "earlier",
+    "start": 129.68,
+    "end": 129.88,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "meals.",
+    "start": 129.88,
+    "end": 130.27999999999997,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "You",
+    "start": 130.84000000000003,
+    "end": 130.98000000000002,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s06-l02"
+  },
+  {
+    "text": "were",
+    "start": 130.98000000000002,
+    "end": 131.10000000000002,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s06-l02"
+  },
+  {
+    "text": "going",
+    "start": 131.10000000000002,
+    "end": 131.28000000000003,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s06-l02"
+  },
+  {
+    "text": "to",
+    "start": 131.28000000000003,
+    "end": 131.40000000000003,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s06-l02"
+  },
+  {
+    "text": "mention",
+    "start": 131.40000000000003,
+    "end": 131.64,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s06-l02"
+  },
+  {
+    "text": "this",
+    "start": 131.64,
+    "end": 131.88,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s06-l02"
+  },
+  {
+    "text": "when?",
+    "start": 131.88,
+    "end": 132.10000000000002,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s06-l02"
+  },
+  {
+    "text": "I...",
+    "start": 132.7,
+    "end": 132.92,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s06-l03"
+  },
+  {
+    "text": "could",
+    "start": 132.92,
+    "end": 133.44,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s06-l03"
+  },
+  {
+    "text": "use",
+    "start": 133.44,
+    "end": 133.6,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s06-l03"
+  },
+  {
+    "text": "a",
+    "start": 133.6,
+    "end": 133.72,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s06-l03"
+  },
+  {
+    "text": "cleaning.",
+    "start": 133.72,
+    "end": 133.94,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s06-l03"
+  },
+  {
+    "text": "Then",
+    "start": 134.54,
+    "end": 134.78,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s06-l04"
+  },
+  {
+    "text": "we'll",
+    "start": 134.78,
+    "end": 134.94,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s06-l04"
+  },
+  {
+    "text": "test",
+    "start": 134.94,
+    "end": 135.12,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s06-l04"
+  },
+  {
+    "text": "the",
+    "start": 135.12,
+    "end": 135.34,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s06-l04"
+  },
+  {
+    "text": "evidence",
+    "start": 135.34,
+    "end": 135.62,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s06-l04"
+  },
+  {
+    "text": "instead",
+    "start": 135.62,
+    "end": 135.92000000000002,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s06-l04"
+  },
+  {
+    "text": "of",
+    "start": 135.92000000000002,
+    "end": 136.20000000000002,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s06-l04"
+  },
+  {
+    "text": "the",
+    "start": 136.20000000000002,
+    "end": 136.28,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s06-l04"
+  },
+  {
+    "text": "attitude.",
+    "start": 136.28,
+    "end": 136.64000000000001,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s06-l04"
+  },
+  {
+    "text": "Poor",
+    "start": 137.24,
+    "end": 137.51999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "loading",
+    "start": 137.51999999999998,
+    "end": 137.77999999999997,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "isn't",
+    "start": 137.77999999999997,
+    "end": 138.32,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "the",
+    "start": 138.32,
+    "end": 138.44,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "only",
+    "start": 138.44,
+    "end": 138.68,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "possible",
+    "start": 138.68,
+    "end": 138.92000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "problem.",
+    "start": 138.92000000000002,
+    "end": 139.51999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "This",
+    "start": 139.95999999999998,
+    "end": 140.10000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "machine",
+    "start": 140.10000000000002,
+    "end": 140.42000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "also",
+    "start": 140.42000000000002,
+    "end": 140.71999999999997,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "needs",
+    "start": 140.71999999999997,
+    "end": 141.01999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "care.",
+    "start": 141.01999999999998,
+    "end": 141.33999999999997,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "And",
+    "start": 141.76,
+    "end": 141.95999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "if",
+    "start": 141.95999999999998,
+    "end": 142.06,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "cleaning",
+    "start": 142.06,
+    "end": 142.24,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "stays",
+    "start": 142.24,
+    "end": 142.71999999999997,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "poor",
+    "start": 142.71999999999997,
+    "end": 143.06,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "after",
+    "start": 143.06,
+    "end": 143.39999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "the",
+    "start": 143.39999999999998,
+    "end": 143.60000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "recommended",
+    "start": 143.60000000000002,
+    "end": 144.01999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "checks,",
+    "start": 144.01999999999998,
+    "end": 144.3,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "a",
+    "start": 144.88,
+    "end": 144.95999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "real",
+    "start": 144.95999999999998,
+    "end": 145.12,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "fault",
+    "start": 145.12,
+    "end": 145.33999999999997,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "may",
+    "start": 145.33999999999997,
+    "end": 145.66000000000003,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "need",
+    "start": 145.66000000000003,
+    "end": 145.83999999999997,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "investigation.",
+    "start": 145.83999999999997,
+    "end": 146.14,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "A",
+    "start": 147.18,
+    "end": 147.3,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "dirty",
+    "start": 147.3,
+    "end": 147.45999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "bowl",
+    "start": 147.45999999999998,
+    "end": 147.77999999999997,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "alone",
+    "start": 147.77999999999997,
+    "end": 148.2,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "doesn't",
+    "start": 148.2,
+    "end": 148.83999999999997,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "settle",
+    "start": 148.83999999999997,
+    "end": 149.01999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "that.",
+    "start": 149.01999999999998,
+    "end": 149.32,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "Sam",
+    "start": 150.37,
+    "end": 151.21000000000004,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "checks",
+    "start": 151.21000000000004,
+    "end": 151.49,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "the",
+    "start": 151.49,
+    "end": 151.69,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "manual,",
+    "start": 151.69,
+    "end": 151.95,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "cleans",
+    "start": 152.37,
+    "end": 152.51,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "the",
+    "start": 152.51,
+    "end": 152.76999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "filter",
+    "start": 152.76999999999998,
+    "end": 153.05,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "as",
+    "start": 153.05,
+    "end": 153.29000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "directed,",
+    "start": 153.29000000000002,
+    "end": 153.63,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "and",
+    "start": 154.26999999999998,
+    "end": 154.37,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "locks",
+    "start": 154.37,
+    "end": 154.59000000000003,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "it",
+    "start": 154.59000000000003,
+    "end": 154.81,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "back",
+    "start": 154.81,
+    "end": 154.95,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "in",
+    "start": 154.95,
+    "end": 155.13,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "place.",
+    "start": 155.13,
+    "end": 155.35000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "This",
+    "start": 156.21000000000004,
+    "end": 156.39,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "time,",
+    "start": 156.39,
+    "end": 156.65000000000003,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "food",
+    "start": 157.05,
+    "end": 157.26999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "scraps",
+    "start": 157.26999999999998,
+    "end": 157.49,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "go",
+    "start": 157.49,
+    "end": 157.85000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "in",
+    "start": 157.85000000000002,
+    "end": 157.97000000000003,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "the",
+    "start": 157.97000000000003,
+    "end": 158.05,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "trash.",
+    "start": 158.05,
+    "end": 158.23000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "Ordinary",
+    "start": 159.07,
+    "end": 159.49,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "leftovers",
+    "start": 159.49,
+    "end": 160.07,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "don't",
+    "start": 160.07,
+    "end": 160.45,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "get",
+    "start": 160.45,
+    "end": 160.57,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "a",
+    "start": 160.57,
+    "end": 160.67000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "full",
+    "start": 160.67000000000002,
+    "end": 160.87,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "sink",
+    "start": 160.87,
+    "end": 161.15000000000003,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "wash.",
+    "start": 161.15000000000003,
+    "end": 161.49,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "Stubborn",
+    "start": 162.37,
+    "end": 162.69,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "or",
+    "start": 162.69,
+    "end": 162.89,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "starchy",
+    "start": 162.89,
+    "end": 163.26999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "messes",
+    "start": 163.26999999999998,
+    "end": 163.73000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "get",
+    "start": 163.73000000000002,
+    "end": 163.95,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "the",
+    "start": 163.95,
+    "end": 164.07,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "pretreatment",
+    "start": 164.07,
+    "end": 164.57,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "the",
+    "start": 164.57,
+    "end": 164.82999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "manual",
+    "start": 164.82999999999998,
+    "end": 165.05,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "calls",
+    "start": 165.05,
+    "end": 165.41000000000003,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "for.",
+    "start": 165.41000000000003,
+    "end": 165.75,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "The",
+    "start": 166.31,
+    "end": 166.37,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "bowls",
+    "start": 166.37,
+    "end": 166.57000000000005,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "sit",
+    "start": 166.57000000000005,
+    "end": 166.93,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "apart,",
+    "start": 166.93,
+    "end": 167.21000000000004,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "with",
+    "start": 167.21000000000004,
+    "end": 167.51,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "their",
+    "start": 167.51,
+    "end": 167.69000000000005,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "insides",
+    "start": 167.69000000000005,
+    "end": 168.17000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "facing",
+    "start": 168.17000000000002,
+    "end": 168.51,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "the",
+    "start": 168.51,
+    "end": 168.83000000000004,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "spray.",
+    "start": 168.83000000000004,
+    "end": 169.07000000000005,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "Nothing",
+    "start": 169.93,
+    "end": 169.93,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "obstructs",
+    "start": 169.93,
+    "end": 170.49,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "the",
+    "start": 170.49,
+    "end": 170.57000000000005,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "arms.",
+    "start": 170.57000000000005,
+    "end": 170.77000000000004,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "Sam",
+    "start": 171.85000000000002,
+    "end": 171.85000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "adds",
+    "start": 171.85000000000002,
+    "end": 172.13,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "detergent",
+    "start": 172.13,
+    "end": 172.71000000000004,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "made",
+    "start": 172.71000000000004,
+    "end": 172.87,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "for",
+    "start": 172.87,
+    "end": 173.07000000000005,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "dishwashers",
+    "start": 173.07000000000005,
+    "end": 173.63,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "and",
+    "start": 173.63,
+    "end": 173.83000000000004,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "chooses",
+    "start": 173.83000000000004,
+    "end": 174.07000000000005,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "the",
+    "start": 174.07000000000005,
+    "end": 174.35000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "appropriate",
+    "start": 174.35000000000002,
+    "end": 174.59000000000003,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "cycle.",
+    "start": 174.59000000000003,
+    "end": 175.09000000000003,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "Court",
+    "start": 175.65,
+    "end": 175.81,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s07-l03"
+  },
+  {
+    "text": "is",
+    "start": 175.81,
+    "end": 175.97,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s07-l03"
+  },
+  {
+    "text": "in",
+    "start": 175.97,
+    "end": 176.07000000000002,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s07-l03"
+  },
+  {
+    "text": "recess.",
+    "start": 176.07000000000002,
+    "end": 176.37,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s07-l03"
+  },
+  {
+    "text": "Let",
+    "start": 176.85,
+    "end": 176.97,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s07-l03"
+  },
+  {
+    "text": "the",
+    "start": 176.97,
+    "end": 177.11,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s07-l03"
+  },
+  {
+    "text": "defendant",
+    "start": 177.11,
+    "end": 177.39000000000001,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s07-l03"
+  },
+  {
+    "text": "work.",
+    "start": 177.39000000000001,
+    "end": 177.69,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s07-l03"
+  },
+  {
+    "text": "After",
+    "start": 179.75,
+    "end": 179.96999999999997,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "the",
+    "start": 179.96999999999997,
+    "end": 180.13,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "cycle,",
+    "start": 180.13,
+    "end": 180.34999999999997,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "Sam",
+    "start": 180.58999999999997,
+    "end": 180.70999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "opens",
+    "start": 180.70999999999998,
+    "end": 181.03000000000003,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "the",
+    "start": 181.03000000000003,
+    "end": 181.25,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "door.",
+    "start": 181.25,
+    "end": 181.43,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "The",
+    "start": 181.96999999999997,
+    "end": 182.03000000000003,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "bowl",
+    "start": 182.03000000000003,
+    "end": 182.17000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "comes",
+    "start": 182.17000000000002,
+    "end": 182.43,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "out",
+    "start": 182.43,
+    "end": 182.65000000000003,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "clean.",
+    "start": 182.65000000000003,
+    "end": 182.84999999999997,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "The",
+    "start": 183.65000000000003,
+    "end": 183.76999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "judge",
+    "start": 183.76999999999998,
+    "end": 183.93,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "checks",
+    "start": 183.93,
+    "end": 184.26999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "it",
+    "start": 184.26999999999998,
+    "end": 184.49,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "against",
+    "start": 184.49,
+    "end": 184.67000000000002,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "the",
+    "start": 184.67000000000002,
+    "end": 184.93,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "original",
+    "start": 184.93,
+    "end": 185.05,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "photo.",
+    "start": 185.05,
+    "end": 185.51,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "Same",
+    "start": 186.25,
+    "end": 186.39,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "bowl.",
+    "start": 186.39,
+    "end": 186.63,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "A",
+    "start": 186.93,
+    "end": 187.03000000000003,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "very",
+    "start": 187.03000000000003,
+    "end": 187.26999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "different",
+    "start": 187.26999999999998,
+    "end": 187.58999999999997,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "assignment.",
+    "start": 187.58999999999997,
+    "end": 187.93,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "For",
+    "start": 188.48999999999998,
+    "end": 188.51,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s08-l02"
+  },
+  {
+    "text": "this",
+    "start": 188.51,
+    "end": 188.64999999999998,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s08-l02"
+  },
+  {
+    "text": "load,",
+    "start": 188.64999999999998,
+    "end": 188.89,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s08-l02"
+  },
+  {
+    "text": "the",
+    "start": 189.26999999999998,
+    "end": 189.30999999999997,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s08-l02"
+  },
+  {
+    "text": "complaint",
+    "start": 189.30999999999997,
+    "end": 189.56999999999996,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s08-l02"
+  },
+  {
+    "text": "is",
+    "start": 189.56999999999996,
+    "end": 189.82999999999998,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s08-l02"
+  },
+  {
+    "text": "dismissed.",
+    "start": 189.82999999999998,
+    "end": 189.98999999999998,
+    "basis": "asr",
+    "role": "JUDGE",
+    "turn": "s08-l02"
+  },
+  {
+    "text": "So",
+    "start": 190.59,
+    "end": 190.69,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s08-l03"
+  },
+  {
+    "text": "you",
+    "start": 190.69,
+    "end": 190.79000000000002,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s08-l03"
+  },
+  {
+    "text": "actually",
+    "start": 190.79000000000002,
+    "end": 191.03,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s08-l03"
+  },
+  {
+    "text": "can",
+    "start": 191.03,
+    "end": 191.27,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s08-l03"
+  },
+  {
+    "text": "wash",
+    "start": 191.27,
+    "end": 191.49,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s08-l03"
+  },
+  {
+    "text": "dishes?",
+    "start": 191.49,
+    "end": 191.79000000000002,
+    "basis": "asr",
+    "role": "SAM",
+    "turn": "s08-l03"
+  },
+  {
+    "text": "It's",
+    "start": 192.39,
+    "end": 192.51,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s08-l04"
+  },
+  {
+    "text": "literally",
+    "start": 192.51,
+    "end": 192.84999999999997,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s08-l04"
+  },
+  {
+    "text": "my",
+    "start": 192.84999999999997,
+    "end": 193.14999999999998,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s08-l04"
+  },
+  {
+    "text": "name.",
+    "start": 193.14999999999998,
+    "end": 193.36999999999998,
+    "basis": "asr",
+    "role": "DISHWASHER",
+    "turn": "s08-l04"
+  }
+]

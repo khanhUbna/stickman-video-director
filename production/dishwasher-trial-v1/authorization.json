@@ -1,0 +1,15 @@
+{
+  "authorized": true,
+  "user_reply": "Đồng ý, tối đa 0,20 USD",
+  "purpose": "New dishwasher courtroom film, multi-role OpenAI TTS",
+  "maximum_usd": 0.2,
+  "model": "tts-1-hd",
+  "price_usd_per_million_characters": 30,
+  "automatic_retry": false,
+  "voices": {
+    "NARRATOR": "nova",
+    "SAM": "echo",
+    "DISHWASHER": "alloy",
+    "JUDGE": "onyx"
+  }
+}

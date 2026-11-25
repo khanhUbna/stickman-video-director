@@ -1,0 +1,674 @@
+[
+  {
+    "text": "Sam has put this bowl",
+    "start": 0.0,
+    "end": 1.198,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "through the dishwasher twice.",
+    "start": 1.2,
+    "end": 2.57,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "It still looks like dinner is in progress.",
+    "start": 3.28,
+    "end": 5.45,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "You had one job.",
+    "start": 5.74,
+    "end": 6.85,
+    "role": "SAM"
+  },
+  {
+    "text": "And you gave me an obstacle course.",
+    "start": 7.14,
+    "end": 8.69,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "Two charges.",
+    "start": 9.02,
+    "end": 9.59,
+    "role": "JUDGE"
+  },
+  {
+    "text": "Wasting water.",
+    "start": 9.94,
+    "end": 10.889999999999999,
+    "role": "JUDGE"
+  },
+  {
+    "text": "Failing to wash.",
+    "start": 11.2,
+    "end": 12.129999999999999,
+    "role": "JUDGE"
+  },
+  {
+    "text": "How do you plead?",
+    "start": 12.559999999999999,
+    "end": 13.17,
+    "role": "JUDGE"
+  },
+  {
+    "text": "I'd like to question the loader.",
+    "start": 13.6,
+    "end": 14.749999999999998,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "Sam bought a machine to get",
+    "start": 15.18,
+    "end": 16.438000000000002,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "out of washing dishes.",
+    "start": 16.44,
+    "end": 17.330000000000002,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Now he's doing it",
+    "start": 17.76,
+    "end": 18.598,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "before the cycle and after.",
+    "start": 18.599999999999998,
+    "end": 20.27,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Tonight, he's demanding a refund.",
+    "start": 20.599999999999998,
+    "end": 22.130000000000003,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "The dishwasher requests",
+    "start": 23.27,
+    "end": 24.108000000000004,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "footage from last night.",
+    "start": 24.110000000000003,
+    "end": 25.540000000000003,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Sam stands at the sink, rinsing a plate.",
+    "start": 25.970000000000002,
+    "end": 28.100000000000005,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Then another.",
+    "start": 28.310000000000006,
+    "end": 28.840000000000007,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "The faucet keeps running.",
+    "start": 29.290000000000003,
+    "end": 30.360000000000003,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "By the time each plate enters the machine,",
+    "start": 30.51,
+    "end": 32.44,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Sam has practically washed it.",
+    "start": 32.67,
+    "end": 34.2,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "I'm helping.",
+    "start": 34.59,
+    "end": 35.14000000000001,
+    "role": "SAM"
+  },
+  {
+    "text": "You hired a dishwasher",
+    "start": 35.57,
+    "end": 36.428,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "and then did its shift.",
+    "start": 36.43,
+    "end": 37.96,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "I thought I had to get the food off first.",
+    "start": 38.39,
+    "end": 40.06,
+    "role": "SAM"
+  },
+  {
+    "text": "Big scraps, yes.",
+    "start": 40.489999999999995,
+    "end": 41.648,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "The actual washing was my part.",
+    "start": 41.650000000000006,
+    "end": 43.519999999999996,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "Check my instructions.",
+    "start": 43.629999999999995,
+    "end": 44.64,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "We have a whole section on this.",
+    "start": 45.11,
+    "end": 46.38,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "A document this court suspects",
+    "start": 46.75,
+    "end": 47.94799999999999,
+    "role": "JUDGE"
+  },
+  {
+    "text": "has never been opened.",
+    "start": 47.949999999999996,
+    "end": 49.24,
+    "role": "JUDGE"
+  },
+  {
+    "text": "You run for hours.",
+    "start": 49.67,
+    "end": 50.519999999999996,
+    "role": "SAM"
+  },
+  {
+    "text": "How is that saving water?",
+    "start": 50.870000000000005,
+    "end": 52.040000000000006,
+    "role": "SAM"
+  },
+  {
+    "text": "Because I'm not a faucet running for hours.",
+    "start": 53.08,
+    "end": 55.61,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "Water collects at the bottom.",
+    "start": 56.099999999999994,
+    "end": 57.55,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "A pump sends it through the spray arms.",
+    "start": 58.120000000000005,
+    "end": 59.91,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "The water entering those arms is filtered.",
+    "start": 60.67999999999999,
+    "end": 62.95,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "Hot water, detergent,",
+    "start": 63.519999999999996,
+    "end": 64.75800000000001,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "and moving jets do the cleaning.",
+    "start": 64.76,
+    "end": 66.53,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "Later, the dirty water drains away",
+    "start": 67.16,
+    "end": 69.638,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "and fresh water rinses the dishes.",
+    "start": 69.64,
+    "end": 71.19,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "The court watches a cutaway.",
+    "start": 71.61999999999999,
+    "end": 72.818,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "This machine doesn't fill",
+    "start": 72.82,
+    "end": 74.538,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "to the roof like a bathtub.",
+    "start": 74.53999999999999,
+    "end": 76.09,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "And rinsing every plate at the sink adds",
+    "start": 76.39999999999999,
+    "end": 78.258,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "water use before its cycle even starts.",
+    "start": 78.25999999999999,
+    "end": 80.53,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Fine.",
+    "start": 80.91999999999999,
+    "end": 81.24999999999999,
+    "role": "SAM"
+  },
+  {
+    "text": "Then explain the dirty bowl.",
+    "start": 81.52,
+    "end": 82.91,
+    "role": "SAM"
+  },
+  {
+    "text": "The rack rolls forward.",
+    "start": 84.05,
+    "end": 85.36,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Two bowls are tucked tightly together.",
+    "start": 85.67,
+    "end": 87.44000000000001,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "The dirty one is hiding inside the other.",
+    "start": 87.87,
+    "end": 89.84,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "How was the spray supposed",
+    "start": 90.23,
+    "end": 91.168,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "to reach that surface?",
+    "start": 91.17,
+    "end": 92.47999999999999,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "I was saving space.",
+    "start": 92.91,
+    "end": 93.72000000000001,
+    "role": "SAM"
+  },
+  {
+    "text": "You also saved that bowl from being washed.",
+    "start": 94.15,
+    "end": 96.24,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "Sam separates them.",
+    "start": 96.67,
+    "end": 97.68,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "For the first time, the inside of the bowl",
+    "start": 98.24999999999999,
+    "end": 100.088,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "has an open path toward the spray.",
+    "start": 100.08999999999999,
+    "end": 102.12,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "And the obstacle course?",
+    "start": 103.01,
+    "end": 104.04,
+    "role": "JUDGE"
+  },
+  {
+    "text": "With the machine off, Sam gently",
+    "start": 104.47,
+    "end": 106.48800000000001,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "turns the lower spray arm.",
+    "start": 106.49000000000001,
+    "end": 108.11999999999999,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "It bumps into a long utensil",
+    "start": 108.43,
+    "end": 110.128,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "hanging below the rack.",
+    "start": 110.13,
+    "end": 111.26,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Sam moves it.",
+    "start": 111.72999999999999,
+    "end": 112.288,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "The arm turns freely.",
+    "start": 112.28999999999999,
+    "end": 113.93999999999998,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "That thing is supposed to move.",
+    "start": 114.83,
+    "end": 115.98000000000002,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "You gave it a parking brake.",
+    "start": 116.25000000000001,
+    "end": 117.38,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "The dishwasher looks",
+    "start": 117.80999999999997,
+    "end": 118.60799999999999,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "ready to collect damages.",
+    "start": 118.60999999999999,
+    "end": 119.83999999999999,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Then Sam points beneath the rack.",
+    "start": 120.38999999999999,
+    "end": 122.09999999999998,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Hold on.",
+    "start": 122.49,
+    "end": 122.82,
+    "role": "SAM"
+  },
+  {
+    "text": "What's in your filter?",
+    "start": 122.83,
+    "end": 123.68,
+    "role": "SAM"
+  },
+  {
+    "text": "Following the manual, Sam",
+    "start": 124.82000000000001,
+    "end": 126.298,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "removes this model's filter.",
+    "start": 126.3,
+    "end": 127.73000000000002,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "It has caught food debris",
+    "start": 128.21999999999997,
+    "end": 129.378,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "from earlier meals.",
+    "start": 129.38,
+    "end": 130.44999999999996,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "You were going to mention this when?",
+    "start": 130.84000000000003,
+    "end": 132.27,
+    "role": "SAM"
+  },
+  {
+    "text": "I...",
+    "start": 132.7,
+    "end": 132.91799999999998,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "could use a cleaning.",
+    "start": 132.92,
+    "end": 134.10999999999999,
+    "role": "DISHWASHER"
+  },
+  {
+    "text": "Then we'll test the evidence",
+    "start": 134.54,
+    "end": 135.618,
+    "role": "JUDGE"
+  },
+  {
+    "text": "instead of the attitude.",
+    "start": 135.62,
+    "end": 136.81,
+    "role": "JUDGE"
+  },
+  {
+    "text": "Poor loading isn't",
+    "start": 137.24,
+    "end": 138.31799999999998,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "the only possible problem.",
+    "start": 138.32,
+    "end": 139.68999999999997,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "This machine also needs care.",
+    "start": 139.95999999999998,
+    "end": 141.50999999999996,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "And if cleaning stays poor",
+    "start": 141.76,
+    "end": 143.058,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "after the recommended checks,",
+    "start": 143.06,
+    "end": 144.47,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "a real fault may need investigation.",
+    "start": 144.88,
+    "end": 146.30999999999997,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "A dirty bowl alone doesn't settle that.",
+    "start": 147.18,
+    "end": 149.39,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Sam checks the manual, cleans the filter",
+    "start": 150.37,
+    "end": 153.048,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "as directed, and locks it back in place.",
+    "start": 153.05,
+    "end": 155.52,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "This time, food scraps go in the trash.",
+    "start": 156.21000000000004,
+    "end": 158.4,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Ordinary leftovers don't",
+    "start": 159.07,
+    "end": 160.44799999999998,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "get a full sink wash.",
+    "start": 160.45,
+    "end": 161.66,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Stubborn or starchy messes get",
+    "start": 162.37,
+    "end": 163.94799999999998,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "the pretreatment the manual calls for.",
+    "start": 163.95,
+    "end": 165.92,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "The bowls sit apart,",
+    "start": 166.31,
+    "end": 167.20800000000003,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "with their insides facing the spray.",
+    "start": 167.21000000000004,
+    "end": 169.24000000000004,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Nothing obstructs the arms.",
+    "start": 169.93,
+    "end": 170.94000000000003,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Sam adds detergent made for dishwashers",
+    "start": 171.85000000000002,
+    "end": 173.628,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "and chooses the appropriate cycle.",
+    "start": 173.63,
+    "end": 175.26000000000002,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Court is in recess.",
+    "start": 175.65,
+    "end": 176.54,
+    "role": "JUDGE"
+  },
+  {
+    "text": "Let the defendant work.",
+    "start": 176.85,
+    "end": 177.85999999999999,
+    "role": "JUDGE"
+  },
+  {
+    "text": "After the cycle, Sam opens the door.",
+    "start": 179.75,
+    "end": 181.6,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "The bowl comes out clean.",
+    "start": 181.96999999999997,
+    "end": 183.01999999999995,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "The judge checks it",
+    "start": 183.65000000000003,
+    "end": 184.488,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "against the original photo.",
+    "start": 184.49,
+    "end": 185.67999999999998,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Same bowl.",
+    "start": 186.25,
+    "end": 186.79999999999998,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "A very different assignment.",
+    "start": 186.93,
+    "end": 188.1,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "For this load, the complaint is dismissed.",
+    "start": 188.48999999999998,
+    "end": 190.15999999999997,
+    "role": "JUDGE"
+  },
+  {
+    "text": "So you actually can wash dishes?",
+    "start": 190.59,
+    "end": 191.96,
+    "role": "SAM"
+  },
+  {
+    "text": "It's literally my name.",
+    "start": 192.39,
+    "end": 193.53999999999996,
+    "role": "DISHWASHER"
+  }
+]

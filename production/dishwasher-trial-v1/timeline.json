@@ -1,0 +1,893 @@
+{
+  "duration": 194.9,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "shots": [
+    {
+      "id": "s01-l01-01",
+      "turn": 0,
+      "scene": 0,
+      "mode": "bowl",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 0.0,
+      "end": 2.87,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s01-l01-02",
+      "turn": 0,
+      "scene": 0,
+      "mode": "bowl",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 2.87,
+      "end": 5.74,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s01-l02-01",
+      "turn": 1,
+      "scene": 0,
+      "mode": "court",
+      "camera": [
+        2.05,
+        255,
+        255
+      ],
+      "start": 5.74,
+      "end": 7.14,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s01-l03-01",
+      "turn": 2,
+      "scene": 0,
+      "mode": "court",
+      "camera": [
+        1.95,
+        540,
+        235
+      ],
+      "start": 7.14,
+      "end": 9.02,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s01-l04-01",
+      "turn": 3,
+      "scene": 0,
+      "mode": "judge",
+      "camera": [
+        1.9,
+        735,
+        255
+      ],
+      "start": 9.02,
+      "end": 13.5,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s01-l05-01",
+      "turn": 4,
+      "scene": 0,
+      "mode": "court",
+      "camera": [
+        1.6,
+        540,
+        220
+      ],
+      "start": 13.5,
+      "end": 15.08,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s01-l06-01",
+      "turn": 5,
+      "scene": 0,
+      "mode": "court",
+      "camera": [
+        1.58,
+        220,
+        220
+      ],
+      "start": 15.08,
+      "end": 19.125,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s01-l06-02",
+      "turn": 5,
+      "scene": 0,
+      "mode": "court",
+      "camera": [
+        1.58,
+        220,
+        220
+      ],
+      "start": 19.125,
+      "end": 23.17,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s02-l01-01",
+      "turn": 6,
+      "scene": 1,
+      "mode": "sink",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 23.17,
+      "end": 26.943333333333335,
+      "part": 0,
+      "parts": 3
+    },
+    {
+      "id": "s02-l01-02",
+      "turn": 6,
+      "scene": 1,
+      "mode": "sink",
+      "camera": [
+        1.5,
+        210,
+        230
+      ],
+      "start": 26.943333333333335,
+      "end": 30.71666666666667,
+      "part": 1,
+      "parts": 3
+    },
+    {
+      "id": "s02-l01-03",
+      "turn": 6,
+      "scene": 1,
+      "mode": "sink",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 30.71666666666667,
+      "end": 34.49,
+      "part": 2,
+      "parts": 3
+    },
+    {
+      "id": "s02-l02-01",
+      "turn": 7,
+      "scene": 1,
+      "mode": "sink",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 34.49,
+      "end": 35.47,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s02-l03-01",
+      "turn": 8,
+      "scene": 1,
+      "mode": "court",
+      "camera": [
+        1.6,
+        540,
+        220
+      ],
+      "start": 35.47,
+      "end": 38.29,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s02-l04-01",
+      "turn": 9,
+      "scene": 1,
+      "mode": "manual",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 38.29,
+      "end": 40.39,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s02-l05-01",
+      "turn": 10,
+      "scene": 1,
+      "mode": "manual",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 40.39,
+      "end": 43.519999999999996,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s02-l05-02",
+      "turn": 10,
+      "scene": 1,
+      "mode": "manual",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 43.519999999999996,
+      "end": 46.65,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s02-l06-01",
+      "turn": 11,
+      "scene": 1,
+      "mode": "judge",
+      "camera": [
+        1.9,
+        735,
+        255
+      ],
+      "start": 46.65,
+      "end": 49.57,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s02-l07-01",
+      "turn": 12,
+      "scene": 1,
+      "mode": "court",
+      "camera": [
+        1.58,
+        220,
+        220
+      ],
+      "start": 49.57,
+      "end": 53.08,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s03-l01-01",
+      "turn": 13,
+      "scene": 2,
+      "mode": "water",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 53.08,
+      "end": 57.69,
+      "part": 0,
+      "parts": 4
+    },
+    {
+      "id": "s03-l01-02",
+      "turn": 13,
+      "scene": 2,
+      "mode": "water",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 57.69,
+      "end": 62.3,
+      "part": 1,
+      "parts": 4
+    },
+    {
+      "id": "s03-l01-03",
+      "turn": 13,
+      "scene": 2,
+      "mode": "water",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 62.3,
+      "end": 66.91,
+      "part": 2,
+      "parts": 4
+    },
+    {
+      "id": "s03-l01-04",
+      "turn": 13,
+      "scene": 2,
+      "mode": "water",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 66.91,
+      "end": 71.52,
+      "part": 3,
+      "parts": 4
+    },
+    {
+      "id": "s03-l02-01",
+      "turn": 14,
+      "scene": 2,
+      "mode": "water",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 71.52,
+      "end": 76.16999999999999,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s03-l02-02",
+      "turn": 14,
+      "scene": 2,
+      "mode": "sink",
+      "camera": [
+        1.5,
+        210,
+        230
+      ],
+      "start": 76.16999999999999,
+      "end": 80.82,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s03-l03-01",
+      "turn": 15,
+      "scene": 2,
+      "mode": "court",
+      "camera": [
+        1.58,
+        220,
+        220
+      ],
+      "start": 80.82,
+      "end": 83.95,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s04-l01-01",
+      "turn": 16,
+      "scene": 3,
+      "mode": "load",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 83.95,
+      "end": 87.03999999999999,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s04-l01-02",
+      "turn": 16,
+      "scene": 3,
+      "mode": "load",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 87.03999999999999,
+      "end": 90.13,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s04-l02-01",
+      "turn": 17,
+      "scene": 3,
+      "mode": "nest",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 90.13,
+      "end": 92.81,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s04-l03-01",
+      "turn": 18,
+      "scene": 3,
+      "mode": "court",
+      "camera": [
+        1.58,
+        220,
+        220
+      ],
+      "start": 92.81,
+      "end": 94.05,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s04-l04-01",
+      "turn": 19,
+      "scene": 3,
+      "mode": "nest",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 94.05,
+      "end": 96.57,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s04-l05-01",
+      "turn": 20,
+      "scene": 3,
+      "mode": "nest",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 96.57,
+      "end": 99.74,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s04-l05-02",
+      "turn": 20,
+      "scene": 3,
+      "mode": "nest",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 99.74,
+      "end": 102.91,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s05-l01-01",
+      "turn": 21,
+      "scene": 4,
+      "mode": "judge",
+      "camera": [
+        1.9,
+        735,
+        255
+      ],
+      "start": 102.91,
+      "end": 104.37,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s05-l02-01",
+      "turn": 22,
+      "scene": 4,
+      "mode": "arm",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 104.37,
+      "end": 107.82333333333334,
+      "part": 0,
+      "parts": 3
+    },
+    {
+      "id": "s05-l02-02",
+      "turn": 22,
+      "scene": 4,
+      "mode": "arm",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 107.82333333333334,
+      "end": 111.27666666666667,
+      "part": 1,
+      "parts": 3
+    },
+    {
+      "id": "s05-l02-03",
+      "turn": 22,
+      "scene": 4,
+      "mode": "arm",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 111.27666666666667,
+      "end": 114.73,
+      "part": 2,
+      "parts": 3
+    },
+    {
+      "id": "s05-l03-01",
+      "turn": 23,
+      "scene": 4,
+      "mode": "arm",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 114.73,
+      "end": 117.71,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s05-l04-01",
+      "turn": 24,
+      "scene": 4,
+      "mode": "court",
+      "camera": [
+        1.58,
+        220,
+        220
+      ],
+      "start": 117.71,
+      "end": 122.39,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s05-l05-01",
+      "turn": 25,
+      "scene": 4,
+      "mode": "filter",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 122.39,
+      "end": 124.72,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s06-l01-01",
+      "turn": 26,
+      "scene": 5,
+      "mode": "filter",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 124.72,
+      "end": 127.73,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s06-l01-02",
+      "turn": 26,
+      "scene": 5,
+      "mode": "filter",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 127.73,
+      "end": 130.74,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s06-l02-01",
+      "turn": 27,
+      "scene": 5,
+      "mode": "court",
+      "camera": [
+        1.58,
+        220,
+        220
+      ],
+      "start": 130.74,
+      "end": 132.6,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s06-l03-01",
+      "turn": 28,
+      "scene": 5,
+      "mode": "court",
+      "camera": [
+        1.6,
+        540,
+        220
+      ],
+      "start": 132.6,
+      "end": 134.44,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s06-l04-01",
+      "turn": 29,
+      "scene": 5,
+      "mode": "judge",
+      "camera": [
+        1.9,
+        735,
+        255
+      ],
+      "start": 134.44,
+      "end": 137.14,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s06-l05-01",
+      "turn": 30,
+      "scene": 5,
+      "mode": "manual",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 137.14,
+      "end": 141.54999999999998,
+      "part": 0,
+      "parts": 3
+    },
+    {
+      "id": "s06-l05-02",
+      "turn": 30,
+      "scene": 5,
+      "mode": "court",
+      "camera": [
+        1.58,
+        220,
+        220
+      ],
+      "start": 141.54999999999998,
+      "end": 145.96,
+      "part": 1,
+      "parts": 3
+    },
+    {
+      "id": "s06-l05-03",
+      "turn": 30,
+      "scene": 5,
+      "mode": "manual",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 145.96,
+      "end": 150.37,
+      "part": 2,
+      "parts": 3
+    },
+    {
+      "id": "s07-l01-01",
+      "turn": 31,
+      "scene": 6,
+      "mode": "care",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 150.37,
+      "end": 154.33,
+      "part": 0,
+      "parts": 4
+    },
+    {
+      "id": "s07-l01-02",
+      "turn": 31,
+      "scene": 6,
+      "mode": "filter",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 154.33,
+      "end": 158.29000000000002,
+      "part": 1,
+      "parts": 4
+    },
+    {
+      "id": "s07-l01-03",
+      "turn": 31,
+      "scene": 6,
+      "mode": "load",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 158.29000000000002,
+      "end": 162.25,
+      "part": 2,
+      "parts": 4
+    },
+    {
+      "id": "s07-l01-04",
+      "turn": 31,
+      "scene": 6,
+      "mode": "manual",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 162.25,
+      "end": 166.21,
+      "part": 3,
+      "parts": 4
+    },
+    {
+      "id": "s07-l02-01",
+      "turn": 32,
+      "scene": 6,
+      "mode": "arrange",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 166.21,
+      "end": 170.88,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s07-l02-02",
+      "turn": 32,
+      "scene": 6,
+      "mode": "arrange",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 170.88,
+      "end": 175.55,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s07-l03-01",
+      "turn": 33,
+      "scene": 6,
+      "mode": "judge",
+      "camera": [
+        1.9,
+        735,
+        255
+      ],
+      "start": 175.55,
+      "end": 179.65,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s08-l01-01",
+      "turn": 34,
+      "scene": 7,
+      "mode": "verdict",
+      "camera": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "start": 179.65,
+      "end": 184.01999999999998,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s08-l01-02",
+      "turn": 34,
+      "scene": 7,
+      "mode": "verdict",
+      "camera": [
+        1.5,
+        210,
+        220
+      ],
+      "start": 184.01999999999998,
+      "end": 188.39,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s08-l02-01",
+      "turn": 35,
+      "scene": 7,
+      "mode": "judge",
+      "camera": [
+        1.9,
+        735,
+        255
+      ],
+      "start": 188.39,
+      "end": 190.49,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s08-l03-01",
+      "turn": 36,
+      "scene": 7,
+      "mode": "court",
+      "camera": [
+        1.58,
+        220,
+        220
+      ],
+      "start": 190.49,
+      "end": 192.29,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s08-l04-01",
+      "turn": 37,
+      "scene": 7,
+      "mode": "court",
+      "camera": [
+        1.6,
+        540,
+        220
+      ],
+      "start": 192.29,
+      "end": 194.9,
+      "part": 0,
+      "parts": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "role": "NARRATOR",
+    "voice": "nova",
+    "model": "tts-1-hd",
+    "characters": 1900,
+    "estimated_usd": 0.057,
+    "state": "saved",
+    "invoice_accessed": false,
+    "sha256": "d989f7dea6ca593cea7aeebc5ba263145198de15dff71a466db0e81bfe0f0c28"
+  },
+  {
+    "role": "SAM",
+    "voice": "echo",
+    "model": "tts-1-hd",
+    "characters": 282,
+    "estimated_usd": 0.00846,
+    "state": "saved",
+    "invoice_accessed": false,
+    "sha256": "c010e539885449471d4e63c7ffeceb95a8a5df01121170913ca148523511c41d"
+  },
+  {
+    "role": "DISHWASHER",
+    "voice": "alloy",
+    "model": "tts-1-hd",
+    "characters": 717,
+    "estimated_usd": 0.02151,
+    "state": "saved",
+    "invoice_accessed": false,
+    "sha256": "6f4104b0dc99b49df56b9f82acb998bdef2093aaeb2cdfca6686352ddd5255b1"
+  },
+  {
+    "role": "JUDGE",
+    "voice": "onyx",
+    "model": "tts-1-hd",
+    "characters": 287,
+    "estimated_usd": 0.00861,
+    "state": "saved",
+    "invoice_accessed": false,
+    "sha256": "0a4c7044074a0ec96357291e8a593ab8c4d76b85974143f625d119df85d8dbd7"
+  }
+]

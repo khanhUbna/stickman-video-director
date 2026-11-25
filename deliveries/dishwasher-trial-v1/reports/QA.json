@@ -1,0 +1,433 @@
+{
+  "ok": true,
+  "sha256": "87b17b51b1bedf1e9d619abeddca1b1b6f9fa06d677d1cf908e5c61ea7b6808b",
+  "bytes": 10425975,
+  "duration": 194.9,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": "30/1",
+  "frames": 5847,
+  "audio_codec": "aac",
+  "audio_sample_rate": "48000",
+  "integrated_lufs": -16.51,
+  "true_peak_dbtp": -1.88,
+  "decode_errors": "",
+  "native_artwork": true,
+  "shots": 59,
+  "caption_cues": 112,
+  "words": 556,
+  "script_sha256": "075b9af97411f920aa8eb6dbbccd3083b46ae36ddb61e9564c155d53fdf3ae29",
+  "reference_comparisons": [
+    {
+      "shot": "s01-l01-01",
+      "rgb_mean_absolute_error": 1.2328996270576131
+    },
+    {
+      "shot": "s02-l01-02",
+      "rgb_mean_absolute_error": 1.0871061599794238
+    },
+    {
+      "shot": "s03-l01-01",
+      "rgb_mean_absolute_error": 1.2246490805041153
+    },
+    {
+      "shot": "s04-l02-01",
+      "rgb_mean_absolute_error": 0.9716978523662552
+    },
+    {
+      "shot": "s05-l03-01",
+      "rgb_mean_absolute_error": 0.6423236561213992
+    },
+    {
+      "shot": "s06-l05-02",
+      "rgb_mean_absolute_error": 1.108681037808642
+    },
+    {
+      "shot": "s07-l02-01",
+      "rgb_mean_absolute_error": 1.081119630915638
+    },
+    {
+      "shot": "s07-l02-02",
+      "rgb_mean_absolute_error": 1.0751364776234569
+    },
+    {
+      "shot": "s08-l01-01",
+      "rgb_mean_absolute_error": 1.234760480967078
+    }
+  ],
+  "decoded_shots": [
+    {
+      "shot": "s01-l01-01",
+      "mode": "bowl",
+      "time": 1.8,
+      "file": "01-bowl.jpg"
+    },
+    {
+      "shot": "s01-l01-02",
+      "mode": "bowl",
+      "time": 4.666666666666667,
+      "file": "02-bowl.jpg"
+    },
+    {
+      "shot": "s01-l02-01",
+      "mode": "court",
+      "time": 6.633333333333334,
+      "file": "03-court.jpg"
+    },
+    {
+      "shot": "s01-l03-01",
+      "mode": "court",
+      "time": 8.333333333333334,
+      "file": "04-court.jpg"
+    },
+    {
+      "shot": "s01-l04-01",
+      "mode": "judge",
+      "time": 11.833333333333334,
+      "file": "05-judge.jpg"
+    },
+    {
+      "shot": "s01-l05-01",
+      "mode": "court",
+      "time": 14.5,
+      "file": "06-court.jpg"
+    },
+    {
+      "shot": "s01-l06-01",
+      "mode": "court",
+      "time": 17.633333333333333,
+      "file": "07-court.jpg"
+    },
+    {
+      "shot": "s01-l06-02",
+      "mode": "court",
+      "time": 21.666666666666668,
+      "file": "08-court.jpg"
+    },
+    {
+      "shot": "s02-l01-01",
+      "mode": "sink",
+      "time": 25.533333333333335,
+      "file": "09-sink.jpg"
+    },
+    {
+      "shot": "s02-l01-02",
+      "mode": "sink",
+      "time": 29.333333333333332,
+      "file": "10-sink.jpg"
+    },
+    {
+      "shot": "s02-l01-03",
+      "mode": "sink",
+      "time": 33.1,
+      "file": "11-sink.jpg"
+    },
+    {
+      "shot": "s02-l02-01",
+      "mode": "sink",
+      "time": 35.1,
+      "file": "12-sink.jpg"
+    },
+    {
+      "shot": "s02-l03-01",
+      "mode": "court",
+      "time": 37.233333333333334,
+      "file": "13-court.jpg"
+    },
+    {
+      "shot": "s02-l04-01",
+      "mode": "manual",
+      "time": 39.6,
+      "file": "14-manual.jpg"
+    },
+    {
+      "shot": "s02-l05-01",
+      "mode": "manual",
+      "time": 42.36666666666667,
+      "file": "15-manual.jpg"
+    },
+    {
+      "shot": "s02-l05-02",
+      "mode": "manual",
+      "time": 45.5,
+      "file": "16-manual.jpg"
+    },
+    {
+      "shot": "s02-l06-01",
+      "mode": "judge",
+      "time": 48.5,
+      "file": "17-judge.jpg"
+    },
+    {
+      "shot": "s02-l07-01",
+      "mode": "court",
+      "time": 51.766666666666666,
+      "file": "18-court.jpg"
+    },
+    {
+      "shot": "s03-l01-01",
+      "mode": "water",
+      "time": 56.0,
+      "file": "19-water.jpg"
+    },
+    {
+      "shot": "s03-l01-02",
+      "mode": "water",
+      "time": 60.6,
+      "file": "20-water.jpg"
+    },
+    {
+      "shot": "s03-l01-03",
+      "mode": "water",
+      "time": 65.2,
+      "file": "21-water.jpg"
+    },
+    {
+      "shot": "s03-l01-04",
+      "mode": "water",
+      "time": 69.8,
+      "file": "22-water.jpg"
+    },
+    {
+      "shot": "s03-l02-01",
+      "mode": "water",
+      "time": 74.43333333333334,
+      "file": "23-water.jpg"
+    },
+    {
+      "shot": "s03-l02-02",
+      "mode": "sink",
+      "time": 79.1,
+      "file": "24-sink.jpg"
+    },
+    {
+      "shot": "s03-l03-01",
+      "mode": "court",
+      "time": 82.8,
+      "file": "25-court.jpg"
+    },
+    {
+      "shot": "s04-l01-01",
+      "mode": "load",
+      "time": 85.9,
+      "file": "26-load.jpg"
+    },
+    {
+      "shot": "s04-l01-02",
+      "mode": "load",
+      "time": 89.0,
+      "file": "27-load.jpg"
+    },
+    {
+      "shot": "s04-l02-01",
+      "mode": "nest",
+      "time": 91.83333333333333,
+      "file": "28-nest.jpg"
+    },
+    {
+      "shot": "s04-l03-01",
+      "mode": "court",
+      "time": 93.6,
+      "file": "29-court.jpg"
+    },
+    {
+      "shot": "s04-l04-01",
+      "mode": "nest",
+      "time": 95.63333333333334,
+      "file": "30-nest.jpg"
+    },
+    {
+      "shot": "s04-l05-01",
+      "mode": "nest",
+      "time": 98.56666666666666,
+      "file": "31-nest.jpg"
+    },
+    {
+      "shot": "s04-l05-02",
+      "mode": "nest",
+      "time": 101.73333333333333,
+      "file": "32-nest.jpg"
+    },
+    {
+      "shot": "s05-l01-01",
+      "mode": "judge",
+      "time": 103.83333333333333,
+      "file": "33-judge.jpg"
+    },
+    {
+      "shot": "s05-l02-01",
+      "mode": "arm",
+      "time": 106.53333333333333,
+      "file": "34-arm.jpg"
+    },
+    {
+      "shot": "s05-l02-02",
+      "mode": "arm",
+      "time": 110.0,
+      "file": "35-arm.jpg"
+    },
+    {
+      "shot": "s05-l02-03",
+      "mode": "arm",
+      "time": 113.46666666666667,
+      "file": "36-arm.jpg"
+    },
+    {
+      "shot": "s05-l03-01",
+      "mode": "arm",
+      "time": 116.6,
+      "file": "37-arm.jpg"
+    },
+    {
+      "shot": "s05-l04-01",
+      "mode": "court",
+      "time": 120.66666666666667,
+      "file": "38-court.jpg"
+    },
+    {
+      "shot": "s05-l05-01",
+      "mode": "filter",
+      "time": 123.86666666666666,
+      "file": "39-filter.jpg"
+    },
+    {
+      "shot": "s06-l01-01",
+      "mode": "filter",
+      "time": 126.6,
+      "file": "40-filter.jpg"
+    },
+    {
+      "shot": "s06-l01-02",
+      "mode": "filter",
+      "time": 129.63333333333333,
+      "file": "41-filter.jpg"
+    },
+    {
+      "shot": "s06-l02-01",
+      "mode": "court",
+      "time": 131.9,
+      "file": "42-court.jpg"
+    },
+    {
+      "shot": "s06-l03-01",
+      "mode": "court",
+      "time": 133.76666666666668,
+      "file": "43-court.jpg"
+    },
+    {
+      "shot": "s06-l04-01",
+      "mode": "judge",
+      "time": 136.13333333333333,
+      "file": "44-judge.jpg"
+    },
+    {
+      "shot": "s06-l05-01",
+      "mode": "manual",
+      "time": 139.93333333333334,
+      "file": "45-manual.jpg"
+    },
+    {
+      "shot": "s06-l05-02",
+      "mode": "court",
+      "time": 144.33333333333334,
+      "file": "46-court.jpg"
+    },
+    {
+      "shot": "s06-l05-03",
+      "mode": "manual",
+      "time": 148.73333333333332,
+      "file": "47-manual.jpg"
+    },
+    {
+      "shot": "s07-l01-01",
+      "mode": "care",
+      "time": 152.86666666666667,
+      "file": "48-care.jpg"
+    },
+    {
+      "shot": "s07-l01-02",
+      "mode": "filter",
+      "time": 156.83333333333334,
+      "file": "49-filter.jpg"
+    },
+    {
+      "shot": "s07-l01-03",
+      "mode": "load",
+      "time": 160.8,
+      "file": "50-load.jpg"
+    },
+    {
+      "shot": "s07-l01-04",
+      "mode": "manual",
+      "time": 164.73333333333332,
+      "file": "51-manual.jpg"
+    },
+    {
+      "shot": "s07-l02-01",
+      "mode": "arrange",
+      "time": 169.16666666666666,
+      "file": "52-arrange.jpg"
+    },
+    {
+      "shot": "s07-l02-02",
+      "mode": "arrange",
+      "time": 173.83333333333334,
+      "file": "53-arrange.jpg"
+    },
+    {
+      "shot": "s07-l03-01",
+      "mode": "judge",
+      "time": 178.13333333333333,
+      "file": "54-judge.jpg"
+    },
+    {
+      "shot": "s08-l01-01",
+      "mode": "verdict",
+      "time": 182.4,
+      "file": "55-verdict.jpg"
+    },
+    {
+      "shot": "s08-l01-02",
+      "mode": "verdict",
+      "time": 186.76666666666668,
+      "file": "56-verdict.jpg"
+    },
+    {
+      "shot": "s08-l02-01",
+      "mode": "judge",
+      "time": 189.7,
+      "file": "57-judge.jpg"
+    },
+    {
+      "shot": "s08-l03-01",
+      "mode": "court",
+      "time": 191.63333333333333,
+      "file": "58-court.jpg"
+    },
+    {
+      "shot": "s08-l04-01",
+      "mode": "court",
+      "time": 193.93333333333334,
+      "file": "59-court.jpg"
+    }
+  ],
+  "source_fingerprint": "47d78dad35a3354f2a20e17c97f6d1b3f57bb54f39a587c083d9bd135648e6dc",
+  "tts_requests": 4,
+  "voices": {
+    "NARRATOR": "nova",
+    "SAM": "echo",
+    "DISHWASHER": "alloy",
+    "JUDGE": "onyx"
+  },
+  "estimated_voice_usd": 0.09558,
+  "budget_usd": 0.2,
+  "invoice_accessed": false,
+  "other_paid_calls": 0,
+  "speech_speed_changed": false,
+  "visual_review": "Primary inspected all59 decoded shot samples. Independent decoded-stills/code review covered original scenes plus targeted final repairs; two P1 repaired, no new P0/P1 in changed scope. No claim of human audition or every-frame visual acceptance.",
+  "audio_review": "Measured, not human-auditioned",
+  "style_scope": "Original channel-specific2D cartoon; no exact B2/B6 sample-equivalence claim",
+  "youtube_published": false
+}
