@@ -1,0 +1,658 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.65,
+    "text": "Sam đã cho chiếc bát này vào máy rửa hai lần.",
+    "source_text": "Sam has put this bowl through the dishwasher twice.",
+    "turn": "s01-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 3.28,
+    "end": 5.5200000000000005,
+    "text": "Trông nó vẫn như bữa tối chưa kết thúc.",
+    "source_text": "It still looks like dinner is in progress.",
+    "turn": "s01-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 5.74,
+    "end": 6.88,
+    "text": "Anh chỉ có mỗi một việc thôi mà.",
+    "source_text": "You had one job.",
+    "turn": "s01-l02",
+    "role": "SAM"
+  },
+  {
+    "start": 7.14,
+    "end": 7.840483870967742,
+    "text": "Còn anh thì giao cho tôi cả",
+    "source_text": "And you gave me an obstacle course.",
+    "turn": "s01-l03",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 7.845483870967742,
+    "end": 8.76,
+    "text": "một đường đua vượt chướng ngại vật.",
+    "source_text": "And you gave me an obstacle course.",
+    "turn": "s01-l03",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 9.02,
+    "end": 13.24,
+    "text": "Hai cáo buộc. Tốn nước. Rửa không sạch. Bị cáo có ý kiến gì?",
+    "source_text": "Two charges. Wasting water. Failing to wash. How do you plead?",
+    "turn": "s01-l04",
+    "role": "JUDGE"
+  },
+  {
+    "start": 13.6,
+    "end": 14.82,
+    "text": "Tôi muốn chất vấn người xếp bát.",
+    "source_text": "I'd like to question the loader.",
+    "turn": "s01-l05",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 15.18,
+    "end": 17.41,
+    "text": "Sam mua máy để khỏi phải rửa bát.",
+    "source_text": "Sam bought a machine to get out of washing dishes.",
+    "turn": "s01-l06",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 17.76,
+    "end": 20.349999999999998,
+    "text": "Giờ anh rửa cả trước lẫn sau khi chạy máy.",
+    "source_text": "Now he's doing it before the cycle and after.",
+    "turn": "s01-l06",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 20.599999999999998,
+    "end": 22.2,
+    "text": "Tối nay, anh đòi hoàn tiền.",
+    "source_text": "Tonight, he's demanding a refund.",
+    "turn": "s01-l06",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 23.27,
+    "end": 25.62,
+    "text": "Máy rửa bát yêu cầu xem lại cảnh tối qua.",
+    "source_text": "The dishwasher requests footage from last night.",
+    "turn": "s02-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 25.970000000000002,
+    "end": 28.180000000000003,
+    "text": "Sam đứng bên bồn, tráng một chiếc đĩa.",
+    "source_text": "Sam stands at the sink, rinsing a plate.",
+    "turn": "s02-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 28.310000000000006,
+    "end": 30.44,
+    "text": "Rồi thêm chiếc nữa. Vòi nước cứ chảy.",
+    "source_text": "Then another. The faucet keeps running.",
+    "turn": "s02-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 30.51,
+    "end": 32.593888888888884,
+    "text": "Đến lúc từng chiếc được bỏ vào máy,",
+    "source_text": "By the time each plate enters the machine, Sam has practically washed it.",
+    "turn": "s02-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 32.59888888888889,
+    "end": 34.269999999999996,
+    "text": "Sam gần như đã rửa sạch rồi.",
+    "source_text": "By the time each plate enters the machine, Sam has practically washed it.",
+    "turn": "s02-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 34.59,
+    "end": 35.21,
+    "text": "Tôi đang giúp anh mà.",
+    "source_text": "I'm helping.",
+    "turn": "s02-l02",
+    "role": "SAM"
+  },
+  {
+    "start": 35.57,
+    "end": 38.03,
+    "text": "Anh thuê máy rửa bát rồi làm luôn cả ca của nó.",
+    "source_text": "You hired a dishwasher and then did its shift.",
+    "turn": "s02-l03",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 38.39,
+    "end": 40.129999999999995,
+    "text": "Tôi tưởng phải làm sạch thức ăn trước chứ.",
+    "source_text": "I thought I had to get the food off first.",
+    "turn": "s02-l04",
+    "role": "SAM"
+  },
+  {
+    "start": 40.489999999999995,
+    "end": 43.599999999999994,
+    "text": "Mẩu thức ăn lớn thì đúng. Còn phần rửa là việc của tôi.",
+    "source_text": "Big scraps, yes. The actual washing was my part.",
+    "turn": "s02-l05",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 43.629999999999995,
+    "end": 46.39,
+    "text": "Xem hướng dẫn đi. Có hẳn một mục nói chuyện này.",
+    "source_text": "Check my instructions. We have a whole section on this.",
+    "turn": "s02-l05",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 46.75,
+    "end": 49.309999999999995,
+    "text": "Một tài liệu mà tòa nghi là chưa từng được mở ra.",
+    "source_text": "A document this court suspects has never been opened.",
+    "turn": "s02-l06",
+    "role": "JUDGE"
+  },
+  {
+    "start": 49.67,
+    "end": 52.11,
+    "text": "Anh chạy hàng giờ liền. Thế mà gọi là tiết kiệm nước à?",
+    "source_text": "You run for hours. How is that saving water?",
+    "turn": "s02-l07",
+    "role": "SAM"
+  },
+  {
+    "start": 53.08,
+    "end": 55.69,
+    "text": "Vì tôi không phải cái vòi chảy liên tục hàng giờ.",
+    "source_text": "Because I'm not a faucet running for hours.",
+    "turn": "s03-l01",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 56.099999999999994,
+    "end": 57.629999999999995,
+    "text": "Nước tập trung ở đáy.",
+    "source_text": "Water collects at the bottom.",
+    "turn": "s03-l01",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 58.120000000000005,
+    "end": 59.989999999999995,
+    "text": "Một máy bơm đưa nước qua các tay phun.",
+    "source_text": "A pump sends it through the spray arms.",
+    "turn": "s03-l01",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 60.67999999999999,
+    "end": 63.03,
+    "text": "Nước đi vào tay phun được lọc.",
+    "source_text": "The water entering those arms is filtered.",
+    "turn": "s03-l01",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 63.519999999999996,
+    "end": 64.02155737704918,
+    "text": "Nước nóng,",
+    "source_text": "Hot water, detergent, and moving jets do the cleaning.",
+    "turn": "s03-l01",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 64.02655737704917,
+    "end": 66.61,
+    "text": "chất tẩy và các tia nước chuyển động cùng làm sạch.",
+    "source_text": "Hot water, detergent, and moving jets do the cleaning.",
+    "turn": "s03-l01",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 67.16,
+    "end": 71.26,
+    "text": "Sau đó, nước bẩn được xả đi và nước mới tráng bát đĩa.",
+    "source_text": "Later, the dirty water drains away and fresh water rinses the dishes.",
+    "turn": "s03-l01",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 71.61999999999999,
+    "end": 72.815,
+    "text": "Tòa xem mô hình cắt lớp.",
+    "source_text": "The court watches a cutaway.",
+    "turn": "s03-l02",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 72.82,
+    "end": 74.45954545454546,
+    "text": "Chiếc máy này không đổ nước",
+    "source_text": "This machine doesn't fill to the roof like a bathtub.",
+    "turn": "s03-l02",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 74.46454545454546,
+    "end": 76.17,
+    "text": "đầy tận nóc như một bồn tắm.",
+    "source_text": "This machine doesn't fill to the roof like a bathtub.",
+    "turn": "s03-l02",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 76.39999999999999,
+    "end": 78.66396551724138,
+    "text": "Còn việc tráng từng chiếc đĩa ở bồn thì đã dùng",
+    "source_text": "And rinsing every plate at the sink adds water use before its cycle even starts.",
+    "turn": "s03-l02",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 78.66896551724138,
+    "end": 80.6,
+    "text": "thêm nước trước cả khi máy bắt đầu chạy.",
+    "source_text": "And rinsing every plate at the sink adds water use before its cycle even starts.",
+    "turn": "s03-l02",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 80.91999999999999,
+    "end": 82.98,
+    "text": "Được rồi. Vậy giải thích chiếc bát bẩn đi.",
+    "source_text": "Fine. Then explain the dirty bowl.",
+    "turn": "s03-l03",
+    "role": "SAM"
+  },
+  {
+    "start": 84.05,
+    "end": 87.52000000000001,
+    "text": "Giá đựng được kéo ra. Hai chiếc bát nằm khít vào nhau.",
+    "source_text": "The rack rolls forward. Two bowls are tucked tightly together.",
+    "turn": "s04-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 87.87,
+    "end": 89.91,
+    "text": "Chiếc bẩn đang trốn bên trong chiếc còn lại.",
+    "source_text": "The dirty one is hiding inside the other.",
+    "turn": "s04-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 90.23,
+    "end": 92.55,
+    "text": "Anh định để tia nước chạm được bề mặt đó bằng cách nào?",
+    "source_text": "How was the spray supposed to reach that surface?",
+    "turn": "s04-l02",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 92.91,
+    "end": 93.78999999999999,
+    "text": "Tôi đang tiết kiệm chỗ.",
+    "source_text": "I was saving space.",
+    "turn": "s04-l03",
+    "role": "SAM"
+  },
+  {
+    "start": 94.15,
+    "end": 96.31,
+    "text": "Anh cũng giúp chiếc bát ấy tránh luôn việc được rửa.",
+    "source_text": "You also saved that bowl from being washed.",
+    "turn": "s04-l04",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 96.67,
+    "end": 97.76,
+    "text": "Sam tách hai chiếc ra.",
+    "source_text": "Sam separates them.",
+    "turn": "s04-l05",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 98.24999999999999,
+    "end": 100.24198630136986,
+    "text": "Cuối cùng, lòng bát cũng có một đường",
+    "source_text": "For the first time, the inside of the bowl has an open path toward the spray.",
+    "turn": "s04-l05",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 100.24698630136986,
+    "end": 102.19,
+    "text": "thông thoáng hướng về phía tia nước.",
+    "source_text": "For the first time, the inside of the bowl has an open path toward the spray.",
+    "turn": "s04-l05",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 103.01,
+    "end": 104.11,
+    "text": "Còn đường đua chướng ngại vật?",
+    "source_text": "And the obstacle course?",
+    "turn": "s05-l01",
+    "role": "JUDGE"
+  },
+  {
+    "start": 104.47,
+    "end": 108.19999999999999,
+    "text": "Khi máy đã tắt, Sam nhẹ nhàng xoay tay phun phía dưới.",
+    "source_text": "With the machine off, Sam gently turns the lower spray arm.",
+    "turn": "s05-l02",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 108.43,
+    "end": 111.34,
+    "text": "Nó chạm vào một dụng cụ dài thò xuống dưới giá.",
+    "source_text": "It bumps into a long utensil hanging below the rack.",
+    "turn": "s05-l02",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 111.72999999999999,
+    "end": 114.01,
+    "text": "Sam chuyển dụng cụ đi. Tay phun xoay được tự do.",
+    "source_text": "Sam moves it. The arm turns freely.",
+    "turn": "s05-l02",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 114.83,
+    "end": 116.06000000000002,
+    "text": "Cái đó phải chuyển động.",
+    "source_text": "That thing is supposed to move.",
+    "turn": "s05-l03",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 116.25000000000001,
+    "end": 117.45,
+    "text": "Anh lại gắn thêm phanh tay cho nó.",
+    "source_text": "You gave it a parking brake.",
+    "turn": "s05-l03",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 117.80999999999997,
+    "end": 119.91999999999999,
+    "text": "Máy rửa bát trông như sắp đòi được tiền bồi thường.",
+    "source_text": "The dishwasher looks ready to collect damages.",
+    "turn": "s05-l04",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 120.38999999999999,
+    "end": 122.17,
+    "text": "Rồi Sam chỉ xuống dưới giá.",
+    "source_text": "Then Sam points beneath the rack.",
+    "turn": "s05-l04",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 122.49,
+    "end": 123.75,
+    "text": "Khoan đã. Trong bộ lọc của anh có gì thế?",
+    "source_text": "Hold on. What's in your filter?",
+    "turn": "s05-l05",
+    "role": "SAM"
+  },
+  {
+    "start": 124.82000000000001,
+    "end": 127.81000000000002,
+    "text": "Làm theo hướng dẫn, Sam tháo bộ lọc của mẫu máy này.",
+    "source_text": "Following the manual, Sam removes this model's filter.",
+    "turn": "s06-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 128.21999999999997,
+    "end": 130.52,
+    "text": "Nó đã giữ lại vụn thức ăn từ những bữa trước.",
+    "source_text": "It has caught food debris from earlier meals.",
+    "turn": "s06-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 130.84000000000003,
+    "end": 132.34,
+    "text": "Anh định bao giờ mới nhắc đến chuyện này?",
+    "source_text": "You were going to mention this when?",
+    "turn": "s06-l02",
+    "role": "SAM"
+  },
+  {
+    "start": 132.7,
+    "end": 134.18,
+    "text": "Tôi... cũng cần được vệ sinh một chút.",
+    "source_text": "I... could use a cleaning.",
+    "turn": "s06-l03",
+    "role": "DISHWASHER"
+  },
+  {
+    "start": 134.54,
+    "end": 136.88000000000002,
+    "text": "Vậy ta sẽ kiểm tra bằng chứng, thay vì kiểm tra thái độ.",
+    "source_text": "Then we'll test the evidence instead of the attitude.",
+    "turn": "s06-l04",
+    "role": "JUDGE"
+  },
+  {
+    "start": 137.24,
+    "end": 139.76999999999998,
+    "text": "Xếp sai không phải vấn đề duy nhất có thể xảy ra.",
+    "source_text": "Poor loading isn't the only possible problem.",
+    "turn": "s06-l05",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 139.95999999999998,
+    "end": 141.58999999999997,
+    "text": "Chiếc máy này cũng cần được chăm sóc.",
+    "source_text": "This machine also needs care.",
+    "turn": "s06-l05",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 141.76,
+    "end": 144.02460784313726,
+    "text": "Và nếu đã làm những bước kiểm tra được khuyến nghị",
+    "source_text": "And if cleaning stays poor after the recommended checks, a real fault may need investigation.",
+    "turn": "s06-l05",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 144.02960784313726,
+    "end": 146.39,
+    "text": "mà vẫn rửa kém, có thể cần tìm một hỏng hóc thực sự.",
+    "source_text": "And if cleaning stays poor after the recommended checks, a real fault may need investigation.",
+    "turn": "s06-l05",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 147.18,
+    "end": 149.4,
+    "text": "Chỉ một chiếc bát bẩn chưa đủ kết luận.",
+    "source_text": "A dirty bowl alone doesn't settle that.",
+    "turn": "s06-l05",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 150.37,
+    "end": 151.85928571428573,
+    "text": "Sam xem hướng dẫn,",
+    "source_text": "Sam checks the manual, cleans the filter as directed, and locks it back in place.",
+    "turn": "s07-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 151.86428571428573,
+    "end": 155.60000000000002,
+    "text": "vệ sinh bộ lọc đúng cách rồi lắp và khóa lại.",
+    "source_text": "Sam checks the manual, cleans the filter as directed, and locks it back in place.",
+    "turn": "s07-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 156.21000000000004,
+    "end": 158.48000000000002,
+    "text": "Lần này, vụn thức ăn được gạt vào thùng rác.",
+    "source_text": "This time, food scraps go in the trash.",
+    "turn": "s07-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 159.07,
+    "end": 160.4445,
+    "text": "Thức ăn thừa thông thường không",
+    "source_text": "Ordinary leftovers don't get a full sink wash.",
+    "turn": "s07-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 160.4495,
+    "end": 161.74,
+    "text": "được rửa sạch một lượt ở bồn.",
+    "source_text": "Ordinary leftovers don't get a full sink wash.",
+    "turn": "s07-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 162.37,
+    "end": 164.1166129032258,
+    "text": "Phần bám cứng hoặc có tinh bột",
+    "source_text": "Stubborn or starchy messes get the pretreatment the manual calls for.",
+    "turn": "s07-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 164.1216129032258,
+    "end": 165.99,
+    "text": "được xử lý trước theo hướng dẫn.",
+    "source_text": "Stubborn or starchy messes get the pretreatment the manual calls for.",
+    "turn": "s07-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 166.31,
+    "end": 167.7096666666667,
+    "text": "Các chiếc bát nằm tách nhau,",
+    "source_text": "The bowls sit apart, with their insides facing the spray.",
+    "turn": "s07-l02",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 167.7146666666667,
+    "end": 169.32000000000005,
+    "text": "lòng bát hướng về phía tia nước.",
+    "source_text": "The bowls sit apart, with their insides facing the spray.",
+    "turn": "s07-l02",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 169.93,
+    "end": 171.02000000000004,
+    "text": "Không có gì cản tay phun.",
+    "source_text": "Nothing obstructs the arms.",
+    "turn": "s07-l02",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 171.85000000000002,
+    "end": 173.92333333333335,
+    "text": "Sam cho chất tẩy dành riêng cho máy rửa bát",
+    "source_text": "Sam adds detergent made for dishwashers and chooses the appropriate cycle.",
+    "turn": "s07-l02",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 173.92833333333334,
+    "end": 175.33,
+    "text": "và chọn chương trình phù hợp.",
+    "source_text": "Sam adds detergent made for dishwashers and chooses the appropriate cycle.",
+    "turn": "s07-l02",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 175.65,
+    "end": 177.93,
+    "text": "Tòa tạm nghỉ. Để bị cáo làm việc.",
+    "source_text": "Court is in recess. Let the defendant work.",
+    "turn": "s07-l03",
+    "role": "JUDGE"
+  },
+  {
+    "start": 179.75,
+    "end": 181.68,
+    "text": "Khi chương trình kết thúc, Sam mở cửa máy.",
+    "source_text": "After the cycle, Sam opens the door.",
+    "turn": "s08-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 181.96999999999997,
+    "end": 183.09999999999997,
+    "text": "Chiếc bát được lấy ra, sạch sẽ.",
+    "source_text": "The bowl comes out clean.",
+    "turn": "s08-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 183.65000000000003,
+    "end": 186.88,
+    "text": "Thẩm phán đối chiếu với bức ảnh ban đầu. Vẫn chiếc bát ấy.",
+    "source_text": "The judge checks it against the original photo. Same bowl.",
+    "turn": "s08-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 186.93,
+    "end": 188.17000000000002,
+    "text": "Nhưng lần này, điều kiện làm việc khác hẳn.",
+    "source_text": "A very different assignment.",
+    "turn": "s08-l01",
+    "role": "NARRATOR"
+  },
+  {
+    "start": 188.48999999999998,
+    "end": 190.23000000000002,
+    "text": "Đối với mẻ rửa này, tòa bác đơn kiện.",
+    "source_text": "For this load, the complaint is dismissed.",
+    "turn": "s08-l02",
+    "role": "JUDGE"
+  },
+  {
+    "start": 190.59,
+    "end": 192.03,
+    "text": "Vậy ra anh thực sự biết rửa bát à?",
+    "source_text": "So you actually can wash dishes?",
+    "turn": "s08-l03",
+    "role": "SAM"
+  },
+  {
+    "start": 192.39,
+    "end": 193.61,
+    "text": "Tên tôi đã là máy rửa bát rồi mà.",
+    "source_text": "It's literally my name.",
+    "turn": "s08-l04",
+    "role": "DISHWASHER"
+  }
+]

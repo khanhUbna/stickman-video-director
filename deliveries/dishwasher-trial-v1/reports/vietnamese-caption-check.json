@@ -1,0 +1,26 @@
+{
+  "language": "vi",
+  "cues": 82,
+  "source_utterances": 38,
+  "source_sentences": 83,
+  "complete_source_sentence_coverage": true,
+  "new_paid_calls": 0,
+  "timing": "Actual English word/sentence/turn anchors; Vietnamese long-sentence display subphrases divide the same interval for reading. No Vietnamese speech generated or word-for-word forced-alignment claim.",
+  "maximum_native_pixel_width": 1693,
+  "font_native_pixels": 60,
+  "single_line": true,
+  "duration_seconds": 194.9,
+  "last_cue_end": 193.61,
+  "mp4_sha256": "3e85395f7b53aaaea056774e65a6754dc10dc3916a372df5f176fe1a3dd2a10a",
+  "original_english_mp4_unchanged": true,
+  "audio_stream_bit_identical_to_english": true,
+  "audio_stream_sha256": "SHA256=1f8e068513a7765a7f6faf9269b159c720f79290b409d815056d7fb725a3bfce",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 5847,
+  "full_decode_errors": 0,
+  "bytes": 10673914
+}
