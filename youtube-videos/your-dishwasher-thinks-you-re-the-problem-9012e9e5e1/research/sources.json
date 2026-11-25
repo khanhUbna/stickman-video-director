@@ -1,0 +1,47 @@
+[
+  {
+    "id": "S1",
+    "title": "ENERGY STAR \u2014 Dishwashers",
+    "url": "https://www.energystar.gov/products/dishwashers",
+    "kind": "US energy-efficiency program guidance",
+    "access_status": "read",
+    "sections_read": "energy.txt Best Practices, lines95\u201398; context64",
+    "limitations": "Certified units/context; no universal numeric savings or causal link from pre-rinse to dirty results."
+  },
+  {
+    "id": "S2",
+    "title": "Bosch operating instructions, SHEM63W5*N / SHE863WF*N",
+    "url": "https://media3.bsh-group.com/Documents/9001349512_A.pdf",
+    "kind": "Official manufacturer manual linked by exact-model support",
+    "access_status": "read",
+    "sections_read": "English printed pages16,26,28,36\u201337; saved bosch-excerpts.txt with local line locators",
+    "limitations": "Model-specific loading/filter. Exceptions for burned/baked/starchy soils; no universal maintenance interval or magical guarantee."
+  },
+  {
+    "id": "S3",
+    "title": "Bosch quickstart9001349551_A",
+    "url": "https://media3.bsh-group.com/Documents/9001349551_A.pdf",
+    "kind": "Official manufacturer quickstart",
+    "access_status": "read",
+    "sections_read": "p1 loading and cycle notes; bosch-quickstart-excerpts.txt",
+    "limitations": "Same model link; no sensor-deception myth."
+  },
+  {
+    "id": "S4",
+    "title": "Whirlpool \u2014 How Does a Dishwasher Work on the Inside?",
+    "url": "https://www.whirlpool.com/blog/kitchen/how-does-a-dishwasher-work.html",
+    "kind": "Manufacturer process explanation",
+    "access_status": "read",
+    "sections_read": "whirlpool.txt lines345\u2013374, processsteps1\u20136",
+    "limitations": "General supporting explanation, not substitute for Bosch model instructions. No use of broad27gallon handwash comparison."
+  },
+  {
+    "id": "S5",
+    "title": "GE Appliances \u2014 Dishwasher Loading Tips",
+    "url": "https://products.geappliances.com/appliance/gea-support-search-content?contentId=19573",
+    "kind": "Official manufacturer guidance",
+    "access_status": "read",
+    "sections_read": "ge.txt General Loading Tips, Upper/Lower Rack",
+    "limitations": "Corroboration only, no mixedbrand loading diagram."
+  }
+]

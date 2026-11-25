@@ -1,0 +1,187 @@
+[
+  {
+    "id": "C01",
+    "paragraph": 3,
+    "claim": "Scrape ordinary food remnants rather than pre-wash normally soiled items.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S2",
+      "S3"
+    ],
+    "evidence_locator": "research/bosch-excerpts.txt:9–14,85–93; research/bosch-quickstart-excerpts.txt:4",
+    "evidence_excerpt": "Do not pre-wash items with loosely attached food soil. / Simply scrape leftover food soils off of dishware before loading.",
+    "limitations": "Also paragraphs2 and9. Remove food particles, bones, toothpicks and excess grease. Burned/baked/starchy soils are pretreatment exceptions. This is model-specific guidance."
+  },
+  {
+    "id": "C02",
+    "paragraph": 3,
+    "claim": "A dishwasher cycle can run for hours.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S4"
+    ],
+    "evidence_locator": "research/whirlpool.txt:351–352",
+    "evidence_excerpt": "Most dishwasher cycle times can last anywhere from 1.5 to 4 hours, depending on the cycle.",
+    "limitations": "General process context, not an exact measured Bosch program duration. Duration alone does not establish water efficiency."
+  },
+  {
+    "id": "C03",
+    "paragraph": 4,
+    "claim": "Water collects at the bottom rather than filling the whole tub, and the inlet does not run throughout the cycle.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S4"
+    ],
+    "evidence_locator": "research/whirlpool.txt:355–356",
+    "evidence_excerpt": "signals the inlet valve to close. The dishwasher only fills with water at the bottom of the tub.",
+    "limitations": "Also paragraph5's bathtub comparison. General manufacturer explanation, not a Bosch plumbing schematic or a claim of only one fill in the program."
+  },
+  {
+    "id": "C04",
+    "paragraph": 4,
+    "claim": "A circulation pump sends water through the spray arms.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S4"
+    ],
+    "evidence_locator": "research/whirlpool.txt:362–363",
+    "evidence_excerpt": "the circulation pump pushes water into the arms",
+    "limitations": "General process explanation supports this fictional spray-arm unit; exact arm layout varies by model."
+  },
+  {
+    "id": "C05",
+    "paragraph": 4,
+    "claim": "Water entering this model's spray arms is filtered.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S2"
+    ],
+    "evidence_locator": "research/bosch-excerpts.txt:94–99 (manual p36)",
+    "evidence_excerpt": "designed to filter 100% of the water entering the spray arms",
+    "limitations": "Filtering is not sterilization or removal of every dissolved contaminant. This is the cited Bosch design."
+  },
+  {
+    "id": "C06",
+    "paragraph": 4,
+    "claim": "Hot water, detergent and jets contribute to cleaning.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S4"
+    ],
+    "evidence_locator": "research/whirlpool.txt:345,359–363",
+    "evidence_excerpt": "a combination of wash systems, heat and detergent to help clean your dishes / washes away food particles and debris",
+    "limitations": "No temperature, disinfection or universal cleaning guarantee is asserted. Heating arrangements vary by model."
+  },
+  {
+    "id": "C07",
+    "paragraph": 4,
+    "claim": "Dirty wash water drains and a subsequent rinse sprays clean water.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S4"
+    ],
+    "evidence_locator": "research/whirlpool.txt:364–367",
+    "evidence_excerpt": "Once the wash cycle has finished, the dirty water and debris are filtered out ... The rinse cycle sprays clean water",
+    "limitations": "Simplified phases; not a claim about every fill or that water is never recirculated during rinsing."
+  },
+  {
+    "id": "C08",
+    "paragraph": 5,
+    "claim": "Sink pre-rinsing adds water use before the dishwasher cycle.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1",
+      "S2"
+    ],
+    "evidence_locator": "research/energy.txt:95–96; research/bosch-excerpts.txt:85–93",
+    "evidence_excerpt": "Rinsing dishes before loading them in the dishwasher increases the total water and energy used.",
+    "limitations": "ENERGY STAR guidance concerns certified units; Bosch separately supports this example's ordinary-soil practice. No numeric or universal handwashing comparison."
+  },
+  {
+    "id": "C09",
+    "paragraph": 6,
+    "claim": "Avoid nesting bowls and orient their insides toward spray.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S2",
+      "S3"
+    ],
+    "evidence_locator": "research/bosch-excerpts.txt:15–20; research/bosch-quickstart-excerpts.txt:50–53",
+    "evidence_excerpt": "insides of bowls, pots and pans are facing the spray arms. / Avoid nesting and contact points between dishes.",
+    "limitations": "Also paragraph9. The particular dirty bowl is staged, not evidence that nesting alone caused its condition."
+  },
+  {
+    "id": "C10",
+    "paragraph": 7,
+    "claim": "Items protruding below the rack can block an arm; arms need unobstructed movement.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S2",
+      "S5"
+    ],
+    "evidence_locator": "research/bosch-excerpts.txt:5–7,21–23; research/ge.txt:9,23",
+    "evidence_excerpt": "Ensure items do not protrude through the bottom of the racks and block the spray arms.",
+    "limitations": "Also paragraph9. The utensil collision and gentle arm turn with machine off are fictional observations, not a universal service procedure."
+  },
+  {
+    "id": "C11",
+    "paragraph": 9,
+    "claim": "This model's filter can be removed, cleaned as directed, reinstalled and locked.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S2"
+    ],
+    "evidence_locator": "research/bosch-excerpts.txt:108–111,124–125,137–148 (manual p37)",
+    "evidence_excerpt": "remove the entire filter system / Rinse the filters under running water and use a soft brush / lock into place ... until the marking arrows align",
+    "limitations": "Removal also appears in paragraph8. Follow complete model instructions; no abrasive brushes/steel wool, no operation without reinstalled filter, no all-model assumption."
+  },
+  {
+    "id": "C12",
+    "paragraph": 8,
+    "claim": "Retained food and poorer cleaning can indicate that this model's filter needs maintenance.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S2"
+    ],
+    "evidence_locator": "research/bosch-excerpts.txt:90–101 (manual p36)",
+    "evidence_excerpt": "Depending on use habits and water hardness, the filter system will require some maintenance / food soils remaining on the filter system / A drop in cleaning performance",
+    "limitations": "The particular debris is fictional. No universal interval or claim that cleaning resolves every fault."
+  },
+  {
+    "id": "C13",
+    "paragraph": 9,
+    "claim": "Burned-on, baked-on or starchy soils receive manual-directed pretreatment.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S2"
+    ],
+    "evidence_locator": "research/bosch-excerpts.txt:13–14 (manual p16)",
+    "evidence_excerpt": "Pre-treat items having burned-on, baked-on or starchy soils.",
+    "limitations": "Script says stubborn or starchy and defers treatment to the manual; it does not require all dishes to be washed at the sink."
+  },
+  {
+    "id": "C14",
+    "paragraph": 9,
+    "claim": "Use detergent specifically designed for dishwashers.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S2"
+    ],
+    "evidence_locator": "research/bosch-excerpts.txt:33–49 (manual p26)",
+    "evidence_excerpt": "Use only detergent specifically designed for dishwashers. / Do not use hand dishwashing products in your dishwasher.",
+    "limitations": "No universal dose; amount depends on the model manual, product directions and water hardness."
+  },
+  {
+    "id": "C15",
+    "paragraph": 9,
+    "claim": "Select a cycle appropriate to the dishware and soil.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S2",
+      "S3"
+    ],
+    "evidence_locator": "research/bosch-excerpts.txt:56–79; research/bosch-quickstart-excerpts.txt:29–32,38–45,50–53",
+    "evidence_excerpt": "Auto ... ideal for mixed dishware and food soils / Normal ... normally soiled dishes / Select a cycle and desired options.",
+    "limitations": "No universally correct program or claim that changing cycle alone caused the clean retest."
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "words": 556,
+  "paragraphs": 10,
+  "errors": [
+    "opening scores 34 on hookscore.py (need 60): 'Sam has put this bowl through the dishwasher twice. It still looks lik'"
+  ],
+  "warnings": [
+    "paragraph 3: 'I'm' is capitalised but not in names"
+  ]
+}

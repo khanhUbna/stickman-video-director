@@ -1,0 +1,153 @@
+Official Bosch operating instructions9001349512_A, family SHEM63W5*N/SHE863WF*N. Selected excerpts, original physical newline line ranges in headings.
+https://media3.bsh-group.com/Documents/9001349512_A.pdf
+
+## Loading racks, printed p16; original text lines558–584
+                                       Ensure items do not protrude through
+For best dishwashing results,          the bottom of the racks and block the
+observe the following when loading     spray arms.
+the dishwasher:
+■  Do not pre-wash items with          Note: When pushing the upper
+   loosely attached food soil.         rack 12 into the dishwasher, push it
+■  Remove all food particles, bones,   until it stops against the back of the
+   toothpicks and excessive grease.    tub so the upper rack spray
+■  Pre-treat items having burned-on,   arm 1: connects to the water
+   baked-on or starchy soils.          supply at the back of the tub. Do not
+■  Load dishes in the dishwasher       push racks in using the door.
+   racks so the insides of bowls,
+   pots and pans are facing the        Loading the lower rack
+   spray arms.                         Place large items in the lower
+■  Avoid nesting and contact points    rack 9". Load pots, pans and bowls
+   between dishes.                     upside down. Do not block the vent
+■  Separate items of dissimilar        hole 1J with tall baking sheets.
+   metals. Use care to not block       Load these items on the right side of
+   movement of the spray arms.         the dishwasher.
+■  Only wash household dishware
+   and kitchenware rated as
+   dishwasher-safe.
+   Refer to the Dishware Materials
+   section for more information
+   about dishware suitability.
+
+NOTICE
+
+## Detergent, printed p26; original text lines963–979
+Use only detergent specifically
+Det er gent                                       1 tablespoon (15 ml) of detergent
+designed for dishwashers. For best                will clean most loads. The detergent
+results, use fresh powdered                       dispenser cup has lines that measure
+dishwashing detergent or detergent                detergent to 1 tablespoon (15 ml)
+tabs.                                             and 1.75 tablespoons (25 ml).
+                                                  3 tablespoons (45 ml) of detergent
+NOTICE                                            will completely fill the detergent
+                                                  dispenser.
+To avoid damage to dishwasher or
+dishware:                                         Note: If you do not know the
+■  Do not use hand dishwashing                    hardness of your water supply, use
+   products in your dishwasher.                   15 ml of detergent. Increase the
+■  Do not use too much detergent if               amount if necessary to the least
+   your water is soft. Using too much             amount required to get your
+   detergent with soft water may                  kitchenware clean.
+   cause etching in glassware and                 Use the measuring lines in the
+
+## Cycles, printed p28; original text lines1071–1098
+                                       food or grease. These dishes would
+                                       normally require soaking or hand
+                                       scouring.
+                      Auto             Smartest cycle, with most flexible soil    all
+                                       sensing, which is ideal for mixed dishware
+                                       and food soils.
+                      Normal           Recommended for daily, regular or typical all
+                      (see note at     use to completely wash a full load of     Note: In order to obtain optimal
+                      bottom of table) normally soiled dishes.                   performance with minimum energy
+                                                                                 consumption, it is recommended to
+                                                                                 disable all available options and
+                                                                                 settings, except Auto Power Off - set
+                                                                                 to ˜:‹‚~ "Auto power off"
+                                                                                 on page 32
+                      Speed60® *       Cleans freshly soiled dishes with easy to   Delay
+                                       remove soils.                               Extra Dry
+                                       This cycle reduces cycle time while still
+                                       including drying.
+                      Clean30® *       Cleans lightly soiled dishes and reduces Delay
+                                       overall wash time. Use this cycle to clean Extra Dry
+                                       glasses and dessert dishware that may
+                                       need to be reused at the same event.
+                      Rinse            Use this cycle if you need to pre-rinse     Delay
+                                       dishes to avoid odors. Place unrinsed
+                                       dishes inside the dishwasher and select
+                                       the Rinse cycle. Uses less water than
+                                       hand rinsing and very low energy.
+
+
+## Filters, printed p36; original text lines1451–1470
+Filters                                   Cleaning intervals
+                                          The filter system 1b is designed to
+The Bosch® filter system 1b is            minimize maintenance while
+designed to prevent the need to           providing premium cleaning
+pre-rinse normally attached food soils    performance and minimum energy
+from your dishes. Simply scrape           consumption.
+leftover food soils off of dishware
+before loading. This process will         Depending on use habits and water
+conserve time, water and the energy       hardness, the filter system will require
+require to heat your household water      some maintenance to sustain
+supply.                                   premium cleaning performance.
+Your dishwasher filter system is          Your filter system may need to be
+designed to filter 100% of the water      cleaned when:
+entering the spray arms to provide a      ■  You notice food soils remaining
+continuous supply of clean water to          on the filter system or objects
+remove food soils from your                  trapped in the Large Object Trap.
+dishware.                                 ■  A drop in cleaning performance
+                                             or a gritty film forms on the
+Filter components                            dishware.
+The filter system 1b consists of
+
+## Care, printed p37; original text lines1500–1548
+36
+                                              Care and Maintenance en-us
+
+To check or clean the filter system:   Spray arms
+1. Unscrew the Large Object Trap as    Check spray arms 1:, 1R for
+   illustrated and remove the entire   grease and limescale deposits. If you
+   filter system.                      find such deposits:
+                                       ■   Fill detergent dispenser 92 with
+                                           detergent and start the appliance
+                                           without utensils in the cycle with
+                                           the highest rinsing temperature.
+                                          ~ "Wash Cycle Information"
+                                           on page 30
+                                       ■   Clean the appliance with
+                                           detergents/appliance cleaners
+                                           which are particularly suitable for
+                                          use with dishwashers.
+                                       ■   Unscrew the upper spray arm
+                                           1: and pull off the lower spray
+2. Remove the microfilter from the         1R arm as shown. Inspect for
+   fine filter for easier cleaning.        deposits.
+
+
+
+
+                                                        
+
+                                                            
+
+
+
+
+3. Rinse the filters under running
+   water and use a soft brush to
+   clean.
+   Note: do not use abrasive
+   brushes or steel wool, etc., as
+   they may damage the filter.
+
+4. Reinstall the filter system in
+   reverse sequence and lock into
+   place by screwing the Large
+   Object Trap until the marking
+   arrows align.
+
+
+
+
+                                                                           37

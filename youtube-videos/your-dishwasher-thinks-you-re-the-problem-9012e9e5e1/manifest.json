@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "title": "Your Dishwasher Thinks You're the Problem",
+  "status": "draft",
+  "profile": {
+    "schema_version": 1,
+    "channel": "Objects on Trial",
+    "niches": [
+      "Consumer engineering",
+      "Everyday science",
+      "Animated courtroom comedy"
+    ],
+    "spoken_language": "Natural American English",
+    "review_language": "Vietnamese",
+    "duration_seconds": {
+      "min": 240,
+      "max": 300
+    },
+    "spoken_words": {
+      "min": 550,
+      "max": 650
+    },
+    "word_count_method": "Whitespace-separated words in spoken text only, matching upstream scriptcheck.py",
+    "planning_words_per_minute": 140,
+    "style": [
+      "Physical comedy",
+      "Evidence-driven mystery",
+      "Useful science"
+    ],
+    "framework": [
+      "Hook",
+      "Open Loop",
+      "Setup",
+      "Build-up",
+      "Climax",
+      "Payoff",
+      "Emotional Ending"
+    ],
+    "automatic_skills": [
+      "yt-research",
+      "yt-script",
+      "yt-package",
+      "yt-seo"
+    ],
+    "output_root": "youtube-videos",
+    "paid_apis_allowed": false,
+    "publication_allowed": false,
+    "script_approval_before_full_production": true,
+    "require_credible_scientific_sources": true,
+    "invent_research_or_statistics": false
+  },
+  "stages": {
+    "yt-research": "complete; independent check:15 supported scientific records, no blockers; fiction and inference scope explicit",
+    "yt-script": "556 words; EN/VI complete; editorial exceptions documented; creator review pending",
+    "yt-package": "approved title/thumbnail preserved; ten alternatives drafted",
+    "yt-seo": "drafted with source references; no invented chapters"
+  },
+  "script_approved": false,
+  "audio_generated": false,
+  "published": false,
+  "model_reference": "Bosch SHEM63W55N/11; fictional design, no implied sponsorship",
+  "spoken_words": 556,
+  "estimated_runtime_seconds": {
+    "min": 240,
+    "max": 270,
+    "measured": false
+  },
+  "script_sha256": "075b9af97411f920aa8eb6dbbccd3083b46ae36ddb61e9564c155d53fdf3ae29"
+}

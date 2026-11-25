@@ -1,0 +1,161 @@
+[
+  {
+    "title": "Who Ruined This Load of Dishes?",
+    "chars": 31,
+    "score": 98,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "31 characters, inside the 60-character desktop cut",
+      "open question in the title",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "Your Dishwasher Has Evidence Against You",
+    "chars": 40,
+    "score": 94,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "40 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "Your Dishwasher Wants You in Court",
+    "chars": 34,
+    "score": 94,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "34 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "Why Your Dishwasher Leaves Dishes Dirty",
+    "chars": 39,
+    "score": 94,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "39 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "Your Dishwasher Would Like a Word",
+    "chars": 33,
+    "score": 94,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "33 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "The Dishwasher Is Pleading Not Guilty",
+    "chars": 37,
+    "score": 94,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "37 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "Your Dirty Dishes Are Going to Court",
+    "chars": 36,
+    "score": 94,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "36 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "Before You Blame Your Dishwasher",
+    "chars": 32,
+    "score": 94,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "32 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "Your Dishwasher Thinks You're the Problem",
+    "chars": 41,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Your Dishwasher Thinks You're the...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "41 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "The Dishwasher That Put Its Owner on Trial",
+    "chars": 42,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"The Dishwasher That Put Its Owner on...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "42 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  }
+]

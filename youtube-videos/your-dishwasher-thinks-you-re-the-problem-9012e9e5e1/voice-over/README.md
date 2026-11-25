@@ -1,0 +1,1 @@
+Text only. The voice-over file has spoken words only, no speaker labels. Use script/performance.json for roles and script/script-en.md for the creator-readable screenplay. No paidAPI calls, recording, rendering or publication. Await creator approval.

@@ -1,0 +1,1 @@
+Creator-approved concept: owner and dishwasher point at each other, judge gavel and a visibly dirty bowl as one central exhibit. Big short text YOUR FAULT? Warm kitchen turned into improvised courtroom. Large readable expressions. The evidence/retest stays in video; no clean-bowl answer on thumbnail. No image generated in this step.

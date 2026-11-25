@@ -1,0 +1,67 @@
+[
+  {
+    "hook": "You wash the dishes before the dishwasher. Then you wash them again afterward. Tonight, the machine is going to have to explain itself.",
+    "properties": {
+      "SPECIFICITY": 46,
+      "ADDRESS": 96,
+      "STAKES": 48,
+      "CURIOSITY": 41,
+      "BREVITY": 100
+    },
+    "verdict": 56,
+    "band": "WORKABLE",
+    "formula": "Unclassified"
+  },
+  {
+    "hook": "Your dishwasher thinks you're the problem. Before you buy another one, let's put that accusation on trial.",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 100,
+      "STAKES": 48,
+      "CURIOSITY": 41,
+      "BREVITY": 100
+    },
+    "verdict": 55,
+    "band": "WORKABLE",
+    "formula": "The Warning"
+  },
+  {
+    "hook": "Your dishwasher has been accused of wasting water and leaving dinner on the plates. Its defense? You loaded the evidence.",
+    "properties": {
+      "SPECIFICITY": 46,
+      "ADDRESS": 96,
+      "STAKES": 48,
+      "CURIOSITY": 24,
+      "BREVITY": 100
+    },
+    "verdict": 47,
+    "band": "WEAK",
+    "formula": "Unclassified"
+  },
+  {
+    "hook": "This bowl went through two cycles and came out dirty. The dishwasher wants the court to see how it got loaded.",
+    "properties": {
+      "SPECIFICITY": 62,
+      "ADDRESS": 26,
+      "STAKES": 36,
+      "CURIOSITY": 41,
+      "BREVITY": 100
+    },
+    "verdict": 42,
+    "band": "WEAK",
+    "formula": "Unclassified"
+  },
+  {
+    "hook": "Sam has put this bowl through the dishwasher twice. It still looks like dinner is in progress. You had one job. And you gave me an obstacle course.",
+    "properties": {
+      "SPECIFICITY": 47,
+      "ADDRESS": 66,
+      "STAKES": 22,
+      "CURIOSITY": 24,
+      "BREVITY": 72
+    },
+    "verdict": 37,
+    "band": "WEAK",
+    "formula": "Unclassified"
+  }
+]

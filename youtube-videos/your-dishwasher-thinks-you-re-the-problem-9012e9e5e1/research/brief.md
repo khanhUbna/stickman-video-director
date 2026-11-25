@@ -1,0 +1,9 @@
+# Primary-source brief — researched before drafting
+
+Fictional kitchen-court pilot, natural American English, target550–650words. Defendant is a fictional modern filtered spray-arm unit whose loading/filter instructions are based on Bosch SHEM63W55N/11, family SHEM63W5*N/SHE863WF*N, not every dishwasher. Avoid product logo/brand promotion in narration. Manufacturer instructions and ENERGY STAR corroborate scrape-not-sink-wash for ordinary food soils; burned/baked/starchy residues may need pretreatment. Arms must turn freely and bowl interiors face spray, not nest. Removable filter needs model-specific cleaning and correct reassembly. Dishwasher-specific detergent only. Real faults remain possible and can't be ruled out from one bowl.
+
+Water explanation: Whirlpool's official process description says water enters bottom, float closes inlet, pump feeds spray arms and subsequent phases drain/rinse. Bosch says water entering arms is filtered. Safe short explanation: a long cycle does not mean continuously running a faucet; no numeric universal water use, no claim one cycle's duration establishes efficiency. No need assert sensor trickery or identical cycles.
+
+Story evidence is fictional: dirty bowl, nested arrangement, blocked arm, retained debris, corrected load and clean retest are authored demonstrations, not an experiment or verified result for every real unit. Retest changes multiple things, so it doesn't isolate one cause. Judge should conclude the demonstrated load had correctable problems, not that no hardware fault exists anywhere.
+
+Source reading: exact model official support JSON connects full manual and quickstart; quoted English pages16/26/28/36–37 read. Whirlpool process sections1–6 read. ENERGY STAR Best Practices read. GE loading corroboration read, not used to override model-specific details. Selected Bosch excerpts preserve original line ranges; independent check uses local excerpt line numbers.

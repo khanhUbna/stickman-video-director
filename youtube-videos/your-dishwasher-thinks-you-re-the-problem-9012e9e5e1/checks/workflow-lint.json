@@ -1,0 +1,263 @@
+{
+  "directory": "/workspace/stickman-video-director/youtube-videos/your-dishwasher-thinks-you-re-the-problem-9012e9e5e1",
+  "spoken_words": 556,
+  "estimated_spoken_seconds_at_planning_rate": 238.3,
+  "blockers": [],
+  "warnings": [
+    "Upstream scriptcheck findings require editorial review; scores are not acceptance"
+  ],
+  "tool_reports": {
+    "hooks.json": {
+      "returncode": 0,
+      "result": [
+        {
+          "hook": "You wash the dishes before the dishwasher. Then you wash them again afterward. Tonight, the machine is going to have to explain itself.",
+          "properties": {
+            "SPECIFICITY": 46,
+            "ADDRESS": 96,
+            "STAKES": 48,
+            "CURIOSITY": 41,
+            "BREVITY": 100
+          },
+          "verdict": 56,
+          "band": "WORKABLE",
+          "formula": "Unclassified"
+        },
+        {
+          "hook": "Your dishwasher thinks you're the problem. Before you buy another one, let's put that accusation on trial.",
+          "properties": {
+            "SPECIFICITY": 40,
+            "ADDRESS": 100,
+            "STAKES": 48,
+            "CURIOSITY": 41,
+            "BREVITY": 100
+          },
+          "verdict": 55,
+          "band": "WORKABLE",
+          "formula": "The Warning"
+        },
+        {
+          "hook": "Your dishwasher has been accused of wasting water and leaving dinner on the plates. Its defense? You loaded the evidence.",
+          "properties": {
+            "SPECIFICITY": 46,
+            "ADDRESS": 96,
+            "STAKES": 48,
+            "CURIOSITY": 24,
+            "BREVITY": 100
+          },
+          "verdict": 47,
+          "band": "WEAK",
+          "formula": "Unclassified"
+        },
+        {
+          "hook": "This bowl went through two cycles and came out dirty. The dishwasher wants the court to see how it got loaded.",
+          "properties": {
+            "SPECIFICITY": 62,
+            "ADDRESS": 26,
+            "STAKES": 36,
+            "CURIOSITY": 41,
+            "BREVITY": 100
+          },
+          "verdict": 42,
+          "band": "WEAK",
+          "formula": "Unclassified"
+        },
+        {
+          "hook": "Sam has put this bowl through the dishwasher twice. It still looks like dinner is in progress. You had one job. And you gave me an obstacle course.",
+          "properties": {
+            "SPECIFICITY": 47,
+            "ADDRESS": 66,
+            "STAKES": 22,
+            "CURIOSITY": 24,
+            "BREVITY": 72
+          },
+          "verdict": 37,
+          "band": "WEAK",
+          "formula": "Unclassified"
+        }
+      ]
+    },
+    "scriptcheck.json": {
+      "returncode": 1,
+      "result": {
+        "words": 556,
+        "paragraphs": 10,
+        "errors": [
+          "opening scores 34 on hookscore.py (need 60): 'Sam has put this bowl through the dishwasher twice. It still looks lik'"
+        ],
+        "warnings": [
+          "paragraph 3: 'I'm' is capitalised but not in names"
+        ]
+      }
+    },
+    "titles.json": {
+      "returncode": 0,
+      "result": [
+        {
+          "title": "Who Ruined This Load of Dishes?",
+          "chars": 31,
+          "score": 98,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "31 characters, inside the 60-character desktop cut",
+            "open question in the title",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Your Dishwasher Has Evidence Against You",
+          "chars": 40,
+          "score": 94,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "40 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Your Dishwasher Wants You in Court",
+          "chars": 34,
+          "score": 94,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "34 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Why Your Dishwasher Leaves Dishes Dirty",
+          "chars": 39,
+          "score": 94,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "39 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Your Dishwasher Would Like a Word",
+          "chars": 33,
+          "score": 94,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "33 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "The Dishwasher Is Pleading Not Guilty",
+          "chars": 37,
+          "score": 94,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "37 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Your Dirty Dishes Are Going to Court",
+          "chars": 36,
+          "score": 94,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "36 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Before You Blame Your Dishwasher",
+          "chars": 32,
+          "score": 94,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "32 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Your Dishwasher Thinks You're the Problem",
+          "chars": 41,
+          "score": 80,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"Your Dishwasher Thinks You're the...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "41 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "The Dishwasher That Put Its Owner on Trial",
+          "chars": 42,
+          "score": 80,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"The Dishwasher That Put Its Owner on...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "42 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        }
+      ]
+    }
+  },
+  "draft_bundle_complete": true,
+  "scientific_truth_verified_by_cli": false,
+  "script_approved": false,
+  "paid_API_calls": 0,
+  "note": "Evidence-field checks and editorial lint only; actual source reading, fact-checking and creator review remain necessary."
+}
