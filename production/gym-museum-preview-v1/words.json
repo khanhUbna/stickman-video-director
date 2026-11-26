@@ -1,0 +1,394 @@
+[
+  {
+    "text": "Now",
+    "start": 0.0,
+    "end": 0.1,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "the",
+    "start": 0.1,
+    "end": 0.24,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "cameras",
+    "start": 0.24,
+    "end": 0.48,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "are",
+    "start": 0.48,
+    "end": 0.72,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "ready.",
+    "start": 0.72,
+    "end": 0.96,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "The",
+    "start": 1.42,
+    "end": 1.42,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "banner",
+    "start": 1.42,
+    "end": 1.66,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "is",
+    "start": 1.66,
+    "end": 1.98,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "enormous.",
+    "start": 1.98,
+    "end": 2.3,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "Vale",
+    "start": 2.3,
+    "end": 3.44,
+    "basis": "interpolated",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "steps",
+    "start": 3.44,
+    "end": 3.66,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "onto",
+    "start": 3.66,
+    "end": 3.92,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "the",
+    "start": 3.92,
+    "end": 4.1,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "stationary",
+    "start": 4.1,
+    "end": 4.42,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "belt.",
+    "start": 4.42,
+    "end": 4.86,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "He",
+    "start": 5.14,
+    "end": 5.16,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "raises",
+    "start": 5.16,
+    "end": 5.34,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "a",
+    "start": 5.34,
+    "end": 5.58,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "solemn",
+    "start": 5.58,
+    "end": 5.8,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "hand.",
+    "start": 5.8,
+    "end": 6.34,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "Today,",
+    "start": 6.8,
+    "end": 7.02,
+    "basis": "asr",
+    "role": "VALE",
+    "turn": "s01-l02"
+  },
+  {
+    "text": "I",
+    "start": 7.02,
+    "end": 7.279999999999999,
+    "basis": "asr",
+    "role": "VALE",
+    "turn": "s01-l02"
+  },
+  {
+    "text": "will",
+    "start": 7.279999999999999,
+    "end": 7.42,
+    "basis": "asr",
+    "role": "VALE",
+    "turn": "s01-l02"
+  },
+  {
+    "text": "experience",
+    "start": 7.42,
+    "end": 7.92,
+    "basis": "asr",
+    "role": "VALE",
+    "turn": "s01-l02"
+  },
+  {
+    "text": "what",
+    "start": 7.92,
+    "end": 8.219999999999999,
+    "basis": "asr",
+    "role": "VALE",
+    "turn": "s01-l02"
+  },
+  {
+    "text": "these",
+    "start": 8.219999999999999,
+    "end": 8.4,
+    "basis": "asr",
+    "role": "VALE",
+    "turn": "s01-l02"
+  },
+  {
+    "text": "people",
+    "start": 8.4,
+    "end": 8.66,
+    "basis": "asr",
+    "role": "VALE",
+    "turn": "s01-l02"
+  },
+  {
+    "text": "endured.",
+    "start": 8.66,
+    "end": 9.08,
+    "basis": "asr",
+    "role": "VALE",
+    "turn": "s01-l02"
+  },
+  {
+    "text": "Mina",
+    "start": 9.719999999999999,
+    "end": 9.82,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l03"
+  },
+  {
+    "text": "runs",
+    "start": 9.82,
+    "end": 10.04,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l03"
+  },
+  {
+    "text": "onto",
+    "start": 10.04,
+    "end": 10.259999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l03"
+  },
+  {
+    "text": "the",
+    "start": 10.259999999999998,
+    "end": 10.419999999999998,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l03"
+  },
+  {
+    "text": "stage.",
+    "start": 10.419999999999998,
+    "end": 10.7,
+    "basis": "asr",
+    "role": "NARRATOR",
+    "turn": "s01-l03"
+  },
+  {
+    "text": "Wait.",
+    "start": 11.16,
+    "end": 11.32,
+    "basis": "asr",
+    "role": "MINA",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "You",
+    "start": 11.56,
+    "end": 11.72,
+    "basis": "asr",
+    "role": "MINA",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "haven't",
+    "start": 11.72,
+    "end": 12.06,
+    "basis": "asr",
+    "role": "MINA",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "attached",
+    "start": 12.06,
+    "end": 12.3,
+    "basis": "asr",
+    "role": "MINA",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "the",
+    "start": 12.3,
+    "end": 12.6,
+    "basis": "asr",
+    "role": "MINA",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "safety",
+    "start": 12.6,
+    "end": 12.8,
+    "basis": "asr",
+    "role": "MINA",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "clip.",
+    "start": 12.8,
+    "end": 13.16,
+    "basis": "asr",
+    "role": "MINA",
+    "turn": "s01-l04"
+  },
+  {
+    "text": "When",
+    "start": 13.790000000000001,
+    "end": 13.909999999999998,
+    "basis": "asr",
+    "role": "VALE",
+    "turn": "s01-l05"
+  },
+  {
+    "text": "does",
+    "start": 13.909999999999998,
+    "end": 14.049999999999999,
+    "basis": "asr",
+    "role": "VALE",
+    "turn": "s01-l05"
+  },
+  {
+    "text": "the",
+    "start": 14.049999999999999,
+    "end": 14.209999999999999,
+    "basis": "asr",
+    "role": "VALE",
+    "turn": "s01-l05"
+  },
+  {
+    "text": "torture",
+    "start": 14.209999999999999,
+    "end": 14.409999999999998,
+    "basis": "asr",
+    "role": "VALE",
+    "turn": "s01-l05"
+  },
+  {
+    "text": "begin?",
+    "start": 14.409999999999998,
+    "end": 14.809999999999997,
+    "basis": "asr",
+    "role": "VALE",
+    "turn": "s01-l05"
+  },
+  {
+    "text": "It",
+    "start": 15.920000000000002,
+    "end": 15.96,
+    "basis": "asr",
+    "role": "MINA",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "doesn't",
+    "start": 15.96,
+    "end": 16.2,
+    "basis": "asr",
+    "role": "MINA",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "have",
+    "start": 16.2,
+    "end": 16.34,
+    "basis": "asr",
+    "role": "MINA",
+    "turn": "s01-l06"
+  },
+  {
+    "text": "to.",
+    "start": 16.34,
+    "end": 16.580000000000002,
+    "basis": "asr",
+    "role": "MINA",
+    "turn": "s01-l06"
+  }
+]

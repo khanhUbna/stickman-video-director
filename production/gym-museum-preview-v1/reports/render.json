@@ -1,0 +1,17 @@
+{
+  "frames": 600,
+  "fps": 30,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "source_fingerprint": "8c1430d4967a0a2d78b87e33dadba79017490f40d5c4f9a06e5df6c1c3e525d4",
+  "inputs": [
+    "artwork.py",
+    "film.py",
+    "turns20.json",
+    "captions20.json",
+    "mouth-levels.json"
+  ],
+  "speech_timing": "actual local alignment"
+}

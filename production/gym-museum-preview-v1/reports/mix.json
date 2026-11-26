@@ -1,0 +1,212 @@
+{
+  "source": {
+    "input_i": "-25.04",
+    "input_tp": "-7.40",
+    "input_lra": "12.60",
+    "input_thresh": "-36.86",
+    "output_i": "-16.88",
+    "output_tp": "-2.00",
+    "output_lra": "6.50",
+    "output_thresh": "-28.30",
+    "normalization_type": "dynamic",
+    "target_offset": "0.88"
+  },
+  "master": {
+    "input_i": "-25.04",
+    "input_tp": "-7.40",
+    "input_lra": "12.60",
+    "input_thresh": "-36.86",
+    "output_i": "-16.35",
+    "output_tp": "-2.00",
+    "output_lra": "6.30",
+    "output_thresh": "-27.77",
+    "normalization_type": "dynamic",
+    "target_offset": "0.35"
+  },
+  "speech_speed_changed": false,
+  "human_auditioned": false,
+  "events": [
+    {
+      "time": 2.3,
+      "kind": "step",
+      "gain": 0.028,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 2.75,
+      "kind": "step",
+      "gain": 0.028,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 3.2,
+      "kind": "step",
+      "gain": 0.028,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 3.6500000000000004,
+      "kind": "step",
+      "gain": 0.028,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 4.1000000000000005,
+      "kind": "step",
+      "gain": 0.028,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 4.550000000000001,
+      "kind": "step",
+      "gain": 0.028,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 9.45,
+      "kind": "step",
+      "gain": 0.023,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 9.76,
+      "kind": "step",
+      "gain": 0.023,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 10.07,
+      "kind": "step",
+      "gain": 0.023,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 10.38,
+      "kind": "step",
+      "gain": 0.023,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 10.690000000000001,
+      "kind": "step",
+      "gain": 0.023,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 13.88,
+      "kind": "clip",
+      "gain": 0.035,
+      "source": "original local procedural Foley",
+      "purpose": "visible clip or button contact"
+    },
+    {
+      "time": 14.55,
+      "kind": "button",
+      "gain": 0.024,
+      "source": "original local procedural Foley",
+      "purpose": "visible clip or button contact"
+    },
+    {
+      "time": 14.57,
+      "kind": "step",
+      "gain": 0.018,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 15.02,
+      "kind": "step",
+      "gain": 0.018,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 15.469999999999999,
+      "kind": "step",
+      "gain": 0.018,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 15.919999999999998,
+      "kind": "step",
+      "gain": 0.018,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 16.369999999999997,
+      "kind": "step",
+      "gain": 0.018,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 16.819999999999997,
+      "kind": "step",
+      "gain": 0.018,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 17.269999999999996,
+      "kind": "step",
+      "gain": 0.018,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 17.719999999999995,
+      "kind": "step",
+      "gain": 0.018,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 18.169999999999995,
+      "kind": "step",
+      "gain": 0.018,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 18.619999999999994,
+      "kind": "step",
+      "gain": 0.018,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 19.069999999999993,
+      "kind": "step",
+      "gain": 0.018,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 19.519999999999992,
+      "kind": "step",
+      "gain": 0.018,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    },
+    {
+      "time": 19.96999999999999,
+      "kind": "step",
+      "gain": 0.018,
+      "source": "original local procedural Foley",
+      "purpose": "visible foot contact"
+    }
+  ]
+}

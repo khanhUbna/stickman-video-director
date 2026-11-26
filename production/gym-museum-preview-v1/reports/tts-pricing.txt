@@ -1,0 +1,3 @@
+https://developers.openai.com/api/docs/models/tts-1-hd
+Retrieved 2026-11-26
+poken text. The tts-1-hd model is optimized for high quality text-to-speech use cases. Use it with the Speech endpoint in the Audio API. Pricing Pricing is based on the number of tokens used, or other metrics based on the model type. For tool-specific models, like search and computer use, there’s a fee per tool call. See details in the pricing page . Pricing Use case / 1M tokens Speech generation Cost / 1M characters $30.00 Quick comparison Cost TTS-1 HD $ 30.00 TTS-1 $ 15.00 Modalities Text Input only Image Not supported Audio Output only Video Not supported Endpoints Live v1/live/sessions Chat Completions v1/chat/completions Responses v1/re
