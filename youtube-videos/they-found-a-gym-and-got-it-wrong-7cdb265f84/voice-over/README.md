@@ -1,0 +1,1 @@
+Text only; no audio recording or paid API call. Actor lines are in script/performance.json and the full Vietnamese translation in script/performance-vi.json. Keep English/Vietnamese performance text and later subtitle files separate. Creator script review precedes media production.

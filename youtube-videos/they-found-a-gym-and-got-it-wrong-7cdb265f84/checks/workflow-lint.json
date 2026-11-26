@@ -1,0 +1,284 @@
+{
+  "directory": "/workspace/stickman-video-director/youtube-videos/they-found-a-gym-and-got-it-wrong-7cdb265f84",
+  "spoken_words": 559,
+  "estimated_spoken_seconds_at_planning_rate": 239.6,
+  "blockers": [],
+  "warnings": [
+    "Upstream scriptcheck findings require editorial review; scores are not acceptance"
+  ],
+  "tool_reports": {
+    "hooks.json": {
+      "returncode": 0,
+      "result": [
+        {
+          "hook": "A man walks on a belt but never reaches the door. A future archaeologist thinks he knows why. He is wrong.",
+          "properties": {
+            "SPECIFICITY": 46,
+            "ADDRESS": 26,
+            "STAKES": 48,
+            "CURIOSITY": 58,
+            "BREVITY": 100
+          },
+          "verdict": 44,
+          "band": "WEAK",
+          "formula": "Contrarian Flip"
+        },
+        {
+          "hook": "In the year three thousand twenty six, archaeologists uncover a room where humans lifted heavy things, put them down, and lifted them again. A torture chamber.",
+          "properties": {
+            "SPECIFICITY": 100,
+            "ADDRESS": 26,
+            "STAKES": 36,
+            "CURIOSITY": 24,
+            "BREVITY": 86
+          },
+          "verdict": 42,
+          "band": "WEAK",
+          "formula": "Unclassified"
+        },
+        {
+          "hook": "Why would humans pay to lift something, put it down, and lift it again? A museum is about to make the same mistake.",
+          "properties": {
+            "SPECIFICITY": 40,
+            "ADDRESS": 26,
+            "STAKES": 22,
+            "CURIOSITY": 41,
+            "BREVITY": 100
+          },
+          "verdict": 36,
+          "band": "WEAK",
+          "formula": "The Question"
+        },
+        {
+          "hook": "They found a room full of human suffering. Then they found the membership fees.",
+          "properties": {
+            "SPECIFICITY": 40,
+            "ADDRESS": 26,
+            "STAKES": 22,
+            "CURIOSITY": 24,
+            "BREVITY": 100
+          },
+          "verdict": 34,
+          "band": "WEAK",
+          "formula": "Unclassified"
+        },
+        {
+          "hook": "These archaeologists think they found a torture chamber. The people in the recordings kept coming back.",
+          "properties": {
+            "SPECIFICITY": 40,
+            "ADDRESS": 26,
+            "STAKES": 22,
+            "CURIOSITY": 24,
+            "BREVITY": 100
+          },
+          "verdict": 34,
+          "band": "WEAK",
+          "formula": "Unclassified"
+        }
+      ]
+    },
+    "scriptcheck.json": {
+      "returncode": 1,
+      "result": {
+        "words": 559,
+        "paragraphs": 12,
+        "errors": [
+          "paragraph 2: 18 words (keep 30-75: one breath-group, one take)",
+          "paragraph 7: 19 words (keep 30-75: one breath-group, one take)",
+          "opening scores 44 on hookscore.py (need 60): 'In the year three thousand twenty six, archaeologists uncover a room w'"
+        ],
+        "warnings": []
+      }
+    },
+    "titles.json": {
+      "returncode": 0,
+      "result": [
+        {
+          "title": "Why Did Humans Pay to Lift Heavy Things?",
+          "chars": 40,
+          "score": 98,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "40 characters, inside the 60-character desktop cut",
+            "open question in the title",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Why Were the Humans Coming Back?",
+          "chars": 32,
+          "score": 98,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "32 characters, inside the 60-character desktop cut",
+            "open question in the title",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Future Archaeologists Discover a Gym",
+          "chars": 36,
+          "score": 94,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "36 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "The Museum Got Exercise Wrong",
+          "chars": 29,
+          "score": 94,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "29 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "A Treadmill Confused These Archaeologists",
+          "chars": 41,
+          "score": 80,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"A Treadmill Confused These...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "41 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "The Humans Paid for This?",
+          "chars": 25,
+          "score": 80,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "duplicate",
+              "thumbnail repeats the title on paid - the thumbnail should say what the title does not"
+            ]
+          ],
+          "good": [
+            "25 characters, inside the 60-character desktop cut",
+            "open question in the title"
+          ]
+        },
+        {
+          "title": "They Found a Gym. And Got It Wrong.",
+          "chars": 35,
+          "score": 76,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "duplicate",
+              "thumbnail repeats the title on they - the thumbnail should say what the title does not"
+            ]
+          ],
+          "good": [
+            "35 characters, inside the 60-character desktop cut"
+          ]
+        },
+        {
+          "title": "They Found the Membership Fees",
+          "chars": 30,
+          "score": 76,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "duplicate",
+              "thumbnail repeats the title on they - the thumbnail should say what the title does not"
+            ]
+          ],
+          "good": [
+            "30 characters, inside the 60-character desktop cut"
+          ]
+        },
+        {
+          "title": "They Thought the Gym Was a Torture Chamber",
+          "chars": 42,
+          "score": 62,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"They Thought the Gym Was a Torture...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "duplicate",
+              "thumbnail repeats the title on they - the thumbnail should say what the title does not"
+            ]
+          ],
+          "good": [
+            "42 characters, inside the 60-character desktop cut"
+          ]
+        },
+        {
+          "title": "They Misunderstood the Most Human Machine",
+          "chars": 41,
+          "score": 62,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"They Misunderstood the Most Human...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "duplicate",
+              "thumbnail repeats the title on they - the thumbnail should say what the title does not"
+            ]
+          ],
+          "good": [
+            "41 characters, inside the 60-character desktop cut"
+          ]
+        }
+      ]
+    }
+  },
+  "draft_bundle_complete": true,
+  "scientific_truth_verified_by_cli": false,
+  "script_approved": false,
+  "paid_API_calls": 0,
+  "note": "Evidence-field checks and editorial lint only; actual source reading, fact-checking and creator review remain necessary."
+}

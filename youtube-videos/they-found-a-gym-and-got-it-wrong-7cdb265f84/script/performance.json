@@ -1,0 +1,182 @@
+[
+  {
+    "scene": "A disturbing discovery",
+    "lines": [
+      {
+        "speaker": "NARRATOR",
+        "text": "In the year three thousand twenty six, archaeologists uncover a room where humans lifted heavy things, put them down, and lifted them again. One recording shows a woman struggling under a bar."
+      },
+      {
+        "speaker": "DR. VALE",
+        "text": "A torture chamber."
+      },
+      {
+        "speaker": "MINA",
+        "text": "Then why are there water bottles?"
+      },
+      {
+        "speaker": "DR. VALE",
+        "text": "To keep the victims alive."
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "He dictates the museum label. Mina keeps looking."
+      }
+    ]
+  },
+  {
+    "scene": "The escape machine",
+    "lines": [
+      {
+        "speaker": "NARRATOR",
+        "text": "Another recording shows a man walking on a moving belt. He takes step after step. He never reaches the door."
+      },
+      {
+        "speaker": "DR. VALE",
+        "text": "An escape prevention device."
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "But there are no restraints. People stop, drink water, talk, and leave. The woman from the first recording comes back another day. She appears to recognize the person supervising her."
+      },
+      {
+        "speaker": "MINA",
+        "text": "These are very relaxed prisoners."
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "Mina notices a photo tucked into the woman's bag. A little boy reaching up. Vale calls it irrelevant."
+      }
+    ]
+  },
+  {
+    "scene": "The receipt",
+    "lines": [
+      {
+        "speaker": "NARRATOR",
+        "text": "Mina finds a payment record. Then a signed agreement. Then a renewal."
+      },
+      {
+        "speaker": "DR. VALE",
+        "text": "They charged the prisoners?"
+      },
+      {
+        "speaker": "MINA",
+        "text": "They weren't prisoners. They signed up. And paid to come back."
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "Vale checks the document again. They paid to walk nowhere. Paid to lift things they didn't take home. Either the humans were irrational, or the researchers were missing the point."
+      }
+    ]
+  },
+  {
+    "scene": "The weights were changing",
+    "lines": [
+      {
+        "speaker": "NARRATOR",
+        "text": "Mina compares the woman's training records. The starting weights are lighter. Later entries show gradual changes. There are rest days. In another clip, a coach stops an exercise when it causes pain."
+      },
+      {
+        "speaker": "MINA",
+        "text": "If suffering was the goal, why stop?"
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "The records make more sense as training. Muscles work against resistance. With repeated training and recovery, they can become stronger. The challenge can increase gradually as capacity improves. The same difficult repetition isn't supposed to stay equally difficult forever."
+      }
+    ]
+  },
+  {
+    "scene": "A machine that goes nowhere",
+    "lines": [
+      {
+        "speaker": "NARRATOR",
+        "text": "The moving belt now gets a different explanation. Walking makes the legs work. Aerobic effort makes the heart beat faster and breathing increase. Regular training can improve fitness. The person may remain in the same place while their capacity changes over time."
+      },
+      {
+        "speaker": "DR. VALE",
+        "text": "So the machine wasn't trying to move the human."
+      },
+      {
+        "speaker": "MINA",
+        "text": "The human was using it to train."
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "Rest and manageable progression belong in that explanation. Pain isn't the target. One exhausting session isn't an instant upgrade."
+      }
+    ]
+  },
+  {
+    "scene": "The world outside",
+    "lines": [
+      {
+        "speaker": "NARRATOR",
+        "text": "Outside the building, recovered footage shows elevators, delivery vehicles, and people sitting at desks. Convenient machines could carry a load without making a person's muscles do that work. Inside, people deliberately chose physical effort."
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "The skills had ordinary uses. Climbing stairs. Carrying groceries. Staying able to do daily activities. People could also train at home or walk outdoors. This building gathered equipment, space, and coaching in one place."
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "Mina finds that same photo in the woman's training journal. Beside it, a handwritten goal. Keep picking up my grandson. Suddenly, the effort has a face."
+      },
+      {
+        "speaker": "MINA",
+        "text": "We found a gym."
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "Vale deletes his original label. Then he has an idea."
+      }
+    ]
+  },
+  {
+    "scene": "The new exhibit",
+    "lines": [
+      {
+        "speaker": "NARRATOR",
+        "text": "Their museum opens an interactive exhibition. Visitors try safe replicas with adjustable resistance. They walk on a belt. They lift manageable weights. There are instructions, rest areas, and towels. Vale watches someone put a weight down, smile, and ask to try again."
+      },
+      {
+        "speaker": "DR. VALE",
+        "text": "Excellent. They're engaging with history."
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "Then visitors start returning. Some bring friends. Mina arrives with a stack of requests."
+      },
+      {
+        "speaker": "MINA",
+        "text": "They want monthly passes."
+      }
+    ]
+  },
+  {
+    "scene": "The classification problem",
+    "lines": [
+      {
+        "speaker": "NARRATOR",
+        "text": "Vale looks across the room. Moving belts. Weights. Towels. People paying to exercise."
+      },
+      {
+        "speaker": "DR. VALE",
+        "text": "We've opened a gym."
+      },
+      {
+        "speaker": "MINA",
+        "text": "Should I update the sign?"
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "Vale watches the visitors for a moment. Then he reaches for a registration form."
+      },
+      {
+        "speaker": "DR. VALE",
+        "text": "First, do we get a staff discount?"
+      }
+    ]
+  }
+]

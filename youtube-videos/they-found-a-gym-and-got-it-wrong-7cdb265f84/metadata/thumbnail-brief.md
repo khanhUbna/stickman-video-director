@@ -1,0 +1,1 @@
+Future archaeologist large baffled face beside a clearly recognizable treadmill and a simple genericmembership card. Huge text THEY PAID?! Warm oldgym vs cool future researcher. Clear playfulfictional cartoon. No gore, torture injury, ruined body or fake documentary seal. No futuremuseum visitors, monthly museum passes or ending reveals. No image generated.

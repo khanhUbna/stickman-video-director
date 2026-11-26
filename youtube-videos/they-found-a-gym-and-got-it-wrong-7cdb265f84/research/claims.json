@@ -1,0 +1,154 @@
+[
+  {
+    "id": "C01",
+    "paragraph": 6,
+    "claim": "Muscles work against resistance.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:29–33",
+    "evidence_excerpt": "causes the body’s muscles to work or hold against an applied force or weight.",
+    "limitations": "Describes resistance exercise, not every movement or every form of exercise."
+  },
+  {
+    "id": "C02",
+    "paragraph": 6,
+    "claim": "With repeated training and recovery, muscles can become stronger.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1",
+      "S2"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:48–54; mayo.txt:154,170",
+    "evidence_excerpt": "muscle-strengthening and bone-strengthening activities overload muscles and bones, making them stronger. | To give your muscles time to recover, rest one full day between exercising each specific muscle group.",
+    "limitations": "“Can” is appropriately conditional. No individual outcome, dose, mechanism or recovery interval is prescribed in the narration."
+  },
+  {
+    "id": "C03",
+    "paragraph": 6,
+    "claim": "The challenge can increase gradually as capacity improves.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:56–58",
+    "evidence_excerpt": "Small, progressive changes in overload help the body adapt to the additional stresses while minimizing the risk of injury.",
+    "limitations": "Progression depends on individual ability and adaptation; this is not a guarantee of continual linear improvement."
+  },
+  {
+    "id": "C04",
+    "paragraph": 6,
+    "claim": "The same difficult repetition is not supposed to stay equally difficult forever.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S2"
+    ],
+    "evidence_locator": "mayo.txt:152,170",
+    "evidence_excerpt": "When you can easily do more repetitions of a certain exercise, gradually increase the weight or resistance. | As your muscle mass increases, you'll likely be able to lift weight more easily and for longer periods of time.",
+    "limitations": "Read as an informal description of potential adaptation to an unchanged task; not a promise that every exercise inevitably becomes easy."
+  },
+  {
+    "id": "C05",
+    "paragraph": 7,
+    "claim": "Walking makes the legs work.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:60–62",
+    "evidence_excerpt": "the physiologic benefits of walking are largely specific to the lower body and the cardiovascular system.",
+    "limitations": "General movement statement; no claims of equal effects on all muscles or systems."
+  },
+  {
+    "id": "C06",
+    "paragraph": 7,
+    "claim": "Aerobic effort makes the heart beat faster and breathing increase.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:8–12",
+    "evidence_excerpt": "Aerobic activity causes a person’s heart to beat faster, and they will breathe harder than normal.",
+    "limitations": "The narration specifies aerobic effort; it does not say every slow step produces a large heart-rate increase."
+  },
+  {
+    "id": "C07",
+    "paragraph": 7,
+    "claim": "Regular training can improve fitness and capacity over time, including on a treadmill.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:48–58",
+    "evidence_excerpt": "This increase in demand increases the efficiency and capacity of the lungs, heart, circulatory system, and exercising muscles.",
+    "limitations": "General training adaptation, not a treadmill-specific trial or a claim that standing on a stationary belt improves fitness. No exact timeline or guaranteed result."
+  },
+  {
+    "id": "C08",
+    "paragraph": 8,
+    "claim": "Rest and manageable progression belong in training.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1",
+      "S2"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:56–58,80–81; mayo.txt:154",
+    "evidence_excerpt": "it is important to increase the amount of physical activity gradually over a period of weeks to months. | To give your muscles time to recover, rest one full day between exercising each specific muscle group.",
+    "limitations": "Supports recovery and gradual progression generally. The script does not prescribe a universal schedule."
+  },
+  {
+    "id": "C09",
+    "paragraph": [
+      5,
+      8
+    ],
+    "claim": "Pain is not the training target; the fictional coach stops an exercise that causes pain.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S2"
+    ],
+    "evidence_locator": "mayo.txt:155",
+    "evidence_excerpt": "If a strength training exercise causes pain, stop the exercise.",
+    "limitations": "The coach scene is fictional; this record checks the physiological/safety principle only. Pain is not equated with ordinary exertion; no diagnosis or individualized prescription is made."
+  },
+  {
+    "id": "C10",
+    "paragraph": 8,
+    "claim": "One exhausting session is not an instant upgrade.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1",
+      "S2"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:56–58; mayo.txt:170",
+    "evidence_excerpt": "Once a person reaches a certain fitness level, he or she is able to progress to higher levels of physical activity by continued overload and adaptation. | As you continue strength training, you may notice improvement in your strength and physical function over time.",
+    "limitations": "Editorial shorthand for lasting strength/fitness adaptation requiring a process. It does not deny immediate health or mood benefits from a single activity session, or establish a minimum number of sessions."
+  },
+  {
+    "id": "C11",
+    "paragraph": 9,
+    "claim": "Training capacities have ordinary uses: stairs, groceries and maintaining daily function.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S2",
+      "S3"
+    ],
+    "evidence_locator": "mayo.txt:146; cdc.txt:104–109",
+    "evidence_excerpt": "It may improve your ability to do everyday activities | Everyday activities include climbing stairs, grocery shopping, or cleaning the house.",
+    "limitations": "Evidence supports general physical function; it does not guarantee any individual can lift a child or regain a lost ability. CDC functional-limitation comparison specifically concerns middle-aged or older adults."
+  },
+  {
+    "id": "C12",
+    "paragraph": 9,
+    "claim": "People can also train at home or walk outdoors.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1",
+      "S2"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:8–12,30–33; mayo.txt:158–159",
+    "evidence_excerpt": "Brisk walking, running, bicycling, jumping rope, and swimming are all examples. | You can do strength training at home or in the gym. | You can do many exercises with little or no equipment.",
+    "limitations": "Walking being possible outdoors is ordinary activity context; no claim that outdoor activity is superior or that every exercise suits every person. A gym membership is not necessary."
+  }
+]

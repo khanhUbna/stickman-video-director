@@ -1,0 +1,67 @@
+[
+  {
+    "hook": "A man walks on a belt but never reaches the door. A future archaeologist thinks he knows why. He is wrong.",
+    "properties": {
+      "SPECIFICITY": 46,
+      "ADDRESS": 26,
+      "STAKES": 48,
+      "CURIOSITY": 58,
+      "BREVITY": 100
+    },
+    "verdict": 44,
+    "band": "WEAK",
+    "formula": "Contrarian Flip"
+  },
+  {
+    "hook": "In the year three thousand twenty six, archaeologists uncover a room where humans lifted heavy things, put them down, and lifted them again. A torture chamber.",
+    "properties": {
+      "SPECIFICITY": 100,
+      "ADDRESS": 26,
+      "STAKES": 36,
+      "CURIOSITY": 24,
+      "BREVITY": 86
+    },
+    "verdict": 42,
+    "band": "WEAK",
+    "formula": "Unclassified"
+  },
+  {
+    "hook": "Why would humans pay to lift something, put it down, and lift it again? A museum is about to make the same mistake.",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 41,
+      "BREVITY": 100
+    },
+    "verdict": 36,
+    "band": "WEAK",
+    "formula": "The Question"
+  },
+  {
+    "hook": "They found a room full of human suffering. Then they found the membership fees.",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 24,
+      "BREVITY": 100
+    },
+    "verdict": 34,
+    "band": "WEAK",
+    "formula": "Unclassified"
+  },
+  {
+    "hook": "These archaeologists think they found a torture chamber. The people in the recordings kept coming back.",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 24,
+      "BREVITY": 100
+    },
+    "verdict": 34,
+    "band": "WEAK",
+    "formula": "Unclassified"
+  }
+]

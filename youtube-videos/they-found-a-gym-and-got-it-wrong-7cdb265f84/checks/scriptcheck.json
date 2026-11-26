@@ -1,0 +1,10 @@
+{
+  "words": 559,
+  "paragraphs": 12,
+  "errors": [
+    "paragraph 2: 18 words (keep 30-75: one breath-group, one take)",
+    "paragraph 7: 19 words (keep 30-75: one breath-group, one take)",
+    "opening scores 44 on hookscore.py (need 60): 'In the year three thousand twenty six, archaeologists uncover a room w'"
+  ],
+  "warnings": []
+}

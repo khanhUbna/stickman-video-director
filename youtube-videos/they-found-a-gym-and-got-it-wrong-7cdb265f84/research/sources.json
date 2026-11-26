@@ -1,0 +1,29 @@
+[
+  {
+    "id": "S1",
+    "title": "Physical Activity Guidelines for Americans,2ndedition",
+    "url": "https://odphp.health.gov/sites/default/files/2019-09/Physical_Activity_Guidelines_2nd_edition.pdf",
+    "kind": "US HHS evidence-based guidelines2018, primary policy/guideline document",
+    "access_status": "read",
+    "sections_read": "Printed29\u201330 aerobic/resistance;34 overload/progression/specificity; gradual activity progression; hhs-excerpts.txt",
+    "limitations": "Guideline synthesis, not a single experiment; individual capacity/health vary, no guaranteed result or exact adaptation timeline."
+  },
+  {
+    "id": "S2",
+    "title": "Mayo Clinic \u2014 Strength training: Get stronger, leaner, healthier",
+    "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/strength-training/art-20046670",
+    "kind": "Clinical educational guidance, updatedJune5,2026",
+    "access_status": "read",
+    "sections_read": "mayo.txt lines133\u2013170: daily function, rest, pain, form, gradual load and bodyweight/home alternatives",
+    "limitations": "No need prescribe doses. Pain is reason to stop, not marker of progress. No injury guarantees."
+  },
+  {
+    "id": "S3",
+    "title": "CDC \u2014 Benefits of Physical Activity",
+    "url": "https://www.cdc.gov/physical-activity-basics/benefits/index.html",
+    "kind": "Public health guidance",
+    "access_status": "read",
+    "sections_read": "cdc.txt musculoskeletal benefits/daily function, lines102\u2013109",
+    "limitations": "Supports general benefits, not specific fictional characters or universal reversal of functional limitation."
+  }
+]
