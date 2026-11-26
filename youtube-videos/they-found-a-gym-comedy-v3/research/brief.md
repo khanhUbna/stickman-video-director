@@ -1,0 +1,12 @@
+# Research and fiction brief — V3
+This is an original animated science comedy, not a true archaeological account. User rejected V2 as insufficiently dramatic. Keep a longer story but build escalating comic conflict around Vale's live demonstration and his need to correct a public claim. No paid services, recording or rendering authorized.
+
+Science scope, using actual saved institutional guidance previously retrieved in V2:
+- S1 HHS Physical Activity Guidelines 2018: resistance/muscles against force; overload and adaptation; small gradual progression relative to capacity; aerobic work raises heart rate/breathing and regular training improves capacity. Equipment locomotion is not necessary for exertion; treadmill application is explanatory inference, not a separate studied claim.
+- S2 Mayo Clinic strength training, saved June 2026 text: recovery; stop exercise that causes pain; strength/function can improve over time; home exercise possible.
+- S3 CDC physical activity benefits: strength/function and everyday activities, including stairs and groceries. Do not imply guaranteed outcomes for every person or a prescribed dose.
+No microtear, DOMS, dopamine, weight loss statistics, universal illness prevention or historical prevalence claims.
+
+Fiction: year 3026, archaeologists, room, banner, recordings, all character dialogue, membership card, monthly receipt, demonstration, robot, individuals' ordinary lives, cancellation-office rules and final exaggerated torture label are invented for this story. The institution is unnamed and fictional. The cancellation joke is not a claim about gym contract law or all real gyms; no real provider is named. Nothing is attributed to a real study. Payment frequency is an invented plot fact, not a statistic. Tiny print and back office are planted early; the final scene answers both clues.
+
+Causal guardrails: no instant improvement from Vale's short treadmill demonstration. The science uses repeated training over time; the robot example illustrates absence of muscular training stimulus in the observer, not zero health effects from every form of assistance. Do not shame ability, disability, age, weight or use of assistance. Pain isn't a goal. Slow supervised stage demonstration with a stop control and safety clip; no fall, ejection or speed escalation. Original recordings show chosen participation, stopped painful exercise and different starting challenge levels. A gym is optional, not a health requirement.

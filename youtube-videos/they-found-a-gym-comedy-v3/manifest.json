@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "title": "They Found a Gym. And Got It Wrong.",
+  "status": "draft",
+  "profile": {
+    "schema_version": 1,
+    "channel": "The Museum Got It Wrong",
+    "niches": [
+      "Fictional future archaeology",
+      "Everyday science",
+      "Animated comedy"
+    ],
+    "spoken_language": "Natural American English",
+    "review_language": "Vietnamese",
+    "duration_seconds": {
+      "min": 420,
+      "max": 600
+    },
+    "spoken_words": {
+      "min": 1000,
+      "max": 1300
+    },
+    "word_count_method": "Whitespace-separated words in spoken text only, matching upstream scriptcheck.py",
+    "planning_words_per_minute": 140,
+    "style": [
+      "Dramatic irony",
+      "Escalating character comedy",
+      "Evidence-led science"
+    ],
+    "framework": [
+      "Hook",
+      "Open Loop",
+      "Setup",
+      "Build-up",
+      "Climax",
+      "Payoff",
+      "Emotional Ending"
+    ],
+    "automatic_skills": [
+      "yt-research",
+      "yt-script",
+      "yt-package",
+      "yt-seo"
+    ],
+    "output_root": "youtube-videos",
+    "paid_apis_allowed": false,
+    "publication_allowed": false,
+    "script_approval_before_full_production": true,
+    "require_credible_scientific_sources": true,
+    "invent_research_or_statistics": false
+  },
+  "stages": {
+    "yt-research": "draft prepared; creator review pending",
+    "yt-script": "draft prepared; creator review pending",
+    "yt-package": "draft prepared; creator review pending",
+    "yt-seo": "draft prepared; creator review pending"
+  },
+  "script_approved": false,
+  "audio_generated": false,
+  "published": false,
+  "spoken_words": 1013,
+  "revision": "V3: full comic-conflict rewrite after creator rejected V2",
+  "previous_version": "../they-found-a-gym-long-v2",
+  "independent_science_review": "16 supported; no required science corrections; inference limitations documented"
+}

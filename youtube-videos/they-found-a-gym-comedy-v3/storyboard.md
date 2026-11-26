@@ -1,0 +1,16 @@
+# V3 storyboard — sequencing estimates only, no timed audio
+| Scene | Action / shot variety | Guardrail |
+|---|---|---|
+| 1 | Cold open: Vale practising his awful scream backstage, live-camera tally/countdown, Mina running with instructions. Freeze before demonstration, then flashback. | Danger is an apparent misunderstanding. Do not promise an injury. |
+| 2 | Excavation: brush dust, pull handles, peer beneath bar. Track briefly into back office to plant desk/chairs/drawer. Vale calls museum; match-cut banner hoisted while Mina still examines site. | Office visible without emphasizing final joke. |
+| 3 | Restore CCTV, spotter guards bar, lifter returns it safely, handshake. Entry/exit/return with shoes as three distinct beats. Vale scrubs back to strained expression. | Show secure supports, no drop on body; exertion is not injury. |
+| 4 | Locker opened, card and receipt handled, repeated reaction closeups. Mina flips card to tiny print; Vale photographs price, leaves; giant headline update. | This fictional gym's terms are plot artifacts, not real-world universal rules. |
+| 5 | Date comparison: coach removes plates initially; controlled lift on later date. Simple force arrows and recovery-date beats. Painful movement is stopped. | No instant body growth, tearing-fiber graphic, pain reward or synchronized identical ability. |
+| 6 | Treadmill foot contact, body weight transfer, user speed control. Brief heart/breathing illustration during brisk walking. Restore-machine assistant checks controls and rolls it to stage; Mina stays with card/manual. | Recovered machine inspected by fictional staff; no unsafe amateur restoration tutorial. |
+| 7 | Return to cold open. Vale on stationary belt; Mina attaches safety clip and identifies stop button, starts slow. Eyes braced shut, then confused look; prepared agonized face relaxes. Live headline behind him. | No launch, fall or acceleration gag. Body does the walking. |
+| 8 | Small weight handoff to robot, controlled lift/return. Vale checks his unchanged arm. Mina switches screen to restored outside-gym material. | No implication all assistance is bad or disability aids prevent health. No instant before-after. |
+| 9 | Stairs with groceries, walking with friend, coach holding door. Vale reaches for broadcast control, changes hand direction to treadmill stop. Headline correction begins while camera remains live. | Everyday outcomes are fictional illustrations, not guaranteed therapeutic results. |
+| 10 | Cut to completed exhibit construction. Crossed-out label, card displayed. Restore office recording: ordinary desk, escalating paperwork exchange. Vale picks up the old sign. | Fictional unnamed gym bureaucracy; satirical use of torture, no real victim allegation. |
+| 11 | Visitors pass correctly explained equipment, camera follows to same office from scene 2. Reveal old sign on door; Mina reacts; end. | No extra speech after punchline. |
+
+Every movement needs anticipation, real prop contact, supported feet and an outcome. Use physical action/reaction and location changes; do not substitute a static presenter or zoomed still. Archive material is an animation within the animation, not claimed real footage. Actual pacing is measured after approval and accepted audio.

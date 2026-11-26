@@ -1,0 +1,67 @@
+[
+ {
+  "hook": "You know what a gym is. Dr. Vale doesn't. And he's about to explain one on live television.",
+  "properties": {
+   "SPECIFICITY": 52,
+   "ADDRESS": 76,
+   "STAKES": 22,
+   "CURIOSITY": 41,
+   "BREVITY": 100
+  },
+  "verdict": 44,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "In two minutes, Dr. Vale will demonstrate an ancient torture machine on live television. He has rehearsed the screaming. He has not read the instructions. Mina has read them. That's why she's running.",
+  "properties": {
+   "SPECIFICITY": 74,
+   "ADDRESS": 26,
+   "STAKES": 36,
+   "CURIOSITY": 41,
+   "BREVITY": 37
+  },
+  "verdict": 36,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "An archaeologist calls this a torture chamber. His assistant calls it a gym. Unfortunately, he's already invited the television crew.",
+  "properties": {
+   "SPECIFICITY": 46,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 35,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "Dr. Vale has found the wrong room, written the wrong headline, and booked a live demonstration. Now he needs the evidence to cooperate.",
+  "properties": {
+   "SPECIFICITY": 46,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 35,
+  "band": "WEAK",
+  "formula": "Unclassified"
+ },
+ {
+  "hook": "They found heavy objects, exhausted humans, and a receipt. The receipt made their theory much worse.",
+  "properties": {
+   "SPECIFICITY": 40,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 24,
+   "BREVITY": 100
+  },
+  "verdict": 34,
+  "band": "WEAK",
+  "formula": "The Receipt"
+ }
+]

@@ -1,0 +1,300 @@
+{
+  "directory": "/workspace/stickman-video-director/youtube-videos/they-found-a-gym-comedy-v3",
+  "spoken_words": 1013,
+  "estimated_spoken_seconds_at_planning_rate": 434.1,
+  "blockers": [
+    "Spoken word count 1013; required 550–650"
+  ],
+  "warnings": [
+    "Upstream scriptcheck findings require editorial review; scores are not acceptance"
+  ],
+  "tool_reports": {
+    "hooks.json": {
+      "returncode": 0,
+      "result": [
+        {
+          "hook": "You know what a gym is. Dr. Vale doesn't. And he's about to explain one on live television.",
+          "properties": {
+            "SPECIFICITY": 52,
+            "ADDRESS": 76,
+            "STAKES": 22,
+            "CURIOSITY": 41,
+            "BREVITY": 100
+          },
+          "verdict": 44,
+          "band": "WEAK",
+          "formula": "Unclassified"
+        },
+        {
+          "hook": "In two minutes, Dr. Vale will demonstrate an ancient torture machine on live television. He has rehearsed the screaming. He has not read the instructions. Mina has read them. That's why she's running.",
+          "properties": {
+            "SPECIFICITY": 74,
+            "ADDRESS": 26,
+            "STAKES": 36,
+            "CURIOSITY": 41,
+            "BREVITY": 37
+          },
+          "verdict": 36,
+          "band": "WEAK",
+          "formula": "Unclassified"
+        },
+        {
+          "hook": "An archaeologist calls this a torture chamber. His assistant calls it a gym. Unfortunately, he's already invited the television crew.",
+          "properties": {
+            "SPECIFICITY": 46,
+            "ADDRESS": 26,
+            "STAKES": 22,
+            "CURIOSITY": 24,
+            "BREVITY": 100
+          },
+          "verdict": 35,
+          "band": "WEAK",
+          "formula": "Unclassified"
+        },
+        {
+          "hook": "Dr. Vale has found the wrong room, written the wrong headline, and booked a live demonstration. Now he needs the evidence to cooperate.",
+          "properties": {
+            "SPECIFICITY": 46,
+            "ADDRESS": 26,
+            "STAKES": 22,
+            "CURIOSITY": 24,
+            "BREVITY": 100
+          },
+          "verdict": 35,
+          "band": "WEAK",
+          "formula": "Unclassified"
+        },
+        {
+          "hook": "They found heavy objects, exhausted humans, and a receipt. The receipt made their theory much worse.",
+          "properties": {
+            "SPECIFICITY": 40,
+            "ADDRESS": 26,
+            "STAKES": 22,
+            "CURIOSITY": 24,
+            "BREVITY": 100
+          },
+          "verdict": 34,
+          "band": "WEAK",
+          "formula": "The Receipt"
+        }
+      ]
+    },
+    "scriptcheck.json": {
+      "returncode": 1,
+      "result": {
+        "words": 1013,
+        "paragraphs": 20,
+        "errors": [
+          "length 1013 words; target 550-650 (about 3-4 minutes)",
+          "paragraph 2: 29 words (keep 30-75: one breath-group, one take)",
+          "paragraph 4: 20 words (keep 30-75: one breath-group, one take)",
+          "paragraph 6: 10 words (keep 30-75: one breath-group, one take)",
+          "paragraph 10: 28 words (keep 30-75: one breath-group, one take)",
+          "paragraph 12: 19 words (keep 30-75: one breath-group, one take)",
+          "paragraph 14: 25 words (keep 30-75: one breath-group, one take)",
+          "paragraph 18: 7 words (keep 30-75: one breath-group, one take)",
+          "opening scores 40 on hookscore.py (need 60): 'In two minutes, Dr. Vale will demonstrate an ancient torture machine o'"
+        ],
+        "warnings": []
+      }
+    },
+    "titles.json": {
+      "returncode": 0,
+      "result": [
+        {
+          "title": "Why Did Humans Pay to Lift Heavy Things?",
+          "chars": 40,
+          "score": 98,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "40 characters, inside the 60-character desktop cut",
+            "open question in the title",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "An Archaeologist Tries a Treadmill",
+          "chars": 34,
+          "score": 94,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "34 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "This Archaeologist Should Have Read the Instructions",
+          "chars": 52,
+          "score": 80,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"This Archaeologist Should Have Read the...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "52 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Humans Paid for This?",
+          "chars": 21,
+          "score": 80,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "duplicate",
+              "thumbnail repeats the title on paid - the thumbnail should say what the title does not"
+            ]
+          ],
+          "good": [
+            "21 characters, inside the 60-character desktop cut",
+            "open question in the title"
+          ]
+        },
+        {
+          "title": "The Museum Put the Sign on the Wrong Door",
+          "chars": 41,
+          "score": 80,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"The Museum Put the Sign on the Wrong...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "41 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "The Gym That Confused Future Archaeologists",
+          "chars": 43,
+          "score": 80,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"The Gym That Confused Future...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "43 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "He Called It Torture. Then Tried It Live.",
+          "chars": 41,
+          "score": 80,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"He Called It Torture. Then Tried It...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "41 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "They Found a Gym. And Got It Wrong.",
+          "chars": 35,
+          "score": 76,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "duplicate",
+              "thumbnail repeats the title on they - the thumbnail should say what the title does not"
+            ]
+          ],
+          "good": [
+            "35 characters, inside the 60-character desktop cut"
+          ]
+        },
+        {
+          "title": "They Thought This Gym Was a Torture Chamber",
+          "chars": 43,
+          "score": 62,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"They Thought This Gym Was a Torture...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "duplicate",
+              "thumbnail repeats the title on they - the thumbnail should say what the title does not"
+            ]
+          ],
+          "good": [
+            "43 characters, inside the 60-character desktop cut"
+          ]
+        },
+        {
+          "title": "They Found a Gym Membership. Then Panicked.",
+          "chars": 43,
+          "score": 62,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"They Found a Gym Membership. Then...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "duplicate",
+              "thumbnail repeats the title on they - the thumbnail should say what the title does not"
+            ]
+          ],
+          "good": [
+            "43 characters, inside the 60-character desktop cut"
+          ]
+        }
+      ]
+    }
+  },
+  "draft_bundle_complete": false,
+  "scientific_truth_verified_by_cli": false,
+  "script_approved": false,
+  "paid_API_calls": 0,
+  "note": "Evidence-field checks and editorial lint only; actual source reading, fact-checking and creator review remain necessary."
+}

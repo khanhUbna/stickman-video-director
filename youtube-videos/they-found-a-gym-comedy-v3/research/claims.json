@@ -1,0 +1,178 @@
+[
+  {
+    "id": "C01",
+    "paragraph": 9,
+    "scene": "The thing that changed",
+    "claim": "Resistance makes muscles work against a load.",
+    "verdict": "SUPPORTED",
+    "source_ids": ["S1"],
+    "evidence_locator": "research/hhs-excerpts.txt lines 29-33",
+    "evidence_excerpt": "causes the body’s muscles to work\nor hold against an applied force or weight.",
+    "limitations": "General description of strengthening activity; no specific prescription. Current script/script-en.txt line 17."
+  },
+  {
+    "id": "C02",
+    "paragraph": 9,
+    "scene": "The thing that changed",
+    "claim": "Repeated training, with recovery, can make muscles stronger.",
+    "verdict": "SUPPORTED",
+    "source_ids": ["S1", "S2", "S3"],
+    "evidence_locator": "research/hhs-excerpts.txt lines 48-54; research/mayo.txt line 154; research/cdc.txt line 106",
+    "evidence_excerpt": "S1: The body’s structures and functions respond and adapt to these stresses. [...] muscle-strengthening and bone-strengthening activities overload\nmuscles and bones, making them stronger. S2: To give your muscles time to recover, rest one full day between exercising each specific muscle group. S3: Muscle-strengthening activities can help you increase or maintain muscle mass and strength.",
+    "limitations": "The script says can, not a guaranteed result; it does not prescribe a dose or say recovery alone causes strength gains. The fictional member's result is not a study result."
+  },
+  {
+    "id": "C03",
+    "paragraph": 9,
+    "scene": "The thing that changed",
+    "claim": "As capacity improves, a suitable challenge can increase gradually.",
+    "verdict": "SUPPORTED",
+    "source_ids": ["S1", "S2"],
+    "evidence_locator": "research/hhs-excerpts.txt lines 56-58; research/mayo.txt line 152",
+    "evidence_excerpt": "S1: Small, progressive\nchanges in overload help the body adapt to the additional stresses while minimizing the risk of injury. S2: When you can easily do more repetitions of a certain exercise, gradually increase the weight or resistance.",
+    "limitations": "Capacity-relative progression; no claim that every session must add weight or that gradual increases eliminate injury risk."
+  },
+  {
+    "id": "C04",
+    "paragraph": 9,
+    "scene": "The thing that changed",
+    "claim": "Progress takes time rather than coming from one terrible afternoon.",
+    "verdict": "SUPPORTED",
+    "source_ids": ["S1", "S2"],
+    "evidence_locator": "research/hhs-excerpts.txt lines 80-86; research/mayo.txt line 170",
+    "evidence_excerpt": "S1: increase the amount\nof physical activity gradually over a period of weeks to months. S2: As you continue strength training, you may notice improvement in your strength and physical function over time.",
+    "limitations": "Refers to training progress and capacity, not denial of possible acute effects of an activity bout. No exact time to an individual's strength improvement is claimed."
+  },
+  {
+    "id": "C05",
+    "paragraph": 9,
+    "scene": "The thing that changed",
+    "claim": "A challenge that was hard can become easier with training.",
+    "verdict": "SUPPORTED",
+    "source_ids": ["S2"],
+    "evidence_locator": "research/mayo.txt lines 152 and 170",
+    "evidence_excerpt": "When you can easily do more repetitions of a certain exercise, gradually increase the weight or resistance. [...] As your muscle mass increases, you'll likely be able to lift weight more easily and for longer periods of time.",
+    "limitations": "Possibility over time, not a promise that every exercise or person improves at the same rate. The recorded member's before/after event is original fiction."
+  },
+  {
+    "id": "C06",
+    "paragraph": 9,
+    "scene": "The thing that changed",
+    "claim": "People do not all start with the same challenge.",
+    "verdict": "SUPPORTED",
+    "source_ids": ["S1"],
+    "evidence_locator": "research/hhs-excerpts.txt lines 35-39, 71-74 and 92-95",
+    "evidence_excerpt": "how much weight or force is used relative to how much a person is able to lift; [...] The initial amount of activity should be at a light or\nmoderate intensity, for short periods of time [...] Initially, these activities can be\ndone just 1 day a week starting at a light or moderate level of effort.",
+    "limitations": "A capacity-relative explanation, not a population statistic or a particular starting-weight recommendation."
+  },
+  {
+    "id": "C07",
+    "paragraph": 9,
+    "scene": "The thing that changed",
+    "claim": "Pain is not the goal; the coach stops a painful movement.",
+    "verdict": "SUPPORTED",
+    "source_ids": ["S2"],
+    "evidence_locator": "research/mayo.txt lines 155-156",
+    "evidence_excerpt": "If a strength training exercise causes pain, stop the exercise. Consider using a lower weight or trying the exercise again in a few days.",
+    "limitations": "The fictional coach's action illustrates the guidance. The script does not equate ordinary exertion, pain and injury, or advise pushing through pain."
+  },
+  {
+    "id": "C08",
+    "paragraph": 10,
+    "scene": "The machine that went nowhere",
+    "claim": "Brisk walking makes the heart beat faster and breathing work harder.",
+    "verdict": "SUPPORTED",
+    "source_ids": ["S1"],
+    "evidence_locator": "research/hhs-excerpts.txt lines 8-12",
+    "evidence_excerpt": "Brisk walking,\nrunning, bicycling, jumping rope, and swimming are all\nexamples. Aerobic activity causes a person’s heart to beat faster, and they will breathe harder than normal.",
+    "limitations": "Brisk walking is the stated aerobic example. The later stage walk is explicitly slow and is not labeled moderate intensity or claimed to meet a weekly guideline. Current script/script-en.txt line 19."
+  },
+  {
+    "id": "C09",
+    "paragraph": 10,
+    "scene": "The machine that went nowhere",
+    "claim": "Regular aerobic activity can improve fitness over time.",
+    "verdict": "SUPPORTED",
+    "source_ids": ["S1"],
+    "evidence_locator": "research/hhs-excerpts.txt lines 48-58",
+    "evidence_excerpt": "aerobic physical activity places a stress on the cardiorespiratory system and muscles, requiring\nthe lungs to move more air and the heart to pump more blood and deliver it to the working muscles. This\nincrease in demand increases the efficiency and capacity of the lungs, heart, circulatory system, and\nexercising muscles.",
+    "limitations": "The narration explicitly says regular, can and over time; it does not promise an instant fitness gain from Vale's short demonstration."
+  },
+  {
+    "id": "C10",
+    "paragraph": 10,
+    "scene": "The machine that went nowhere",
+    "claim": "Moving across a room is not required for the body to be doing work; treadmill walking can be exercise.",
+    "verdict": "SUPPORTED",
+    "source_ids": ["S1"],
+    "evidence_locator": "research/hhs-excerpts.txt lines 8-12 and 30-33",
+    "evidence_excerpt": "the body’s large muscles move in a\nrhythmic manner for a sustained period of time. [...] causes the body’s muscles to work\nor hold against an applied force or weight.",
+    "limitations": "Supported explanatory inference: the source defines activity by muscle action, not room displacement. The saved excerpt does not separately name or study a treadmill. Work is ordinary physiological exertion here, not a quantified mechanics claim about net external displacement."
+  },
+  {
+    "id": "C11",
+    "paragraph": 14,
+    "scene": "A harder question",
+    "claim": "A robot lifting a load for a passive observer does not give the observer's muscles the lifting training stimulus.",
+    "verdict": "SUPPORTED",
+    "source_ids": ["S1"],
+    "evidence_locator": "research/hhs-excerpts.txt lines 30-33, 41-42 and 60-62",
+    "evidence_excerpt": "The effects of muscle-strengthening activity are limited to the muscles doing the work. [...] the benefits of physical activity are specific to the body systems that are doing\nthe work.",
+    "limitations": "Supported explanatory inference applied to the fictional robot demonstration. Vale watches passively; the claim does not apply to assisted exercise in which the person's muscles still work and does not deny benefits of mobility or disability aids. Current script/script-en.txt line 27."
+  },
+  {
+    "id": "C12",
+    "paragraph": 14,
+    "scene": "A harder question",
+    "claim": "Exercise asks the body to do work so it can adapt over time.",
+    "verdict": "SUPPORTED",
+    "source_ids": ["S1", "S2"],
+    "evidence_locator": "research/hhs-excerpts.txt lines 48-58; research/mayo.txt line 170",
+    "evidence_excerpt": "S1: The body’s structures and functions respond and adapt to these stresses. [...] Small, progressive\nchanges in overload help the body adapt to the additional stresses while minimizing the risk of injury. S2: you may notice improvement in your strength and physical function over time.",
+    "limitations": "General adaptation explanation without a molecular mechanism, exact timeline or guaranteed outcome."
+  },
+  {
+    "id": "C13",
+    "paragraph": 16,
+    "scene": "Outside the frame",
+    "claim": "Exercise can support everyday physical function, illustrated by steps and groceries.",
+    "verdict": "SUPPORTED",
+    "source_ids": ["S2", "S3"],
+    "evidence_locator": "research/mayo.txt line 146; research/cdc.txt lines 104-109",
+    "evidence_excerpt": "S2: Strength training can improve physical function, support balance and lower the risk of falls. It may improve your ability to do everyday activities [...] S3: Everyday activities include climbing stairs, grocery shopping, or cleaning the house. [...] Physically active middle-aged or older adults have a lower risk of functional limitations than people who are inactive.",
+    "limitations": "Mayo supplies the general can statement; CDC's specific comparison is for middle-aged or older adults and its multicomponent physical-function guidance is for older adults. Character scenes are fictional illustrations, not measured outcomes or proof that exercise caused a person's behavior. Current script/script-en.txt line 31."
+  },
+  {
+    "id": "C14",
+    "paragraph": 16,
+    "scene": "Outside the frame",
+    "claim": "People's needs, capacity and improvement vary.",
+    "verdict": "SUPPORTED",
+    "source_ids": ["S1", "S2", "S3"],
+    "evidence_locator": "research/hhs-excerpts.txt lines 35-36 and 56-58; research/mayo.txt lines 150 and 170; research/cdc.txt line 109",
+    "evidence_excerpt": "S1: how much weight or force is used relative to how much a person is able to lift [...] Once a person reaches a certain fitness level [...] S2: If you have a chronic condition or safety concerns, talk with your healthcare professional before beginning a strength training or aerobic fitness program. [...] you may notice improvement [...] over time. S3: Older adults need to include aerobic, muscle strengthening, and balance activities in their physical activity routines.",
+    "limitations": "Cautious scope statement consistent with capacity-relative guidance and population-specific recommendations. The script makes no claim about the amount or distribution of individual variation and makes no universal recovery or function promise."
+  },
+  {
+    "id": "C15",
+    "paragraph": 16,
+    "scene": "Outside the frame",
+    "claim": "A gym is one option; home exercises can count too.",
+    "verdict": "SUPPORTED",
+    "source_ids": ["S1", "S2"],
+    "evidence_locator": "research/mayo.txt lines 158-161; research/hhs-excerpts.txt lines 30-33",
+    "evidence_excerpt": "S2: You can do strength training at home or in the gym. [...] You can do many exercises with little or no equipment. Try pushups, pullups, planks, lunges and squats. S1: Muscle-strengthening activity can also be done\nby using elastic bands or body weight for resistance (climbing a tree or doing push-ups, for example).",
+    "limitations": "No gym membership is presented as necessary. Can count does not mean every home movement meets a prescribed intensity or weekly dose."
+  },
+  {
+    "id": "C16",
+    "paragraph": 16,
+    "scene": "Outside the frame",
+    "claim": "Outdoor activity can count as exercise too.",
+    "verdict": "SUPPORTED",
+    "source_ids": ["S1"],
+    "evidence_locator": "research/hhs-excerpts.txt lines 8-12, 26-27, 32-33 and 74-76",
+    "evidence_excerpt": "Brisk walking,\nrunning, bicycling, jumping rope, and swimming are all\nexamples. [...] All time\nspent in moderate- or vigorous-intensity physical activity counts toward meeting the key guidelines. [...] People likely gain\nsome health benefits even when they replace sitting time with light-intensity activity.",
+    "limitations": "Listed activities can be done outdoors; location does not itself determine intensity. The narration does not claim a casual short walk satisfies a whole weekly guideline or produces immediate fitness adaptation."
+  }
+]

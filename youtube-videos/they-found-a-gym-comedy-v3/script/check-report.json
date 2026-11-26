@@ -1,0 +1,15 @@
+{
+ "words": 1013,
+ "paragraphs": 20,
+ "errors": [
+  "paragraph 2: 29 words (keep 30-75: one breath-group, one take)",
+  "paragraph 4: 20 words (keep 30-75: one breath-group, one take)",
+  "paragraph 6: 10 words (keep 30-75: one breath-group, one take)",
+  "paragraph 10: 28 words (keep 30-75: one breath-group, one take)",
+  "paragraph 12: 19 words (keep 30-75: one breath-group, one take)",
+  "paragraph 14: 25 words (keep 30-75: one breath-group, one take)",
+  "paragraph 18: 7 words (keep 30-75: one breath-group, one take)",
+  "opening scores 40 on hookscore.py (need 60): 'In two minutes, Dr. Vale will demonstrate an ancient torture machine o'"
+ ],
+ "warnings": []
+}

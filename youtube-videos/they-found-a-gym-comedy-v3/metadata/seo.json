@@ -1,0 +1,14 @@
+{
+  "queries": [
+    "future archaeologists find a gym",
+    "animated science comedy about exercise",
+    "how strength training works"
+  ],
+  "positioning": "Browse-led fictional comedy first. First query is stated in opening description; secondary science query is served in body/source context rather than stuffed into title. These are proposed intents, not measured search volumes.",
+  "sources": [
+    "S1",
+    "S2",
+    "S3"
+  ],
+  "chapter_timing": "Pending actual audio; no timestamps invented."
+}

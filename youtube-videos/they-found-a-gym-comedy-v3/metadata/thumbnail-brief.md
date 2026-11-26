@@ -1,0 +1,2 @@
+# Thumbnail draft — not rendered
+Future archaeologist with a stunned expression holds a gym receipt beside an unmistakable dusty treadmill. Bright receipt, clear face, one belt silhouette. Text THEY PAID?! complements the title's mistaken-interpretation promise. No back office, paperwork gag or final sign placement. Strong foreground/background contrast, readable at small feed size. No injuries, shackles or gore. This is an illustrated fictional scene, not photographic evidence.

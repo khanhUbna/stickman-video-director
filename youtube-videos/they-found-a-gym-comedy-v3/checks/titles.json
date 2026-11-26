@@ -1,0 +1,190 @@
+[
+  {
+    "title": "Why Did Humans Pay to Lift Heavy Things?",
+    "chars": 40,
+    "score": 98,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "40 characters, inside the 60-character desktop cut",
+      "open question in the title",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "An Archaeologist Tries a Treadmill",
+    "chars": 34,
+    "score": 94,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "34 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "This Archaeologist Should Have Read the Instructions",
+    "chars": 52,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"This Archaeologist Should Have Read the...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "52 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "Humans Paid for This?",
+    "chars": 21,
+    "score": 80,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on paid - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "21 characters, inside the 60-character desktop cut",
+      "open question in the title"
+    ]
+  },
+  {
+    "title": "The Museum Put the Sign on the Wrong Door",
+    "chars": 41,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"The Museum Put the Sign on the Wrong...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "41 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "The Gym That Confused Future Archaeologists",
+    "chars": 43,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"The Gym That Confused Future...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "43 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "He Called It Torture. Then Tried It Live.",
+    "chars": 41,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"He Called It Torture. Then Tried It...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "41 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "They Found a Gym. And Got It Wrong.",
+    "chars": 35,
+    "score": 76,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on they - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "35 characters, inside the 60-character desktop cut"
+    ]
+  },
+  {
+    "title": "They Thought This Gym Was a Torture Chamber",
+    "chars": 43,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"They Thought This Gym Was a Torture...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on they - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "43 characters, inside the 60-character desktop cut"
+    ]
+  },
+  {
+    "title": "They Found a Gym Membership. Then Panicked.",
+    "chars": 43,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"They Found a Gym Membership. Then...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on they - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "43 characters, inside the 60-character desktop cut"
+    ]
+  }
+]
