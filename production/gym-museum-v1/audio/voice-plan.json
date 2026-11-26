@@ -1,0 +1,74 @@
+{
+  "model": "tts-1-hd",
+  "price_usd_per_million_characters": 30,
+  "pricing_source": "https://developers.openai.com/api/docs/models/tts-1-hd",
+  "requests": [
+    {
+      "id": "narrator-01",
+      "role": "NARRATOR",
+      "voice": "alloy",
+      "text": "In two minutes, Dr. Vale will demonstrate an ancient torture machine on live television. He has rehearsed the screaming. He has not read the instructions. Mina has read them. That's why she's running.\n\nTwo hours earlier, this was still supposed to be the greatest discovery of his career.\n\nThe year is three thousand twenty six. Under an old shopping center, Vale and Mina find a room full of heavy objects. There are handles to pull, platforms to push, and benches beneath enormous bars.\n\nHe peers into a smaller room at the back. A desk. Two plastic chairs. A locked drawer.\n\nHe calls the museum. A banner goes up before the dust has settled. ANCIENT CRUELTY. LIVE DEMONSTRATION TODAY.\n\nMina restores a security recording. A man lies beneath a bar. His face tightens. Another man stands over him.\n\nThe bar returns to its supports. The two men laugh and shake hands.\n\nMina advances the recording. People enter through the front door. They leave through the same door. One comes back carrying special shoes.\n\nInside a locker, Mina finds a membership card and a receipt. Vale stops talking. He reads the payment. Then the renewal. Then the payment again.\n\nShe turns the card over. There is a paragraph of tiny writing. Vale takes a photograph of the price and hurries away.\n\nAt the museum, his new headline is even larger. HUMANS PAID TO BE TORTURED.\n\nMina follows the same member through recordings made weeks apart. On the first day, his coach removes weight from the bar. On a later day, the man completes that exercise more easily.\n\nVale watches. The bar is still a bar. The person handling it has improved.\n\nResistance makes muscles work against a load. Repeated training, with recovery, can make them stronger. As capacity improves, a suitable challenge can increase gradually. Progress takes time. It isn't one terrible afternoon.\n\nA different clip shows the coach stopping a painful movement and changing the exercise.\n\nVale retreats to his strongest evidence. A treadmill. He points at the recording of a woman walking on it.\n\nBrisk walking makes the heart beat faster and breathing work harder. Regular aerobic activity can improve fitness over time. Moving across a room isn't required for the body to be doing work.\n\nA museum assistant wheels the restored treadmill toward the demonstration stage. Vale follows it. Mina stays behind to finish reading the card.\n\nNow the cameras are ready. The banner is enormous. Vale steps onto the stationary belt. He raises a solemn hand.\n\nMina runs onto the stage.\n\nShe shows him the stop control, attaches the clip, and starts the belt at a slow walking pace. Vale grips the rails, expecting catastrophe. He takes a step. Then another.\n\nHe lowers his prepared expression of agony. Behind him, his own headline fills the screen.\n\nMina picks up a small demonstration weight. A museum robot takes it, lifts it, and returns it to the stand.\n\nVale looks at his arm. Then at the robot.\n\nA machine can move a load for you. That doesn't give your muscles the training stimulus. Exercise asks your body to do the work so it can adapt over time.\n\nShe puts the member's recordings on the screen. This time, she includes what happened outside the gym.\n\nThe man carries groceries up steps. The woman from the treadmill takes a walk with a friend. The coach holds the door while someone leaves, tired but laughing.",
+      "characters": 3349,
+      "estimated_usd": 0.10047,
+      "text_sha256": "b10d49504ebbfe005fad699cc44770361093d9600236efb030fc2eda9770d6c7"
+    },
+    {
+      "id": "narrator-02",
+      "role": "NARRATOR",
+      "voice": "alloy",
+      "text": "Exercise can support everyday physical function. What people need, what they can do, and how they improve varies. A gym is one option. Home exercises and outdoor activity can count too.\n\nVale looks from the ordinary lives on the screen to the sensational headline above him. The broadcast is still live. Vale reaches toward the broadcast control. He could stop the feed. Instead, he moves his hand to the treadmill's stop button.\n\nLater, the new exhibit is almost ready. Vale has crossed out TORTURE CHAMBER and written GYM. Mina puts the membership card beside it.\n\nShe restores one final recording. The member walks up to the office desk.\n\nVale slowly picks up his discarded sign.\n\nOn opening day, visitors pass the weights, the treadmill, and the recordings explaining how people trained. At the back is a reconstructed office. A desk. Two plastic chairs. A locked drawer.\n\nAbove its door, Vale has hung his original sign.\n\nIn the end, Dr. Vale did discover a torture chamber. He'd just been pointing at the wrong room.",
+      "characters": 1022,
+      "estimated_usd": 0.03066,
+      "text_sha256": "ba019b7f7d43f2d8a0e0b8d40fef8cc05d5a7c22b40d5910affb7c76a5e7534a"
+    },
+    {
+      "id": "vale-01",
+      "role": "VALE",
+      "voice": "onyx",
+      "text": "A torture chamber.\n\nTraining to do what? They lift the object, then put it exactly where it was.\n\nWe'll examine that later.\n\nThen look quickly.\n\nThere. A confession.\n\nComplicated society.\n\nPlay the part with the screaming again.\n\nThey paid?\n\nFor the suffering?\n\nThen why is there a heavier weight?\n\nExplain why they trapped her on a road.\n\nThey invented vehicles to avoid walking. Then purchased walking?\n\nToday, I will experience what these people endured.\n\nWhen does the torture begin?\n\nThen why not send a machine to lift the weights?\n\nSo they came here to make things outside this room easier.\n\nWe need to change the sign.\n\nThen what was in the little office?",
+      "characters": 663,
+      "estimated_usd": 0.01989,
+      "text_sha256": "fa14b007d32b0a013266812bd5c5a6dbe6130e237f2c4c72be442e6d799c66cc"
+    },
+    {
+      "id": "mina-01",
+      "role": "MINA",
+      "voice": "nova",
+      "text": "Or a training room.\n\nWe haven't finished looking.\n\nThat's encouragement.\n\nThey can leave. They bring equipment. They appear to want to be here.\n\nEvery month.\n\nFor something. Let's find out what.\n\nYou found one new fact and made the conclusion worse.\n\nWatch him. Not the metal.\n\nThey were training.\n\nA challenge that was hard can become easier. That doesn't mean everyone starts with the same one.\n\nAnd pain isn't the goal.\n\nShe controls the speed. She's exercising.\n\nYou're beginning to understand the species.\n\nWait. You haven't attached the safety clip.\n\nIt doesn't have to.\n\nDid that train your muscles?\n\nThey weren't paying because the metal needed moving.\n\nSome did. And some probably just liked coming.\n\nRemember the tiny writing?\n\nYou finally found somewhere for it.",
+      "characters": 773,
+      "estimated_usd": 0.02319,
+      "text_sha256": "2c2147d617363df483a967eb439b76a2be21a15d811ef30e7f19513ac1068146"
+    },
+    {
+      "id": "coach-01",
+      "role": "COACH",
+      "voice": "echo",
+      "text": "One more.",
+      "characters": 9,
+      "estimated_usd": 0.00027,
+      "text_sha256": "805c04ed6bb57d8eb57b394af4c9f702e5b04f6937c4726702c3c011a28a9c05"
+    },
+    {
+      "id": "member-01",
+      "role": "MEMBER",
+      "voice": "echo",
+      "text": "I'd like to cancel.\n\nThe one on the website?\n\nCan I request it here?",
+      "characters": 68,
+      "estimated_usd": 0.00204,
+      "text_sha256": "3096c3e473042bc5756ad49bdfc5628a606b4879e681fd27bfc2984e4ab9c60f"
+    },
+    {
+      "id": "clerk-01",
+      "role": "CLERK",
+      "voice": "fable",
+      "text": "Of course. Did you bring the form?\n\nThe one you request by mail.\n\nOnline.",
+      "characters": 73,
+      "estimated_usd": 0.00219,
+      "text_sha256": "078a7627054e8738adfd5f1c5bc90350a204e333f245cfeab28b3df54a679998"
+    }
+  ],
+  "estimated_usd": 0.17871,
+  "proposed_cap_usd": 0.2,
+  "authorized": false,
+  "no_automatic_retry": true
+}

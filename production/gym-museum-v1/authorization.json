@@ -1,0 +1,17 @@
+{
+  "script_approved": true,
+  "media_requested": true,
+  "paid_tts_authorized": false,
+  "maximum_usd_proposed": 0.2,
+  "purpose": "New English 2D gym museum film only",
+  "model": "tts-1-hd",
+  "voices": {
+    "NARRATOR": "alloy",
+    "VALE": "onyx",
+    "MINA": "nova",
+    "COACH": "echo",
+    "MEMBER": "echo",
+    "CLERK": "fable"
+  },
+  "automatic_retry": false
+}

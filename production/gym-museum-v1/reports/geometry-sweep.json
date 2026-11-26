@@ -1,0 +1,7 @@
+{
+  "sampled_frames": 560,
+  "all_80_utterances_sampled": true,
+  "arm_leg_lengths_enforced": true,
+  "unreachable_ik_errors": 0,
+  "scope": "technical kinematic feasibility only, not creative acceptance"
+}

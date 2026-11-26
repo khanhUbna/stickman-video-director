@@ -1,0 +1,1269 @@
+{
+  "duration": 408.89111111111094,
+  "actual_audio_timing": false,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "shots": [
+    {
+      "id": "s01-l01-v1",
+      "turn": 0,
+      "scene": 0,
+      "mode": "opening",
+      "start": 0.0,
+      "end": 4.180740740740741,
+      "part": 0,
+      "parts": 3
+    },
+    {
+      "id": "s01-l01-v2",
+      "turn": 0,
+      "scene": 0,
+      "mode": "opening",
+      "start": 4.180740740740741,
+      "end": 8.361481481481482,
+      "part": 1,
+      "parts": 3
+    },
+    {
+      "id": "s01-l01-v3",
+      "turn": 0,
+      "scene": 0,
+      "mode": "opening",
+      "start": 8.361481481481482,
+      "end": 12.542222222222222,
+      "part": 2,
+      "parts": 3
+    },
+    {
+      "id": "s01-l02-v1",
+      "turn": 1,
+      "scene": 0,
+      "mode": "dig",
+      "start": 12.542222222222222,
+      "end": 15.77,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s01-l02-v2",
+      "turn": 1,
+      "scene": 0,
+      "mode": "dig",
+      "start": 15.77,
+      "end": 18.997777777777777,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s02-l01-v1",
+      "turn": 2,
+      "scene": 1,
+      "mode": "dig",
+      "start": 18.997777777777777,
+      "end": 23.42543209876543,
+      "part": 0,
+      "parts": 3
+    },
+    {
+      "id": "s02-l01-v2",
+      "turn": 2,
+      "scene": 1,
+      "mode": "dig",
+      "start": 23.42543209876543,
+      "end": 27.853086419753083,
+      "part": 1,
+      "parts": 3
+    },
+    {
+      "id": "s02-l01-v3",
+      "turn": 2,
+      "scene": 1,
+      "mode": "dig",
+      "start": 27.853086419753083,
+      "end": 32.28074074074074,
+      "part": 2,
+      "parts": 3
+    },
+    {
+      "id": "s02-l02-v1",
+      "turn": 3,
+      "scene": 1,
+      "mode": "vale",
+      "start": 32.28074074074074,
+      "end": 33.71185185185185,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s02-l03-v1",
+      "turn": 4,
+      "scene": 1,
+      "mode": "mina",
+      "start": 33.71185185185185,
+      "end": 35.51333333333333,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s02-l04-v1",
+      "turn": 5,
+      "scene": 1,
+      "mode": "bar",
+      "start": 35.51333333333333,
+      "end": 38.4511111111111,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s02-l04-v2",
+      "turn": 5,
+      "scene": 1,
+      "mode": "bar",
+      "start": 38.4511111111111,
+      "end": 41.388888888888886,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s02-l05-v1",
+      "turn": 6,
+      "scene": 1,
+      "mode": "office",
+      "start": 41.388888888888886,
+      "end": 44.697037037037035,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s02-l05-v2",
+      "turn": 6,
+      "scene": 1,
+      "mode": "office",
+      "start": 44.697037037037035,
+      "end": 48.005185185185184,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s02-l06-v1",
+      "turn": 7,
+      "scene": 1,
+      "mode": "vale",
+      "start": 48.005185185185184,
+      "end": 49.806666666666665,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s02-l07-v1",
+      "turn": 8,
+      "scene": 1,
+      "mode": "banner",
+      "start": 49.806666666666665,
+      "end": 53.3,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s02-l07-v2",
+      "turn": 8,
+      "scene": 1,
+      "mode": "banner",
+      "start": 53.3,
+      "end": 56.79333333333333,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s02-l08-v1",
+      "turn": 9,
+      "scene": 1,
+      "mode": "mina",
+      "start": 56.79333333333333,
+      "end": 58.59481481481481,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s02-l09-v1",
+      "turn": 10,
+      "scene": 1,
+      "mode": "vale",
+      "start": 58.59481481481481,
+      "end": 60.60592592592592,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s03-l01-v1",
+      "turn": 11,
+      "scene": 2,
+      "mode": "bench",
+      "start": 60.60592592592592,
+      "end": 64.28444444444445,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s03-l01-v2",
+      "turn": 11,
+      "scene": 2,
+      "mode": "bench",
+      "start": 64.28444444444445,
+      "end": 67.96296296296296,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s03-l02-v1",
+      "turn": 12,
+      "scene": 2,
+      "mode": "bench",
+      "start": 67.96296296296296,
+      "end": 69.08296296296297,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s03-l03-v1",
+      "turn": 13,
+      "scene": 2,
+      "mode": "vale",
+      "start": 69.08296296296297,
+      "end": 70.51407407407407,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s03-l04-v1",
+      "turn": 14,
+      "scene": 2,
+      "mode": "mina",
+      "start": 70.51407407407407,
+      "end": 71.63407407407408,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s03-l05-v1",
+      "turn": 15,
+      "scene": 2,
+      "mode": "handshake",
+      "start": 71.63407407407408,
+      "end": 74.2014814814815,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s03-l05-v2",
+      "turn": 15,
+      "scene": 2,
+      "mode": "handshake",
+      "start": 74.2014814814815,
+      "end": 76.7688888888889,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s03-l06-v1",
+      "turn": 16,
+      "scene": 2,
+      "mode": "vale",
+      "start": 76.7688888888889,
+      "end": 77.8888888888889,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s03-l07-v1",
+      "turn": 17,
+      "scene": 2,
+      "mode": "entry",
+      "start": 77.8888888888889,
+      "end": 82.12296296296297,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s03-l07-v2",
+      "turn": 17,
+      "scene": 2,
+      "mode": "entry",
+      "start": 82.12296296296297,
+      "end": 86.35703703703705,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s03-l08-v1",
+      "turn": 18,
+      "scene": 2,
+      "mode": "mina",
+      "start": 86.35703703703705,
+      "end": 88.92444444444445,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s03-l08-v2",
+      "turn": 18,
+      "scene": 2,
+      "mode": "mina",
+      "start": 88.92444444444445,
+      "end": 91.49185185185186,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s03-l09-v1",
+      "turn": 19,
+      "scene": 2,
+      "mode": "rewind",
+      "start": 91.49185185185186,
+      "end": 94.98444444444445,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s04-l01-v1",
+      "turn": 20,
+      "scene": 3,
+      "mode": "receipt",
+      "start": 94.98444444444445,
+      "end": 99.77407407407408,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s04-l01-v2",
+      "turn": 20,
+      "scene": 3,
+      "mode": "receipt",
+      "start": 99.77407407407408,
+      "end": 104.56370370370371,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s04-l02-v1",
+      "turn": 21,
+      "scene": 3,
+      "mode": "receipt",
+      "start": 104.56370370370371,
+      "end": 105.68370370370371,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s04-l03-v1",
+      "turn": 22,
+      "scene": 3,
+      "mode": "mina",
+      "start": 105.68370370370371,
+      "end": 106.80370370370372,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s04-l04-v1",
+      "turn": 23,
+      "scene": 3,
+      "mode": "vale",
+      "start": 106.80370370370372,
+      "end": 108.23481481481483,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s04-l05-v1",
+      "turn": 24,
+      "scene": 3,
+      "mode": "mina",
+      "start": 108.23481481481483,
+      "end": 110.77703703703705,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s04-l06-v1",
+      "turn": 25,
+      "scene": 3,
+      "mode": "fineprint",
+      "start": 110.77703703703705,
+      "end": 115.01111111111112,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s04-l06-v2",
+      "turn": 25,
+      "scene": 3,
+      "mode": "fineprint",
+      "start": 115.01111111111112,
+      "end": 119.24518518518519,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s04-l07-v1",
+      "turn": 26,
+      "scene": 3,
+      "mode": "banner",
+      "start": 119.24518518518519,
+      "end": 121.99777777777778,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s04-l07-v2",
+      "turn": 26,
+      "scene": 3,
+      "mode": "banner",
+      "start": 121.99777777777778,
+      "end": 124.75037037037038,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s04-l08-v1",
+      "turn": 27,
+      "scene": 3,
+      "mode": "mina",
+      "start": 124.75037037037038,
+      "end": 129.35407407407408,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s05-l01-v1",
+      "turn": 28,
+      "scene": 4,
+      "mode": "progress",
+      "start": 129.35407407407408,
+      "end": 133.41135802469137,
+      "part": 0,
+      "parts": 3
+    },
+    {
+      "id": "s05-l01-v2",
+      "turn": 28,
+      "scene": 4,
+      "mode": "progress",
+      "start": 133.41135802469137,
+      "end": 137.46864197530863,
+      "part": 1,
+      "parts": 3
+    },
+    {
+      "id": "s05-l01-v3",
+      "turn": 28,
+      "scene": 4,
+      "mode": "progress",
+      "start": 137.46864197530863,
+      "end": 141.52592592592592,
+      "part": 2,
+      "parts": 3
+    },
+    {
+      "id": "s05-l02-v1",
+      "turn": 29,
+      "scene": 4,
+      "mode": "mina",
+      "start": 141.52592592592592,
+      "end": 143.69777777777776,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s05-l03-v1",
+      "turn": 30,
+      "scene": 4,
+      "mode": "progress",
+      "start": 143.69777777777776,
+      "end": 146.45037037037036,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s05-l03-v2",
+      "turn": 30,
+      "scene": 4,
+      "mode": "progress",
+      "start": 146.45037037037036,
+      "end": 149.20296296296294,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s05-l04-v1",
+      "turn": 31,
+      "scene": 4,
+      "mode": "mina",
+      "start": 149.20296296296294,
+      "end": 150.63407407407405,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s05-l05-v1",
+      "turn": 32,
+      "scene": 4,
+      "mode": "adaptation",
+      "start": 150.63407407407405,
+      "end": 154.69135802469134,
+      "part": 0,
+      "parts": 3
+    },
+    {
+      "id": "s05-l05-v2",
+      "turn": 32,
+      "scene": 4,
+      "mode": "adaptation",
+      "start": 154.69135802469134,
+      "end": 158.7486419753086,
+      "part": 1,
+      "parts": 3
+    },
+    {
+      "id": "s05-l05-v3",
+      "turn": 32,
+      "scene": 4,
+      "mode": "adaptation",
+      "start": 158.7486419753086,
+      "end": 162.8059259259259,
+      "part": 2,
+      "parts": 3
+    },
+    {
+      "id": "s05-l06-v1",
+      "turn": 33,
+      "scene": 4,
+      "mode": "vale",
+      "start": 162.8059259259259,
+      "end": 165.7185185185185,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s05-l07-v1",
+      "turn": 34,
+      "scene": 4,
+      "mode": "progress",
+      "start": 165.7185185185185,
+      "end": 169.02666666666664,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s05-l07-v2",
+      "turn": 34,
+      "scene": 4,
+      "mode": "progress",
+      "start": 169.02666666666664,
+      "end": 172.3348148148148,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s05-l08-v1",
+      "turn": 35,
+      "scene": 4,
+      "mode": "painstop",
+      "start": 172.3348148148148,
+      "end": 175.0874074074074,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s05-l08-v2",
+      "turn": 35,
+      "scene": 4,
+      "mode": "painstop",
+      "start": 175.0874074074074,
+      "end": 177.83999999999997,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s05-l09-v1",
+      "turn": 36,
+      "scene": 4,
+      "mode": "mina",
+      "start": 177.83999999999997,
+      "end": 180.59185185185183,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s06-l01-v1",
+      "turn": 37,
+      "scene": 5,
+      "mode": "belt",
+      "start": 180.59185185185183,
+      "end": 184.27037037037036,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s06-l01-v2",
+      "turn": 37,
+      "scene": 5,
+      "mode": "belt",
+      "start": 184.27037037037036,
+      "end": 187.94888888888886,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s06-l02-v1",
+      "turn": 38,
+      "scene": 5,
+      "mode": "vale",
+      "start": 187.94888888888886,
+      "end": 191.23185185185181,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s06-l03-v1",
+      "turn": 39,
+      "scene": 5,
+      "mode": "mina",
+      "start": 191.23185185185181,
+      "end": 193.77407407407404,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s06-l04-v1",
+      "turn": 40,
+      "scene": 5,
+      "mode": "cardio",
+      "start": 193.77407407407404,
+      "end": 197.83135802469133,
+      "part": 0,
+      "parts": 3
+    },
+    {
+      "id": "s06-l04-v2",
+      "turn": 40,
+      "scene": 5,
+      "mode": "cardio",
+      "start": 197.83135802469133,
+      "end": 201.8886419753086,
+      "part": 1,
+      "parts": 3
+    },
+    {
+      "id": "s06-l04-v3",
+      "turn": 40,
+      "scene": 5,
+      "mode": "cardio",
+      "start": 201.8886419753086,
+      "end": 205.94592592592588,
+      "part": 2,
+      "parts": 3
+    },
+    {
+      "id": "s06-l05-v1",
+      "turn": 41,
+      "scene": 5,
+      "mode": "vale",
+      "start": 205.94592592592588,
+      "end": 209.5992592592592,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s06-l06-v1",
+      "turn": 42,
+      "scene": 5,
+      "mode": "mina",
+      "start": 209.5992592592592,
+      "end": 212.14148148148143,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s06-l07-v1",
+      "turn": 43,
+      "scene": 5,
+      "mode": "move_machine",
+      "start": 212.14148148148143,
+      "end": 216.6655555555555,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s06-l07-v2",
+      "turn": 43,
+      "scene": 5,
+      "mode": "move_machine",
+      "start": 216.6655555555555,
+      "end": 221.1896296296296,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s07-l01-v1",
+      "turn": 44,
+      "scene": 6,
+      "mode": "stage",
+      "start": 221.1896296296296,
+      "end": 225.05333333333328,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s07-l01-v2",
+      "turn": 44,
+      "scene": 6,
+      "mode": "stage",
+      "start": 225.05333333333328,
+      "end": 228.917037037037,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s07-l02-v1",
+      "turn": 45,
+      "scene": 6,
+      "mode": "stage",
+      "start": 228.917037037037,
+      "end": 232.19999999999996,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s07-l03-v1",
+      "turn": 46,
+      "scene": 6,
+      "mode": "run",
+      "start": 232.19999999999996,
+      "end": 234.3718518518518,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s07-l04-v1",
+      "turn": 47,
+      "scene": 6,
+      "mode": "safety",
+      "start": 234.3718518518518,
+      "end": 237.2844444444444,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s07-l05-v1",
+      "turn": 48,
+      "scene": 6,
+      "mode": "clip",
+      "start": 237.2844444444444,
+      "end": 241.09481481481478,
+      "part": 0,
+      "parts": 3
+    },
+    {
+      "id": "s07-l05-v2",
+      "turn": 48,
+      "scene": 6,
+      "mode": "clip",
+      "start": 241.09481481481478,
+      "end": 244.90518518518513,
+      "part": 1,
+      "parts": 3
+    },
+    {
+      "id": "s07-l05-v3",
+      "turn": 48,
+      "scene": 6,
+      "mode": "clip",
+      "start": 244.90518518518513,
+      "end": 248.7155555555555,
+      "part": 2,
+      "parts": 3
+    },
+    {
+      "id": "s07-l06-v1",
+      "turn": 49,
+      "scene": 6,
+      "mode": "walk",
+      "start": 248.7155555555555,
+      "end": 250.88740740740735,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s07-l07-v1",
+      "turn": 50,
+      "scene": 6,
+      "mode": "walk",
+      "start": 250.88740740740735,
+      "end": 252.68888888888884,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s07-l08-v1",
+      "turn": 51,
+      "scene": 6,
+      "mode": "reaction",
+      "start": 252.68888888888884,
+      "end": 255.91666666666663,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s07-l08-v2",
+      "turn": 51,
+      "scene": 6,
+      "mode": "reaction",
+      "start": 255.91666666666663,
+      "end": 259.1444444444444,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s08-l01-v1",
+      "turn": 52,
+      "scene": 7,
+      "mode": "vale",
+      "start": 259.1444444444444,
+      "end": 263.1681481481481,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s08-l02-v1",
+      "turn": 53,
+      "scene": 7,
+      "mode": "robot",
+      "start": 263.1681481481481,
+      "end": 267.0318518518518,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s08-l02-v2",
+      "turn": 53,
+      "scene": 7,
+      "mode": "robot",
+      "start": 267.0318518518518,
+      "end": 270.89555555555546,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s08-l03-v1",
+      "turn": 54,
+      "scene": 7,
+      "mode": "mina",
+      "start": 270.89555555555546,
+      "end": 273.0674074074073,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s08-l04-v1",
+      "turn": 55,
+      "scene": 7,
+      "mode": "robot",
+      "start": 273.0674074074073,
+      "end": 276.7207407407406,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s08-l05-v1",
+      "turn": 56,
+      "scene": 7,
+      "mode": "stimulus",
+      "start": 276.7207407407406,
+      "end": 280.531111111111,
+      "part": 0,
+      "parts": 3
+    },
+    {
+      "id": "s08-l05-v2",
+      "turn": 56,
+      "scene": 7,
+      "mode": "stimulus",
+      "start": 280.531111111111,
+      "end": 284.34148148148137,
+      "part": 1,
+      "parts": 3
+    },
+    {
+      "id": "s08-l05-v3",
+      "turn": 56,
+      "scene": 7,
+      "mode": "stimulus",
+      "start": 284.34148148148137,
+      "end": 288.15185185185175,
+      "part": 2,
+      "parts": 3
+    },
+    {
+      "id": "s08-l06-v1",
+      "turn": 57,
+      "scene": 7,
+      "mode": "mina",
+      "start": 288.15185185185175,
+      "end": 291.43481481481473,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s08-l07-v1",
+      "turn": 58,
+      "scene": 7,
+      "mode": "screen",
+      "start": 291.43481481481473,
+      "end": 295.03296296296287,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s08-l07-v2",
+      "turn": 58,
+      "scene": 7,
+      "mode": "screen",
+      "start": 295.03296296296287,
+      "end": 298.631111111111,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s09-l01-v1",
+      "turn": 59,
+      "scene": 8,
+      "mode": "outside",
+      "start": 298.631111111111,
+      "end": 302.19456790123445,
+      "part": 0,
+      "parts": 3
+    },
+    {
+      "id": "s09-l01-v2",
+      "turn": 59,
+      "scene": 8,
+      "mode": "outside",
+      "start": 302.19456790123445,
+      "end": 305.75802469135795,
+      "part": 1,
+      "parts": 3
+    },
+    {
+      "id": "s09-l01-v3",
+      "turn": 59,
+      "scene": 8,
+      "mode": "outside",
+      "start": 305.75802469135795,
+      "end": 309.3214814814814,
+      "part": 2,
+      "parts": 3
+    },
+    {
+      "id": "s09-l02-v1",
+      "turn": 60,
+      "scene": 8,
+      "mode": "function",
+      "start": 309.3214814814814,
+      "end": 313.2553086419752,
+      "part": 0,
+      "parts": 3
+    },
+    {
+      "id": "s09-l02-v2",
+      "turn": 60,
+      "scene": 8,
+      "mode": "function",
+      "start": 313.2553086419752,
+      "end": 317.189135802469,
+      "part": 1,
+      "parts": 3
+    },
+    {
+      "id": "s09-l02-v3",
+      "turn": 60,
+      "scene": 8,
+      "mode": "function",
+      "start": 317.189135802469,
+      "end": 321.12296296296284,
+      "part": 2,
+      "parts": 3
+    },
+    {
+      "id": "s09-l03-v1",
+      "turn": 61,
+      "scene": 8,
+      "mode": "vale",
+      "start": 321.12296296296284,
+      "end": 325.5170370370369,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s09-l04-v1",
+      "turn": 62,
+      "scene": 8,
+      "mode": "mina",
+      "start": 325.5170370370369,
+      "end": 328.7999999999999,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s09-l05-v1",
+      "turn": 63,
+      "scene": 8,
+      "mode": "decision",
+      "start": 328.7999999999999,
+      "end": 332.6762962962962,
+      "part": 0,
+      "parts": 4
+    },
+    {
+      "id": "s09-l05-v2",
+      "turn": 63,
+      "scene": 8,
+      "mode": "decision",
+      "start": 332.6762962962962,
+      "end": 336.55259259259253,
+      "part": 1,
+      "parts": 4
+    },
+    {
+      "id": "s09-l05-v3",
+      "turn": 63,
+      "scene": 8,
+      "mode": "decision",
+      "start": 336.55259259259253,
+      "end": 340.4288888888888,
+      "part": 2,
+      "parts": 4
+    },
+    {
+      "id": "s09-l05-v4",
+      "turn": 63,
+      "scene": 8,
+      "mode": "decision",
+      "start": 340.4288888888888,
+      "end": 344.3051851851851,
+      "part": 3,
+      "parts": 4
+    },
+    {
+      "id": "s09-l06-v1",
+      "turn": 64,
+      "scene": 8,
+      "mode": "correct",
+      "start": 344.3051851851851,
+      "end": 347.4274074074073,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s10-l01-v1",
+      "turn": 65,
+      "scene": 9,
+      "mode": "correct",
+      "start": 347.4274074074073,
+      "end": 351.8466666666666,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s10-l01-v2",
+      "turn": 65,
+      "scene": 9,
+      "mode": "correct",
+      "start": 351.8466666666666,
+      "end": 356.26592592592584,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s10-l02-v1",
+      "turn": 66,
+      "scene": 9,
+      "mode": "vale",
+      "start": 356.26592592592584,
+      "end": 359.17851851851844,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s10-l03-v1",
+      "turn": 67,
+      "scene": 9,
+      "mode": "mina",
+      "start": 359.17851851851844,
+      "end": 360.9799999999999,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s10-l04-v1",
+      "turn": 68,
+      "scene": 9,
+      "mode": "office",
+      "start": 360.9799999999999,
+      "end": 363.5474074074073,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s10-l04-v2",
+      "turn": 68,
+      "scene": 9,
+      "mode": "office",
+      "start": 363.5474074074073,
+      "end": 366.11481481481474,
+      "part": 1,
+      "parts": 2
+    },
+    {
+      "id": "s10-l05-v1",
+      "turn": 69,
+      "scene": 9,
+      "mode": "member",
+      "start": 366.11481481481474,
+      "end": 367.9162962962962,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s10-l06-v1",
+      "turn": 70,
+      "scene": 9,
+      "mode": "clerk",
+      "start": 367.9162962962962,
+      "end": 370.8288888888888,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s10-l07-v1",
+      "turn": 71,
+      "scene": 9,
+      "mode": "member",
+      "start": 370.8288888888888,
+      "end": 373.00074074074064,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s10-l08-v1",
+      "turn": 72,
+      "scene": 9,
+      "mode": "clerk",
+      "start": 373.00074074074064,
+      "end": 375.54296296296286,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s10-l09-v1",
+      "turn": 73,
+      "scene": 9,
+      "mode": "member",
+      "start": 375.54296296296286,
+      "end": 377.7148148148147,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s10-l10-v1",
+      "turn": 74,
+      "scene": 9,
+      "mode": "clerk",
+      "start": 377.7148148148147,
+      "end": 378.8348148148147,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s10-l11-v1",
+      "turn": 75,
+      "scene": 9,
+      "mode": "oldsign",
+      "start": 378.8348148148147,
+      "end": 382.3274074074073,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s11-l01-v1",
+      "turn": 76,
+      "scene": 10,
+      "mode": "exhibit",
+      "start": 382.3274074074073,
+      "end": 386.2612345679011,
+      "part": 0,
+      "parts": 3
+    },
+    {
+      "id": "s11-l01-v2",
+      "turn": 76,
+      "scene": 10,
+      "mode": "exhibit",
+      "start": 386.2612345679011,
+      "end": 390.19506172839493,
+      "part": 1,
+      "parts": 3
+    },
+    {
+      "id": "s11-l01-v3",
+      "turn": 76,
+      "scene": 10,
+      "mode": "exhibit",
+      "start": 390.19506172839493,
+      "end": 394.12888888888875,
+      "part": 2,
+      "parts": 3
+    },
+    {
+      "id": "s11-l02-v1",
+      "turn": 77,
+      "scene": 10,
+      "mode": "reveal",
+      "start": 394.12888888888875,
+      "end": 397.78222222222206,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s11-l03-v1",
+      "turn": 78,
+      "scene": 10,
+      "mode": "mina",
+      "start": 397.78222222222206,
+      "end": 400.3244444444443,
+      "part": 0,
+      "parts": 1
+    },
+    {
+      "id": "s11-l04-v1",
+      "turn": 79,
+      "scene": 10,
+      "mode": "ending",
+      "start": 400.3244444444443,
+      "end": 404.60777777777764,
+      "part": 0,
+      "parts": 2
+    },
+    {
+      "id": "s11-l04-v2",
+      "turn": 79,
+      "scene": 10,
+      "mode": "ending",
+      "start": 404.60777777777764,
+      "end": 408.89111111111094,
+      "part": 1,
+      "parts": 2
+    }
+  ]
+}
