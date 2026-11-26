@@ -1,0 +1,155 @@
+[
+  {
+    "id": "C01",
+    "paragraph": 9,
+    "claim": "Resistance makes muscles work against force.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:29–33",
+    "evidence_excerpt": "causes the body’s muscles to work or hold against an applied force or weight.",
+    "limitations": "General definition; not an account of the fictional recording."
+  },
+  {
+    "id": "C02",
+    "paragraph": 9,
+    "claim": "Repeated strength training and recovery can improve strength.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1",
+      "S2"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:48–54; mayo.txt:153–154,170",
+    "evidence_excerpt": "muscle-strengthening and bone-strengthening activities overload muscles and bones, making them stronger. | To give your muscles time to recover, rest one full day",
+    "limitations": "Combines adaptation and recovery guidance; no guaranteed individual gain or timeline."
+  },
+  {
+    "id": "C03",
+    "paragraph": 9,
+    "claim": "A manageable challenge can increase gradually as capacity improves.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1",
+      "S2"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:56–58; mayo.txt:152",
+    "evidence_excerpt": "Small, progressive changes in overload help the body adapt to the additional stresses while minimizing the risk of injury.",
+    "limitations": "Progression does not eliminate injury risk; no dose prescribed."
+  },
+  {
+    "id": "C04",
+    "paragraph": 9,
+    "claim": "The same weight can require different relative effort across people or training stages.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1",
+      "S2"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:35–39; mayo.txt:170",
+    "evidence_excerpt": "Intensity, or how much weight or force is used relative to how much a person is able to lift; | you'll likely be able to lift weight more easily",
+    "limitations": "Relative effort paraphrase; weights alone cannot establish subjective effort."
+  },
+  {
+    "id": "C05",
+    "paragraph": 10,
+    "claim": "Pain is not the objective; the fictional coach stops painful exercise.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S2"
+    ],
+    "evidence_locator": "mayo.txt:155",
+    "evidence_excerpt": "If a strength training exercise causes pain, stop the exercise.",
+    "limitations": "Normative safety guidance; source does not authenticate the fictional coach or imply all discomfort is injury."
+  },
+  {
+    "id": "C06",
+    "paragraph": 10,
+    "claim": "One exhausting session is not an instant fitness upgrade.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1",
+      "S2"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:56–58,80–81; mayo.txt:170",
+    "evidence_excerpt": "progress to higher levels of physical activity by continued overload and adaptation. | improvement in your strength and physical function over time.",
+    "limitations": "Addresses durable training improvement; does not deny acute effects from a single session."
+  },
+  {
+    "id": "C07",
+    "paragraph": 11,
+    "claim": "Brisk walking increases heart and breathing demands.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:8–12",
+    "evidence_excerpt": "Brisk walking, running, bicycling, jumping rope, and swimming are all examples. Aerobic activity causes a person’s heart to beat faster, and they will breathe harder than normal.",
+    "limitations": "General aerobic physiology; fictional footage is illustrative."
+  },
+  {
+    "id": "C08",
+    "paragraph": 11,
+    "claim": "Regular aerobic training can improve fitness over time, including stationary exercise.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:48–53",
+    "evidence_excerpt": "aerobic physical activity places a stress on the cardiorespiratory system and muscles | This increase in demand increases the efficiency and capacity",
+    "limitations": "Adaptation depends on activity and individual capacity; geographic travel is not a physiological requirement."
+  },
+  {
+    "id": "C09",
+    "paragraph": 12,
+    "claim": "Appropriate starting effort and plans depend on individual capacity.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1",
+      "S2"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:35–39,71–74; mayo.txt:150,156",
+    "evidence_excerpt": "The initial amount of activity should be at a light or moderate intensity, for short periods of time | work with a trainer or other fitness specialist to learn correct form",
+    "limitations": "The different recovered plans are fiction; the general individual-capacity principle is supported."
+  },
+  {
+    "id": "C10",
+    "paragraph": 17,
+    "claim": "Exercise can support everyday function; outcomes and abilities vary.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S2",
+      "S3"
+    ],
+    "evidence_locator": "mayo.txt:146; cdc.txt:104–109",
+    "evidence_excerpt": "Strength training can improve physical function | It may improve your ability to do everyday activities",
+    "limitations": "No guarantee of reaching a particular trail, curing disease, or reversing every limitation."
+  },
+  {
+    "id": "C11",
+    "paragraph": 17,
+    "claim": "A gym is optional: strength training at home and outdoor physical activity are possible.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "evidence_locator": "mayo.txt:158–161; hhs-excerpts.txt:10–11,32–33; cdc.txt:109",
+    "evidence_excerpt": "You can do strength training at home or in the gym. | running, bicycling, jumping rope, and swimming",
+    "limitations": "Suitable activities depend on individual needs; access to a gym is not required for all activity."
+  },
+  {
+    "id": "C12",
+    "paragraph": 20,
+    "claim": "Leaving the gym does not establish cessation of activity or permanent fitness; Mara continues walks and home exercise.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1",
+      "S2"
+    ],
+    "evidence_locator": "hhs-excerpts.txt:56–58; mayo.txt:158–159,170",
+    "evidence_excerpt": "continued overload and adaptation | If you stick with it, you can continue to increase your strength",
+    "limitations": "Scientific consistency check only. Later journal entries are fictional evidence of continuing activity, not sourced clinical outcomes."
+  }
+]

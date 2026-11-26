@@ -1,0 +1,135 @@
+# Họ tìm thấy một phòng gym. Và hiểu sai hoàn toàn. — Bản dàiV2
+
+## Người phụ nữ không quay lại
+
+**NGƯỜI KỂ:** Vào năm 3026, hai nhà khảo cổ tìm thấy một hồ sơ hội viên cũ trong tòa nhà bị chôn vùi. Chủ hồ sơ là Mara Ellis. Các ghi chép cho thấy cô đang tiến bộ. Rồi những lần đến tập chấm dứt. Trên đơn hủy đăng ký có một câu.
+
+**MINA:** Nếu làm được, tôi sẽ không quay lại đây nữa.
+
+**NGƯỜI KỂ:** Tiến sĩ Vale xem đoạn ghi hình Mara đang gắng sức nâng một thanh tạ nặng. Ông dừng hình.
+
+**TIẾN SĨ VALE:** Chúng ta nên tìm xem chuyện gì đã xảy ra với cô ấy.
+
+## Phát hiện hoàn hảo
+
+**NGƯỜI KỂ:** Vale cần một phát hiện cho cuộc triển lãm ngày mai tại Bảo tàng East Ridge. Bảo tàng nhìn xuống thành phố cũ. Từ văn phòng, có thể thấy ba mỏm đá nhọn in trên đường chân trời. Ông kéo rèm lại để xem đoạn ghi hình.
+
+**NGƯỜI KỂ:** Bên dưới thành phố, khu khai quật hé lộ những thanh thép, ghế dài, tủ có đánh số, và một cỗ máy khiến người ta đi mãi mà không tới được cửa.
+
+**TIẾN SĨ VALE:** Môi trường bị kiểm soát. Lao động lặp đi lặp lại. Không tạo ra sản phẩm hữu ích.
+
+**MINA:** Có cả bình nước.
+
+**TIẾN SĨ VALE:** Họ giữ cho những người lao động sống sót.
+
+**NGƯỜI KỂ:** Lời giới thiệu ông soạn ghi PHÒNG TRA TẤN. Mina chụp lại căn phòng trước khi chấp nhận lời giải thích đó.
+
+## Những tù nhân được quyền rời đi
+
+**NGƯỜI KỂ:** Trong đoạn phim được phục hồi, mọi người kết thúc, uống nước rồi trò chuyện. Một người đi thẳng ra ngoài. Không ai đuổi theo. Mara quay lại vào ngày khác và mỉm cười với người hướng dẫn mình.
+
+**MINA:** Hoặc an ninh ở đây quá tệ, hoặc họ không phải tù nhân.
+
+**NGƯỜI KỂ:** Vale chỉ vào số trên tủ của cô. Mina mở hồ sơ hội viên tương ứng. Có chữ ký, khoản thanh toán và một lần gia hạn.
+
+**TIẾN SĨ VALE:** Họ thu tiền cô ấy để làm chuyện này à?
+
+**MINA:** Cô ấy đồng ý. Rồi trả tiền thêm lần nữa.
+
+**NGƯỜI KỂ:** Bỗng nhiên, thứ đáng ngại nhất trong căn phòng lại là tờ biên nhận.
+
+## Vì sao trả tiền cho một việc khó?
+
+**NGƯỜI KỂ:** Vale thử một giả thuyết mới. Có lẽ họ đang mua vật liệu có giá trị. Nhưng những quả tạ vẫn ở lại. Có lẽ họ đang di chuyển. Nhưng chiếc băng chạy chẳng đưa ai ra khỏi căn phòng.
+
+**MINA:** Nếu thứ đang thay đổi không phải thiết bị thì sao?
+
+**NGƯỜI KỂ:** Cô đặt hai ghi chép tập luyện của Mara cạnh nhau. Chúng cách nhau vài tuần. Một bài được ghi là khó ở lần đầu dường như đã dễ hơn trong lần sau. Người sử dụng thiết bị đang thay đổi.
+
+**NGƯỜI KỂ:** Vale xếp các đoạn ghi hình thành một câu chuyện có vẻ thuyết phục. Người giám sát nói gì đó. Mara gắng sức. Tạ được đặt lại giá. Mina sắp chúng theo thứ tự ngày tháng. Câu chuyện giờ khác hẳn. Lần thử đầu. Luyện tập. Tạm nghỉ. Rồi thử lại vào một ngày khác. Những hình ảnh không đổi. Cách giải thích của họ đã đổi.
+
+**TIẾN SĨ VALE:** Vậy sản phẩm chính là con người?
+
+**MINA:** Kiểm tra đã, rồi hãy in câu đó.
+
+## Quy luật họ đã bỏ qua
+
+**NGƯỜI KỂ:** Mara bắt đầu với mức tải vừa phải. Các ghi chép sau đó thay đổi tăng dần. Một số trang ghi NGHỈ. Trong một đoạn phim, huấn luyện viên dừng bài tập khi nó gây đau. Điều này không khớp với một hệ thống được thiết kế để làm người ta khổ sở tối đa.
+
+**NGƯỜI KỂ:** Lực cản khiến cơ bắp phải làm việc. Qua tập luyện lặp lại và hồi phục, chúng có thể mạnh hơn. Khi khả năng cải thiện, mức thử thách vừa sức có thể tăng dần. Cùng một mức tạ có thể đòi hỏi nỗ lực khác nhau ở những người khác nhau, hoặc ở cùng một người tại các giai đoạn khác nhau.
+
+**MINA:** Những con số này cho biết bài tập. Chúng không cho biết cô ấy thấy khó đến mức nào.
+
+**NGƯỜI KỂ:** Gắng sức, tăng dần và hồi phục. Quy luật đó nói lên nhiều hơn một nét mặt nhăn lại. Đau không phải mục tiêu, và một buổi tập kiệt sức không giúp cơ thể lập tức được nâng cấp.
+
+## Bước đi mà chẳng tới đâu
+
+**NGƯỜI KỂ:** Mina quay lại chiếc băng chuyển động. Mara đang đi bộ nhanh. Tim và nhịp thở phải đáp ứng công việc đó. Tập luyện sức bền đều đặn có thể cải thiện thể lực theo thời gian, ngay cả khi người tập vẫn ở một chỗ.
+
+**TIẾN SĨ VALE:** Chiếc băng chạy không bị lỗi vận chuyển.
+
+**MINA:** Vận chuyển đâu phải nhiệm vụ của nó.
+
+**NGƯỜI KỂ:** Căn phòng cho phép con người luyện tập bằng nỗ lực thể chất. Bên ngoài, các đoạn phim cho thấy thang máy, xe cộ và máy móc di chuyển hàng hóa. Máy có thể hoàn thành công việc mà cơ bắp con người không phải làm phần việc ấy. Còn bên trong, mọi người chọn tự mình làm một phần công việc.
+
+**NGƯỜI KỂ:** Mina xem một huấn luyện viên cùng Mara chọn bài khởi đầu vừa sức. Máy có thể tạo lực cản, nhưng không thể tự quyết định nhu cầu của mọi người. Các kế hoạch được tìm thấy khác nhau. Căn phòng này không giao cho ai cũng một nhiệm vụ giống hệt.
+
+**TIẾN SĨ VALE:** Chúng ta tìm thấy một phòng gym.
+
+**MINA:** Vậy tại sao Mara ngừng đến?
+
+## Buổi tập cuối cùng
+
+**NGƯỜI KỂ:** Ghi chép cuối trông khác hẳn. Không mức tạ. Không số lần lặp. Chỉ có ngày tháng và đơn hủy. Vale quay lại hình ảnh đang dừng.
+
+**TIẾN SĨ VALE:** Có thể cô ấy bị thương.
+
+**MINA:** Chúng ta chỉ biết cô ấy không đến tòa nhà này nữa. Chỉ vậy thôi.
+
+**NGƯỜI KỂ:** Phần ghi hình còn lại không đưa ra lời giải. Vale gần như sắp viết thêm một lời giới thiệu thì Mina nhận thấy thứ gì đó trong túi Mara. Một bản đồ tuyến đường được gấp lại. Bên trong là ảnh một bé trai đang với tay về phía cô.
+
+**MINA:** Chúng ta cứ hỏi những cỗ máy này làm gì. Chưa hỏi cô ấy muốn làm gì.
+
+## Lời hứa
+
+**NGƯỜI KỂ:** Họ mở cuốn nhật ký về trang đầu. Trước những ghi chép tập luyện, Mara kể về một lần đi bộ cùng cháu trai, Leo. Cô đã quay lại trước khi đến điểm ngắm cảnh. Bên dưới câu chuyện là một mục tiêu.
+
+**MINA:** Lần tới, tôi muốn được ngắm cảnh ở đó cùng cháu.
+
+**NGƯỜI KỂ:** Cuốn nhật ký nối việc tập luyện với những điều bên ngoài căn phòng. Bậc thang. Xách một chiếc túi. Đi tiếp trên đường dạo bộ. Vận động có thể hỗ trợ khả năng làm việc hằng ngày, dù nhu cầu, khả năng và kết quả của mỗi người khác nhau. Phòng gym là một lựa chọn. Người ta cũng có thể tập ở nhà hoặc vận động ngoài trời.
+
+**NGƯỜI KỂ:** Mara không tập để sưu tầm những dòng trong nhật ký của một cỗ máy. Cô đang chuẩn bị cho một ngày cụ thể.
+
+## Cái kết họ đã hiểu sai
+
+**NGƯỜI KỂ:** Mina mở tấm bản đồ. Điểm ngắm cảnh có tên East Ridge. Cô mở vị trí bảo tàng rồi đối chiếu với bản đồ cũ.
+
+**MINA:** Tiến sĩ. Mở rèm ra đi.
+
+**NGƯỜI KỂ:** Vale nhìn ra ngoài. Ba mỏm đá nhọn. Đúng cụm đá ấy xuất hiện phía sau Mara và Leo trong một bức ảnh khác kẹp trong nhật ký. Họ đứng ở điểm ngắm cảnh. Cô đã đi tới nơi.
+
+**NGƯỜI KỂ:** Bảo tàng nằm ngay chỗ cô từng muốn đến. Vale đã nhìn thấy đích đến của cô suốt buổi sáng mà không nhận ra.
+
+## Phần cuộc đời còn thiếu
+
+**NGƯỜI KỂ:** Mina đối chiếu nhật ký cá nhân với ngày hủy đăng ký phòng gym. Các trang sau kể về những lần đi bộ, tập tại nhà và kế hoạch với Leo. Việc vận động không kết thúc khi những lần đến gym kết thúc. Hồ sơ của phòng tập chỉ theo dõi một phần cuộc sống của cô.
+
+**MINA:** Ghi chép tiếp theo nói cô sẽ lại đưa Leo đi chơi vào Chủ nhật.
+
+**NGƯỜI KỂ:** Hồ sơ điểm danh của phòng gym chấm dứt. Câu chuyện của Mara vẫn tiếp diễn ở một nơi khác. Mục tiêu của cô chưa bao giờ là ở mãi trong căn phòng ấy.
+
+## Ngày khai mạc
+
+**NGƯỜI KỂ:** Sáng hôm sau, Vale gỡ lời giới thiệu đầu tiên. Triển lãm giữ lại các đoạn ghi hình, ghi chép tập luyện, hồ sơ thanh toán và tấm bản đồ. Khách có thể lần theo bằng chứng thay vì tiếp nhận phỏng đoán đầu tiên của ông.
+
+**MINA:** Còn bài phát biểu khai mạc?
+
+**NGƯỜI KỂ:** Vale cầm cuốn sổ, nhìn về con đường cũ dẫn tới điểm ngắm cảnh. Bảo tàng vẫn có lối vào thông thường. Hôm nay, ông chọn đi bộ một đoạn ngắn trước giờ làm.
+
+**TIẾN SĨ VALE:** Chúng ta có thời gian để nhìn ra bên ngoài.
+
+**NGƯỜI KỂ:** Mina đi theo. Trên bàn, bài phát biểu vẫn đang mở. Tiêu đề là: Vì sao con người trả tiền để chẳng đi tới đâu.
+
+**MINA:** Có lẽ ông nên đổi tiêu đề.
+
+**NGƯỜI KỂ:** Lần này, Vale tiếp tục bước đi thay vì cố giải thích cho xong.

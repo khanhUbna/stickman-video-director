@@ -1,0 +1,15 @@
+{
+  "chapter_timestamps": null,
+  "reason": "No actual timed performance exists yet.",
+  "status": "draft",
+  "queries": [
+    "why do people go to the gym",
+    "how exercise improves fitness",
+    "funny animated science story"
+  ],
+  "sources": [
+    "S1",
+    "S2",
+    "S3"
+  ]
+}

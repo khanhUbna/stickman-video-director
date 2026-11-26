@@ -1,0 +1,22 @@
+{
+ "words": 1066,
+ "paragraphs": 22,
+ "errors": [
+  "paragraph 2: 19 words (keep 30-75: one breath-group, one take)",
+  "paragraph 4: 11 words (keep 30-75: one breath-group, one take)",
+  "paragraph 9: 23 words (keep 30-75: one breath-group, one take)",
+  "paragraph 12: 10 words (keep 30-75: one breath-group, one take)",
+  "paragraph 14: 15 words (keep 30-75: one breath-group, one take)",
+  "paragraph 18: 23 words (keep 30-75: one breath-group, one take)",
+  "opening scores 44 on hookscore.py (need 60): 'In the year three thousand twenty six, two archaeologists find an old '"
+ ],
+ "warnings": [
+  "paragraph 0: 'I'm' is capitalised but not in names",
+  "paragraph 1: 'Museum' is capitalised but not in names",
+  "paragraph 19: 'Sunday' is capitalised but not in names",
+  "paragraph 21: 'Humans' is capitalised but not in names",
+  "paragraph 21: 'Paid' is capitalised but not in names",
+  "paragraph 21: 'Go' is capitalised but not in names",
+  "paragraph 21: 'Nowhere' is capitalised but not in names"
+ ]
+}

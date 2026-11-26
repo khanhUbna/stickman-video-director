@@ -1,0 +1,1 @@
+Voice-over text only. No audio generated, paid APIs called or previous-film audio reused. Record only after script approval and suitable authorization. Timing must then be measured, not copied from estimates.

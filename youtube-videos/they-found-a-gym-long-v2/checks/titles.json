@@ -1,0 +1,189 @@
+[
+  {
+    "title": "Why Would Humans Pay to Suffer?",
+    "chars": 31,
+    "score": 98,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "31 characters, inside the 60-character desktop cut",
+      "open question in the title",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "The Gym Member Who Stopped Coming Back",
+    "chars": 38,
+    "score": 94,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "38 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "Future Archaeologists Discover a Gym",
+    "chars": 36,
+    "score": 94,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "36 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "The Museum Got the Gym Wrong",
+    "chars": 28,
+    "score": 94,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "28 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "Humans Paid to Walk Nowhere. Why?",
+    "chars": 33,
+    "score": 80,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on paid - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "33 characters, inside the 60-character desktop cut",
+      "open question in the title"
+    ]
+  },
+  {
+    "title": "A Gym, a Receipt, and One Unfinished Story",
+    "chars": 42,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"A Gym, a Receipt, and One Unfinished...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ]
+    ],
+    "good": [
+      "42 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  {
+    "title": "They Found a Gym. And Got It Wrong.",
+    "chars": 35,
+    "score": 76,
+    "issues": [
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on they - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "35 characters, inside the 60-character desktop cut"
+    ]
+  },
+  {
+    "title": "They Thought This Gym Was a Torture Chamber",
+    "chars": 43,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"They Thought This Gym Was a Torture...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on they - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "43 characters, inside the 60-character desktop cut"
+    ]
+  },
+  {
+    "title": "She Left the Gym. They Misread the Evidence.",
+    "chars": 44,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"She Left the Gym. They Misread the...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on they - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "44 characters, inside the 60-character desktop cut"
+    ]
+  },
+  {
+    "title": "They Found the Receipt. Then Everything Changed.",
+    "chars": 48,
+    "score": 48,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"They Found the Receipt. Then Everything...\" - check the subject survives"
+      ],
+      [
+        "vague",
+        "everything - swap for a number, a name or a date"
+      ],
+      [
+        "no-number",
+        "no figure - if there is a real number, name or date for this, use it"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on they - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "48 characters, inside the 60-character desktop cut"
+    ]
+  }
+]

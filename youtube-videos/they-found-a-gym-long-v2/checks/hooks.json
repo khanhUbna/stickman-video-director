@@ -1,0 +1,67 @@
+[
+  {
+    "hook": "Mara kept getting stronger. Then she canceled her membership. A thousand years later, two archaeologists think they know why. They're wrong.",
+    "properties": {
+      "SPECIFICITY": 96,
+      "ADDRESS": 26,
+      "STAKES": 36,
+      "CURIOSITY": 41,
+      "BREVITY": 100
+    },
+    "verdict": 46,
+    "band": "WEAK",
+    "formula": "Unclassified"
+  },
+  {
+    "hook": "You find a machine that makes people walk without going anywhere. Why would anyone pay to use it?",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 76,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 44,
+    "band": "WEAK",
+    "formula": "The Question"
+  },
+  {
+    "hook": "In the year three thousand twenty six, two archaeologists find an old membership file in a buried building. Its owner was Mara Ellis. Her records show progress. Then her visits stop.",
+    "properties": {
+      "SPECIFICITY": 100,
+      "ADDRESS": 26,
+      "STAKES": 62,
+      "CURIOSITY": 24,
+      "BREVITY": 51
+    },
+    "verdict": 41,
+    "band": "WEAK",
+    "formula": "The Warning"
+  },
+  {
+    "hook": "The archaeologists thought they'd found a torture chamber. Until they discovered the prisoners had paid to get in.",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 41,
+      "BREVITY": 100
+    },
+    "verdict": 36,
+    "band": "WEAK",
+    "formula": "Unclassified"
+  },
+  {
+    "hook": "They found a room where humans lifted heavy objects, put them back, and paid to return. Then one woman stopped coming.",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 24,
+      "BREVITY": 100
+    },
+    "verdict": 34,
+    "band": "WEAK",
+    "formula": "Unclassified"
+  }
+]
