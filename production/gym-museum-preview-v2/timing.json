@@ -1,0 +1,13 @@
+{
+  "duration": 18.133333333333333,
+  "fps": 30,
+  "speech_speed_changed": false,
+  "word_count": 49,
+  "exact_asr_anchors": 48,
+  "voices": {
+    "NARRATOR": "alloy",
+    "VALE": "onyx",
+    "MINA": "nova"
+  },
+  "segmentation": "Word-aligned excerpts from each native role recording, original speech samples/rate retained; brief action gaps between turns."
+}

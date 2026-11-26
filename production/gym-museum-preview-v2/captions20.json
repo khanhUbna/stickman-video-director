@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Now the cameras are ready.",
+    "start": 0.0,
+    "end": 1.13,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "The banner is enormous.",
+    "start": 1.42,
+    "end": 2.298,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Vale steps onto the stationary belt.",
+    "start": 2.3,
+    "end": 5.03,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "He raises a solemn hand.",
+    "start": 5.14,
+    "end": 6.51,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Today, I will experience what these people endured.",
+    "start": 6.8,
+    "end": 9.25,
+    "role": "VALE"
+  },
+  {
+    "text": "Mina runs onto the stage.",
+    "start": 9.719999999999999,
+    "end": 10.87,
+    "role": "NARRATOR"
+  },
+  {
+    "text": "Wait.",
+    "start": 11.16,
+    "end": 11.49,
+    "role": "MINA"
+  },
+  {
+    "text": "You haven't attached the safety clip.",
+    "start": 11.56,
+    "end": 13.33,
+    "role": "MINA"
+  },
+  {
+    "text": "When does the torture begin?",
+    "start": 14.810000000000002,
+    "end": 15.999999999999998,
+    "role": "VALE"
+  },
+  {
+    "text": "It doesn't have to.",
+    "start": 16.94,
+    "end": 17.770000000000003,
+    "role": "MINA"
+  }
+]

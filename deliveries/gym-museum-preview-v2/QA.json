@@ -1,0 +1,97 @@
+{
+  "file": "gym-museum-20s-en-motion-v2-1080p.mp4",
+  "sha256": "4c07b2cd1dd1eb450bb8e6fc6937083564294f1177cec6ef11436292448b3c79",
+  "duration": 20.0,
+  "bytes": 2582677,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": "30/1",
+  "frames": 600,
+  "audio_codec": "aac",
+  "audio_sample_rate": "48000",
+  "integrated_lufs": -16.53,
+  "true_peak_dbtp": -4.95,
+  "decoded_without_errors": true,
+  "invoice_accessed": false,
+  "other_paid_calls": 0,
+  "speech_speed_changed": false,
+  "words": 49,
+  "ASR_exact_native_anchors": 48,
+  "ASR_canonical_interpolation": 1,
+  "caption_cues": 10,
+  "source_fingerprint": "6efe71284d6d265c3724d132b6db9138b249e9a9c6418934f938a0971bbdeef4",
+  "visual_evidence": [
+    {
+      "time": 0.4,
+      "file": "encoded-01.jpg"
+    },
+    {
+      "time": 1.8,
+      "file": "encoded-02.jpg"
+    },
+    {
+      "time": 3.5,
+      "file": "encoded-03.jpg"
+    },
+    {
+      "time": 5.8,
+      "file": "encoded-04.jpg"
+    },
+    {
+      "time": 7.5,
+      "file": "encoded-05.jpg"
+    },
+    {
+      "time": 10.2,
+      "file": "encoded-06.jpg"
+    },
+    {
+      "time": 11.4,
+      "file": "encoded-07.jpg"
+    },
+    {
+      "time": 13.5,
+      "file": "encoded-08.jpg"
+    },
+    {
+      "time": 14.2,
+      "file": "encoded-09.jpg"
+    },
+    {
+      "time": 15.4,
+      "file": "encoded-10.jpg"
+    },
+    {
+      "time": 17.2,
+      "file": "encoded-11.jpg"
+    },
+    {
+      "time": 18.9,
+      "file": "encoded-12.jpg"
+    }
+  ],
+  "quality_scope": "Original 2D sample; no B6 reference-equivalence claim",
+  "review_limits": "Technical checks and decoded-frame review; human audition/full-speed perceptual playback not claimed",
+  "full_film_rendered": false,
+  "youtube_published": false,
+  "reused_paid_recordings": 5,
+  "new_paid_requests_this_revision": 0,
+  "original_sample_estimated_tts_usd": 0.0084,
+  "additional_cost_usd_this_revision": 0,
+  "predecessor": {
+    "reason": "Creator: tôi thấy bước đi không tự nhiên kiểu như robot ấy",
+    "file": "../../../deliveries/gym-museum-preview-v1/gym-museum-20s-en-1080p.mp4",
+    "sha256": "675da8e2a622c1d0939b8dde66d7fe8db0c34f839e10049d312e75131f3e9dde",
+    "known_defects": [
+      "front-facing leg crossover during horizontal travel",
+      "constant-height upright torso",
+      "no heel-to-toe contact roll",
+      "arms moving vertically instead of pendulum swing",
+      "abrupt start/stop pose transitions"
+    ],
+    "repair": "new side/three-quarter locomotion poses with authored contact schedules, COM/torso dynamics and ankle articulation",
+    "old_file_preserved": true
+  }
+}

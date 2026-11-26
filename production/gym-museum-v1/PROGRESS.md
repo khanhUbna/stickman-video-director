@@ -9,3 +9,5 @@ Silent 20-second action study: bench lift with spotter, safety clip reach/attach
 Resume: obtain/record actual new voice-cost authorization, run guarded narrate.py once, reuse saved speech, align locally, author actual beat timing and complete full render/review. Proposed voice assignment: Alloy narrator, Onyx Vale, Nova Mina, Echo coach/member, Fable clerk. Do not use any other film's spending authorization. Do not post on YouTube.
 
 2026-11-26 later: creator narrowed immediate scope to a complete20sreview sample and explicitly authorized paid OpenAI speech for that sample. See ../gym-museum-preview-v1 and deliveries/gym-museum-preview-v1. Full-film paid-generation flag remains false; do not generate the whole film before their sample decision.
+
+2026-11-26: creator rejected V1 walking as robotic. New body/contact choreography is isolated in ../gym-museum-preview-v2, with original speech reused and no new paid call. Await their judgment on this revised20ssample before extending the full film. Do not restore the old front-facing lateral gait.

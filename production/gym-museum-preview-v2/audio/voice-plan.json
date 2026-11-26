@@ -1,0 +1,38 @@
+{
+  "model": "tts-1-hd",
+  "price_usd_per_million_characters": 30,
+  "pricing_source": "https://developers.openai.com/api/docs/models/tts-1-hd",
+  "requests": [
+    {
+      "id": "narrator-01",
+      "role": "NARRATOR",
+      "voice": "alloy",
+      "text": "Now the cameras are ready. The banner is enormous. Vale steps onto the stationary belt. He raises a solemn hand.\n\nMina runs onto the stage.",
+      "characters": 139,
+      "estimated_usd": 0.00417,
+      "text_sha256": "2a1c74b108ee20791e0fe3b3b6f74308ced752314400b1e58e1dfb1dbcefcb6a"
+    },
+    {
+      "id": "vale-01",
+      "role": "VALE",
+      "voice": "onyx",
+      "text": "Today, I will experience what these people endured.",
+      "characters": 51,
+      "estimated_usd": 0.00153,
+      "text_sha256": "c43287c5632b9666ac43e7175f5e0d4039d38571c407c860fb57bb3b2e675aed"
+    },
+    {
+      "id": "mina-01",
+      "role": "MINA",
+      "voice": "nova",
+      "text": "Wait. You haven't attached the safety clip.",
+      "characters": 43,
+      "estimated_usd": 0.00129,
+      "text_sha256": "9278d06d71dc66e93a12d5f45f4f0d6794724ddf7021179e4e857492e1000592"
+    }
+  ],
+  "estimated_usd": 0.00699,
+  "proposed_cap_usd": 0.02,
+  "authorized": true,
+  "no_automatic_retry": true
+}

@@ -1,0 +1,72 @@
+{
+  "scope": "20s sample only",
+  "actual_successful_requests": 5,
+  "actual_requested_characters": 280,
+  "estimated_usd": 0.0084,
+  "invoice_accessed": false,
+  "additional_payoff_lines_are_new_text_not_retries": true,
+  "rows": [
+    {
+      "id": "narrator-01",
+      "role": "NARRATOR",
+      "voice": "alloy",
+      "characters": 139,
+      "estimated_usd": 0.00417,
+      "text_sha256": "2a1c74b108ee20791e0fe3b3b6f74308ced752314400b1e58e1dfb1dbcefcb6a",
+      "state": "saved",
+      "model": "tts-1-hd",
+      "invoice_accessed": false,
+      "sha256": "b8e06d5fafe301ed391b3332a1be3f4b0f6c4d0c5c6265c2a87c4bbd01c529e5"
+    },
+    {
+      "id": "vale-01",
+      "role": "VALE",
+      "voice": "onyx",
+      "characters": 51,
+      "estimated_usd": 0.00153,
+      "text_sha256": "c43287c5632b9666ac43e7175f5e0d4039d38571c407c860fb57bb3b2e675aed",
+      "state": "saved",
+      "model": "tts-1-hd",
+      "invoice_accessed": false,
+      "sha256": "a3ed076290f49f55d7ee6cd74f3a270f195427b47859777962d579bbb667745d"
+    },
+    {
+      "id": "mina-01",
+      "role": "MINA",
+      "voice": "nova",
+      "characters": 43,
+      "estimated_usd": 0.00129,
+      "text_sha256": "9278d06d71dc66e93a12d5f45f4f0d6794724ddf7021179e4e857492e1000592",
+      "state": "saved",
+      "model": "tts-1-hd",
+      "invoice_accessed": false,
+      "sha256": "db865994a226750eaae84efd6ca6b9d7290eef6f1ab4b204831dfe78b5998e6e"
+    },
+    {
+      "id": "vale-payoff-01",
+      "role": "VALE",
+      "voice": "onyx",
+      "characters": 28,
+      "estimated_usd": 0.00084,
+      "text_sha256": "0d79dd0443e9b3f740882f63b70f97a27af6748defd94e2ca61938d05f9aba02",
+      "model": "tts-1-hd",
+      "state": "saved",
+      "purpose": "Additional original-script payoff line for 20s preview only, not a retry",
+      "invoice_accessed": false,
+      "sha256": "9758a3d93be6de4b98809e3712b87d78b37d821af6c1f115af11a90ff2f06aa8"
+    },
+    {
+      "id": "mina-payoff-01",
+      "role": "MINA",
+      "voice": "nova",
+      "characters": 19,
+      "estimated_usd": 0.00057,
+      "text_sha256": "f23a49465ec6f609d9d03a6d54910a7d4725cf09543ff322198adb3bf8937385",
+      "model": "tts-1-hd",
+      "state": "saved",
+      "purpose": "Additional original-script payoff line for 20s preview only, not a retry",
+      "invoice_accessed": false,
+      "sha256": "051d0d1c254e23421b75cf17a6c86843a6aebb7849f182917f66cb0a696864da"
+    }
+  ]
+}

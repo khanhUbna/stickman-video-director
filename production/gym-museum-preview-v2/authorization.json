@@ -1,0 +1,24 @@
+{
+  "script_approved": true,
+  "media_requested": true,
+  "paid_tts_authorized": true,
+  "user_reply": "không, giọng đọc thì dùng tính phí chatgpt nhé. hãy làm thử 20 giây hoàn chỉnh cho tôi duyệt trước",
+  "scope": "20-second English sample ONLY; not full-film generation",
+  "maximum_usd_proposed": 0.02,
+  "maximum_usd": 0.02,
+  "budget_basis": "Assistant-imposed limit for this small excerpt, not a numeric cap quoted by user",
+  "model": "tts-1-hd",
+  "voices": {
+    "NARRATOR": "alloy",
+    "VALE": "onyx",
+    "MINA": "nova"
+  },
+  "automatic_retry": false,
+  "full_film_authorized": false,
+  "generation_complete": true,
+  "successful_paid_requests": 5,
+  "estimated_paid_usd": 0.0084,
+  "motion_revision_request": "tôi thấy bước đi không tự nhiên kiểu như robot ấy",
+  "voice_reused_from": "../gym-museum-preview-v1",
+  "new_tts_requests_this_revision": 0
+}

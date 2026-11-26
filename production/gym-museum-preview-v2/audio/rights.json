@@ -1,0 +1,7 @@
+{
+  "voices": "User-authorized paid OpenAI tts-1-hd for 20-second sample only: Alloy narrator, Onyx Vale, Nova Mina. Native speed1; no revoice or speech tempo changes.",
+  "music": "Original locally authored procedural pizzicato cue, scripts/mix20.py; no third-party music or paid generation.",
+  "effects": "Original locally synthesized rubber steps, clip/button and motor; no stock recording licenses needed.",
+  "artwork": "Original local 2D cast and sets, copied from this project own gym-museum-v1 and refined for this sample.",
+  "font": "Noto Sans, installed skill font; upstream font license retained in repository."
+}

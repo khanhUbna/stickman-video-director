@@ -1,0 +1,14 @@
+{
+  "reason": "Creator: tôi thấy bước đi không tự nhiên kiểu như robot ấy",
+  "file": "../../../deliveries/gym-museum-preview-v1/gym-museum-20s-en-1080p.mp4",
+  "sha256": "675da8e2a622c1d0939b8dde66d7fe8db0c34f839e10049d312e75131f3e9dde",
+  "known_defects": [
+    "front-facing leg crossover during horizontal travel",
+    "constant-height upright torso",
+    "no heel-to-toe contact roll",
+    "arms moving vertically instead of pendulum swing",
+    "abrupt start/stop pose transitions"
+  ],
+  "repair": "new side/three-quarter locomotion poses with authored contact schedules, COM/torso dynamics and ankle articulation",
+  "old_file_preserved": true
+}

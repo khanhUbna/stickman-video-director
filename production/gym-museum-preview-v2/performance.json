@@ -1,0 +1,31 @@
+[
+  {
+    "scene": "Live demonstration excerpt with payoff",
+    "lines": [
+      {
+        "speaker": "NARRATOR",
+        "text": "Now the cameras are ready. The banner is enormous. Vale steps onto the stationary belt. He raises a solemn hand."
+      },
+      {
+        "speaker": "VALE",
+        "text": "Today, I will experience what these people endured."
+      },
+      {
+        "speaker": "NARRATOR",
+        "text": "Mina runs onto the stage."
+      },
+      {
+        "speaker": "MINA",
+        "text": "Wait. You haven't attached the safety clip."
+      },
+      {
+        "speaker": "VALE",
+        "text": "When does the torture begin?"
+      },
+      {
+        "speaker": "MINA",
+        "text": "It doesn't have to."
+      }
+    ]
+  }
+]

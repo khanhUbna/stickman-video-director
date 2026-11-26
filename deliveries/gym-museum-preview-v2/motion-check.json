@@ -1,0 +1,13 @@
+{
+  "samples_120hz": 1156,
+  "max_segment_length_error_px": 1.9895196601282805e-13,
+  "max_planted_floor_pivot_drift_px": 0.0,
+  "max_belt_pivot_speed_error_px_per_120hz_step": 4.092282068768327e-13,
+  "minimum_shoe_clearance_px": 0.0,
+  "maximum_ankle_displacement_per_120hz_step_px": 4.859599439695432,
+  "all_600_actual_frames_rendered": true,
+  "saved_voice_hashes_identical": true,
+  "captions_identical": true,
+  "additional_paid_calls": 0,
+  "scope": "Physical continuity evidence only; naturalness is a creative/perceptual judgment."
+}
