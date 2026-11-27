@@ -1,0 +1,147 @@
+[
+  {
+    "time": 86.17,
+    "kind": "page",
+    "gain": 0.014
+  },
+  {
+    "time": 100.77,
+    "kind": "page",
+    "gain": 0.012
+  },
+  {
+    "time": 121.01,
+    "kind": "plate",
+    "gain": 0.016
+  },
+  {
+    "time": 220.23,
+    "kind": "latch",
+    "gain": 0.018
+  },
+  {
+    "time": 221.39,
+    "kind": "latch",
+    "gain": 0.012
+  },
+  {
+    "time": 246.21,
+    "kind": "plate",
+    "gain": 0.016
+  },
+  {
+    "time": 356.94,
+    "kind": "latch",
+    "gain": 0.016
+  },
+  {
+    "time": 207.22,
+    "kind": "gavel",
+    "gain": 0.008
+  },
+  {
+    "time": 207.73999999999998,
+    "kind": "gavel",
+    "gain": 0.008
+  },
+  {
+    "time": 208.26,
+    "kind": "gavel",
+    "gain": 0.008
+  },
+  {
+    "time": 208.78,
+    "kind": "gavel",
+    "gain": 0.008
+  },
+  {
+    "time": 209.20999999999998,
+    "kind": "gavel",
+    "gain": 0.008
+  },
+  {
+    "time": 214.01999999999998,
+    "kind": "gavel",
+    "gain": 0.008
+  },
+  {
+    "time": 214.31,
+    "kind": "gavel",
+    "gain": 0.008
+  },
+  {
+    "time": 214.62,
+    "kind": "gavel",
+    "gain": 0.008
+  },
+  {
+    "time": 214.88,
+    "kind": "gavel",
+    "gain": 0.008
+  },
+  {
+    "time": 215.12,
+    "kind": "gavel",
+    "gain": 0.008
+  },
+  {
+    "time": 221.92999999999998,
+    "kind": "gavel",
+    "gain": 0.006
+  },
+  {
+    "time": 222.47,
+    "kind": "gavel",
+    "gain": 0.006
+  },
+  {
+    "time": 223.01,
+    "kind": "gavel",
+    "gain": 0.006
+  },
+  {
+    "time": 223.54999999999998,
+    "kind": "gavel",
+    "gain": 0.006
+  },
+  {
+    "time": 224.08999999999997,
+    "kind": "gavel",
+    "gain": 0.006
+  },
+  {
+    "time": 224.63,
+    "kind": "gavel",
+    "gain": 0.006
+  },
+  {
+    "time": 225.17,
+    "kind": "gavel",
+    "gain": 0.006
+  },
+  {
+    "time": 225.70999999999998,
+    "kind": "gavel",
+    "gain": 0.006
+  },
+  {
+    "time": 226.25,
+    "kind": "gavel",
+    "gain": 0.006
+  },
+  {
+    "time": 226.79,
+    "kind": "gavel",
+    "gain": 0.006
+  },
+  {
+    "time": 227.32999999999998,
+    "kind": "gavel",
+    "gain": 0.006
+  },
+  {
+    "time": 227.86999999999998,
+    "kind": "gavel",
+    "gain": 0.006
+  }
+]

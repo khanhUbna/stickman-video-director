@@ -1,0 +1,1294 @@
+[
+  {
+    "speaker": "NARRATOR",
+    "text": "In two minutes, Dr. Vale will demonstrate an ancient torture machine on live television. He has rehearsed the screaming. He has not read the instructions. Mina has read them. That's why she's running.",
+    "scene": 0,
+    "line": 0,
+    "id": "s01-l01",
+    "start": 0.0,
+    "end": 11.74,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 0,
+      "end_sample": 563520
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Two hours earlier, this was still supposed to be the greatest discovery of his career.",
+    "scene": 0,
+    "line": 1,
+    "id": "s01-l02",
+    "start": 12.04,
+    "end": 16.28,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 577920,
+      "end_sample": 781440
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "The year is three thousand twenty six. Under an old shopping center, Vale and Mina find a room full of heavy objects. There are handles to pull, platforms to push, and benches beneath enormous bars.",
+    "scene": 1,
+    "line": 0,
+    "id": "s02-l01",
+    "start": 17.33,
+    "end": 30.15,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 807360,
+      "end_sample": 1422720
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "A torture chamber.",
+    "scene": 1,
+    "line": 1,
+    "id": "s02-l02",
+    "start": 30.45,
+    "end": 31.349999999999998,
+    "voice": "onyx",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "vale-missing-01.flac",
+      "start_sample": 0,
+      "end_sample": 43200
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "Or a training room.",
+    "scene": 1,
+    "line": 2,
+    "id": "s02-l03",
+    "start": 31.73,
+    "end": 32.5,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 0,
+      "end_sample": 36960
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "Training to do what? They lift the object, then put it exactly where it was.",
+    "scene": 1,
+    "line": 3,
+    "id": "s02-l04",
+    "start": 32.88,
+    "end": 37.18,
+    "voice": "onyx",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "vale-missing-01.flac",
+      "start_sample": 53760,
+      "end_sample": 260160
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "He peers into a smaller room at the back. A desk. Two plastic chairs. A locked drawer.",
+    "scene": 1,
+    "line": 4,
+    "id": "s02-l05",
+    "start": 37.56,
+    "end": 42.440000000000005,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 1428480,
+      "end_sample": 1662720
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "We'll examine that later.",
+    "scene": 1,
+    "line": 5,
+    "id": "s02-l06",
+    "start": 42.74,
+    "end": 43.84,
+    "voice": "onyx",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "vale-missing-01.flac",
+      "start_sample": 269760,
+      "end_sample": 322560
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "He calls the museum. A banner goes up before the dust has settled. ANCIENT CRUELTY. LIVE DEMONSTRATION TODAY.",
+    "scene": 1,
+    "line": 6,
+    "id": "s02-l07",
+    "start": 44.22,
+    "end": 51.3,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 1687680,
+      "end_sample": 2027520
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "We haven't finished looking.",
+    "scene": 1,
+    "line": 7,
+    "id": "s02-l08",
+    "start": 51.6,
+    "end": 52.53,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 37440,
+      "end_sample": 82080
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "Then look quickly.",
+    "scene": 1,
+    "line": 8,
+    "id": "s02-l09",
+    "start": 52.91,
+    "end": 53.529999999999994,
+    "voice": "onyx",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "vale-missing-01.flac",
+      "start_sample": 347520,
+      "end_sample": 377280
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Mina restores a security recording. A man lies beneath a bar. His face tightens. Another man stands over him.",
+    "scene": 2,
+    "line": 0,
+    "id": "s03-l01",
+    "start": 54.58,
+    "end": 60.94,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 2042880,
+      "end_sample": 2348160
+    }
+  },
+  {
+    "speaker": "COACH",
+    "text": "One more.",
+    "scene": 2,
+    "line": 1,
+    "id": "s03-l02",
+    "start": 61.24,
+    "end": 61.7,
+    "voice": "echo",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "coach-missing-01.flac",
+      "start_sample": 0,
+      "end_sample": 22080
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "There. A confession.",
+    "scene": 2,
+    "line": 2,
+    "id": "s03-l03",
+    "start": 62.08,
+    "end": 63.18,
+    "voice": "onyx",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "vale-missing-01.flac",
+      "start_sample": 399360,
+      "end_sample": 452160
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "That's encouragement.",
+    "scene": 2,
+    "line": 3,
+    "id": "s03-l04",
+    "start": 63.56,
+    "end": 64.16,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 82560,
+      "end_sample": 111360
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "The bar returns to its supports. The two men laugh and shake hands.",
+    "scene": 2,
+    "line": 4,
+    "id": "s03-l05",
+    "start": 64.54,
+    "end": 68.06,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 2353920,
+      "end_sample": 2522880
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "Complicated society.",
+    "scene": 2,
+    "line": 5,
+    "id": "s03-l06",
+    "start": 68.36,
+    "end": 69.52,
+    "voice": "onyx",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "vale-missing-01.flac",
+      "start_sample": 471360,
+      "end_sample": 527040
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Mina advances the recording. People enter through the front door. They leave through the same door. One comes back carrying special shoes.",
+    "scene": 2,
+    "line": 6,
+    "id": "s03-l07",
+    "start": 70.32,
+    "end": 77.66,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 2538240,
+      "end_sample": 2890560
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "They can leave. They bring equipment. They appear to want to be here.",
+    "scene": 2,
+    "line": 7,
+    "id": "s03-l08",
+    "start": 77.96,
+    "end": 81.67999999999999,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 144000,
+      "end_sample": 322560
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "Play the part with the screaming again.",
+    "scene": 2,
+    "line": 8,
+    "id": "s03-l09",
+    "start": 82.06,
+    "end": 83.66,
+    "voice": "onyx",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "vale-missing-01.flac",
+      "start_sample": 549120,
+      "end_sample": 625920
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Inside a locker, Mina finds a membership card and a receipt. Vale stops talking. He reads the payment. Then the renewal. Then the payment again.",
+    "scene": 3,
+    "line": 0,
+    "id": "s04-l01",
+    "start": 84.71,
+    "end": 93.47,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 2908800,
+      "end_sample": 3329280
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "They paid?",
+    "scene": 3,
+    "line": 1,
+    "id": "s04-l02",
+    "start": 93.77,
+    "end": 94.17,
+    "voice": "onyx",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "vale-missing-01.flac",
+      "start_sample": 652800,
+      "end_sample": 672000
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "Every month.",
+    "scene": 3,
+    "line": 2,
+    "id": "s04-l03",
+    "start": 94.97,
+    "end": 95.45,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 335040,
+      "end_sample": 358080
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "For the suffering?",
+    "scene": 3,
+    "line": 3,
+    "id": "s04-l04",
+    "start": 95.83,
+    "end": 97.03,
+    "voice": "onyx",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "vale-missing-01.flac",
+      "start_sample": 672000,
+      "end_sample": 729600
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "For something. Let's find out what.",
+    "scene": 3,
+    "line": 4,
+    "id": "s04-l05",
+    "start": 97.41,
+    "end": 100.09,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 358080,
+      "end_sample": 486720
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "She turns the card over. There is a paragraph of tiny writing. Vale takes a photograph of the price and hurries away.",
+    "scene": 3,
+    "line": 5,
+    "id": "s04-l06",
+    "start": 100.47,
+    "end": 107.27,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 3346560,
+      "end_sample": 3672960
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "At the museum, his new headline is even larger. HUMANS PAID TO BE TORTURED.",
+    "scene": 3,
+    "line": 6,
+    "id": "s04-l07",
+    "start": 107.57,
+    "end": 112.30999999999999,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 3688320,
+      "end_sample": 3915840
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "You found one new fact and made the conclusion worse.",
+    "scene": 3,
+    "line": 7,
+    "id": "s04-l08",
+    "start": 112.61,
+    "end": 115.59,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 511680,
+      "end_sample": 654720
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Mina follows the same member through recordings made weeks apart. On the first day, his coach removes weight from the bar. On a later day, the man completes that exercise more easily.",
+    "scene": 4,
+    "line": 0,
+    "id": "s05-l01",
+    "start": 116.64,
+    "end": 126.48,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 3936960,
+      "end_sample": 4409280
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "Watch him. Not the metal.",
+    "scene": 4,
+    "line": 1,
+    "id": "s05-l02",
+    "start": 126.78,
+    "end": 128.5,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 665280,
+      "end_sample": 747840
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Vale watches. The bar is still a bar. The person handling it has improved.",
+    "scene": 4,
+    "line": 2,
+    "id": "s05-l03",
+    "start": 128.88,
+    "end": 134.14,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 4409280,
+      "end_sample": 4661760
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "They were training.",
+    "scene": 4,
+    "line": 3,
+    "id": "s05-l04",
+    "start": 134.44,
+    "end": 135.14,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 747840,
+      "end_sample": 781440
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Resistance makes muscles work against a load. Repeated training, with recovery, can make them stronger. As capacity improves, a suitable challenge can increase gradually. Progress takes time. It isn't one terrible afternoon.",
+    "scene": 4,
+    "line": 4,
+    "id": "s05-l05",
+    "start": 135.52,
+    "end": 148.60000000000002,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 4700160,
+      "end_sample": 5328000
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "Then why is there a heavier weight?",
+    "scene": 4,
+    "line": 5,
+    "id": "s05-l06",
+    "start": 148.9,
+    "end": 150.42000000000002,
+    "voice": "onyx",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "vale-missing-01.flac",
+      "start_sample": 748800,
+      "end_sample": 821760
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "A challenge that was hard can become easier. That doesn't mean everyone starts with the same one.",
+    "scene": 4,
+    "line": 6,
+    "id": "s05-l07",
+    "start": 150.8,
+    "end": 156.32000000000002,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 812160,
+      "end_sample": 1077120
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "A different clip shows the coach stopping a painful movement and changing the exercise.",
+    "scene": 4,
+    "line": 7,
+    "id": "s05-l08",
+    "start": 156.7,
+    "end": 160.73999999999998,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 5364480,
+      "end_sample": 5558400
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "And pain isn't the goal.",
+    "scene": 4,
+    "line": 8,
+    "id": "s05-l09",
+    "start": 161.04,
+    "end": 162.28,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 1095360,
+      "end_sample": 1154880
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Vale retreats to his strongest evidence. A treadmill. He points at the recording of a woman walking on it.",
+    "scene": 5,
+    "line": 0,
+    "id": "s06-l01",
+    "start": 163.33,
+    "end": 170.67000000000002,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 5558400,
+      "end_sample": 5910720
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "Explain why they trapped her on a road.",
+    "scene": 5,
+    "line": 1,
+    "id": "s06-l02",
+    "start": 170.97,
+    "end": 172.89,
+    "voice": "onyx",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "vale-missing-01.flac",
+      "start_sample": 842880,
+      "end_sample": 935040
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "She controls the speed. She's exercising.",
+    "scene": 5,
+    "line": 2,
+    "id": "s06-l03",
+    "start": 173.27,
+    "end": 176.13000000000002,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 1185600,
+      "end_sample": 1322880
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Brisk walking makes the heart beat faster and breathing work harder. Regular aerobic activity can improve fitness over time. Moving across a room isn't required for the body to be doing work.",
+    "scene": 5,
+    "line": 3,
+    "id": "s06-l04",
+    "start": 176.51,
+    "end": 187.92999999999998,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 5944320,
+      "end_sample": 6492480
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "They invented vehicles to avoid walking. Then purchased walking?",
+    "scene": 5,
+    "line": 4,
+    "id": "s06-l05",
+    "start": 188.23,
+    "end": 191.54999999999998,
+    "voice": "onyx",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "vale-missing-01.flac",
+      "start_sample": 955200,
+      "end_sample": 1114560
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "You're beginning to understand the species.",
+    "scene": 5,
+    "line": 5,
+    "id": "s06-l06",
+    "start": 191.93,
+    "end": 193.85,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 1323840,
+      "end_sample": 1416000
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "A museum assistant wheels the restored treadmill toward the demonstration stage. Vale follows it. Mina stays behind to finish reading the card.",
+    "scene": 5,
+    "line": 6,
+    "id": "s06-l07",
+    "start": 194.23,
+    "end": 203.26999999999998,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 6492480,
+      "end_sample": 6926400
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Now the cameras are ready. The banner is enormous. Vale steps onto the stationary belt. He raises a solemn hand.",
+    "scene": 6,
+    "line": 0,
+    "id": "s07-l01",
+    "start": 204.32,
+    "end": 210.82,
+    "voice": "alloy",
+    "origin": {
+      "kind": "approved V2 voice reused unchanged",
+      "source_project": "/workspace/stickman-video-director/production/gym-museum-preview-v2",
+      "source_turn": "s01-l01",
+      "start_sample": 0,
+      "end_sample": 312000,
+      "pcm_sha256": "f67a286fc4ab03284008ec03fd1d9533f3677a6c01136f30ef9c5fc9b5542635"
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "Today, I will experience what these people endured.",
+    "scene": 6,
+    "line": 1,
+    "id": "s07-l02",
+    "start": 211.12,
+    "end": 213.56,
+    "voice": "onyx",
+    "origin": {
+      "kind": "approved V2 voice reused unchanged",
+      "source_project": "/workspace/stickman-video-director/production/gym-museum-preview-v2",
+      "source_turn": "s01-l02",
+      "start_sample": 326400,
+      "end_sample": 443520,
+      "pcm_sha256": "0520ca5ee7c485b921b5f1d7ea55f8b67e0849f2143d0dddf6a05e526b653c7c"
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Mina runs onto the stage.",
+    "scene": 6,
+    "line": 2,
+    "id": "s07-l03",
+    "start": 213.94,
+    "end": 215.18,
+    "voice": "alloy",
+    "origin": {
+      "kind": "approved V2 voice reused unchanged",
+      "source_project": "/workspace/stickman-video-director/production/gym-museum-preview-v2",
+      "source_turn": "s01-l03",
+      "start_sample": 461760,
+      "end_sample": 521280,
+      "pcm_sha256": "924535dd6bd323656e3ff871d4355f8b6666df5f5c0b1c3fb13eabce38830c8b"
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "Wait. You haven't attached the safety clip.",
+    "scene": 6,
+    "line": 3,
+    "id": "s07-l04",
+    "start": 215.48,
+    "end": 217.63,
+    "voice": "nova",
+    "origin": {
+      "kind": "approved V2 voice reused unchanged",
+      "source_project": "/workspace/stickman-video-director/production/gym-museum-preview-v2",
+      "source_turn": "s01-l04",
+      "start_sample": 535680,
+      "end_sample": 638880,
+      "pcm_sha256": "52db3174618131de41c866b6f07a73b85b8a7757ed05f6dfce7efca4f2f30a15"
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "She shows him the stop control, attaches the clip, and starts the belt at a slow walking pace. Vale grips the rails, expecting catastrophe. He takes a step. Then another.",
+    "scene": 6,
+    "line": 4,
+    "id": "s07-l05",
+    "start": 218.01,
+    "end": 228.35,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 6933120,
+      "end_sample": 7429440
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "When does the torture begin?",
+    "scene": 6,
+    "line": 5,
+    "id": "s07-l06",
+    "start": 228.65,
+    "end": 229.93,
+    "voice": "onyx",
+    "origin": {
+      "kind": "approved V2 voice reused unchanged",
+      "source_project": "/workspace/stickman-video-director/production/gym-museum-preview-v2",
+      "source_turn": "s01-l05",
+      "start_sample": 706080,
+      "end_sample": 767520,
+      "pcm_sha256": "3e6640201ca588c4b6f098a2c2c43821e52c8a0ec6c83b98b16f408db7b43556"
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "It doesn't have to.",
+    "scene": 6,
+    "line": 6,
+    "id": "s07-l07",
+    "start": 230.78,
+    "end": 231.7,
+    "voice": "nova",
+    "origin": {
+      "kind": "approved V2 voice reused unchanged",
+      "source_project": "/workspace/stickman-video-director/production/gym-museum-preview-v2",
+      "source_turn": "s01-l06",
+      "start_sample": 808320,
+      "end_sample": 852480,
+      "pcm_sha256": "1b6759558318c253d522b3cedc6d15a225db838f7a32d59f2bbf1ffab0ad27bd"
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "He lowers his prepared expression of agony. Behind him, his own headline fills the screen.",
+    "scene": 6,
+    "line": 7,
+    "id": "s07-l08",
+    "start": 232.08,
+    "end": 237.32000000000002,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 7445760,
+      "end_sample": 7697280
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "Then why not send a machine to lift the weights?",
+    "scene": 7,
+    "line": 0,
+    "id": "s08-l01",
+    "start": 238.37,
+    "end": 240.55,
+    "voice": "onyx",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "vale-missing-01.flac",
+      "start_sample": 1141440,
+      "end_sample": 1246080
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Mina picks up a small demonstration weight. A museum robot takes it, lifts it, and returns it to the stand.",
+    "scene": 7,
+    "line": 1,
+    "id": "s08-l02",
+    "start": 240.93,
+    "end": 246.41,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 7731840,
+      "end_sample": 7994880
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "Did that train your muscles?",
+    "scene": 7,
+    "line": 2,
+    "id": "s08-l03",
+    "start": 246.71,
+    "end": 247.91,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 1455360,
+      "end_sample": 1512960
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Vale looks at his arm. Then at the robot.",
+    "scene": 7,
+    "line": 3,
+    "id": "s08-l04",
+    "start": 248.29,
+    "end": 251.04999999999998,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 7994880,
+      "end_sample": 8127360
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "A machine can move a load for you. That doesn't give your muscles the training stimulus. Exercise asks your body to do the work so it can adapt over time.",
+    "scene": 7,
+    "line": 4,
+    "id": "s08-l05",
+    "start": 251.35,
+    "end": 260.40999999999997,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 8158080,
+      "end_sample": 8592960
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "They weren't paying because the metal needed moving.",
+    "scene": 7,
+    "line": 5,
+    "id": "s08-l06",
+    "start": 260.71,
+    "end": 262.87,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 1539840,
+      "end_sample": 1643520
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "She puts the member's recordings on the screen. This time, she includes what happened outside the gym.",
+    "scene": 7,
+    "line": 6,
+    "id": "s08-l07",
+    "start": 263.25,
+    "end": 268.93,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 8615040,
+      "end_sample": 8887680
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "The man carries groceries up steps. The woman from the treadmill takes a walk with a friend. The coach holds the door while someone leaves, tired but laughing.",
+    "scene": 8,
+    "line": 0,
+    "id": "s09-l01",
+    "start": 269.98,
+    "end": 279.22,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 8909760,
+      "end_sample": 9353280
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Exercise can support everyday physical function. What people need, what they can do, and how they improve varies. A gym is one option. Home exercises and outdoor activity can count too.",
+    "scene": 8,
+    "line": 1,
+    "id": "s09-l02",
+    "start": 279.52,
+    "end": 291.26,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-01.flac",
+      "start_sample": 9364800,
+      "end_sample": 9928320
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "So they came here to make things outside this room easier.",
+    "scene": 8,
+    "line": 2,
+    "id": "s09-l03",
+    "start": 291.56,
+    "end": 294.6,
+    "voice": "onyx",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "vale-missing-01.flac",
+      "start_sample": 1279680,
+      "end_sample": 1425600
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "Some did. And some probably just liked coming.",
+    "scene": 8,
+    "line": 3,
+    "id": "s09-l04",
+    "start": 294.98,
+    "end": 297.96000000000004,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 1665600,
+      "end_sample": 1808640
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Vale looks from the ordinary lives on the screen to the sensational headline above him. The broadcast is still live. Vale reaches toward the broadcast control. He could stop the feed. Instead, he moves his hand to the treadmill's stop button.",
+    "scene": 8,
+    "line": 4,
+    "id": "s09-l05",
+    "start": 298.34,
+    "end": 312.34,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-02.flac",
+      "start_sample": 0,
+      "end_sample": 672000
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "We need to change the sign.",
+    "scene": 8,
+    "line": 5,
+    "id": "s09-l06",
+    "start": 312.64,
+    "end": 313.9,
+    "voice": "onyx",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "vale-missing-01.flac",
+      "start_sample": 1437120,
+      "end_sample": 1497600
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Later, the new exhibit is almost ready. Vale has crossed out TORTURE CHAMBER and written GYM. Mina puts the membership card beside it.",
+    "scene": 9,
+    "line": 0,
+    "id": "s10-l01",
+    "start": 314.95,
+    "end": 323.37,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-02.flac",
+      "start_sample": 710400,
+      "end_sample": 1114560
+    }
+  },
+  {
+    "speaker": "VALE",
+    "text": "Then what was in the little office?",
+    "scene": 9,
+    "line": 1,
+    "id": "s10-l02",
+    "start": 323.67,
+    "end": 325.49,
+    "voice": "onyx",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "vale-missing-01.flac",
+      "start_sample": 1540800,
+      "end_sample": 1628160
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "Remember the tiny writing?",
+    "scene": 9,
+    "line": 2,
+    "id": "s10-l03",
+    "start": 325.87,
+    "end": 327.37,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 1841280,
+      "end_sample": 1913280
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "She restores one final recording. The member walks up to the office desk.",
+    "scene": 9,
+    "line": 3,
+    "id": "s10-l04",
+    "start": 327.75,
+    "end": 331.91,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-02.flac",
+      "start_sample": 1119360,
+      "end_sample": 1319040
+    }
+  },
+  {
+    "speaker": "MEMBER",
+    "text": "I'd like to cancel.",
+    "scene": 9,
+    "line": 4,
+    "id": "s10-l05",
+    "start": 332.21,
+    "end": 333.10999999999996,
+    "voice": "echo",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "member-missing-01.flac",
+      "start_sample": 0,
+      "end_sample": 43200
+    }
+  },
+  {
+    "speaker": "CLERK",
+    "text": "Of course. Did you bring the form?",
+    "scene": 9,
+    "line": 5,
+    "id": "s10-l06",
+    "start": 333.49,
+    "end": 334.91,
+    "voice": "fable",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "clerk-missing-01.flac",
+      "start_sample": 0,
+      "end_sample": 68160
+    }
+  },
+  {
+    "speaker": "MEMBER",
+    "text": "The one on the website?",
+    "scene": 9,
+    "line": 6,
+    "id": "s10-l07",
+    "start": 335.29,
+    "end": 336.33000000000004,
+    "voice": "echo",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "member-missing-01.flac",
+      "start_sample": 61440,
+      "end_sample": 111360
+    }
+  },
+  {
+    "speaker": "CLERK",
+    "text": "The one you request by mail.",
+    "scene": 9,
+    "line": 7,
+    "id": "s10-l08",
+    "start": 336.71,
+    "end": 337.96999999999997,
+    "voice": "fable",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "clerk-missing-01.flac",
+      "start_sample": 90240,
+      "end_sample": 150720
+    }
+  },
+  {
+    "speaker": "MEMBER",
+    "text": "Can I request it here?",
+    "scene": 9,
+    "line": 8,
+    "id": "s10-l09",
+    "start": 338.35,
+    "end": 339.47,
+    "voice": "echo",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "member-missing-01.flac",
+      "start_sample": 116160,
+      "end_sample": 169920
+    }
+  },
+  {
+    "speaker": "CLERK",
+    "text": "Online.",
+    "scene": 9,
+    "line": 9,
+    "id": "s10-l10",
+    "start": 339.85,
+    "end": 340.25,
+    "voice": "fable",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "clerk-missing-01.flac",
+      "start_sample": 164160,
+      "end_sample": 183360
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Vale slowly picks up his discarded sign.",
+    "scene": 9,
+    "line": 10,
+    "id": "s10-l11",
+    "start": 341.05,
+    "end": 343.87,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-02.flac",
+      "start_sample": 1319040,
+      "end_sample": 1454400
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "On opening day, visitors pass the weights, the treadmill, and the recordings explaining how people trained. At the back is a reconstructed office. A desk. Two plastic chairs. A locked drawer.",
+    "scene": 10,
+    "line": 0,
+    "id": "s11-l01",
+    "start": 344.92,
+    "end": 356.34000000000003,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-02.flac",
+      "start_sample": 1476480,
+      "end_sample": 2024640
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "Above its door, Vale has hung his original sign.",
+    "scene": 10,
+    "line": 1,
+    "id": "s11-l02",
+    "start": 356.64,
+    "end": 359.26,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-02.flac",
+      "start_sample": 2038080,
+      "end_sample": 2163840
+    }
+  },
+  {
+    "speaker": "MINA",
+    "text": "You finally found somewhere for it.",
+    "scene": 10,
+    "line": 2,
+    "id": "s11-l03",
+    "start": 359.56,
+    "end": 361.28000000000003,
+    "voice": "nova",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "mina-missing-01.flac",
+      "start_sample": 1936320,
+      "end_sample": 2018880
+    }
+  },
+  {
+    "speaker": "NARRATOR",
+    "text": "In the end, Dr. Vale did discover a torture chamber. He'd just been pointing at the wrong room.",
+    "scene": 10,
+    "line": 3,
+    "id": "s11-l04",
+    "start": 361.66,
+    "end": 366.96000000000004,
+    "voice": "alloy",
+    "origin": {
+      "kind": "new missing speech",
+      "file": "narrator-missing-02.flac",
+      "start_sample": 2171520,
+      "end_sample": 2425920
+    }
+  }
+]

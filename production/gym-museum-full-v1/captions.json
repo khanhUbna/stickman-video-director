@@ -1,0 +1,1164 @@
+[
+  {
+    "text": "In two minutes, Dr. Vale will demonstrate",
+    "start": 0.0,
+    "end": 2.1580000000000004,
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "an ancient torture machine on live television.",
+    "start": 2.16,
+    "end": 4.68,
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "He has rehearsed the screaming.",
+    "start": 5.44,
+    "end": 6.64,
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "He has not read the instructions.",
+    "start": 7.44,
+    "end": 8.58,
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "Mina has read them.",
+    "start": 9.46,
+    "end": 10.459999999999999,
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "That's why she's running.",
+    "start": 10.8,
+    "end": 11.76,
+    "role": "NARRATOR",
+    "turn": "s01-l01"
+  },
+  {
+    "text": "Two hours earlier, this was still supposed to be the greatest discovery of his career.",
+    "start": 12.14,
+    "end": 16.3,
+    "role": "NARRATOR",
+    "turn": "s01-l02"
+  },
+  {
+    "text": "The year is three thousand twenty six.",
+    "start": 17.43,
+    "end": 20.268,
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "Under an old shopping center, Vale and Mina find a room full of heavy objects.",
+    "start": 20.27,
+    "end": 24.209999999999997,
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "There are handles to pull, platforms to push, and benches beneath enormous bars.",
+    "start": 24.889999999999997,
+    "end": 30.169999999999998,
+    "role": "NARRATOR",
+    "turn": "s02-l01"
+  },
+  {
+    "text": "A torture chamber.",
+    "start": 30.45,
+    "end": 31.369999999999997,
+    "role": "VALE",
+    "turn": "s02-l02"
+  },
+  {
+    "text": "Or a training room.",
+    "start": 31.73,
+    "end": 32.57,
+    "role": "MINA",
+    "turn": "s02-l03"
+  },
+  {
+    "text": "Training to do what?",
+    "start": 32.980000000000004,
+    "end": 34.18,
+    "role": "VALE",
+    "turn": "s02-l04"
+  },
+  {
+    "text": "They lift the object, then put it exactly where it was.",
+    "start": 34.5,
+    "end": 37.2,
+    "role": "VALE",
+    "turn": "s02-l04"
+  },
+  {
+    "text": "He peers into a smaller room at the back.",
+    "start": 37.66,
+    "end": 39.52,
+    "role": "NARRATOR",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "A desk.",
+    "start": 39.64,
+    "end": 40.18,
+    "role": "NARRATOR",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "Two plastic chairs.",
+    "start": 40.44,
+    "end": 41.46,
+    "role": "NARRATOR",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "A locked drawer.",
+    "start": 41.72,
+    "end": 42.46,
+    "role": "NARRATOR",
+    "turn": "s02-l05"
+  },
+  {
+    "text": "We'll examine that later.",
+    "start": 42.84,
+    "end": 43.86,
+    "role": "VALE",
+    "turn": "s02-l06"
+  },
+  {
+    "text": "He calls the museum.",
+    "start": 44.32,
+    "end": 45.18,
+    "role": "NARRATOR",
+    "turn": "s02-l07"
+  },
+  {
+    "text": "A banner goes up before the dust has settled.",
+    "start": 45.620000000000005,
+    "end": 47.64,
+    "role": "NARRATOR",
+    "turn": "s02-l07"
+  },
+  {
+    "text": "ANCIENT CRUELTY.",
+    "start": 48.440000000000005,
+    "end": 49.38,
+    "role": "NARRATOR",
+    "turn": "s02-l07"
+  },
+  {
+    "text": "LIVE DEMONSTRATION TODAY.",
+    "start": 49.86,
+    "end": 51.32,
+    "role": "NARRATOR",
+    "turn": "s02-l07"
+  },
+  {
+    "text": "We haven't finished looking.",
+    "start": 51.7,
+    "end": 52.6,
+    "role": "MINA",
+    "turn": "s02-l08"
+  },
+  {
+    "text": "Then look quickly.",
+    "start": 53.01,
+    "end": 53.55,
+    "role": "VALE",
+    "turn": "s02-l09"
+  },
+  {
+    "text": "Mina restores a security recording.",
+    "start": 54.67999999999999,
+    "end": 56.44,
+    "role": "NARRATOR",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "A man lies beneath a bar.",
+    "start": 56.699999999999996,
+    "end": 58.12,
+    "role": "NARRATOR",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "His face tightens.",
+    "start": 58.459999999999994,
+    "end": 59.44,
+    "role": "NARRATOR",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "Another man stands over him.",
+    "start": 59.599999999999994,
+    "end": 60.959999999999994,
+    "role": "NARRATOR",
+    "turn": "s03-l01"
+  },
+  {
+    "text": "One more.",
+    "start": 61.24,
+    "end": 61.72,
+    "role": "COACH",
+    "turn": "s03-l02"
+  },
+  {
+    "text": "There.",
+    "start": 62.18,
+    "end": 62.4,
+    "role": "VALE",
+    "turn": "s03-l03"
+  },
+  {
+    "text": "A confession.",
+    "start": 62.62,
+    "end": 63.199999999999996,
+    "role": "VALE",
+    "turn": "s03-l03"
+  },
+  {
+    "text": "That's encouragement.",
+    "start": 63.660000000000004,
+    "end": 64.18,
+    "role": "MINA",
+    "turn": "s03-l04"
+  },
+  {
+    "text": "The bar returns to its supports.",
+    "start": 64.64000000000001,
+    "end": 66.10000000000002,
+    "role": "NARRATOR",
+    "turn": "s03-l05"
+  },
+  {
+    "text": "The two men laugh and shake hands.",
+    "start": 66.36000000000001,
+    "end": 68.08000000000001,
+    "role": "NARRATOR",
+    "turn": "s03-l05"
+  },
+  {
+    "text": "Complicated society.",
+    "start": 68.46,
+    "end": 69.54,
+    "role": "VALE",
+    "turn": "s03-l06"
+  },
+  {
+    "text": "Mina advances the recording.",
+    "start": 70.41999999999999,
+    "end": 71.78,
+    "role": "NARRATOR",
+    "turn": "s03-l07"
+  },
+  {
+    "text": "People enter through the front door.",
+    "start": 72.22,
+    "end": 73.62,
+    "role": "NARRATOR",
+    "turn": "s03-l07"
+  },
+  {
+    "text": "They leave through the same door.",
+    "start": 74.17999999999999,
+    "end": 75.58,
+    "role": "NARRATOR",
+    "turn": "s03-l07"
+  },
+  {
+    "text": "One comes back carrying special shoes.",
+    "start": 75.79999999999998,
+    "end": 77.68,
+    "role": "NARRATOR",
+    "turn": "s03-l07"
+  },
+  {
+    "text": "They can leave.",
+    "start": 78.05999999999999,
+    "end": 78.72,
+    "role": "MINA",
+    "turn": "s03-l08"
+  },
+  {
+    "text": "They bring equipment.",
+    "start": 79.1,
+    "end": 79.96000000000001,
+    "role": "MINA",
+    "turn": "s03-l08"
+  },
+  {
+    "text": "They appear to want to be here.",
+    "start": 80.22,
+    "end": 81.7,
+    "role": "MINA",
+    "turn": "s03-l08"
+  },
+  {
+    "text": "Play the part with the screaming again.",
+    "start": 82.16,
+    "end": 83.68,
+    "role": "VALE",
+    "turn": "s03-l09"
+  },
+  {
+    "text": "Inside a locker, Mina finds a membership card and a receipt.",
+    "start": 84.81,
+    "end": 88.21000000000001,
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "Vale stops talking.",
+    "start": 88.63,
+    "end": 89.81,
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "He reads the payment.",
+    "start": 90.13,
+    "end": 91.07,
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "Then the renewal.",
+    "start": 91.38999999999999,
+    "end": 92.13,
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "Then the payment again.",
+    "start": 92.48999999999998,
+    "end": 93.49000000000001,
+    "role": "NARRATOR",
+    "turn": "s04-l01"
+  },
+  {
+    "text": "They paid?",
+    "start": 93.86999999999999,
+    "end": 94.27,
+    "role": "VALE",
+    "turn": "s04-l02"
+  },
+  {
+    "text": "Every month.",
+    "start": 95.07,
+    "end": 95.55,
+    "role": "MINA",
+    "turn": "s04-l03"
+  },
+  {
+    "text": "For the suffering?",
+    "start": 95.83,
+    "end": 97.05000000000001,
+    "role": "VALE",
+    "turn": "s04-l04"
+  },
+  {
+    "text": "For something.",
+    "start": 97.41,
+    "end": 98.63000000000001,
+    "role": "MINA",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "Let's find out what.",
+    "start": 99.05,
+    "end": 100.11,
+    "role": "MINA",
+    "turn": "s04-l05"
+  },
+  {
+    "text": "She turns the card over.",
+    "start": 100.57,
+    "end": 101.768,
+    "role": "NARRATOR",
+    "turn": "s04-l06"
+  },
+  {
+    "text": "There is a paragraph of tiny writing.",
+    "start": 101.77,
+    "end": 103.85000000000001,
+    "role": "NARRATOR",
+    "turn": "s04-l06"
+  },
+  {
+    "text": "Vale takes a photograph of the price and hurries away.",
+    "start": 104.59,
+    "end": 107.29,
+    "role": "NARRATOR",
+    "turn": "s04-l06"
+  },
+  {
+    "text": "At the museum, his new headline is even larger.",
+    "start": 107.66999999999999,
+    "end": 110.25,
+    "role": "NARRATOR",
+    "turn": "s04-l07"
+  },
+  {
+    "text": "HUMANS PAID TO BE TORTURED.",
+    "start": 110.68999999999998,
+    "end": 112.33,
+    "role": "NARRATOR",
+    "turn": "s04-l07"
+  },
+  {
+    "text": "You found one new fact and made the conclusion worse.",
+    "start": 112.71,
+    "end": 115.61000000000001,
+    "role": "MINA",
+    "turn": "s04-l08"
+  },
+  {
+    "text": "Mina follows the same member through recordings made weeks apart.",
+    "start": 116.74000000000001,
+    "end": 120.30000000000001,
+    "role": "NARRATOR",
+    "turn": "s05-l01"
+  },
+  {
+    "text": "On the first day, his coach removes weight from the bar.",
+    "start": 120.36,
+    "end": 123.42000000000002,
+    "role": "NARRATOR",
+    "turn": "s05-l01"
+  },
+  {
+    "text": "On a later day, the man completes that exercise more easily.",
+    "start": 123.9,
+    "end": 126.58,
+    "role": "NARRATOR",
+    "turn": "s05-l01"
+  },
+  {
+    "text": "Watch him.",
+    "start": 126.88,
+    "end": 127.38000000000001,
+    "role": "MINA",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "Not the metal.",
+    "start": 127.46000000000001,
+    "end": 128.6,
+    "role": "MINA",
+    "turn": "s05-l02"
+  },
+  {
+    "text": "Vale watches.",
+    "start": 128.88,
+    "end": 130.26,
+    "role": "NARRATOR",
+    "turn": "s05-l03"
+  },
+  {
+    "text": "The bar is still a bar.",
+    "start": 130.94,
+    "end": 132.06,
+    "role": "NARRATOR",
+    "turn": "s05-l03"
+  },
+  {
+    "text": "The person handling it has improved.",
+    "start": 132.62,
+    "end": 134.16,
+    "role": "NARRATOR",
+    "turn": "s05-l03"
+  },
+  {
+    "text": "They were training.",
+    "start": 134.44,
+    "end": 135.16,
+    "role": "MINA",
+    "turn": "s05-l04"
+  },
+  {
+    "text": "Resistance makes muscles work against a load.",
+    "start": 135.62,
+    "end": 137.56,
+    "role": "NARRATOR",
+    "turn": "s05-l05"
+  },
+  {
+    "text": "Repeated training, with recovery, can make them stronger.",
+    "start": 137.98000000000002,
+    "end": 140.36,
+    "role": "NARRATOR",
+    "turn": "s05-l05"
+  },
+  {
+    "text": "As capacity improves, a suitable challenge can increase gradually.",
+    "start": 141.06,
+    "end": 144.78000000000003,
+    "role": "NARRATOR",
+    "turn": "s05-l05"
+  },
+  {
+    "text": "Progress takes time.",
+    "start": 145.60000000000002,
+    "end": 146.48000000000002,
+    "role": "NARRATOR",
+    "turn": "s05-l05"
+  },
+  {
+    "text": "It isn't one terrible afternoon.",
+    "start": 146.96,
+    "end": 148.62,
+    "role": "NARRATOR",
+    "turn": "s05-l05"
+  },
+  {
+    "text": "Then why is there a heavier weight?",
+    "start": 149.0,
+    "end": 150.44000000000003,
+    "role": "VALE",
+    "turn": "s05-l06"
+  },
+  {
+    "text": "A challenge that was hard can become easier.",
+    "start": 150.9,
+    "end": 153.26000000000002,
+    "role": "MINA",
+    "turn": "s05-l07"
+  },
+  {
+    "text": "That doesn't mean everyone starts with the same one.",
+    "start": 153.96,
+    "end": 156.34000000000003,
+    "role": "MINA",
+    "turn": "s05-l07"
+  },
+  {
+    "text": "A different clip shows the coach stopping",
+    "start": 156.79999999999998,
+    "end": 158.47799999999998,
+    "role": "NARRATOR",
+    "turn": "s05-l08"
+  },
+  {
+    "text": "a painful movement and changing the exercise.",
+    "start": 158.48,
+    "end": 160.83999999999997,
+    "role": "NARRATOR",
+    "turn": "s05-l08"
+  },
+  {
+    "text": "And pain isn't the goal.",
+    "start": 161.14,
+    "end": 162.3,
+    "role": "MINA",
+    "turn": "s05-l09"
+  },
+  {
+    "text": "Vale retreats to his strongest evidence.",
+    "start": 163.33,
+    "end": 166.25000000000003,
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "A treadmill.",
+    "start": 166.85000000000002,
+    "end": 167.49,
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "He points at the recording of a woman walking on it.",
+    "start": 168.23000000000002,
+    "end": 170.69000000000003,
+    "role": "NARRATOR",
+    "turn": "s06-l01"
+  },
+  {
+    "text": "Explain why they trapped her on a road.",
+    "start": 171.07,
+    "end": 172.91,
+    "role": "VALE",
+    "turn": "s06-l02"
+  },
+  {
+    "text": "She controls the speed.",
+    "start": 173.37,
+    "end": 174.83,
+    "role": "MINA",
+    "turn": "s06-l03"
+  },
+  {
+    "text": "She's exercising.",
+    "start": 175.09,
+    "end": 176.19000000000003,
+    "role": "MINA",
+    "turn": "s06-l03"
+  },
+  {
+    "text": "Brisk walking makes the heart beat faster and breathing work harder.",
+    "start": 176.60999999999999,
+    "end": 180.53,
+    "role": "NARRATOR",
+    "turn": "s06-l04"
+  },
+  {
+    "text": "Regular aerobic activity can improve fitness over time.",
+    "start": 181.35,
+    "end": 184.25,
+    "role": "NARRATOR",
+    "turn": "s06-l04"
+  },
+  {
+    "text": "Moving across a room isn't required for the body to be doing work.",
+    "start": 184.80999999999997,
+    "end": 188.02999999999997,
+    "role": "NARRATOR",
+    "turn": "s06-l04"
+  },
+  {
+    "text": "They invented vehicles to avoid walking.",
+    "start": 188.32999999999998,
+    "end": 190.21,
+    "role": "VALE",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "Then purchased walking?",
+    "start": 190.70999999999998,
+    "end": 191.57,
+    "role": "VALE",
+    "turn": "s06-l05"
+  },
+  {
+    "text": "You're beginning to understand the species.",
+    "start": 192.03,
+    "end": 193.87,
+    "role": "MINA",
+    "turn": "s06-l06"
+  },
+  {
+    "text": "A museum assistant wheels the restored treadmill toward the demonstration stage.",
+    "start": 194.23,
+    "end": 198.808,
+    "role": "NARRATOR",
+    "turn": "s06-l07"
+  },
+  {
+    "text": "Vale follows it.",
+    "start": 198.81,
+    "end": 201.07,
+    "role": "NARRATOR",
+    "turn": "s06-l07"
+  },
+  {
+    "text": "Mina stays behind to finish reading the card.",
+    "start": 201.25,
+    "end": 203.29,
+    "role": "NARRATOR",
+    "turn": "s06-l07"
+  },
+  {
+    "text": "Now the cameras are ready.",
+    "start": 204.32,
+    "end": 205.46,
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "The banner is enormous.",
+    "start": 205.73999999999998,
+    "end": 206.618,
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "Vale steps onto the stationary belt.",
+    "start": 206.62,
+    "end": 209.36,
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "He raises a solemn hand.",
+    "start": 209.45999999999998,
+    "end": 210.84,
+    "role": "NARRATOR",
+    "turn": "s07-l01"
+  },
+  {
+    "text": "Today, I will experience what these people endured.",
+    "start": 211.12,
+    "end": 213.58,
+    "role": "VALE",
+    "turn": "s07-l02"
+  },
+  {
+    "text": "Mina runs onto the stage.",
+    "start": 214.04,
+    "end": 215.20000000000002,
+    "role": "NARRATOR",
+    "turn": "s07-l03"
+  },
+  {
+    "text": "Wait.",
+    "start": 215.48,
+    "end": 215.82,
+    "role": "MINA",
+    "turn": "s07-l04"
+  },
+  {
+    "text": "You haven't attached the safety clip.",
+    "start": 215.88,
+    "end": 217.66,
+    "role": "MINA",
+    "turn": "s07-l04"
+  },
+  {
+    "text": "She shows him the stop control, attaches the",
+    "start": 218.10999999999999,
+    "end": 220.22799999999998,
+    "role": "NARRATOR",
+    "turn": "s07-l05"
+  },
+  {
+    "text": "clip, and starts the belt at a slow walking pace.",
+    "start": 220.23,
+    "end": 222.84799999999998,
+    "role": "NARRATOR",
+    "turn": "s07-l05"
+  },
+  {
+    "text": "Vale grips the rails, expecting catastrophe.",
+    "start": 222.85,
+    "end": 225.97,
+    "role": "NARRATOR",
+    "turn": "s07-l05"
+  },
+  {
+    "text": "He takes a step.",
+    "start": 226.79,
+    "end": 227.63,
+    "role": "NARRATOR",
+    "turn": "s07-l05"
+  },
+  {
+    "text": "Then another.",
+    "start": 227.73,
+    "end": 228.37,
+    "role": "NARRATOR",
+    "turn": "s07-l05"
+  },
+  {
+    "text": "When does the torture begin?",
+    "start": 228.75,
+    "end": 229.95000000000002,
+    "role": "VALE",
+    "turn": "s07-l06"
+  },
+  {
+    "text": "It doesn't have to.",
+    "start": 230.88,
+    "end": 231.72,
+    "role": "MINA",
+    "turn": "s07-l07"
+  },
+  {
+    "text": "He lowers his prepared expression of agony.",
+    "start": 232.18,
+    "end": 234.34,
+    "role": "NARRATOR",
+    "turn": "s07-l08"
+  },
+  {
+    "text": "Behind him, his own headline fills the screen.",
+    "start": 235.12,
+    "end": 237.34,
+    "role": "NARRATOR",
+    "turn": "s07-l08"
+  },
+  {
+    "text": "Then why not send a machine to lift the weights?",
+    "start": 238.47,
+    "end": 240.57000000000002,
+    "role": "VALE",
+    "turn": "s08-l01"
+  },
+  {
+    "text": "Mina picks up a small demonstration weight.",
+    "start": 241.03,
+    "end": 242.708,
+    "role": "NARRATOR",
+    "turn": "s08-l02"
+  },
+  {
+    "text": "A museum robot takes it, lifts it, and returns it to the stand.",
+    "start": 242.71,
+    "end": 246.51,
+    "role": "NARRATOR",
+    "turn": "s08-l02"
+  },
+  {
+    "text": "Did that train your muscles?",
+    "start": 246.81,
+    "end": 247.93,
+    "role": "MINA",
+    "turn": "s08-l03"
+  },
+  {
+    "text": "Vale looks at his arm.",
+    "start": 248.29,
+    "end": 250.09,
+    "role": "NARRATOR",
+    "turn": "s08-l04"
+  },
+  {
+    "text": "Then at the robot.",
+    "start": 250.31,
+    "end": 251.07,
+    "role": "NARRATOR",
+    "turn": "s08-l04"
+  },
+  {
+    "text": "A machine can move a load for you.",
+    "start": 251.45,
+    "end": 253.37,
+    "role": "NARRATOR",
+    "turn": "s08-l05"
+  },
+  {
+    "text": "That doesn't give your muscles the training stimulus.",
+    "start": 253.64999999999998,
+    "end": 255.67,
+    "role": "NARRATOR",
+    "turn": "s08-l05"
+  },
+  {
+    "text": "Exercise asks your body to do the work so it can adapt over time.",
+    "start": 256.31,
+    "end": 260.43,
+    "role": "NARRATOR",
+    "turn": "s08-l05"
+  },
+  {
+    "text": "They weren't paying because the metal needed moving.",
+    "start": 260.81,
+    "end": 262.89,
+    "role": "MINA",
+    "turn": "s08-l06"
+  },
+  {
+    "text": "She puts the member's recordings on the screen.",
+    "start": 263.35,
+    "end": 265.47,
+    "role": "NARRATOR",
+    "turn": "s08-l07"
+  },
+  {
+    "text": "This time, she includes what happened outside the gym.",
+    "start": 265.90999999999997,
+    "end": 268.95,
+    "role": "NARRATOR",
+    "turn": "s08-l07"
+  },
+  {
+    "text": "The man carries groceries up steps.",
+    "start": 270.08000000000004,
+    "end": 272.3,
+    "role": "NARRATOR",
+    "turn": "s09-l01"
+  },
+  {
+    "text": "The woman from the treadmill takes a walk with a friend.",
+    "start": 272.78,
+    "end": 275.138,
+    "role": "NARRATOR",
+    "turn": "s09-l01"
+  },
+  {
+    "text": "The coach holds the door while someone leaves, tired but laughing.",
+    "start": 275.14,
+    "end": 279.24,
+    "role": "NARRATOR",
+    "turn": "s09-l01"
+  },
+  {
+    "text": "Exercise can support everyday physical function.",
+    "start": 279.62,
+    "end": 282.62,
+    "role": "NARRATOR",
+    "turn": "s09-l02"
+  },
+  {
+    "text": "What people need, what they can do, and how they improve varies.",
+    "start": 283.26,
+    "end": 286.44,
+    "role": "NARRATOR",
+    "turn": "s09-l02"
+  },
+  {
+    "text": "A gym is one option.",
+    "start": 287.14,
+    "end": 288.26,
+    "role": "NARRATOR",
+    "turn": "s09-l02"
+  },
+  {
+    "text": "Home exercises and outdoor activity can count too.",
+    "start": 288.76,
+    "end": 291.28000000000003,
+    "role": "NARRATOR",
+    "turn": "s09-l02"
+  },
+  {
+    "text": "So they came here to make things outside this room easier.",
+    "start": 291.66,
+    "end": 294.62,
+    "role": "VALE",
+    "turn": "s09-l03"
+  },
+  {
+    "text": "Some did.",
+    "start": 295.08000000000004,
+    "end": 295.64000000000004,
+    "role": "MINA",
+    "turn": "s09-l04"
+  },
+  {
+    "text": "And some probably just liked coming.",
+    "start": 295.96000000000004,
+    "end": 297.98,
+    "role": "MINA",
+    "turn": "s09-l04"
+  },
+  {
+    "text": "Vale looks from the ordinary lives on the screen",
+    "start": 298.34,
+    "end": 300.59799999999996,
+    "role": "NARRATOR",
+    "turn": "s09-l05"
+  },
+  {
+    "text": "to the sensational headline above him.",
+    "start": 300.59999999999997,
+    "end": 302.71999999999997,
+    "role": "NARRATOR",
+    "turn": "s09-l05"
+  },
+  {
+    "text": "The broadcast is still live.",
+    "start": 303.21999999999997,
+    "end": 304.498,
+    "role": "NARRATOR",
+    "turn": "s09-l05"
+  },
+  {
+    "text": "Vale reaches toward the broadcast control.",
+    "start": 304.5,
+    "end": 307.47999999999996,
+    "role": "NARRATOR",
+    "turn": "s09-l05"
+  },
+  {
+    "text": "He could stop the feed.",
+    "start": 307.97999999999996,
+    "end": 309.02,
+    "role": "NARRATOR",
+    "turn": "s09-l05"
+  },
+  {
+    "text": "Instead, he moves his hand to the treadmill's stop button.",
+    "start": 309.47999999999996,
+    "end": 312.35999999999996,
+    "role": "NARRATOR",
+    "turn": "s09-l05"
+  },
+  {
+    "text": "We need to change the sign.",
+    "start": 312.74,
+    "end": 313.92,
+    "role": "VALE",
+    "turn": "s09-l06"
+  },
+  {
+    "text": "Later, the new exhibit is almost ready.",
+    "start": 315.05,
+    "end": 317.128,
+    "role": "NARRATOR",
+    "turn": "s10-l01"
+  },
+  {
+    "text": "Vale has crossed out TORTURE CHAMBER and written GYM.",
+    "start": 317.13,
+    "end": 320.79,
+    "role": "NARRATOR",
+    "turn": "s10-l01"
+  },
+  {
+    "text": "Mina puts the membership card beside it.",
+    "start": 321.59,
+    "end": 323.39,
+    "role": "NARRATOR",
+    "turn": "s10-l01"
+  },
+  {
+    "text": "Then what was in the little office?",
+    "start": 323.77000000000004,
+    "end": 325.51000000000005,
+    "role": "VALE",
+    "turn": "s10-l02"
+  },
+  {
+    "text": "Remember the tiny writing?",
+    "start": 325.97,
+    "end": 327.39000000000004,
+    "role": "MINA",
+    "turn": "s10-l03"
+  },
+  {
+    "text": "She restores one final recording.",
+    "start": 327.85,
+    "end": 329.43,
+    "role": "NARRATOR",
+    "turn": "s10-l04"
+  },
+  {
+    "text": "The member walks up to the office desk.",
+    "start": 330.47,
+    "end": 332.01000000000005,
+    "role": "NARRATOR",
+    "turn": "s10-l04"
+  },
+  {
+    "text": "I'd like to cancel.",
+    "start": 332.21,
+    "end": 333.13,
+    "role": "MEMBER",
+    "turn": "s10-l05"
+  },
+  {
+    "text": "Of course.",
+    "start": 333.49,
+    "end": 333.91,
+    "role": "CLERK",
+    "turn": "s10-l06"
+  },
+  {
+    "text": "Did you bring the form?",
+    "start": 334.09000000000003,
+    "end": 334.93,
+    "role": "CLERK",
+    "turn": "s10-l06"
+  },
+  {
+    "text": "The one on the website?",
+    "start": 335.39000000000004,
+    "end": 336.35,
+    "role": "MEMBER",
+    "turn": "s10-l07"
+  },
+  {
+    "text": "The one you request by mail.",
+    "start": 336.81,
+    "end": 337.99,
+    "role": "CLERK",
+    "turn": "s10-l08"
+  },
+  {
+    "text": "Can I request it here?",
+    "start": 338.45000000000005,
+    "end": 339.49,
+    "role": "MEMBER",
+    "turn": "s10-l09"
+  },
+  {
+    "text": "Online.",
+    "start": 339.95000000000005,
+    "end": 340.27000000000004,
+    "role": "CLERK",
+    "turn": "s10-l10"
+  },
+  {
+    "text": "Vale slowly picks up his discarded sign.",
+    "start": 341.05,
+    "end": 343.89000000000004,
+    "role": "NARRATOR",
+    "turn": "s10-l11"
+  },
+  {
+    "text": "On opening day, visitors pass the weights, the treadmill,",
+    "start": 345.02000000000004,
+    "end": 347.978,
+    "role": "NARRATOR",
+    "turn": "s11-l01"
+  },
+  {
+    "text": "and the recordings explaining how people trained.",
+    "start": 347.98,
+    "end": 350.44,
+    "role": "NARRATOR",
+    "turn": "s11-l01"
+  },
+  {
+    "text": "At the back is a reconstructed office.",
+    "start": 350.86,
+    "end": 352.72,
+    "role": "NARRATOR",
+    "turn": "s11-l01"
+  },
+  {
+    "text": "A desk.",
+    "start": 353.14,
+    "end": 353.70000000000005,
+    "role": "NARRATOR",
+    "turn": "s11-l01"
+  },
+  {
+    "text": "Two plastic chairs.",
+    "start": 354.14,
+    "end": 355.20000000000005,
+    "role": "NARRATOR",
+    "turn": "s11-l01"
+  },
+  {
+    "text": "A locked drawer.",
+    "start": 355.52000000000004,
+    "end": 356.36,
+    "role": "NARRATOR",
+    "turn": "s11-l01"
+  },
+  {
+    "text": "Above its door, Vale has hung his original sign.",
+    "start": 356.74,
+    "end": 359.28,
+    "role": "NARRATOR",
+    "turn": "s11-l02"
+  },
+  {
+    "text": "You finally found somewhere for it.",
+    "start": 359.65999999999997,
+    "end": 361.3,
+    "role": "MINA",
+    "turn": "s11-l03"
+  },
+  {
+    "text": "In the end, Dr. Vale did discover a torture chamber.",
+    "start": 361.76000000000005,
+    "end": 364.82000000000005,
+    "role": "NARRATOR",
+    "turn": "s11-l04"
+  },
+  {
+    "text": "He'd just been pointing at the wrong room.",
+    "start": 365.18,
+    "end": 366.98,
+    "role": "NARRATOR",
+    "turn": "s11-l04"
+  }
+]

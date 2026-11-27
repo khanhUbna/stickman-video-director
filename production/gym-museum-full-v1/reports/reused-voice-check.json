@@ -1,0 +1,29 @@
+{
+  "unchanged_accepted_utterances": [
+    {
+      "turn": "s07-l01",
+      "pcm_sha256": "f67a286fc4ab03284008ec03fd1d9533f3677a6c01136f30ef9c5fc9b5542635"
+    },
+    {
+      "turn": "s07-l02",
+      "pcm_sha256": "0520ca5ee7c485b921b5f1d7ea55f8b67e0849f2143d0dddf6a05e526b653c7c"
+    },
+    {
+      "turn": "s07-l03",
+      "pcm_sha256": "924535dd6bd323656e3ff871d4355f8b6666df5f5c0b1c3fb13eabce38830c8b"
+    },
+    {
+      "turn": "s07-l04",
+      "pcm_sha256": "52db3174618131de41c866b6f07a73b85b8a7757ed05f6dfce7efca4f2f30a15"
+    },
+    {
+      "turn": "s07-l06",
+      "pcm_sha256": "3e6640201ca588c4b6f098a2c2c43821e52c8a0ec6c83b98b16f408db7b43556"
+    },
+    {
+      "turn": "s07-l07",
+      "pcm_sha256": "1b6759558318c253d522b3cedc6d15a225db838f7a32d59f2bbf1ffab0ad27bd"
+    }
+  ],
+  "tempo_changed": false
+}

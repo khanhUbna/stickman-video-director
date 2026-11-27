@@ -1,0 +1,16 @@
+{
+  "duration": 368.76666666666665,
+  "fps": 30,
+  "word_count": 1013,
+  "native_speech_speed_preserved": true,
+  "reused_turns": [
+    "s07-l01",
+    "s07-l02",
+    "s07-l03",
+    "s07-l04",
+    "s07-l06",
+    "s07-l07"
+  ],
+  "exact_asr_anchors": 991,
+  "source": "New missing-role recordings + exact approved V2 PCM excerpts, no tempo change"
+}

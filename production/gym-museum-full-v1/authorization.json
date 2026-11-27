@@ -1,0 +1,27 @@
+{
+  "script_approved": true,
+  "media_requested": true,
+  "paid_tts_authorized": true,
+  "maximum_usd_proposed": 0.2,
+  "purpose": "New English 2D gym museum film only",
+  "model": "tts-1-hd",
+  "voices": {
+    "NARRATOR": "alloy",
+    "VALE": "onyx",
+    "MINA": "nova",
+    "COACH": "echo",
+    "MEMBER": "echo",
+    "CLERK": "fable"
+  },
+  "automatic_retry": false,
+  "full_film_authorized": true,
+  "approved_motion": "../gym-museum-preview-v2",
+  "user_reply": "hãy làm video hoàn chỉnh cho tôi. tôi đã duyệt bản 20 giây mới sửa đó",
+  "authorization_context": "Creator requested paid ChatGPT/OpenAI speech, reviewed the paid three-role sample, then explicitly approved revised V2 and requested full production. Continue same voices and preserve accepted recordings.",
+  "maximum_usd": 0.2,
+  "previous_sample_estimated_usd": 0.0084,
+  "budget_basis": "Assistant-imposed total project ceiling within previously quoted USD0.20; creator authorizes continuation with paid speech, not quoted as a new numeric user reply.",
+  "generation_complete": true,
+  "paid_requests_completed": 7,
+  "estimated_project_total_usd": 0.17841
+}

@@ -1,3 +1,7 @@
+# Superseded production checkpoint
+
+The completed film based on approved corrected preview V2 is now in `deliveries/gym-museum-full-v1/`. Editable source and current QA are in `production/gym-museum-full-v1/`. The earlier checkpoint below is preserved as history; its pending-voice/full-render state is no longer current.
+
 # Production checkpoint
 
 2026-11-26: V3 script and full 2D production requested by creator. Script approval recorded; new film-specific paid voice budget pending. No paid requests made, no audio created, no final-video claim.

@@ -1,0 +1,167 @@
+{
+  "model": "tts-1-hd",
+  "reuse_turns": [
+    "s07-l01",
+    "s07-l02",
+    "s07-l03",
+    "s07-l04",
+    "s07-l06",
+    "s07-l07"
+  ],
+  "missing_requests": [
+    {
+      "id": "narrator-missing-01",
+      "role": "NARRATOR",
+      "voice": "alloy",
+      "turn_ids": [
+        "s01-l01",
+        "s01-l02",
+        "s02-l01",
+        "s02-l05",
+        "s02-l07",
+        "s03-l01",
+        "s03-l05",
+        "s03-l07",
+        "s04-l01",
+        "s04-l06",
+        "s04-l07",
+        "s05-l01",
+        "s05-l03",
+        "s05-l05",
+        "s05-l08",
+        "s06-l01",
+        "s06-l04",
+        "s06-l07",
+        "s07-l05",
+        "s07-l08",
+        "s08-l02",
+        "s08-l04",
+        "s08-l05",
+        "s08-l07",
+        "s09-l01",
+        "s09-l02"
+      ],
+      "input": "In two minutes, Dr. Vale will demonstrate an ancient torture machine on live television. He has rehearsed the screaming. He has not read the instructions. Mina has read them. That's why she's running.\n\nTwo hours earlier, this was still supposed to be the greatest discovery of his career.\n\nThe year is three thousand twenty six. Under an old shopping center, Vale and Mina find a room full of heavy objects. There are handles to pull, platforms to push, and benches beneath enormous bars.\n\nHe peers into a smaller room at the back. A desk. Two plastic chairs. A locked drawer.\n\nHe calls the museum. A banner goes up before the dust has settled. ANCIENT CRUELTY. LIVE DEMONSTRATION TODAY.\n\nMina restores a security recording. A man lies beneath a bar. His face tightens. Another man stands over him.\n\nThe bar returns to its supports. The two men laugh and shake hands.\n\nMina advances the recording. People enter through the front door. They leave through the same door. One comes back carrying special shoes.\n\nInside a locker, Mina finds a membership card and a receipt. Vale stops talking. He reads the payment. Then the renewal. Then the payment again.\n\nShe turns the card over. There is a paragraph of tiny writing. Vale takes a photograph of the price and hurries away.\n\nAt the museum, his new headline is even larger. HUMANS PAID TO BE TORTURED.\n\nMina follows the same member through recordings made weeks apart. On the first day, his coach removes weight from the bar. On a later day, the man completes that exercise more easily.\n\nVale watches. The bar is still a bar. The person handling it has improved.\n\nResistance makes muscles work against a load. Repeated training, with recovery, can make them stronger. As capacity improves, a suitable challenge can increase gradually. Progress takes time. It isn't one terrible afternoon.\n\nA different clip shows the coach stopping a painful movement and changing the exercise.\n\nVale retreats to his strongest evidence. A treadmill. He points at the recording of a woman walking on it.\n\nBrisk walking makes the heart beat faster and breathing work harder. Regular aerobic activity can improve fitness over time. Moving across a room isn't required for the body to be doing work.\n\nA museum assistant wheels the restored treadmill toward the demonstration stage. Vale follows it. Mina stays behind to finish reading the card.\n\nShe shows him the stop control, attaches the clip, and starts the belt at a slow walking pace. Vale grips the rails, expecting catastrophe. He takes a step. Then another.\n\nHe lowers his prepared expression of agony. Behind him, his own headline fills the screen.\n\nMina picks up a small demonstration weight. A museum robot takes it, lifts it, and returns it to the stand.\n\nVale looks at his arm. Then at the robot.\n\nA machine can move a load for you. That doesn't give your muscles the training stimulus. Exercise asks your body to do the work so it can adapt over time.\n\nShe puts the member's recordings on the screen. This time, she includes what happened outside the gym.\n\nThe man carries groceries up steps. The woman from the treadmill takes a walk with a friend. The coach holds the door while someone leaves, tired but laughing.\n\nExercise can support everyday physical function. What people need, what they can do, and how they improve varies. A gym is one option. Home exercises and outdoor activity can count too.",
+      "characters": 3395,
+      "estimated_usd": 0.10185,
+      "input_sha256": "e5854ec2ce6cd85fdfdd5d28aaa215f89bca6fa1f5092c69d45d56ec4624bc28"
+    },
+    {
+      "id": "narrator-missing-02",
+      "role": "NARRATOR",
+      "voice": "alloy",
+      "turn_ids": [
+        "s09-l05",
+        "s10-l01",
+        "s10-l04",
+        "s10-l11",
+        "s11-l01",
+        "s11-l02",
+        "s11-l04"
+      ],
+      "input": "Vale looks from the ordinary lives on the screen to the sensational headline above him. The broadcast is still live. Vale reaches toward the broadcast control. He could stop the feed. Instead, he moves his hand to the treadmill's stop button.\n\nLater, the new exhibit is almost ready. Vale has crossed out TORTURE CHAMBER and written GYM. Mina puts the membership card beside it.\n\nShe restores one final recording. The member walks up to the office desk.\n\nVale slowly picks up his discarded sign.\n\nOn opening day, visitors pass the weights, the treadmill, and the recordings explaining how people trained. At the back is a reconstructed office. A desk. Two plastic chairs. A locked drawer.\n\nAbove its door, Vale has hung his original sign.\n\nIn the end, Dr. Vale did discover a torture chamber. He'd just been pointing at the wrong room.",
+      "characters": 835,
+      "estimated_usd": 0.02505,
+      "input_sha256": "d645cb1099d4bc037758d39817786d578a20d8775ee76a977b56b4785714be18"
+    },
+    {
+      "id": "vale-missing-01",
+      "role": "VALE",
+      "voice": "onyx",
+      "turn_ids": [
+        "s02-l02",
+        "s02-l04",
+        "s02-l06",
+        "s02-l09",
+        "s03-l03",
+        "s03-l06",
+        "s03-l09",
+        "s04-l02",
+        "s04-l04",
+        "s05-l06",
+        "s06-l02",
+        "s06-l05",
+        "s08-l01",
+        "s09-l03",
+        "s09-l06",
+        "s10-l02"
+      ],
+      "input": "A torture chamber.\n\nTraining to do what? They lift the object, then put it exactly where it was.\n\nWe'll examine that later.\n\nThen look quickly.\n\nThere. A confession.\n\nComplicated society.\n\nPlay the part with the screaming again.\n\nThey paid?\n\nFor the suffering?\n\nThen why is there a heavier weight?\n\nExplain why they trapped her on a road.\n\nThey invented vehicles to avoid walking. Then purchased walking?\n\nThen why not send a machine to lift the weights?\n\nSo they came here to make things outside this room easier.\n\nWe need to change the sign.\n\nThen what was in the little office?",
+      "characters": 580,
+      "estimated_usd": 0.0174,
+      "input_sha256": "16a6fa25b87fd18a34880883bf322f8fd2590c3ed3f529b7886a0f29d327a5f3"
+    },
+    {
+      "id": "mina-missing-01",
+      "role": "MINA",
+      "voice": "nova",
+      "turn_ids": [
+        "s02-l03",
+        "s02-l08",
+        "s03-l04",
+        "s03-l08",
+        "s04-l03",
+        "s04-l05",
+        "s04-l08",
+        "s05-l02",
+        "s05-l04",
+        "s05-l07",
+        "s05-l09",
+        "s06-l03",
+        "s06-l06",
+        "s08-l03",
+        "s08-l06",
+        "s09-l04",
+        "s10-l03",
+        "s11-l03"
+      ],
+      "input": "Or a training room.\n\nWe haven't finished looking.\n\nThat's encouragement.\n\nThey can leave. They bring equipment. They appear to want to be here.\n\nEvery month.\n\nFor something. Let's find out what.\n\nYou found one new fact and made the conclusion worse.\n\nWatch him. Not the metal.\n\nThey were training.\n\nA challenge that was hard can become easier. That doesn't mean everyone starts with the same one.\n\nAnd pain isn't the goal.\n\nShe controls the speed. She's exercising.\n\nYou're beginning to understand the species.\n\nDid that train your muscles?\n\nThey weren't paying because the metal needed moving.\n\nSome did. And some probably just liked coming.\n\nRemember the tiny writing?\n\nYou finally found somewhere for it.",
+      "characters": 707,
+      "estimated_usd": 0.02121,
+      "input_sha256": "ecbc3802df2f4534498bac41a4c5adba97fc1879430b85055557dc152b1863e2"
+    },
+    {
+      "id": "coach-missing-01",
+      "role": "COACH",
+      "voice": "echo",
+      "turn_ids": [
+        "s03-l02"
+      ],
+      "input": "One more.",
+      "characters": 9,
+      "estimated_usd": 0.00027,
+      "input_sha256": "805c04ed6bb57d8eb57b394af4c9f702e5b04f6937c4726702c3c011a28a9c05"
+    },
+    {
+      "id": "member-missing-01",
+      "role": "MEMBER",
+      "voice": "echo",
+      "turn_ids": [
+        "s10-l05",
+        "s10-l07",
+        "s10-l09"
+      ],
+      "input": "I'd like to cancel.\n\nThe one on the website?\n\nCan I request it here?",
+      "characters": 68,
+      "estimated_usd": 0.00204,
+      "input_sha256": "3096c3e473042bc5756ad49bdfc5628a606b4879e681fd27bfc2984e4ab9c60f"
+    },
+    {
+      "id": "clerk-missing-01",
+      "role": "CLERK",
+      "voice": "fable",
+      "turn_ids": [
+        "s10-l06",
+        "s10-l08",
+        "s10-l10"
+      ],
+      "input": "Of course. Did you bring the form?\n\nThe one you request by mail.\n\nOnline.",
+      "characters": 73,
+      "estimated_usd": 0.00219,
+      "input_sha256": "078a7627054e8738adfd5f1c5bc90350a204e333f245cfeab28b3df54a679998"
+    }
+  ],
+  "new_estimated_usd": 0.17001,
+  "previous_sample_estimated_usd": 0.0084,
+  "estimated_project_total_usd": 0.17840999999999999
+}

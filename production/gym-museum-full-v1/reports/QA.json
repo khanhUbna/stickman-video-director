@@ -1,0 +1,28 @@
+{
+  "file": "they-found-a-gym-and-got-it-wrong-en-1080p.mp4",
+  "sha256": "9099ecce0f75a1e3e6f9ab138e8f679b63570f8c8773192fc79357f836b62afc",
+  "duration": 368.766667,
+  "bytes": 31836475,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 11063,
+  "shots": 145,
+  "scenes": 11,
+  "words": 1013,
+  "caption_cues": 166,
+  "integrated_lufs": -16.37,
+  "true_peak_dbtp": -4.67,
+  "audio_codec": "aac",
+  "full_decode_passed": true,
+  "new_tts_requests": 7,
+  "approved_sample_utterances_reused": 6,
+  "estimated_total_tts_usd_including_sample": 0.17840999999999999,
+  "invoice_accessed": false,
+  "other_paid_services": 0,
+  "native_speech_speed_preserved": true,
+  "creative_review": "Encoded shot frames reviewed; not a claim of independent full-speed human viewing or audition.",
+  "youtube_published": false
+}
