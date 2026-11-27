@@ -1,0 +1,19 @@
+1
+00:00:06,200 --> 00:00:08,000
+Now, the important part:
+
+2
+00:00:08,000 --> 00:00:09,571
+keep the coffee in the cup.
+
+3
+00:00:12,200 --> 00:00:13,650
+Walking is easy.
+
+4
+00:00:13,650 --> 00:00:15,250
+Walking with coffee?
+
+5
+00:00:15,250 --> 00:00:16,190
+That takes confidence.

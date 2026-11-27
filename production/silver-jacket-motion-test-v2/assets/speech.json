@@ -1,0 +1,18 @@
+{
+  "provider": "Local Kokoro ONNX",
+  "voice": "am_michael",
+  "impersonation": false,
+  "paid_api_calls": 0,
+  "cues": [
+    {
+      "start": 6.2,
+      "end": 9.421333333333333,
+      "text": "Now, the important part: keep the coffee in the cup."
+    },
+    {
+      "start": 12.2,
+      "end": 16.04,
+      "text": "Walking is easy. Walking with coffee? That takes confidence."
+    }
+  ]
+}
