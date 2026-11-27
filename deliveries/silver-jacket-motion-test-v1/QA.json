@@ -1,0 +1,22 @@
+{
+  "duration_seconds": 20.0,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 30,
+  "frames": 600,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "full_decode_passed": true,
+  "source_geometry_frames": 600,
+  "minimum_feet_x_separation_px": 22,
+  "consecutive_planted_foot_drift_px": 0,
+  "held_cup_transform_error_px": 0,
+  "voice": "Kokoro am_michael (local synthetic demo, not voice impersonation)",
+  "paid_tts_calls": 0,
+  "youtube_published": false,
+  "sha256": "2ac2a96d30fd25ee8316d9844baa92f57af202aa1472b23f4f0d9dba86cff372",
+  "bytes": 975239,
+  "review_scope": "Encoded stills and technical/contact checks, not independent full-speed human viewing/listening; prototype awaiting creator review."
+}
