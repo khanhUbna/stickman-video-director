@@ -1,0 +1,5 @@
+# Jensen Huang Had One Shot to Save NVIDIA
+
+One narrator, 622 spoken English words plus full Vietnamese reading translation. Estimated 4.4 minutes at 140 wpm before delivery pauses; no recorded runtime. Historical turning-point story with explicitly conditional alternative outcomes, not an invented biography. Research follows the direct 2023 Acquired interview, with independent claim review and source line locators. No invented dialogue, current valuations or unsupported assertion that NVIDIA failure means AI disappears.
+
+Read script/script-en.txt then script/script-vi.txt. Evidence and correction history: research/brief.md, research/factcheck.md and research/claims.json. Five hooks, seven-stage outline, editorial retention review, action-led storyboard and draft packaging/SEO are provided. Heuristic hook score 57 falls below default 60 and has a documented editorial exception; see retention-review.md and the separate reviewed-threshold report. No paid API, voice recording, thumbnail generation, video production or YouTube publication was performed. Awaiting creator script approval.

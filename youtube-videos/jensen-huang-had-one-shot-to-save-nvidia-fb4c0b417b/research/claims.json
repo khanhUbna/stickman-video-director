@@ -1,0 +1,494 @@
+[
+  {
+    "id": "C01",
+    "paragraph": 1,
+    "claim": "The episode predates NVIDIA’s AI boom.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L19, 28 place the crisis in 1997; L63–64, 80 and 86 describe the later deep-learning period.",
+    "evidence_excerpt": "L19, 28 place the crisis in 1997; L63–64, 80 and 86 describe the later deep-learning period.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C02",
+    "paragraph": 1,
+    "claim": "Waiting for a physical prototype “felt safer”; the usual testing cycle would have taken too long, in Huang’s account.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L37–42 describes the normal sequence and why it would exhaust the company’s resources. “Felt safer” is the narrator’s rhetorical assessment of conventional caution, not a quotation or documented report of Huang’s private feelings; he himself calls the alternative “crazy” at L50–52. L20 supplies the no-physical-prototype premise.",
+    "evidence_excerpt": "L37–42 describes the normal sequence and why it would exhaust the company’s resources. “Felt safer” is the narrator’s rhetorical assessment of conventional caution, not a quotation or documented report of Huang’s private feelings; he himself calls the alternative “crazy” at L50–52. L20 supplies the no-physical-prototype premise.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C03",
+    "paragraph": 1,
+    "claim": "The company could not afford a failed design followed by another chip revision.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "Huang, L37: the software/bug-fixing/second-tape-out sequence means “We would’ve been out of business already”; L41–42: “tape out just one time” / “if it’s not, we’ll be out of business.” This is his retrospective financial/timing assessment.",
+    "evidence_excerpt": "Huang, L37: the software/bug-fixing/second-tape-out sequence means “We would’ve been out of business already”; L41–42: “tape out just one time” / “if it’s not, we’ll be out of business.” This is his retrospective financial/timing assessment.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C04",
+    "paragraph": 1,
+    "claim": "“You have six months to save NVIDIA”; one more test might endanger survival.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L19: “about six months of cash left”; L41: “if we only had six months.” The second-person opening is dramatization, and “What if” makes the extra-test consequence a question, not a proved counterfactual. L37–42 supports the underlying iteration constraint; the script does not claim all additional tests were harmful.",
+    "evidence_excerpt": "L19: “about six months of cash left”; L41: “if we only had six months.” The second-person opening is dramatization, and “What if” makes the extra-test consequence a question, not a proved counterfactual. L37–42 supports the underlying iteration constraint; the script does not claim all additional tests were harmful.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C05",
+    "paragraph": 2,
+    "claim": "The crisis occurred in 1997.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "Huang, L28: “That time—1997”; host, L19: “I believe it was 1997.”",
+    "evidence_excerpt": "Huang, L28: “That time—1997”; host, L19: “I believe it was 1997.”",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C06",
+    "paragraph": 2,
+    "claim": "The earlier graphics architecture was incompatible with Microsoft’s DirectX.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "Huang, L24: NV1/NV2 used a different approach; L26: DirectX “was fundamentally incompatible with Nvidia’s architecture.” This is Huang’s characterization.",
+    "evidence_excerpt": "Huang, L24: NV1/NV2 used a different approach; L26: DirectX “was fundamentally incompatible with Nvidia’s architecture.” This is Huang’s characterization.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C07",
+    "paragraph": 2,
+    "claim": "Huang called RIVA 128 a company reset.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L24 and L26: “RIVA 128 was … a reset of our company.”",
+    "evidence_excerpt": "L24 and L26: “RIVA 128 was … a reset of our company.”",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C08",
+    "paragraph": 2,
+    "claim": "The team had to change direction while running out of time.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L28: “running out of time … running out of money”; L29: “We’re not going to fight [DirectX].”",
+    "evidence_excerpt": "L28: “running out of time … running out of money”; L29: “We’re not going to fight [DirectX].”",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C09",
+    "paragraph": 3,
+    "claim": "The normal sequence was fabrication, software development, finding/fixing bugs, then another tape-out.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "Huang, L37 and L41: “build a chip, write the software, fix the bugs, tape out a new chip.” “Picture” marks the sequence as an explanation rather than a claim that NVIDIA completed those steps.",
+    "evidence_excerpt": "Huang, L37 and L41: “build a chip, write the software, fix the bugs, tape out a new chip.” “Picture” marks the sequence as an explanation rather than a claim that NVIDIA completed those steps.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C10",
+    "paragraph": 3,
+    "claim": "Huang said NVIDIA could not survive that sequence.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L37: “We would’ve been out of business already”; L41: “that method wasn’t going to work.”",
+    "evidence_excerpt": "L37: “We would’ve been out of business already”; L41: “that method wasn’t going to work.”",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C11",
+    "paragraph": 3,
+    "claim": "Roughly six months were available.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "Host, L19: “about six months of cash left”; Huang, L41: “if we only had six months.” This is recollection, not a verified cash ledger.",
+    "evidence_excerpt": "Host, L19: “about six months of cash left”; Huang, L41: “if we only had six months.” This is recollection, not a verified cash ledger.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C12",
+    "paragraph": 3,
+    "claim": "There was no time or money to redesign the chip and send it to the factory again.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L37: software development reveals bugs, then “we taped out the chip again” and “would’ve been out of business already”; L41: “tape out just one time.” Revised wording identifies a redesign cycle rather than limiting all physical production to one run.",
+    "evidence_excerpt": "L37: software development reveals bugs, then “we taped out the chip again” and “would’ve been out of business already”; L41: “tape out just one time.” Revised wording identifies a redesign cycle rather than limiting all physical production to one run.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C13",
+    "paragraph": 3,
+    "claim": "The normal way of reducing technical risk created a survival risk.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "Interpretation of L37–42: ordinary iterative development would exhaust the company’s resources. It does not assert a separately proven bankruptcy outcome.",
+    "evidence_excerpt": "Interpretation of L37–42: ordinary iterative development would exhaust the company’s resources. It does not assert a separately proven bankruptcy outcome.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C14",
+    "paragraph": 4,
+    "claim": "Insisting on another physical test might reveal a problem or be rescued by more funding.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "Explicit counterfactual: “imagine,” “Perhaps,” and “We cannot know.” L37–42 supplies the underlying time/resource constraint; the source does not establish either imagined outcome. These are possibilities, not reported events.",
+    "evidence_excerpt": "Explicit counterfactual: “imagine,” “Perhaps,” and “We cannot know.” L37–42 supplies the underlying time/resource constraint; the source does not establish either imagined outcome. These are possibilities, not reported events.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C15",
+    "paragraph": 4,
+    "claim": "In Huang’s account the normal cycle meant going out of business.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L37, 39, 41. Attribution and conditional framing preserve the distinction between his assessment and an independently proven alternate history.",
+    "evidence_excerpt": "L37, 39, 41. Attribution and conditional framing preserve the distinction between his assessment and an independently proven alternate history.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C16",
+    "paragraph": 5,
+    "claim": "The answer began inside another failing company.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L36: ICOS was “shutting the company down because they had no customers”; L43: NVIDIA virtually prototyped the chip “by buying this emulator.” “Began” identifies this narrated solution, not a verified claim that every architectural decision originated at ICOS.",
+    "evidence_excerpt": "L36: ICOS was “shutting the company down because they had no customers”; L43: NVIDIA virtually prototyped the chip “by buying this emulator.” “Began” identifies this narrated solution, not a verified claim that every architectural decision originated at ICOS.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C17",
+    "paragraph": 5,
+    "claim": "NVIDIA needed an emulator to exercise the design before receiving fabricated hardware.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L36: “technology called emulation”; L37 explains the need; L43: “virtually prototyped the chip.” “Imitate” is an adequate plain-language description here.",
+    "evidence_excerpt": "L36: “technology called emulation”; L37 explains the need; L43: “virtually prototyped the chip.” “Imitate” is an adequate plain-language description here.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C18",
+    "paragraph": 5,
+    "claim": "Huang contacted ICOS.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L36: “There was a company called ICOS. On the day that I called them…”",
+    "evidence_excerpt": "L36: “There was a company called ICOS. On the day that I called them…”",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C19",
+    "paragraph": 5,
+    "claim": "According to Huang, ICOS was shutting down that day because it had no customers.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L36: “they were just shutting the company down because they had no customers.” The script expressly attributes this recollection.",
+    "evidence_excerpt": "L36: “they were just shutting the company down because they had no customers.” The script expressly attributes this recollection.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C20",
+    "paragraph": 5,
+    "claim": "ICOS had inventory NVIDIA could buy.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L36: “I’ll buy what you have inventory.” The closing image of equipment inside a company “giving up” is figurative language, not evidence of a documented warehouse scene.",
+    "evidence_excerpt": "L36: “I’ll buy what you have inventory.” The closing image of equipment inside a company “giving up” is figurative language, not evidence of a documented warehouse scene.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C21",
+    "paragraph": 6,
+    "claim": "Huang/NVIDIA bought the emulator equipment.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L36: offer to buy inventory; L43: “by buying this emulator.”",
+    "evidence_excerpt": "L36: offer to buy inventory; L43: “by buying this emulator.”",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C22",
+    "paragraph": 6,
+    "claim": "The software team worked against a virtual version of the design.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L43: “Dwight and the software team … ran it on this emulator.” The emulator is real equipment; “virtual version” refers to the pre-silicon chip model, not a claim that the emulator was merely software.",
+    "evidence_excerpt": "L43: “Dwight and the software team … ran it on this emulator.” The emulator is real equipment; “virtual version” refers to the pre-silicon chip model, not a claim that the emulator was merely software.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C23",
+    "paragraph": 6,
+    "claim": "Drivers, games and applications were tested before tape-out.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L56: “emulated the whole chip before we taped it out … QA on all the drivers … all the games we had … every VGA application we had.”",
+    "evidence_excerpt": "L56: “emulated the whole chip before we taped it out … QA on all the drivers … all the games we had … every VGA application we had.”",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C24",
+    "paragraph": 6,
+    "claim": "Emulation was very slow; Huang recalled waiting in the lab for Windows to draw.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L43: “sat in the lab waiting for Windows to paint”; L44–45 give conflicting approximate frame times, which the script wisely does not convert into an exact statistic.",
+    "evidence_excerpt": "L43: “sat in the lab waiting for Windows to paint”; L44–45 give conflicting approximate frame times, which the script wisely does not convert into an exact statistic.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C25",
+    "paragraph": 6,
+    "claim": "The team moved testing earlier instead of simply omitting it.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L45: “Everything that we could have tested, we tested in advance”; L56 describes pre-tape-out software QA.",
+    "evidence_excerpt": "L45: “Everything that we could have tested, we tested in advance”; L56 describes pre-tape-out software QA.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C26",
+    "paragraph": 7,
+    "claim": "They taped out the design and went directly to production.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L54: “we taped that out and went directly to production”; L45–48 explains committing in advance. This describes the decision path, not proof that fabricated units bypassed all later screening or quality control.",
+    "evidence_excerpt": "L54: “we taped that out and went directly to production”; L45–48 explains committing in advance. This describes the decision path, not proof that fabricated units bypassed all later screening or quality control.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C27",
+    "paragraph": 7,
+    "claim": "This commitment preceded a finished, physically proven product.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "Host L20: no physical prototype; Huang L43, 45–46, 54: virtual prototype, then tape-out/production. Do not expand this into a claim that there were no physical chips at any point.",
+    "evidence_excerpt": "Host L20: no physical prototype; Huang L43, 45–46, 54: virtual prototype, then tape-out/production. Do not expand this into a claim that there were no physical chips at any point.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C28",
+    "paragraph": 7,
+    "claim": "Confidence came from emulation.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L56: “The reason … is because we emulated the whole chip before we taped it out.”",
+    "evidence_excerpt": "L56: “The reason … is because we emulated the whole chip before we taped it out.”",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C29",
+    "paragraph": 7,
+    "claim": "Huang recalled treating the design as perfect because there was no room for a second try.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L42: “if it’s not, we’ll be out of business … We get one shot”; L45: “I assumed that the chip was perfect.” The script correctly describes an assumption rather than proven perfection.",
+    "evidence_excerpt": "L42: “if it’s not, we’ll be out of business … We get one shot”; L45: “I assumed that the chip was perfect.” The script correctly describes an assumption rather than proven perfection.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C30",
+    "paragraph": 8,
+    "claim": "The product was not perfect.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L23: “We should have implemented all 32. But we built what we built.”",
+    "evidence_excerpt": "L23: “We should have implemented all 32. But we built what we built.”",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C31",
+    "paragraph": 8,
+    "claim": "The hosts said it supported eight of 32 DirectX blend modes.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "Host L20: “of the 32 DirectX blend modes, it supports 8 of them.” This verifies what the interview says; it does not independently verify the hardware/API capability count.",
+    "evidence_excerpt": "Host L20: “of the 32 DirectX blend modes, it supports 8 of them.” This verifies what the interview says; it does not independently verify the hardware/API capability count.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C32",
+    "paragraph": 8,
+    "claim": "Huang acknowledged they should have implemented all 32 modes.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L23: “We should have implemented all 32.”",
+    "evidence_excerpt": "L23: “We should have implemented all 32.”",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C33",
+    "paragraph": 8,
+    "claim": "The eight-of-32 count does not mean three quarters of the entire chip was broken; it concerns one graphics-function category.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L20 explicitly limits the denominator to “DirectX blend modes.” The arithmetic cannot be generalized to chip functionality. This is a justified scope clarification, not an additional capability claim.",
+    "evidence_excerpt": "L20 explicitly limits the denominator to “DirectX blend modes.” The arithmetic cannot be generalized to chip functionality. This is a justified scope clarification, not an additional capability claim.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C34",
+    "paragraph": 8,
+    "claim": "They had to sell and support the product they had.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "Host L20: “convince the market to buy it” and developers to use those modes; Huang L23: “we had to make the best of it.”",
+    "evidence_excerpt": "Host L20: “convince the market to buy it” and developers to use those modes; Huang L23: “we had to make the best of it.”",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C35",
+    "paragraph": 9,
+    "claim": "NVIDIA survived the episode.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L53: “it worked”; L231–234: retrospective discussion of how the company continued designing chips. The interview with its current CEO also directly establishes subsequent existence.",
+    "evidence_excerpt": "L53: “it worked”; L231–234: retrospective discussion of how the company continued designing chips. The interview with its current CEO also directly establishes subsequent existence.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C36",
+    "paragraph": 9,
+    "claim": "The team changed architecture, brought software testing forward, and used emulation.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L24–29: architectural reset; L43, 45, 56: pre-tape-out emulation and software testing.",
+    "evidence_excerpt": "L24–29: architectural reset; L43, 45, 56: pre-tape-out emulation and software testing.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C37",
+    "paragraph": 9,
+    "claim": "Huang rejected “just copy the gamble” as the lesson for founders.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L55–57: asked to “bet the company,” he replies “No, no,” and explains advance work. L226–229 cautions that smart actions can still fail. “Simply” appropriately limits the script’s paraphrase.",
+    "evidence_excerpt": "L55–57: asked to “bet the company,” he replies “No, no,” and explains advance work. L226–229 cautions that smart actions can still fail. “Simply” appropriately limits the script’s paraphrase.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C38",
+    "paragraph": 9,
+    "claim": "He described bringing future risks into the present for examination.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L57: “all the risky things … pull in in advance … everything in the future that we can simulate today, we prefetch it.”",
+    "evidence_excerpt": "L57: “all the risky things … pull in in advance … everything in the future that we can simulate today, we prefetch it.”",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C39",
+    "paragraph": 10,
+    "claim": "A replacement company and an AI stoppage are unknown counterfactual outcomes.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "The script says “Possibly” and “This story cannot establish that”; L228–229 itself stresses uncertain success. No claim that NVIDIA was indispensable to all AI is made.",
+    "evidence_excerpt": "The script says “Possibly” and “This story cannot establish that”; L228–229 itself stresses uncertain success. No claim that NVIDIA was indispensable to all AI is made.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C40",
+    "paragraph": 10,
+    "claim": "NVIDIA later helped machine-learning work.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L64–71: AlexNet and CUDA/computer vision; L86–88: work with AI researchers and systems/software to advance their research. This is later history, not a claim that RIVA 128 was an AI accelerator.",
+    "evidence_excerpt": "L64–71: AlexNet and CUDA/computer vision; L86–88: work with AI researchers and systems/software to advance their research. This is later history, not a claim that RIVA 128 was an AI accelerator.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  },
+  {
+    "id": "C41",
+    "paragraph": 10,
+    "claim": "The team first recognized its earlier architecture was wrong and changed direction.",
+    "verdict": "SUPPORTED",
+    "source_ids": [
+      "S1"
+    ],
+    "evidence_locator": "L24: “completely the wrong answer”; L26–29: reset and commitment to DirectX. The statement that this was the “harder decision” is editorial interpretation, not measured or quoted testimony.",
+    "evidence_excerpt": "L24: “completely the wrong answer”; L26–29: reset and commitment to DirectX. The statement that this was the “harder decision” is editorial interpretation, not measured or quoted testimony.",
+    "limitations": "Source is retrospective interview testimony; hypothetical passages are explicitly conditional. See independent factcheck.md."
+  }
+]

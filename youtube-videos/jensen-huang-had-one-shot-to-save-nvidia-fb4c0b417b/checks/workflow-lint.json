@@ -1,0 +1,296 @@
+{
+  "directory": "/workspace/stickman-video-director/youtube-videos/jensen-huang-had-one-shot-to-save-nvidia-fb4c0b417b",
+  "spoken_words": 622,
+  "estimated_spoken_seconds_at_planning_rate": 266.6,
+  "blockers": [],
+  "warnings": [
+    "Upstream scriptcheck findings require editorial review; scores are not acceptance"
+  ],
+  "tool_reports": {
+    "hooks.json": {
+      "returncode": 0,
+      "result": [
+        {
+          "hook": "You have six months to save NVIDIA. What if one more test is the mistake that puts you out of business?",
+          "properties": {
+            "SPECIFICITY": 68,
+            "ADDRESS": 96,
+            "STAKES": 36,
+            "CURIOSITY": 59,
+            "BREVITY": 100
+          },
+          "verdict": 57,
+          "band": "WORKABLE",
+          "formula": "The Question"
+        },
+        {
+          "hook": "What would you do if testing your next chip twice meant your company would never get to sell it?",
+          "properties": {
+            "SPECIFICITY": 34,
+            "ADDRESS": 100,
+            "STAKES": 48,
+            "CURIOSITY": 59,
+            "BREVITY": 100
+          },
+          "verdict": 55,
+          "band": "WORKABLE",
+          "formula": "The Question"
+        },
+        {
+          "hook": "Before AI, Jensen Huang bet NVIDIA on a chip he could not afford to manufacture twice. Would you have waited?",
+          "properties": {
+            "SPECIFICITY": 52,
+            "ADDRESS": 46,
+            "STAKES": 48,
+            "CURIOSITY": 59,
+            "BREVITY": 100
+          },
+          "verdict": 55,
+          "band": "WORKABLE",
+          "formula": "The Question"
+        },
+        {
+          "hook": "Jensen Huang called a company that was shutting down. Could its equipment stop NVIDIA from becoming the next company to close?",
+          "properties": {
+            "SPECIFICITY": 52,
+            "ADDRESS": 26,
+            "STAKES": 48,
+            "CURIOSITY": 42,
+            "BREVITY": 100
+          },
+          "verdict": 43,
+          "band": "WEAK",
+          "formula": "The Mistake"
+        },
+        {
+          "hook": "NVIDIA needed a perfect chip. It did not get one. So how did Jensen Huang's bet survive?",
+          "properties": {
+            "SPECIFICITY": 47,
+            "ADDRESS": 26,
+            "STAKES": 22,
+            "CURIOSITY": 59,
+            "BREVITY": 100
+          },
+          "verdict": 39,
+          "band": "WEAK",
+          "formula": "The Question"
+        }
+      ]
+    },
+    "scriptcheck.json": {
+      "returncode": 1,
+      "result": {
+        "words": 622,
+        "paragraphs": 10,
+        "errors": [
+          "opening scores 57 on hookscore.py (need 60): 'You have six months to save NVIDIA. What if one more test is the mista'"
+        ],
+        "warnings": []
+      }
+    },
+    "titles.json": {
+      "returncode": 0,
+      "result": [
+        {
+          "title": "Jensen Huang Had One Shot to Save NVIDIA",
+          "chars": 40,
+          "score": 98,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "40 characters, inside the 60-character desktop cut",
+            "1 all-caps word for emphasis",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "What If Jensen Huang Had Played It Safe?",
+          "chars": 40,
+          "score": 98,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "40 characters, inside the 60-character desktop cut",
+            "open question in the title",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "The Chip That Could Have Ended NVIDIA",
+          "chars": 37,
+          "score": 98,
+          "issues": [
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "37 characters, inside the 60-character desktop cut",
+            "1 all-caps word for emphasis",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "What If NVIDIA Had Waited for One More Test?",
+          "chars": 44,
+          "score": 88,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"What If NVIDIA Had Waited for One More...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "44 characters, inside the 60-character desktop cut",
+            "1 all-caps word for emphasis",
+            "open question in the title",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Jensen Huang Bet NVIDIA Before the Chip Came Back",
+          "chars": 49,
+          "score": 84,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"Jensen Huang Bet NVIDIA Before the Chip...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "49 characters, inside the 60-character desktop cut",
+            "1 all-caps word for emphasis",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "How NVIDIA Tested a Chip Before It Was Built",
+          "chars": 44,
+          "score": 84,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"How NVIDIA Tested a Chip Before It Was...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "44 characters, inside the 60-character desktop cut",
+            "1 all-caps word for emphasis",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "The Failing Company Behind NVIDIA's Second Chance",
+          "chars": 49,
+          "score": 80,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"The Failing Company Behind NVIDIA's...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "49 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "NVIDIA's Survival Came Down to This Decision",
+          "chars": 44,
+          "score": 80,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"NVIDIA's Survival Came Down to This...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "44 characters, inside the 60-character desktop cut",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "NVIDIA Needed a Perfect Chip. It Did Not Get One.",
+          "chars": 49,
+          "score": 70,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"NVIDIA Needed a Perfect Chip. It Did...\" - check the subject survives"
+            ],
+            [
+              "vague",
+              "perfect - swap for a number, a name or a date"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ]
+          ],
+          "good": [
+            "49 characters, inside the 60-character desktop cut",
+            "1 all-caps word for emphasis",
+            "thumbnail and title carry different words"
+          ]
+        },
+        {
+          "title": "Why NVIDIA Could Not Wait for a Second Try",
+          "chars": 42,
+          "score": 66,
+          "issues": [
+            [
+              "mobile",
+              "a mobile feed shows about \"Why NVIDIA Could Not Wait for a Second...\" - check the subject survives"
+            ],
+            [
+              "no-number",
+              "no figure - if there is a real number, name or date for this, use it"
+            ],
+            [
+              "duplicate",
+              "thumbnail repeats the title on wait - the thumbnail should say what the title does not"
+            ]
+          ],
+          "good": [
+            "42 characters, inside the 60-character desktop cut",
+            "1 all-caps word for emphasis"
+          ]
+        }
+      ]
+    }
+  },
+  "draft_bundle_complete": true,
+  "scientific_truth_verified_by_cli": false,
+  "script_approved": false,
+  "paid_API_calls": 0,
+  "note": "Evidence-field checks and editorial lint only; actual source reading, fact-checking and creator review remain necessary."
+}

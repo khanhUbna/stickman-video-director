@@ -1,0 +1,3 @@
+# Thumbnail brief (not generated)
+
+Simple silver-haired, glasses-wearing cartoon Huang at a fork between a chip factory and a draining hourglass. Dominant face: concerned, choosing, not a fake archival photograph. Unfinished chip blueprint rather than a 1997 photo claimed as authentic. Text: WAIT OR GO? Large three words, white/yellow on dark navy. The image asks what action he took; it must not reveal the emulator, the missing blend modes or the outcome. Avoid a modern AI chip pretending to be RIVA 128, invented quotations and false dollar amounts. Reuse only the creator-approved future character direction, not an assumption that the current prototype is approved.

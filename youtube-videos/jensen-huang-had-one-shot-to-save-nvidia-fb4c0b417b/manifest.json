@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "title": "Jensen Huang Had One Shot to Save NVIDIA",
+  "status": "script review ready",
+  "profile": {
+    "schema_version": 1,
+    "channel": "Biographical counterfactual storytelling pilot",
+    "niches": [
+      "Business history",
+      "Decision-making",
+      "Animated biographies"
+    ],
+    "spoken_language": "Natural American English",
+    "review_language": "Vietnamese",
+    "duration_seconds": {
+      "min": 240,
+      "max": 300
+    },
+    "spoken_words": {
+      "min": 550,
+      "max": 650
+    },
+    "word_count_method": "Whitespace-separated words in spoken text only, matching upstream scriptcheck.py",
+    "planning_words_per_minute": 140,
+    "style": [
+      "Emotional Storytelling",
+      "Curiosity Gap",
+      "Psychological Insights"
+    ],
+    "framework": [
+      "Hook",
+      "Open Loop",
+      "Setup",
+      "Build-up",
+      "Climax",
+      "Payoff",
+      "Emotional Ending"
+    ],
+    "automatic_skills": [
+      "yt-research",
+      "yt-script",
+      "yt-package",
+      "yt-seo"
+    ],
+    "output_root": "youtube-videos",
+    "paid_apis_allowed": false,
+    "publication_allowed": false,
+    "script_approval_before_full_production": true,
+    "require_credible_scientific_sources": true,
+    "invent_research_or_statistics": false
+  },
+  "stages": {
+    "yt-research": "draft-complete, awaiting creator script review",
+    "yt-script": "draft-complete, awaiting creator script review",
+    "yt-package": "draft-complete, awaiting creator script review",
+    "yt-seo": "draft-complete, awaiting creator script review"
+  },
+  "script_approved": false,
+  "audio_generated": false,
+  "published": false,
+  "spoken_english_words": 622,
+  "narrators": 1
+}

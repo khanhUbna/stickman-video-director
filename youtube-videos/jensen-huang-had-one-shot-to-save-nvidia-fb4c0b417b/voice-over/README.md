@@ -1,0 +1,1 @@
+Voice-over text only. One narrator in natural American English. No TTS, cloning, audio file, paid service or production has been authorized/generated for this script. Pronunciation guide: Jensen Huang; NVIDIA; RIVA one twenty-eight; Direct X; ICOS (verify original episode audio pronunciation before recording). Script approval precedes media production.

@@ -1,0 +1,22 @@
+{
+  "title": "Jensen Huang Had One Shot to Save NVIDIA",
+  "names": [
+    "NVIDIA",
+    "Jensen Huang",
+    "Huang",
+    "AI",
+    "Microsoft",
+    "Microsoft's",
+    "DirectX",
+    "Acquired",
+    "RIVA",
+    "ICOS",
+    "Windows",
+    "Jensen",
+    "Direct"
+  ],
+  "text": "You have six months to save NVIDIA. What if one more test is the mistake that puts you out of business? Jensen Huang faced that kind of trap before the AI boom. His company could not afford a failed design followed by another chip revision. Waiting for a physical prototype felt safer. In his account, the usual testing cycle would have taken too long.\n\nTo understand that trap, go back to nineteen ninety-seven. NVIDIA had already taken a wrong turn. Its earlier graphics architecture was incompatible with Microsoft's DirectX. In his Acquired interview, Huang described the replacement, RIVA one twenty-eight, as a reset of the company. This wasn't a small repair. The team had to change direction while running out of time.\n\nPicture the sensible plan. Manufacture the chip. Get it back. Develop the software. Discover the problems. Correct the design. Manufacture it again. Each step sounds responsible. Huang said NVIDIA couldn't survive that sequence. They had roughly six months, with no time or money to redesign the chip and send it to the factory again. The usual route to reducing risk had become a risk itself.\n\nNow imagine the alternative timeline. He insists on one more physical test before committing. Perhaps it catches a serious problem. Perhaps NVIDIA finds more funding. We cannot know. But in Huang's account, waiting through the normal cycle meant going out of business before reaching the finish line. That is the question underneath this story: how do you check something you cannot afford to build twice?\n\nBut the answer began inside another failing company. NVIDIA needed an emulator, a system that could imitate the chip before the real hardware came back. Huang contacted a company called ICOS. According to him, it was shutting down that very day because it had no customers. The equipment his company needed was sitting inside another company that was giving up.\n\nHe bought the equipment. NVIDIA's software team could now work against a virtual version of the chip. They ran drivers, games and applications before committing to manufacture. The work was painfully slow. Huang remembered sitting in the lab waiting for Windows to draw on the screen. The decision that looked like skipping a test actually depended on moving the testing earlier.\n\nThen came the commitment. They sent the design to manufacturing and went directly into production. That distinction matters. This wasn't a finished, proven product receiving another order. The company was acting on the confidence built through emulation. Huang recalled treating the chip as perfect because the business had no room for a second try. And then came the part that complicates the legend.\n\nThe chip wasn't perfect. In the interview, the hosts pointed out that it supported only eight of thirty-two DirectX blending modes. Huang acknowledged that they should have implemented all thirty-two. That doesn't mean the whole chip was three-quarters broken. It means one category of graphics functions was incomplete. They had to make the product they had work in the market.\n\nNVIDIA survived that episode. But calling it a victory for blind confidence misses what happened before the bet. The team had changed its architecture, brought software testing forward and used emulation to investigate the design. Huang later rejected the idea that founders should simply copy the gamble. His explanation emphasized pulling future risks into the present, where they could examine them.\n\nWould another company have filled NVIDIA's place if that attempt had failed? Possibly. Would AI have stopped? This story cannot establish that. What it does show is how narrow one company's route forward had become. Before NVIDIA could help computers learn, its people had to recognize that their first answer was wrong. The dramatic moment was production. The harder decision came earlier: changing their minds.",
+  "sources": [
+    "https://www.acquired.fm/episodes/jensen-huang"
+  ]
+}

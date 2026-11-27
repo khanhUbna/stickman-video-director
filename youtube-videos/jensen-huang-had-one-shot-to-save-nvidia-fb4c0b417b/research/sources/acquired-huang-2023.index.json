@@ -1,0 +1,401 @@
+[
+ {
+  "title": "David: Yeah. Great.",
+  "level": 1,
+  "start": 8,
+  "end": 9,
+  "words": 31
+ },
+ {
+  "title": "David: I\u2019m David Rosenthal.",
+  "level": 1,
+  "start": 10,
+  "end": 15,
+  "words": 262
+ },
+ {
+  "title": "Ben: Turns out the protagonist actually knows more.",
+  "level": 1,
+  "start": 16,
+  "end": 20,
+  "words": 242
+ },
+ {
+  "title": "Jensen: The other 24 weren\u2019t that important.",
+  "level": 1,
+  "start": 21,
+  "end": 39,
+  "words": 828
+ },
+ {
+  "title": "David: Who cares?",
+  "level": 1,
+  "start": 40,
+  "end": 43,
+  "words": 164
+ },
+ {
+  "title": "David: It was like 60 seconds for a frame or something like that.",
+  "level": 1,
+  "start": 44,
+  "end": 46,
+  "words": 141
+ },
+ {
+  "title": "Ben: And marketing blitz. And developer relations.",
+  "level": 1,
+  "start": 47,
+  "end": 50,
+  "words": 72
+ },
+ {
+  "title": "David: Otherwise, you might as well go home.",
+  "level": 1,
+  "start": 51,
+  "end": 53,
+  "words": 51
+ },
+ {
+  "title": "Jensen: Yeah, so we taped that out and went directly to production.",
+  "level": 1,
+  "start": 54,
+  "end": 75,
+  "words": 1055
+ },
+ {
+  "title": "David: I love the examples you pulled\u2014toothpaste, ketchup, music, movies.",
+  "level": 1,
+  "start": 76,
+  "end": 103,
+  "words": 1370
+ },
+ {
+  "title": "Jensen: Exactly. When you put it all together, it\u2019s still a miracle.",
+  "level": 1,
+  "start": 104,
+  "end": 109,
+  "words": 311
+ },
+ {
+  "title": "David: Have you always thought about the company this way, even from the earliest days?",
+  "level": 1,
+  "start": 110,
+  "end": 116,
+  "words": 290
+ },
+ {
+  "title": "Jensen: Build Hopper.",
+  "level": 1,
+  "start": 117,
+  "end": 119,
+  "words": 57
+ },
+ {
+  "title": "Ben: What are the trade-offs associated with that versus the traditional structure?",
+  "level": 1,
+  "start": 120,
+  "end": 126,
+  "words": 302
+ },
+ {
+  "title": "David: For illustrative purposes, not to pick on Apple or whatnot.",
+  "level": 1,
+  "start": 127,
+  "end": 129,
+  "words": 33
+ },
+ {
+  "title": "Ben: There seems to be something unique.",
+  "level": 1,
+  "start": 130,
+  "end": 137,
+  "words": 302
+ },
+ {
+  "title": "Jensen: That\u2019s right.",
+  "level": 1,
+  "start": 138,
+  "end": 144,
+  "words": 246
+ },
+ {
+  "title": "Ben: In many ways, that\u2019s cloud gaming.",
+  "level": 1,
+  "start": 145,
+  "end": 151,
+  "words": 73
+ },
+ {
+  "title": "Jensen: That\u2019s right. Look at GeForce NOW. It was Nvidia\u2019s first data center product.",
+  "level": 1,
+  "start": 152,
+  "end": 163,
+  "words": 436
+ },
+ {
+  "title": "Ben: Oh, I see. Literally across the planet.",
+  "level": 1,
+  "start": 164,
+  "end": 172,
+  "words": 409
+ },
+ {
+  "title": "Ben: But not when you\u2019re sharding a model across.",
+  "level": 1,
+  "start": 173,
+  "end": 182,
+  "words": 354
+ },
+ {
+  "title": "Ben: It\u2019s a good one to live by.",
+  "level": 1,
+  "start": 183,
+  "end": 187,
+  "words": 159
+ },
+ {
+  "title": "David: I\u2019ve heard you or others in Nvidia (I think) used the phrase zero billion dollar\u2014",
+  "level": 1,
+  "start": 188,
+  "end": 195,
+  "words": 316
+ },
+ {
+  "title": "Jensen: Yeah, I know. It\u2019s cool.",
+  "level": 1,
+  "start": 196,
+  "end": 204,
+  "words": 431
+ },
+ {
+  "title": "David: CUDA is Compute Unified Device Architecture?",
+  "level": 1,
+  "start": 205,
+  "end": 209,
+  "words": 127
+ },
+ {
+  "title": "David: Yeah, compete with Nintendo and Sega as with PCs?",
+  "level": 1,
+  "start": 210,
+  "end": 214,
+  "words": 82
+ },
+ {
+  "title": "Jensen: We were always a developer-oriented company.",
+  "level": 1,
+  "start": 215,
+  "end": 219,
+  "words": 105
+ },
+ {
+  "title": "Ben: It\u2019s like [...] Nvidia today.",
+  "level": 1,
+  "start": 220,
+  "end": 237,
+  "words": 721
+ },
+ {
+  "title": "Jensen: That\u2019s right.",
+  "level": 1,
+  "start": 238,
+  "end": 242,
+  "words": 191
+ },
+ {
+  "title": "David: The problem with Doom, though, was you needed Carmac to program it.",
+  "level": 1,
+  "start": 243,
+  "end": 263,
+  "words": 1156
+ },
+ {
+  "title": "Jensen: Sequoia was the first investor in our company.",
+  "level": 1,
+  "start": 264,
+  "end": 268,
+  "words": 223
+ },
+ {
+  "title": "David: Humans have a never-ending ambition.",
+  "level": 1,
+  "start": 269,
+  "end": 271,
+  "words": 54
+ },
+ {
+  "title": "Jensen: Oh dear. I can\u2019t think that fast.",
+  "level": 1,
+  "start": 272,
+  "end": 283,
+  "words": 101
+ },
+ {
+  "title": "Jensen: VGER\u2019s an excellent one, yeah.",
+  "level": 1,
+  "start": 284,
+  "end": 286,
+  "words": 71
+ },
+ {
+  "title": "Ben: Thank God you didn\u2019t.",
+  "level": 1,
+  "start": 287,
+  "end": 288,
+  "words": 23
+ },
+ {
+  "title": "David: The one time when it wasn\u2019t the Supra\u2019s fault.",
+  "level": 1,
+  "start": 289,
+  "end": 291,
+  "words": 35
+ },
+ {
+  "title": "Jensen: Yeah, it has. We\u2019re the central computer.",
+  "level": 1,
+  "start": 292,
+  "end": 294,
+  "words": 88
+ },
+ {
+  "title": "Ben: Awesome. Favorite characteristic of Don Valentine.",
+  "level": 1,
+  "start": 295,
+  "end": 296,
+  "words": 37
+ },
+ {
+  "title": "David: Of course he did.",
+  "level": 1,
+  "start": 297,
+  "end": 299,
+  "words": 84
+ },
+ {
+  "title": "Jensen: Yeah, he\u2019s incredible.",
+  "level": 1,
+  "start": 300,
+  "end": 302,
+  "words": 53
+ },
+ {
+  "title": "David: Plenty of time in the day? Plenty of time to achieve this thing?",
+  "level": 1,
+  "start": 303,
+  "end": 307,
+  "words": 68
+ },
+ {
+  "title": "David: Didn\u2019t stop this from being your day job.",
+  "level": 1,
+  "start": 308,
+  "end": 309,
+  "words": 26
+ },
+ {
+  "title": "David: Love that. What are you afraid of, if anything?",
+  "level": 1,
+  "start": 310,
+  "end": 315,
+  "words": 209
+ },
+ {
+  "title": "Ben: Wow. Really?",
+  "level": 1,
+  "start": 316,
+  "end": 322,
+  "words": 221
+ },
+ {
+  "title": "Jensen: Until I\u2019m fired, this is my last job. This is it.",
+  "level": 1,
+  "start": 323,
+  "end": 329,
+  "words": 359
+ },
+ {
+  "title": "Ben: Which it turns out is not actually important.",
+  "level": 1,
+  "start": 330,
+  "end": 334,
+  "words": 249
+ },
+ {
+  "title": "David: As long as you don\u2019t lose the money.",
+  "level": 1,
+  "start": 335,
+  "end": 336,
+  "words": 28
+ },
+ {
+  "title": "Ben: Have they held through today?",
+  "level": 1,
+  "start": 337,
+  "end": 338,
+  "words": 29
+ },
+ {
+  "title": "Ben: Sutter Hill and Sequoia?",
+  "level": 1,
+  "start": 339,
+  "end": 340,
+  "words": 48
+ },
+ {
+  "title": "David: Haven\u2019t killed you yet?",
+  "level": 1,
+  "start": 341,
+  "end": 346,
+  "words": 271
+ },
+ {
+  "title": "Ben: Still, when you wake up in the morning.",
+  "level": 1,
+  "start": 347,
+  "end": 350,
+  "words": 62
+ },
+ {
+  "title": "David: Yeah, the trick is still working.",
+  "level": 1,
+  "start": 351,
+  "end": 372,
+  "words": 941
+ },
+ {
+  "title": "David: So fun.",
+  "level": 1,
+  "start": 373,
+  "end": 376,
+  "words": 124
+ },
+ {
+  "title": "David: We\u2019ve been upleveling our production process, and that takes time.",
+  "level": 1,
+  "start": 377,
+  "end": 380,
+  "words": 126
+ },
+ {
+  "title": "David: I know. The hamburger bar on our website is expanding.",
+  "level": 1,
+  "start": 381,
+  "end": 384,
+  "words": 46
+ },
+ {
+  "title": "David: We got to find that.",
+  "level": 1,
+  "start": 385,
+  "end": 386,
+  "words": 44
+ },
+ {
+  "title": "David: We\u2019ll see you next time.",
+  "level": 1,
+  "start": 387,
+  "end": 544,
+  "words": 647
+ }
+]

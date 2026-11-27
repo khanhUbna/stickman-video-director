@@ -1,0 +1,20 @@
+[
+  {
+    "id": "S1",
+    "title": "NVIDIA CEO Jensen Huang \u2014 Acquired direct interview transcript",
+    "url": "https://www.acquired.fm/episodes/jensen-huang",
+    "kind": "Primary: participant interview, published transcript",
+    "access_status": "read",
+    "sections_read": "Complete crisis account lines 19\u201359; contextual lines 224\u2013241; surrounding speaker context.",
+    "limitations": "Retrospective account; audio not independently auditioned. Detailed technical first-fully-accelerated-pipeline claims excluded."
+  },
+  {
+    "id": "S2",
+    "title": "NTU Commencement 2023",
+    "url": "https://www.ntu.edu.tw/english/spotlight/2023/2164_20230529.html",
+    "kind": "Primary institutional event summary",
+    "access_status": "read",
+    "sections_read": "Entire event summary.",
+    "limitations": "Confirms speech and general setbacks; not a detailed Sega transcript. Not used for specific RIVA narration claims."
+  }
+]

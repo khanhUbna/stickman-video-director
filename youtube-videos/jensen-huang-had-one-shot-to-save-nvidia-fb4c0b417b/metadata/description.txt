@@ -1,0 +1,12 @@
+How did Jensen Huang keep NVIDIA alive when there was no room for another chip-design failure?
+This animated business-history story explores the RIVA 128 gamble, early emulation and the cost of waiting.
+
+Based on Huang's own retrospective account in his Acquired interview. A single narrator follows the architecture reset, the ICOS equipment purchase, testing before manufacture, direct production and the graphics functions the chip still lacked.
+
+Alternative timelines are clearly hypothetical. This story does not establish that AI would not exist without NVIDIA, and it does not present reconstructed scenes as archival footage.
+
+Primary source:
+Acquired — NVIDIA CEO Jensen Huang (October 16, 2023)
+https://www.acquired.fm/episodes/jensen-huang
+
+#NVIDIA #JensenHuang #TechHistory
