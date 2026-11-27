@@ -1,0 +1,20 @@
+[
+  {
+    "id": "S1",
+    "title": "NVIDIA CEO Jensen Huang \u2014 direct interview transcript",
+    "url": "https://www.acquired.fm/episodes/jensen-huang",
+    "kind": "Primary participant recollection, published October 16, 2023",
+    "access_status": "read",
+    "sections_read": "Lines19\u201359 and224\u2013244, surrounding interview context.",
+    "limitations": "Retrospective testimony. No independently audited six-month runway or same-day ICOS closure established."
+  },
+  {
+    "id": "S2",
+    "title": "Review AGP Graphic Cards, October 27, 1997 \u2014 Tom's Hardware in THG archive",
+    "url": "https://www.thg.ru/graphic/19971027/print.html",
+    "kind": "Contemporaneous independent hardware review, archived republication",
+    "access_status": "read",
+    "sections_read": "Header/date and relevant review115\u2013131; table context132\u2013217.",
+    "limitations": "Review tests revision B. Corroborates functioning competitive hardware and performance/limitations, NOT original production decision, ICOS or financial runway."
+  }
+]

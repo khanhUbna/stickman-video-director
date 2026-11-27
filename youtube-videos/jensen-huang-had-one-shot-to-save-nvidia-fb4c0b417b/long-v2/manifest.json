@@ -1,0 +1,29 @@
+{
+  "title": "Jensen Huang Had One Shot to Save NVIDIA",
+  "version": "long-v2",
+  "status": "long script ready for creator review",
+  "requested_format": "Single narrator; longer historical/counterfactual story; no invented history",
+  "word_target": [
+    1150,
+    1350
+  ],
+  "spoken_words": 1250,
+  "english_paragraphs": 20,
+  "vietnamese_paragraphs": 20,
+  "estimated_duration_seconds_at_130_to_150_wpm": [
+    500,
+    577
+  ],
+  "actual_recorded_duration": null,
+  "script_approved": false,
+  "audio_generated": false,
+  "paid_service_calls": 0,
+  "published": false,
+  "independent_review": {
+    "rows": 60,
+    "supported_with_stated_limits": 60,
+    "contradicted_remaining": 0,
+    "script_sha256": "78e4b0c482f0c81b75a1694efee5421f40692793e6aacf9fc12ff73babd69c53"
+  },
+  "draft_bundle_complete": true
+}

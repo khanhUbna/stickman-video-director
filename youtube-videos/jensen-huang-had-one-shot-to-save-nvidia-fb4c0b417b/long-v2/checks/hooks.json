@@ -1,0 +1,67 @@
+[
+ {
+  "hook": "You have six months to save NVIDIA. What if one more test is the mistake that puts you out of business?",
+  "properties": {
+   "SPECIFICITY": 68,
+   "ADDRESS": 96,
+   "STAKES": 36,
+   "CURIOSITY": 59,
+   "BREVITY": 100
+  },
+  "verdict": 57,
+  "band": "WORKABLE",
+  "formula": "The Question"
+ },
+ {
+  "hook": "What would you do if testing your next chip twice meant your company would never get to sell it?",
+  "properties": {
+   "SPECIFICITY": 34,
+   "ADDRESS": 100,
+   "STAKES": 48,
+   "CURIOSITY": 59,
+   "BREVITY": 100
+  },
+  "verdict": 55,
+  "band": "WORKABLE",
+  "formula": "The Question"
+ },
+ {
+  "hook": "Before AI, Jensen Huang bet NVIDIA on a chip he could not afford to manufacture twice. Would you have waited?",
+  "properties": {
+   "SPECIFICITY": 52,
+   "ADDRESS": 46,
+   "STAKES": 48,
+   "CURIOSITY": 59,
+   "BREVITY": 100
+  },
+  "verdict": 55,
+  "band": "WORKABLE",
+  "formula": "The Question"
+ },
+ {
+  "hook": "Jensen Huang called a company that was shutting down. Could its equipment stop NVIDIA from becoming the next company to close?",
+  "properties": {
+   "SPECIFICITY": 52,
+   "ADDRESS": 26,
+   "STAKES": 48,
+   "CURIOSITY": 42,
+   "BREVITY": 100
+  },
+  "verdict": 43,
+  "band": "WEAK",
+  "formula": "The Mistake"
+ },
+ {
+  "hook": "NVIDIA needed a perfect chip. It did not get one. So how did Jensen Huang's bet survive?",
+  "properties": {
+   "SPECIFICITY": 47,
+   "ADDRESS": 26,
+   "STAKES": 22,
+   "CURIOSITY": 59,
+   "BREVITY": 100
+  },
+  "verdict": 39,
+  "band": "WEAK",
+  "formula": "The Question"
+ }
+]

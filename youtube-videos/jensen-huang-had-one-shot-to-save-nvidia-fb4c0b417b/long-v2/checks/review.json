@@ -1,0 +1,13 @@
+{
+  "english_words": 1250,
+  "english_paragraphs": 20,
+  "vietnamese_paragraphs": 20,
+  "voiceover_text_matches": true,
+  "independent_review_hash_matches": true,
+  "remaining_factcheck_findings": 0,
+  "default_hook_threshold_exception": "57 versus60, editorial review documented, separate reviewed55 report passes",
+  "word_range_override": "1150\u20131350 per user request for longer8\u201310minute story",
+  "paid_service_calls": 0,
+  "audio_generated": false,
+  "published": false
+}

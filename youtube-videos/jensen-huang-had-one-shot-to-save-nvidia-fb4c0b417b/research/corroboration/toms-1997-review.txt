@@ -1,0 +1,418 @@
+Review AGP Graphic Cards | THG
+К содержимому
+Обзоры
+Новости
+Гиды
+Процессоры
+Видеокарты
+Смартфоны
+Ещё
+Видеокарты
+663
+Накопители
+613
+Процессоры
+565
+Аудио и видео
+544
+Бизнес и рынок
+504
+Периферия
+496
+Платформы
+486
+Смартфоны и ноутбуки
+485
+Собери сам
+440
+Игры и индустрия
+429
+Сети и WiFi
+380
+Софт и утилиты
+289
+Проекторы и мониторы
+278
+Домашний компьютер
+168
+Образование
+129
+Фото
+108
+Архив по годам
+с 2003
+Контакты
+Поиск
+/
+Форум
+Главное
+Обзоры
+Новости
+Гиды
+Процессоры
+Видеокарты
+Смартфоны
+Разделы
+Обзоры
+Новости
+Гиды
+Архив по годам
+Рубрики
+Видеокарты
+663
+Накопители
+613
+Процессоры
+565
+Аудио и видео
+544
+Бизнес и рынок
+504
+Периферия
+496
+Платформы
+486
+Смартфоны и ноутбуки
+485
+Собери сам
+440
+Игры и индустрия
+429
+Сети и WiFi
+380
+Софт и утилиты
+289
+Проекторы и мониторы
+278
+Домашний компьютер
+168
+Образование
+129
+Фото
+108
+THG
+Клуб экспертов (форум)
+Telegram @thgdaily
+Контакты
+Главная
+›
+Обзоры
+›
+Видеокарты
+Review AGP Graphic Cards
+THG
+Редакция THG
+27.10.1997
+15 мин чтения
+В этой статье
+Introduction
+The first motherboards with AGP support are shipping now for a little while and if you want to take real advantage of them you won’t waste the AGP slot. This review shall give you some ideas which AGP graphic card you should look out for.
+AGP is still in its first shoes so that you won’t find much of an improve in performance over PCI graphic cards, a little improve in normal real world is noticeable though and upcoming games that will take advantage of large textures will certainly make you benefit from your choice of an AGP card.
+The reviewed graphic cards are still very young and the drivers for these cards are still under development. Nevertheless are these cards either already available or will be very soon, so that there’s certainly a point in testing them already now. However there might be performance improvements of these cards with future drivers or chip revisions.
+Sadly Missed
+Matrox seems only just to get ready with their Millennium 2 AGP card and I hope I will be able to include this successor of the immensely successful Millennium in this test soon. Many people including myself are very disappointed from the Millennium 2, since it only offers a slight improvement in 2D over the Millennium and the added 3D features are just as little as the ones of the well known Mystique. The most important 3D features like ‘linear filtering’, ‘mipmapping’ and ‘dithering’ are not supported by the Millennium 2, which gives you a very poor 3D picture quality.
+Rendition’s new chip ‘Verite 2200’ is supposed to be very fast, but so far there doesn’t seem any AGP card out with it. Hopefully Rendition will contact me to get me an AGP card with the Verite 2200 soon.
+Reviews
+All cards had to stand up against the very fast and successful combination of the Matrox Millennium teamed up with the Diamond Monster 3D, both PCI cards. You may remember that this was my recommendation for the whole last year and it was never really topped by any other 2D or 3D card. The Millennium is well known for an excellent 2D performance under Windows 95 as well as under Windows NT. The 3D performance of the Millennium is very poor though, since it hardly supports any important 3D features. For this job the Monster 3D or any other 3Dfx Voodoo chip using card comes in, which gives you an excellent 3D performance in combination with great picture quality. Except of ‘For Vertex and Color Key Transparency’ and ‘Fog Vertex and Alpha Transparency’ it supports all 3D features tested by 3D Winbench. The only let down of the 3Dfx Voodoo chip is the inability to render in a window, but which gamer really cares … you can only play one 3D game at a time anyhow. New cards with the later 3Dfx Voodoo Rush chip can run 3D applications in a window as well, the Hercules Stingray 128/3D is one of them. There’s one other problem of the 3Dfx Voodoo cards, which is based on its memory. The most cards are using 4 MB EDO RAM, 2MB for frame- and Z-buffering, 2 MB for textures. This limits these cards to a maximum screen resolution of only 640×480 pixels (600 kB front buffer +600 kB back buffer+ 600 kB Z-buffer = 1800 kB, all buffers 16 bit deep). The new 3D cards reviewed below are able to run 3D applications at higher screen resolutions.
+Asus 3DexPlorer 3000 — Asus’ 3D Runner
+The 3DexPlorer 3000 from Asus, also known under the name ‘AGP-V3000′ is Asus’ version of an AGP card with NVidia’s successful Riva 128 chip. Just as in the motherboard sector, Asus tried to keep the costs as low as possible and produced the so far smallest board with NVidia’s chip. The 3DexPlorer comes without any video in/out features, the spaces for these features are on the board though as you can see. Although this boards gives a particularly cheaply made impression, somehow the complete opposite to Diamonds Viper V330, it is performing just as great as the original reference design from NVidia themselves. If you can get this card for a good price and if you don’t fancy TV/video out or video in, you can’t do too wrong buying this board. If you prefer a little bit more quality, more features and especially decent support you may rather have a look at the Diamond Viper V330, which comes with the very same chip and is claimed by Diamond to be even faster. I am waiting …
+As expected, the picture quality of the Asus 3DexPlorer is as excellent as of the original NVidia reference board.
+ATI Xpert@Play / Xpert@Work
+The test of this card isn’t finished yet, but so far it gives a good impression. It is not as fast as the NVidia card under 3D, but a fine 2D performer as well as a very decent 3D performer. The test will be up here as soon as I got the latest drivers from ATI.
+Diamond Fire GL 1000 Pro — The Professional with a Heart for Gamers
+The Fire GL 1000 Pro came to me with a new chip revision and was equipped with 8 MB SGRAM. This new revision showed considerably improved performance under Direct3D, resulting in a 3D Winmark of 201. This gets the 3D performance of this card pretty close to the very fast and very successful 3Dfx 3D add on cards. The Fire GL 1000 Pro uses the new ‘Permedia 2’ chip from 3D labs, which offers a high 2D, a high 3D and a good OpenGL performance, making the card pretty interesting for gamers as well as for people that use their system under NT as OpenGL workstation. The Windows 95 performance is good, but could certainly be better with future drivers, as the excellent Windows NT performance shows very well. Under Windows NT this card is the current number one, offering an amazing 2D performance and a good OpenGL performance on top of it. If you are using your system as graphic workstation this card is the right choice. The 3D picture quality is not as good as what the NVidia Riva 128 or 3Dfx Voodoo is offering, problems with the ‘Dithering’ are the reason for it. Future drivers may solve this problem so that this card will even get very interesting for gamers in case they want a good 2D performance as well. The Fire GL 1000 Pro was actually developed by Diamond Germany and the 8 MB version will be cheaper than the Millennium 2 w/ 8MB as well as the Revolution 3D.
+MotoRacer on the Fire GL 1000 Pro. The 3D performance is fine for running this game, but the problem with dithering make the picture look ugly compared to the Riva 128 card. Please note the black smoke from the bike’s wheel, which is supposed to be white as you can see below.
+Diamond Viper V330 AGP
+Diamond has promised me a lot with this card, but due to some driver troubles you’ll have to wait a little longer for my test results.
+Number Nine Revolution 3D — The 2D Master with pretty decent 3D Support
+This new Number Nine card was ion my lab only for a few days, which is the reason why I haven’t got a picture of it, neither a screen shot with MotoRacer. This new card is supposed to show the Millennium 2 who really rules in 2D and if it wasn’t for the excellent NT performance of the Fire GL 1000 Pro the Revolution 3D would have won the crown for the fastest 2D board. The Windows 95 2D performance is simply earth shattering, leaving all other cards far behind, particularly at true color. The NT drivers need obviously still quite a lot of work, because the picture there is opposite to Windows 95 when you compare the results of Revolution 3D to the Fire GL 1000 Pro. The 3D performance of the Revolution 3D is not bad, but compared to the other cards it’s the lowest. If we think of Matrox’s Millennium 2 however, which is about the same price, we should see that the Revolution 3D is at least supporting almost all 3D features and hence offering a quite good 3D picture quality as well as a higher 3D performance than the Millennium 2. Unfortunately the OpenGL performance of the Revolution 3D so far is not exactly impressive, which gives it a slight fail in terms of NT graphic workstation card. I am sure that future NT drivers will show the same 2D performance advantage over all competitors as now seen under Windows 95. For people that are keen on highest 2D performance this card is the one to go for. The test card was equipped with 8 MB WRAM.
+NVidia Riva 128 Reference Board — The 3D Champion and Gaming Card No. 1
+NVidia supplied me with their latest RIVA 128 reference board, using the new chip revision B. This chip speaks to its onboard video RAM (SGRAM) via a 128 bit data path at 100 MHz, offering the amazing through put of 1.6 GB/s. This is actually only valid for 4 MB cards, 2 MB cards (which hopefully will never come out) will only use 64 bit and even if you upgrade to 4 MB it will stay the same. The high memory bandwidth as well as the design of the Riva 128 give this card an amazing 3D power, making it the fastest 3D chip for PCs currently available. The chip even offers video compression, and video in/out as well. The blindingly high 3D performance teams up with a very decent 2D performance, being as fast as the Matrox Millennium in all Business Winstones except under NT at true color. However this is certainly not important to any of the gamers, which impossibly can go without this chip. Cards like Diamond’s Viper 330 and Elsa’s Victory Erazor will use the NVidia Riva 128 and Diamond already told me that their card is at least another 20 3D Winmarks faster than NVidia’s reference board. The picture quality of the Riva 128 chip is as good as the one of 3Dfx’s Voodoo, it even supports more 3D features than the Voodoo. Whoever is a die hard gamer will have to buy this card. There are two little let downs as well though, the card can’t use more than 4 MB video SGRAM, which limits the highest 3D resolution to 960×712 pixels. In 2D it can go up to 1600×1200 in high color at decent refresh rates, but the picture quality isn’t as good as of the other cards in the test (the Windows desktop seems slightly hazy and blurred), which might be improved in future versions.
+The picture quality of the Riva 128 chip is just as great as of the 3Dfx Voodoo chip, there’s nothing to complain.
+Specs and Features
+Matrox Millennium & Diamond Monster 3D
+Asus 3DexPlorer 3000
+ATI Xpert@Play / Xpert@Work
+Diamond Fire GL 1000 Pro
+Diamond Viper V330
+NVidia RIVA 128 Reference Board
+Number Nine Revolution 3D
+Graphic Chip
+Matrox MGA 2064W, 3Dfx Voodoo
+NVidia RIVA 128
+ATI Rage Pro
+3D Labs Permedia 2
+NVidia RIVA 128
+NVidia RIVA 128
+Number Nine Ticket To Ride
+Installed RAM
+4 MB WRAM, 4MB EDO RAM
+4 MB SGRAM
+4/6/8 MB SGRAM
+8 MB SGRAM
+4 MB SGRAM
+4 MB SGRAM
+8 MB WRAM
+Max. RAM supported by chip
+8 MB, 16 MB
+4 MB
+8 MB
+16 MB (?)
+4 MB
+4 MB
+16 MB
+RAMDAC Clock
+230 MHz, external
+230 MHz, internal
+230 MHz, internal
+230 MHz, internal
+230 MHz, internal
+230 MHz, internal
+230 MHz, external
+Highest Refresh Rate 1024×768 [Hz]
+120
+120
+150
+120
+120
+120
+142
+Highest Refresh Rate 1152×864 [Hz]
+120
+100
+120
+120
+100
+100
+126
+Highest Refresh Rate 1280×1024 [Hz]
+100
+100
+100
+100
+100
+100
+107
+Highest Refresh Rate 1600×1200 [Hz]
+85
+75
+85
+85
+75
+75
+85
+Special Features
+SVideo out (Xpert@Play only)
+VR Glasses output
+SVideo in/out, AC3/PCM
+SVideo in/out
+Highest 3D Resolution (16 bit color and Z-buffer depth)
+640×480 (3Dfx)
+960×720
+1600×1200
+1280×1024
+960×720
+960×720
+1280×1024
+Supported 3D Features (3D Winbench)
+Fog Vertex
+yes (3Dfx)
+yes
+yes
+yes
+yes
+yes
+yes
+Fog Table
+yes (3Dfx)
+no
+no
+no
+no
+no
+no
+Specular Highlights
+yes (3Dfx)
+yes
+yes
+yes
+yes
+yes
+yes
+Color Key Transparency
+yes (3Dfx)
+yes
+yes
+yes
+yes
+yes
+yes
+Alpha Transparency
+yes (3Dfx)
+yes
+yes
+yes
+yes
+yes
+yes
+Linear Filtering
+yes (3Dfx)
+yes
+yes
+yes
+yes
+yes
+yes
+Linear Mipmapping
+yes (3Dfx)
+yes, not too bad
+yes, quite good
+yes, not perfect
+yes, not too bad
+yes, not too bad
+yes, poor implementation
+Dithering
+yes (3Dfx)
+yes
+yes
+yes, not perfect
+yes
+yes
+yes, not perfect
+Perspective Correction
+yes (3Dfx)
+yes
+yes
+yes
+yes
+yes
+yes
+Fog Vertex and Color Key
+yes (3Dfx)
+yes
+yes
+yes
+yes
+yes
+yes
+Fog Vertex and Alpha Transparency
+yes (3Dfx)
+yes
+yes
+yes
+yes
+yes
+yes
+2D Windows 95, 16 Bit Color Depth
+In the typical Business Winstone 97 the Revolution 3D is the clear leader. The other two cards are just as fast as the Millennium as well though.
+The HighEnd Winstone results are all pretty close to each other with a small lead of the good old Millennium.
+2D Windows 95, 32 Bit color Depth
+Under true color the lead of the Revolution 3D is obvious. It’s surprising to see that all new cards are faster than the Millennium though, even the ‘gaming card’ Riva 128.
+Even in the HighEnd Winstone the Revolution 3D is faster than its competitors. The other cards aren’t much different to the Millennium though.
+2D Windows NT, 16 Bit color Depth
+The new Windows NT drivers of the Fire GL 1000 Pro are doing very well, making the Fire GL the fastest NT card. Number Nine should learn a little bit from this driver, since the current driver doesn’t seem able to live up to the Windows 95 results.
+The good OpenGL performance of the Fire GL 1000 Pro is the key to these HighEnd results, the Riva 128 can’t compete here against the other cards.
+2D Windows NT, 32 Bit color Depth
+The Fire GL can show its muscles again, but the Revolution 3D leaves also no doubt that it is the right card for true color. NT plus true color is certainly not the field of the Riva 128.
+And again a clear win for the strong OpenGL support of the Fire GL 1000 Pro.
+3D Windows 95
+The former leader amongst the 3D cards found its new master. Cards with the Riva 128 chip are smoking any other card in this test.
+As soon as the textures get larger than the onboard texture memory, textures have to get transported from main memory. The Monster 3D reaches its limits already at a resolution of 640×480 and is suffering from the slower PCI bus, thus it has the worst result here. The new 3D king Riva 128 wins this test as well as all the other 3D tests.
+The Riva 128 is still performing best here as well, although it has only 4 MB local memory. This means that even at this resolution the Riva 128 will have to use main memory for textures, using AGP’s DIME.
+The Revolution 3D doesn’t use AGP’s DIME feature in its driver yet, which is the main reason why the performance is so bad in this test. Unfortunately is 1024×768 more than the Riva 128 can support under 3D, because 4 MB aren’t enough for the front, back and z-buffer.
+The most interesting thing in these results is that here the Fire GL 1000 Pro seems faster than the Monster 3D. This is probably due to the reduced complexity of the benchmark compared to 3D Winbench. NVidia’s Riva 128 is taking a huge lead here.
+OpenGL Windows NT
+OpenGL is not the strength of the competitors of the Fire GL 1000 Pro in this test, the lead is clear.
+The tests were run on the MSI MS6111 motherboard, using a Pentium II at 300 MHz. The NT tests were run from a Seagate Cheetah ST34501W connected to a DPT PM2144UW, the windows 95 tests were run from a Quantum Fireball ST 3.2 UDMA IDE disk.
+Поделиться:
+Telegram
+ВКонтакте
+Скопировать ссылку
+Читайте также
+Видеокарты
+Лучшие видеокарты для игр в 2026 году
+13.01.2026
+· 14 мин
+Гид · Видеокарты
+Лучшая видеокарта для игр: текущий анализ рынка
+22.11.2024
+· 13 мин
+Видеокарты
+Выбираем подержанную видеокарту
+08.09.2020
+· 4 мин
+Комментарии
+Написать комментарий
+Отменить ответ
+Комментарии публикуются после проверки. Почта не показывается.
+Комментарий
+*
+Имя
+Email
+Сайт
+Сохранить моё имя, email и адрес сайта в этом браузере для последующих моих комментариев.
+Не заполняйте
+Δ
+Гиды
+Иерархия процессоров Intel и AMD 2026: как выбрать CPU для игр и работы
+CES 2026, день 2 — Топ-11 новых гаджетов, которые вам нужно увидеть
+День 1 на CES 2026 — 10 главных новых гаджетов, которые вам нужно увидеть
+Подробный обзор стандарта Bluetooth 6.0 (прогноз на конец 2025 года)
+THG в Telegram
+Новые обзоры и новости в канале @thgdaily
+Подписаться
+Обзоры компьютерного железа, гаджетов и техники с 2003 года.
+Разделы
+Обзоры
+Новости
+Гиды
+Архив по годам
+Рубрики
+Видеокарты
+Накопители
+Процессоры
+Аудио и видео
+Все рубрики
+THG
+О нас
+Клуб экспертов (форум)
+Telegram @thgdaily
+Контакты и реклама
+© 2003–2026 THG.ru
+18+
+RSS
+Дзен
+Наверх ↑
+Главная
+Рубрики
+Поиск
+Форум
+Customize
+Reject All
+Accept All
+Powered by
+CookieAdmin
+Necessary Cookies
+Always Active
+Necessary cookies enable essential site features like secure log-ins and consent preference adjustments. They do not store personal data.
+None
+Functional Cookies
+Functional Cookies
+Functional cookies support features like content sharing on social media, collecting feedback, and enabling third-party tools.
+None
+Analytical Cookies
+Analytical Cookies
+Analytical cookies track visitor interactions, providing insights on metrics like visitor count, bounce rate, and traffic sources.
+None
+Advertisement Cookies
+Advertisement Cookies
+Advertisement cookies deliver personalized ads based on your previous visits and analyze the effectiveness of ad campaigns.
+None
+Unclassified Cookies
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+None
+Reject All
+Save My Preferences
+Accept All
+Powered by
+CookieAdmin

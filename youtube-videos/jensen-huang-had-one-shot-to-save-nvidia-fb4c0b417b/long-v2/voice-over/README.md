@@ -1,0 +1,1 @@
+One narrator, natural American English;1,250 words. Text only, no recording/TTS. Reuse no old audio that differs from this script. No paid APIs or publishing. Historical dialogue is paraphrased by narrator, not voiced as real quotes. ICOS pronunciation should be checked against original episode audio before recording.
