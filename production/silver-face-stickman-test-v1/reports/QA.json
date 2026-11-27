@@ -1,0 +1,24 @@
+{
+  "duration_seconds": 20,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 30,
+  "frames": 600,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "full_decode_passed": true,
+  "source_frames_checked": 600,
+  "maximum_bone_length_error_px": 1.1368683772161603e-13,
+  "planted_foot_drift_px": 0,
+  "held_cup_transform_error_px": 0,
+  "original_audio_reused_exactly": true,
+  "face": "Original simple cartoon, silver hair and glasses; no portrait texture",
+  "body": "Procedural connected rounded vector limbs; no mesh-warped clothing",
+  "paid_service_calls": 0,
+  "youtube_published": false,
+  "bytes": 742205,
+  "sha256": "619f73fa19e084dd830e2624d0e9d9c80fc35f9a073afab632fbab9af8a69d8e",
+  "review_scope": "Encoded frame sampling and source geometry, not independent full-speed human viewing/listening. Awaiting creator review."
+}
